@@ -1,0 +1,317 @@
+[
+	{
+  "input": "2H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Katalina_2H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Katalina_2H_Hitbox1.png\\GBVSR_Katalina_2H_Hitbox2.png"
+  ]
+},
+	{
+  "input": "2L",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Katalina_2L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a1/GBVSR_Katalina_2L_Hitbox.png"
+  ]
+},
+	{
+  "input": "2M",
+  "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Katalina_2M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Katalina_2M_Hitbox.png"
+  ]
+},
+	{
+  "input": "2U",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Katalina_2U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Katalina_2U_Hitbox.png"
+  ]
+},
+	{
+  "input": "66H",
+  "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_Katalina_66H.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Katalina_66H_Hitbox.png"
+  ]
+},
+	{
+  "input": "66L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Katalina_66L.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/37/GBVSR_Katalina_66L_Hitbox.png"
+  ]
+},
+	{
+  "input": "66M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Katalina_66M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Katalina_66M_Hitbox.png"
+  ]
+},
+	{
+  "input": "c.H",
+  "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVSR_Katalina_cH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Katalina_cH_Hitbox1.png\\GBVSR_Katalina_cH_Hitbox2.png\\GBVSR_Katalina_cH_Hitbox3.png"
+  ]
+},
+	{
+  "input": "c.L",
+  "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_cL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Katalina_cL_Hitbox.png"
+  ]
+},
+	{
+  "input": "c.M",
+  "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Katalina_cM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Katalina_cM_Hitbox.png"
+  ]
+},
+	{
+  "input": "c.XX",
+  "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Katalina_cXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "c.XX6H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_cXX6H.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "c.XX6M",
+  "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Katalina_cXX6M.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "c.XXX",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Katalina_cXXX.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "f.H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Katalina_fH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Katalina_fH_Hitbox1.png\\GBVSR_Katalina_fH_Hitbox2.png"
+  ]
+},
+	{
+  "input": "f.L",
+  "move_img": "https://www.dustloop.com/wiki/images/3/39/GBVSR_Katalina_fL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Katalina_fL_Hitbox1.png\\GBVSR_Katalina_fL_Hitbox2.png"
+  ]
+},
+	{
+  "input": "f.M",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Katalina_fM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Katalina_fM_Hitbox.png"
+  ]
+},
+	{
+  "input": "j.H",
+  "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Katalina_jH.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Katalina_jH_Hitbox1.png\\GBVSR_Katalina_jH_Hitbox2.png"
+  ]
+},
+	{
+  "input": "j.L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Katalina_jL.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Katalina_jL_Hitbox.png"
+  ]
+},
+	{
+  "input": "j.M",
+  "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Katalina_jM.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Katalina_jM_Hitbox.png"
+  ]
+},
+	{
+  "input": "j.U",
+  "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVSR_Katalina_jU.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Katalina_jU_Hitbox1.png\\GBVSR_Katalina_jU_Hitbox2.png\\GBVSR_Katalina_jU_Hitbox3.png\\GBVSR_Katalina_jU_Hitbox4.png"
+  ]
+},
+	{
+  "input": "BC",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Katalina_BraveCounter.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/48/GBVSR_Katalina_BC_Hitbox_1.png\\"
+  ]
+},
+	{
+  "input": "j.L+U",
+  "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Katalina_AirThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Katalina_AirThrow_Hitbox.png"
+  ]
+},
+	{
+  "input": "L+U",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Katalina_Throw.png\\GBVSR_Katalina_BackThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Katalina_Throw_Hitbox.png"
+  ]
+},
+	{
+  "input": "MH",
+  "move_img": "https://www.dustloop.com/wiki/images/7/75/GBVSR_Katalina_RagingStrike.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Katalina_5MH_Hitbox_1.png\\GBVSR_Katalina_5MH_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "MH~MH",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Katalina_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/06/GBVSR_Katalina_6MH_Hitbox_1.png\\"
+  ]
+},
+	{
+  "input": "214H",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Katalina_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/38/GBVSR_Katalina_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Katalina_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/38/GBVSR_Katalina_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214M",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Katalina_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/38/GBVSR_Katalina_214X_Hitbox.png"
+  ]
+},
+	{
+  "input": "214U",
+  "move_img": "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Katalina_214U.png\\GBVSR_Katalina_214U_Attack.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/3/35/GBVSR_Katalina_214U_Hitbox1.png"
+  ]
+},
+	{
+  "input": "236H",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Katalina_236X_Hitbox1.png\\GBVSR_Katalina_236X_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236L",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Katalina_236X_Hitbox1.png\\GBVSR_Katalina_236X_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236M",
+  "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_236X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Katalina_236X_Hitbox1.png\\GBVSR_Katalina_236X_Hitbox2.png"
+  ]
+},
+	{
+  "input": "236U",
+  "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVSR_Katalina_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/da/GBVSR_Katalina_236U_Hitbox1.png"
+  ]
+},
+	{
+  "input": "623H",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Katalina_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_623X_Hitbox1.png\\GBVSR_Katalina_623X_Hitbox2.png"
+  ]
+},
+	{
+  "input": "623L",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Katalina_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_623X_Hitbox1.png\\GBVSR_Katalina_623X_Hitbox2.png"
+  ]
+},
+	{
+  "input": "623M",
+  "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Katalina_623X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_623X_Hitbox1.png\\GBVSR_Katalina_623X_Hitbox2.png"
+  ]
+},
+	{
+  "input": "623U",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Katalina_623U.png\\GBVSR_Katalina_623U_2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Katalina_623U_Hitbox1.png"
+  ]
+},
+	{
+  "input": "236236H",
+  "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Katalina_236236H.png\\GBVSR_Katalina_236236H_2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Katalina_236236H_Hitbox1.png\\GBVSR_Katalina_236236H_Hitbox2.png\\GBVSR_Katalina_236236H_Hitbox3.png\\GBVSR_Katalina_236236H_Hitbox4.png"
+  ]
+},
+	{
+  "input": "236236U",
+  "move_img": "https://www.dustloop.com/wiki/images/0/04/GBVSR_Katalina_236236U_Start.png\\GBVSR_Katalina_236236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/11/GBVSR_Katalina_236236U_Hitbox1.png\\GBVSR_Katalina_236236U_Hitbox2.png\\GBVSR_Katalina_236236U_Hitbox3.png\\GBVSR_Katalina_236236U_Hitbox4.png\\GBVSR_Katalina_236236U_Hitbox5.png\\GBVSR_Katalina_236236U_Hitbox6.png\\GBVSR_Katalina_236236U_Hitbox7.png\\GBVSR_Katalina_236236U_Hitbox8.png"
+  ]
+},
+	{
+  "input": "5U &gt; 44",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5U &gt; 66",
+  "move_img": "",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "5U Lv0",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Katalina_5U.png\\GBVSR_Katalina_5U_Attack.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/99/GBVSR_Katalina_5U_Hitbox1.png\\GBVSR_Katalina_5U_Hitbox2.png"
+  ]
+},
+	{
+  "input": "5U Lv1",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Katalina_5U.png\\GBVSR_Katalina_5U_Attack.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/99/GBVSR_Katalina_5U_Hitbox1.png\\GBVSR_Katalina_5U_Hitbox2.png"
+  ]
+},
+	{
+  "input": "5U Lv2",
+  "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Katalina_5U.png\\GBVSR_Katalina_5U_Attack.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/99/GBVSR_Katalina_5U_Hitbox1.png\\GBVSR_Katalina_5U_Hitbox2.png"
+  ]
+}
+]
