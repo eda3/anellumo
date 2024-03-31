@@ -67,7 +67,74 @@ pub async fn frames_to_json(
         r#""レイジングチェイン(MHMH)","name":"MHMH""#,
     );
 
-    let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
+    let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2アスモデウス($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236)([LMHU])","name":"[LMHU] Goetia""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ゴエティア($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236X)~(4)([LMH])","name":"[LMH] Everyone's A Little Crooked""#)
+        .unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$3少々屈曲するのは普通だろう？($1$2$3)","name":"$1$2$3""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(623)([LMHU])","name":"[LMHU] Notoria""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ノトリア($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(632146)([LMHU])","name":"[LMHU] Vassago""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ヴァサーゴ($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146U Catch","name":"U Vassago Catch""#,
+        r#""ヴァサーゴ（当身）(632146U Catch)","name":"632146U Catch""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146U Throw","name":"U Vassago Throw""#,
+        r#""ヴァサーゴ（投げ）(632146U Throw)","name":"632146U Throw""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Legemeton""#,
+        r#""レメゲトン(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Anagenesis""#,
+        r#""アナゲンネーシス(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Give Daddy Some Sugar""#,
+        r#""無価値なもの(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U Catch","name":"Give Daddy Some Sugar (Attack)""#,
+        r#""無価値なもの（当身）(5U Catch)","name":"5U Catch""#,
+    );
+
+    // グランの技名
+    re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
     char_page_response_json = re
         .replace_all(
             &char_page_response_json,
