@@ -30,8 +30,8 @@
 	{"input":"214M","name":"M Elegant Lariat","damage":"1500 [1600]","guard":"Mid","startup":"34 [28]","active":"6","recovery":"18","hit":"KD+39","block":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6 ","invincibility":"-"},
 	{"input":"214U","name":"U Elegant Lariat","damage":"1500, 1000","guard":"Mid","startup":"17","active":"5,1","recovery":"26","hit":"HKD+62","block":"+5*","invincibility":"-"},
 	{"input":"236H","name":"H Headbutt of Love (1)","damage":"1000","guard":"Mid","startup":"17","active":"6","recovery":"11","hit":"+12","block":"+3 ","invincibility":"-"},
-	{"input":"236H &gt; 6H","name":"H Headbutt of Love (2)","damage":"1000","guard":"Mid","startup":"15","active":"6","recovery":"13","hit":"+12","block":"0","invincibility":"-"},
-	{"input":"236H &gt; 6HH","name":"H Headbutt of Love (3)","damage":"1000","guard":"Mid","startup":"15","active":"6","recovery":"15","hit":"KD+13","block":"-2 ","invincibility":"-"},
+	{"input":"236H6H","name":"H Headbutt of Love (2)","damage":"1000","guard":"Mid","startup":"15","active":"6","recovery":"13","hit":"+12","block":"0","invincibility":"-"},
+	{"input":"236H6HH","name":"H Headbutt of Love (3)","damage":"1000","guard":"Mid","startup":"15","active":"6","recovery":"15","hit":"KD+13","block":"-2 ","invincibility":"-"},
 	{"input":"236L","name":"L Headbutt of Love","damage":"1000","guard":"Mid","startup":"17","active":"3","recovery":"14","hit":"+3","block":"-2 ","invincibility":"-"},
 	{"input":"236M","name":"M Headbutt of Love","damage":"1200","guard":"Mid","startup":"28","active":"6","recovery":"11","hit":"+7","block":"+2 ","invincibility":"-"},
 	{"input":"236U","name":"U Headbutt of Love","damage":"2000","guard":"Unblockable","startup":"22","active":"3","recovery":"34","hit":"HKD+38","block":"HKD+38","invincibility":"Superarmor 1~18"},
@@ -51,7 +51,7 @@
 	{"input":"236236H","name":"Maximum Love Bomb","damage":"1700, 2300","guard":"Mid","startup":"7+8","active":"6","recovery":"24","hit":"HKD +18","block":"-11 ","invincibility":"1~7 All, 8~12 Projectile"},
 	{"input":"720U","name":"The Shape of Love","damage":"360×4, 24×100, 2400","guard":"Throw","startup":"9+0","active":"2","recovery":"39","hit":"HKD +17","block":"-","invincibility":"1~10 All"},
 	{"input":"5U","name":"Love Grapple","damage":"-","guard":"Throw","startup":"34-40","active":"3","recovery":"32","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5U &gt; H","name":"Hurl","damage":"1300","guard":"-","startup":"-","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5U &gt; L","name":"Hurl","damage":"1300","guard":"-","startup":"-","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5U &gt; M","name":"Hurl","damage":"1300","guard":"-","startup":"-","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"}
+	{"input":"5UH","name":"Hurl","damage":"1300","guard":"-","startup":"-","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"},
+	{"input":"5UL","name":"Hurl","damage":"1300","guard":"-","startup":"-","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"},
+	{"input":"5UM","name":"Hurl","damage":"1300","guard":"-","startup":"-","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"}
 ]

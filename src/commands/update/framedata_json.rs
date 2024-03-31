@@ -38,6 +38,7 @@ pub async fn frames_to_json(
     mut file: &File,
     char_count: usize,
 ) {
+    char_page_response_json = char_page_response_json.replace(r#" &gt; "#, "");
     char_page_response_json = char_page_response_json.replace(r#"&lt;br&gt;"#, ", ");
     char_page_response_json = char_page_response_json.replace(r#"&lt;br/&gt;"#, ", ");
     // Ino low profile
