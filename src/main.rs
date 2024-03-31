@@ -1,11 +1,11 @@
-mod commands;
 mod check;
+mod commands;
 mod find;
 mod ran;
 use colored::Colorize;
 use commands::*;
 use poise::serenity_prelude as serenity;
-use serde::{Serialize, Deserialize};
+use serde::{Deserialize, Serialize};
 use std::time::Duration;
 
 // Types used by all command functions
@@ -17,7 +17,7 @@ pub struct Data {}
 
 #[derive(Serialize, Deserialize, Debug)]
 pub struct CharInfo {
-    page: String
+    page: String,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -55,53 +55,69 @@ pub struct Nicknames {
 }
 
 pub const CHARS: [&str; 30] = [
-"2B",
-"Anila",
-"Anre",
-"Avatar_Belial",
-"Beelzebub",
-"Belial",
-"Cagliostro",
-"Charlotta",
-"Djeeta",
-"Eustace",
-"Ferry",
-"Gran",
-"Grimnir",
-"Katalina",
-"Ladiva",
-"Lancelot",
-"Lowain",
-"Lucilius",
-"Metera",
-"Narmaya",
-"Nier",
-"Percival",
-"Seox",
-"Siegfried",
-"Soriz",
-"Vaseraga",
-"Vira",
-"Yuel",
-"Zeta",
-"Zooey"
+    "2B",
+    "Anila",
+    "Anre",
+    "Avatar_Belial",
+    "Beelzebub",
+    "Belial",
+    "Cagliostro",
+    "Charlotta",
+    "Djeeta",
+    "Eustace",
+    "Ferry",
+    "Gran",
+    "Grimnir",
+    "Katalina",
+    "Ladiva",
+    "Lancelot",
+    "Lowain",
+    "Lucilius",
+    "Metera",
+    "Narmaya",
+    "Nier",
+    "Percival",
+    "Seox",
+    "Siegfried",
+    "Soriz",
+    "Vaseraga",
+    "Vira",
+    "Yuel",
+    "Zeta",
+    "Zooey",
 ];
 
-const IMAGE_DEFAULT: &str = "https://raw.githubusercontent.com/yakiimoninja/baiken/main/data/images/no_image.png";
-const HITBOX_DEFAULT: &str = "https://raw.githubusercontent.com/yakiimoninja/baiken/main/data/images/no_hitbox.png";
+const IMAGE_DEFAULT: &str =
+    "https://raw.githubusercontent.com/yakiimoninja/baiken/main/data/images/no_image.png";
+const HITBOX_DEFAULT: &str =
+    "https://raw.githubusercontent.com/yakiimoninja/baiken/main/data/images/no_hitbox.png";
 
 async fn on_error(error: poise::FrameworkError<'_, Data, Error>) {
     // This is our custom error handler
     // They are many errors that can occur, so we only handle the ones we want to customize
     // and forward the rest to the default handler
     match error {
-        poise::FrameworkError::Setup { error, .. } => panic!("{}", ("Failed to start bot: ".to_owned() + &error.to_string() + ".").red()),
+        poise::FrameworkError::Setup { error, .. } => panic!(
+            "{}",
+            ("Failed to start bot: ".to_owned() + &error.to_string() + ".").red()
+        ),
         poise::FrameworkError::Command { error, ctx } => {
-            println!("{}", ("Error in command `".to_owned() + &ctx.command().name + "`: " + &error.to_string() + ".").red());
+            println!(
+                "{}",
+                ("Error in command `".to_owned()
+                    + &ctx.command().name
+                    + "`: "
+                    + &error.to_string()
+                    + ".")
+                    .red()
+            );
         }
         error => {
             if let Err(e) = poise::builtins::on_error(error).await {
-                println!("{}", ("Error while handling error: ".to_owned() + &e.to_string() + ".").red())
+                println!(
+                    "{}",
+                    ("Error while handling error: ".to_owned() + &e.to_string() + ".").red()
+                )
             }
         }
     }
@@ -109,7 +125,6 @@ async fn on_error(error: poise::FrameworkError<'_, Data, Error>) {
 
 #[tokio::main]
 async fn main() {
-    
     println!("メイン！");
 
     // Running initial checks
@@ -130,31 +145,36 @@ async fn main() {
             nicknames::nicknames(),
             moves::moves(),
             register::register(),
-            update::update(),        
+            update::update(),
         ],
         prefix_options: poise::PrefixFrameworkOptions {
-             prefix: Some("!".into()),
-             edit_tracker: Some(poise::EditTracker::for_timespan(Duration::from_secs(3600))),
-             additional_prefixes: vec![
-                 poise::Prefix::Literal("b."),
-             ],
-             ..Default::default()
-         },
-        
+            prefix: Some("!".into()),
+            edit_tracker: Some(poise::EditTracker::for_timespan(Duration::from_secs(3600))),
+            additional_prefixes: vec![poise::Prefix::Literal("b.")],
+            ..Default::default()
+        },
+
         // The global error handler for all error cases that may occur
         on_error: |error| Box::pin(on_error(error)),
-        
+
         // This code is run before every command
         pre_command: |ctx| {
             Box::pin(async move {
-                println!("{}", ("\nExecuting command ".to_owned() + &ctx.command().qualified_name + "...").cyan());
+                println!(
+                    "{}",
+                    ("\nExecuting command ".to_owned() + &ctx.command().qualified_name + "...")
+                        .cyan()
+                );
             })
         },
 
         // This code is run after a command if it was successful (returned Ok)
         post_command: |ctx| {
             Box::pin(async move {
-                println!("{}", ("Executed command ".to_owned() + &ctx.command().qualified_name + "!").cyan());
+                println!(
+                    "{}",
+                    ("Executed command ".to_owned() + &ctx.command().qualified_name + "!").cyan()
+                );
             })
         },
 
@@ -167,7 +187,7 @@ async fn main() {
                 Ok(true)
             })
         }),
-        
+
         // // Uncomment for debugging
         // listener: |_ctx, event, _framework, _data| {
         //     Box::pin(async move {
