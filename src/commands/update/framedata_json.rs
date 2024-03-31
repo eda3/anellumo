@@ -47,6 +47,7 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(r#"f."#, "遠");
     char_page_response_json = char_page_response_json.replace(r#"j."#, "j");
     char_page_response_json = char_page_response_json.replace(r#"Ultimate"#, "U");
+    char_page_response_json = char_page_response_json.replace(r#"Ulitmate"#, "U");
     char_page_response_json = char_page_response_json.replace(
         r#""BC","name":"Brave Counter""#,
         r#""ブレイブカウンター","name":"ブレイブカウンター""#,
