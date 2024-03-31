@@ -106,8 +106,22 @@ pub async fn frames_to_json(
         r#""236236U","name":"Catastrophe""#,
         r#""カタストロフィ(236236U)","name":"236236U""#,
     );
-    char_page_response_json = char_page_response_json.replace(r#""""#, r#""","name":"""#);
-    char_page_response_json = char_page_response_json.replace(r#""""#, r#""","name":"""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Catastrophe""#,
+        r#""カタストロフィ(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]","name":"Power Raise""#,
+        r#""パワーレイズ(5[U])","name":"5[U]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]~X","name":"Cancel""#,
+        r#""パワーレイズキャンセル([5U]X)","name":"5[U]X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]~]U[","name":"Power Raise (Attack)""#,
+        r#""パワーレイズアタック(5[U]]U[)","name":"5[U]]U[""#,
+    );
 
     let mut moves_info: Response = serde_json::from_str(&char_page_response_json).unwrap();
 

@@ -41,7 +41,7 @@
 	{"input":"テンペストブレード(236236H)","name":"236236H","damage":"1500, 3000","guard":"Mid","startup":"6+5","active":"3(4)9","recovery":"23","hit":"HKD (+42)","block":"-13","invincibility":"1-13 Full"},
 	{"input":"比類無き十の力(236236H236U)","name":"236236H236U","damage":"120×30, 840 [100×30, 700]","guard":"Mid","startup":"7","active":"-","recovery":"-","hit":"HKD +40","block":"-","invincibility":"-"},
 	{"input":"カタストロフィ(236236U)","name":"236236U","damage":"960×2, 360×2, 3000 [800×5]","guard":"All","startup":"8+5","active":"-","recovery":"Total 99","hit":"HKD +45","block":"-18","invincibility":"1-18 Full"},
-	{"input":"5[U]","name":"Power Raise","damage":"-","guard":"-","startup":"10-141","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5[U]~X","name":"Cancel","damage":"-","guard":"-","startup":"-","active":"-","recovery":"15","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5[U]~]U[","name":"Power Raise (Attack)","damage":"1300/1600/1900/2200/2500","guard":"Mid","startup":"10","active":"9","recovery":"13","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+30","block":"-5","invincibility":"5-18 All (Level 5)"}
+	{"input":"パワーレイズ(5[U])","name":"5[U]","damage":"-","guard":"-","startup":"10-141","active":"-","recovery":"-","hit":"-","block":"-","invincibility":"-"},
+	{"input":"パワーレイズキャンセル([5U]X)","name":"5[U]X","damage":"-","guard":"-","startup":"-","active":"-","recovery":"15","hit":"-","block":"-","invincibility":"-"},
+	{"input":"パワーレイズアタック(5[U]]U[)","name":"5[U]]U[","damage":"1300/1600/1900/2200/2500","guard":"Mid","startup":"10","active":"9","recovery":"13","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+30","block":"-5","invincibility":"5-18 All (Level 5)"}
 ]
