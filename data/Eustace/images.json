@@ -56,105 +56,105 @@
   ]
 },
 	{
-  "input": "c.H",
+  "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVS_Eustace_cH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Eustace_cH_Hitbox1.png\\GBVSR_Eustace_cH_Hitbox2.png"
   ]
 },
 	{
-  "input": "c.L",
+  "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVS_Eustace_cL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/af/GBVSR_Eustace_cL_Hitbox.png"
   ]
 },
 	{
-  "input": "c.M",
+  "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/a/a7/GBVS_Eustace_cM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Eustace_cM_Hitbox.png"
   ]
 },
 	{
-  "input": "c.XX",
+  "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVS_Eustace_cXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6H",
+  "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/9/97/GBVSR_Eustace_cXX6H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6M",
+  "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Eustace_cXX6M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XXX",
+  "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/f/f0/GBVS_Eustace_cXXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.H",
+  "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/f/ff/GBVS_Eustace_fH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Eustace_fH_Hitbox1.png\\GBVSR_Eustace_fH_Hitbox2.png"
   ]
 },
 	{
-  "input": "f.HH",
+  "input": "遠HH",
   "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVS_Eustace_fHH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Eustace_fHH_Hitbox.png"
   ]
 },
 	{
-  "input": "f.L",
+  "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/e/ef/GBVS_Eustace_fL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Eustace_fL_Hitbox1.png\\GBVSR_Eustace_fL_Hitbox2.png"
   ]
 },
 	{
-  "input": "f.M",
+  "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/9/97/GBVS_Eustace_fM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/27/GBVSR_Eustace_fM_Hitbox1.png\\GBVSR_Eustace_fM_Hitbox2.png"
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/4/49/GBVS_Eustace_jH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/83/GBVSR_Eustace_jH_Hitbox1.png\\GBVSR_Eustace_jH_Hitbox2.png"
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/b/bd/GBVS_Eustace_jL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/06/GBVSR_Eustace_jL_Hitbox.png"
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVS_Eustace_jM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/81/GBVSR_Eustace_jM_Hitbox1.png\\GBVSR_Eustace_jM_Hitbox2.png"
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVS_Eustace_jU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Eustace_jU_Hitbox1.png\\GBVSR_Eustace_jU_Hitbox2.png"
@@ -169,7 +169,7 @@
   ]
 },
 	{
-  "input": "j.LU",
+  "input": "jLU",
   "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVS_Eustace_jLU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Eustace_AirThrow_Hitbox.png"
@@ -199,7 +199,7 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/7/72/GBVS_Eustace_214M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/63/GBVSR_Eustace_214M_Hitbox.png"
@@ -234,7 +234,7 @@
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVS_Eustace_214L.png",
   "hitbox_img": [
     ""
@@ -269,7 +269,7 @@
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/7/72/GBVS_Eustace_214M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/63/GBVSR_Eustace_214M_Hitbox.png"
@@ -304,7 +304,7 @@
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Eustace_214U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Eustace_214U_Hitbox.png\\GBVSR_Eustace_214U_Hitbox2.png"
@@ -318,28 +318,28 @@
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hライジングソード(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Eustace_623X.png\\GBVS_Eustace_623X_Grenade.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lライジングソード(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Eustace_623X.png\\GBVS_Eustace_623X_Grenade.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mライジングソード(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Eustace_623X.png\\GBVS_Eustace_623X_Grenade.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uライジングソード(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Eustace_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/57/GBVSR_Eustace_623U_Hitbox.png"

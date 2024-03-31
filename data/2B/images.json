@@ -133,21 +133,21 @@
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVSR_2B_jH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/96/GBVSR_2B_jH_Hitbox.png"
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_2B_jL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c3/GBVSR_2B_jL_Hitbox.png"
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/4/4e/GBVSR_2B_jM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5c/GBVSR_2B_jM_Hitbox.png"
@@ -161,7 +161,7 @@
   ]
 },
 	{
-  "input": "j.LU",
+  "input": "jLU",
   "move_img": "https://www.dustloop.com/wiki/images/9/99/GBVSR_2B_AirThrow.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/36/GBVSR_2B_AirThrow_Hitbox.png"
@@ -189,28 +189,28 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/1/15/GBVSR_2B_214H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_2B_214L.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_2B_214M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_2B_214U.png",
   "hitbox_img": [
     ""
@@ -245,28 +245,28 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hレギンレイヴ(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/6/6b/GBVSR_2B_236H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lレギンレイヴ(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVSR_2B_236L.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mレギンレイヴ(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_2B_236M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uレギンレイヴ(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_2B_236U.png",
   "hitbox_img": [
     ""
@@ -315,14 +315,14 @@
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_2B_jU.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "j.U~U",
+  "input": "jU~U",
   "move_img": "https://www.dustloop.com/wiki/images/b/b6/GBVSR_2B_jUU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/4f/GBVSR_2B_jUU_Hitbox.png"

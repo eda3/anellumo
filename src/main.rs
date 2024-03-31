@@ -54,7 +54,7 @@ pub struct Nicknames {
     nicknames: Vec<String>,
 }
 
-pub const CHARS: [&str; 29] = [
+pub const CHARS: [&str; 30] = [
 "2B",
 "Anila",
 "Anre",
@@ -77,6 +77,7 @@ pub const CHARS: [&str; 29] = [
 "Narmaya",
 "Nier",
 "Percival",
+"Seox",
 "Siegfried",
 "Soriz",
 "Vaseraga",

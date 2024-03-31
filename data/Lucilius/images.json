@@ -49,98 +49,98 @@
   ]
 },
 	{
-  "input": "c.H",
+  "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Lucilius_cH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lucilius_cH_Hitbox.png"
   ]
 },
 	{
-  "input": "c.L",
+  "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Lucilius_cL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Lucilius_cL_Hitbox.png"
   ]
 },
 	{
-  "input": "c.M",
+  "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/9/96/GBVSR_Lucilius_cM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/20/GBVSR_Lucilius_cM_Hitbox.png"
   ]
 },
 	{
-  "input": "c.XX",
+  "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/7/73/GBVSR_Lucilius_cXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6H",
+  "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/4/45/GBVSR_Lucilius_cXX6H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6M",
+  "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lucilius_cXX6M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XXX",
+  "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Lucilius_cXXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.H",
+  "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Lucilius_fH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Lucilius_fH_Hitbox.png"
   ]
 },
 	{
-  "input": "f.L",
+  "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVSR_Lucilius_fL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Lucilius_fL_Hitbox.png"
   ]
 },
 	{
-  "input": "f.M",
+  "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/d/df/GBVSR_Lucilius_fM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/43/GBVSR_Lucilius_fM_Hitbox.png"
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Lucilius_jH.png\\GBVSR_Lucilius_jH_swordless.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Lucilius_jH_Hitbox.png"
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Lucilius_jL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/75/GBVSR_Lucilius_jL_Hitbox.png"
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Lucilius_jM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Lucilius_jM_Hitbox.png"
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Lucilius_jU.png\\GBVSR_Lucilius_jU_swordless.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Lucilius_jU_Hitbox.png"
@@ -154,7 +154,7 @@
   ]
 },
 	{
-  "input": "j.LU",
+  "input": "jLU",
   "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Lucilius_Throw.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lucilius_AirThrow_Hitbox.png"
@@ -182,28 +182,28 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_Lucilius_214X.png\\GBVSR_Lucilius_214X_2.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lucilius_214H_Hitbox.png"
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Lucilius_214L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Lucilius_214L_Hitbox.png"
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_Lucilius_214X.png\\GBVSR_Lucilius_214X_2.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Lucilius_214M_Hitbox.png"
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Lucilius_214U.png\\GBVSR_Lucilius_214U_2.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Lucilius_214U_Hitbox.png"
@@ -238,56 +238,56 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hレギンレイヴ(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Lucilius_236M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lucilius_236H_Hitbox.png"
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lレギンレイヴ(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Lucilius_236L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/55/GBVSR_Lucilius_236L_Hitbox.png"
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mレギンレイヴ(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Lucilius_236M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/43/GBVSR_Lucilius_236M_Hitbox.png"
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uレギンレイヴ(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Lucilius_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/37/GBVSR_Lucilius_236U_Hitbox.png"
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hライジングソード(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Lucilius_623M.png\\GBVSR_Lucilius_623L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/93/GBVSR_Lucilius_623H_Hitbox.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lライジングソード(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Lucilius_623L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Lucilius_623M_Hitbox.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mライジングソード(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Lucilius_623M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Lucilius_623M_Hitbox.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uライジングソード(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Lucilius_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/24/GBVSR_Lucilius_623U_Hitbox.png"

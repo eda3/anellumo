@@ -49,98 +49,98 @@
   ]
 },
 	{
-  "input": "c.H",
+  "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Zooey_cH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Zooey_cH_Hitbox1.png\\GBVSR_Zooey_cH_Hitbox2.png"
   ]
 },
 	{
-  "input": "c.L",
+  "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Zooey_cL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/78/GBVSR_Zooey_cL_Hitbox.png"
   ]
 },
 	{
-  "input": "c.M",
+  "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Zooey_cM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/82/GBVSR_Zooey_cM_Hitbox.png"
   ]
 },
 	{
-  "input": "c.XX",
+  "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Zooey_cXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6H",
+  "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/9/91/GBVSR_Zooey_cXX6H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6M",
+  "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Zooey_cXX6M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XXX",
+  "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Zooey_cXXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.H",
+  "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/6/65/GBVSR_Zooey_fH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/46/GBVSR_Zooey_fH_Hitbox.png"
   ]
 },
 	{
-  "input": "f.L",
+  "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Zooey_fL.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.M",
+  "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Zooey_fM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Zooey_fM_Hitbox.png"
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Zooey_jH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/19/GBVSR_Zooey_jH_Hitbox.png"
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Zooey_jL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/50/GBVSR_Zooey_jL_Hitbox.png"
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/3/32/GBVSR_Zooey_jM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Zooey_jM_Hitbox1.png\\GBVSR_Zooey_jM_Hitbox2.png"
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/a/af/GBVSR_Zooey_jU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Zooey_jU_Hitbox.png"
@@ -154,7 +154,7 @@
   ]
 },
 	{
-  "input": "j.LU",
+  "input": "jLU",
   "move_img": "https://www.dustloop.com/wiki/images/9/91/GBVSR_Zooey_AirThrow.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Zooey_AirThrow_Hitbox.png"
@@ -182,7 +182,7 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Zooey_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Zooey_214X_Hitbox_1.png\\GBVSR_Zooey_214X_Hitbox_2.png"
@@ -203,7 +203,7 @@
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Zooey_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Zooey_214X_Hitbox_1.png\\GBVSR_Zooey_214X_Hitbox_2.png"
@@ -224,7 +224,7 @@
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Zooey_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Zooey_214X_Hitbox_1.png\\GBVSR_Zooey_214X_Hitbox_2.png"
@@ -245,7 +245,7 @@
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Zooey_214U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Zooey_214U_Hitbox.png"
@@ -280,84 +280,84 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hレギンレイヴ(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Zooey_236X.png\\GBVSR_Zooey_236H.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Zooey_236H_Hitbox_1.png\\GBVSR_Zooey_236H_Hitbox_2.png"
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lレギンレイヴ(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Zooey_236X.png\\GBVSR_Zooey_236L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/07/GBVSR_Zooey_236L_Hitbox_1.png\\GBVSR_Zooey_236L_Hitbox_2.png"
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mレギンレイヴ(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Zooey_236X.png\\GBVSR_Zooey_236M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/91/GBVSR_Zooey_236M_Hitbox_1.png\\GBVSR_Zooey_236M_Hitbox_2.png\\GBVSR_Zooey_236M_Hitbox_3.png\\GBVSR_Zooey_236M_Hitbox_4.png"
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uレギンレイヴ(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/d/db/GBVSR_Zooey_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Zooey_236U_Hitbox.png"
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hライジングソード(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Zooey_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Zooey_623X_Hitbox_1.png\\GBVSR_Zooey_623X_Hitbox_2.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lライジングソード(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Zooey_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Zooey_623X_Hitbox_2.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mライジングソード(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Zooey_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Zooey_623X_Hitbox_1.png\\GBVSR_Zooey_623X_Hitbox_2.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uライジングソード(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Zooey_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/61/GBVSR_Zooey_623U_Hitbox.png"
   ]
 },
 	{
-  "input": "j.22H",
+  "input": "j22H",
   "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Zooey_j22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Zooey_j22H_Hitbox.png"
   ]
 },
 	{
-  "input": "j.22L",
+  "input": "j22L",
   "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Zooey_j22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Zooey_j22L_Hitbox.png"
   ]
 },
 	{
-  "input": "j.22M",
+  "input": "j22M",
   "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Zooey_j22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Zooey_j22M_Hitbox.png"
   ]
 },
 	{
-  "input": "j.22U",
+  "input": "j22U",
   "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Zooey_j22U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Zooey_j22U_Hitbox.png"

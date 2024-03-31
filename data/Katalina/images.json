@@ -49,98 +49,98 @@
   ]
 },
 	{
-  "input": "c.H",
+  "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVSR_Katalina_cH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Katalina_cH_Hitbox1.png\\GBVSR_Katalina_cH_Hitbox2.png\\GBVSR_Katalina_cH_Hitbox3.png"
   ]
 },
 	{
-  "input": "c.L",
+  "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_cL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Katalina_cL_Hitbox.png"
   ]
 },
 	{
-  "input": "c.M",
+  "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Katalina_cM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/00/GBVSR_Katalina_cM_Hitbox.png"
   ]
 },
 	{
-  "input": "c.XX",
+  "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Katalina_cXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6H",
+  "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_cXX6H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6M",
+  "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Katalina_cXX6M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XXX",
+  "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Katalina_cXXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.H",
+  "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Katalina_fH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Katalina_fH_Hitbox1.png\\GBVSR_Katalina_fH_Hitbox2.png"
   ]
 },
 	{
-  "input": "f.L",
+  "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/3/39/GBVSR_Katalina_fL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Katalina_fL_Hitbox1.png\\GBVSR_Katalina_fL_Hitbox2.png"
   ]
 },
 	{
-  "input": "f.M",
+  "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Katalina_fM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Katalina_fM_Hitbox.png"
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Katalina_jH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Katalina_jH_Hitbox1.png\\GBVSR_Katalina_jH_Hitbox2.png"
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Katalina_jL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Katalina_jL_Hitbox.png"
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Katalina_jM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/62/GBVSR_Katalina_jM_Hitbox.png"
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVSR_Katalina_jU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/21/GBVSR_Katalina_jU_Hitbox1.png\\GBVSR_Katalina_jU_Hitbox2.png\\GBVSR_Katalina_jU_Hitbox3.png\\GBVSR_Katalina_jU_Hitbox4.png"
@@ -154,7 +154,7 @@
   ]
 },
 	{
-  "input": "j.L+U",
+  "input": "jL+U",
   "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Katalina_AirThrow.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Katalina_AirThrow_Hitbox.png"
@@ -182,84 +182,84 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Katalina_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/38/GBVSR_Katalina_214X_Hitbox.png"
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Katalina_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/38/GBVSR_Katalina_214X_Hitbox.png"
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Katalina_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/38/GBVSR_Katalina_214X_Hitbox.png"
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Katalina_214U.png\\GBVSR_Katalina_214U_Attack.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/35/GBVSR_Katalina_214U_Hitbox1.png"
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hレギンレイヴ(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Katalina_236X_Hitbox1.png\\GBVSR_Katalina_236X_Hitbox2.png"
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lレギンレイヴ(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Katalina_236X_Hitbox1.png\\GBVSR_Katalina_236X_Hitbox2.png"
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mレギンレイヴ(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Katalina_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Katalina_236X_Hitbox1.png\\GBVSR_Katalina_236X_Hitbox2.png"
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uレギンレイヴ(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVSR_Katalina_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/da/GBVSR_Katalina_236U_Hitbox1.png"
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hライジングソード(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Katalina_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_623X_Hitbox1.png\\GBVSR_Katalina_623X_Hitbox2.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lライジングソード(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Katalina_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_623X_Hitbox1.png\\GBVSR_Katalina_623X_Hitbox2.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mライジングソード(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Katalina_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/05/GBVSR_Katalina_623X_Hitbox1.png\\GBVSR_Katalina_623X_Hitbox2.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uライジングソード(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Katalina_623U.png\\GBVSR_Katalina_623U_2.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Katalina_623U_Hitbox1.png"

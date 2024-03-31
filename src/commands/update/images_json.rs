@@ -3,6 +3,7 @@ use serde::Deserialize;
 use crate::{CHARS, ImageLinks};
 use md5::{Digest, Md5};
 use std::fs::File;
+use regex::Regex;
 extern crate ureq;
 //use ureq::Error;
 //use std::fs::OpenOptions;
@@ -29,7 +30,28 @@ struct Imagetitle {
 
 const IMAGE_HALF: &str = "https://www.dustloop.com/wiki/images";
 
-pub async fn images_to_json(char_images_response_json: String, mut file: &File, char_count: usize) {
+pub async fn images_to_json(mut char_images_response_json: String, mut file: &File, char_count: usize) {
+    char_images_response_json = char_images_response_json.replace(r#"c."#, "近");
+    char_images_response_json = char_images_response_json.replace(r#"f."#, "遠");
+    char_images_response_json = char_images_response_json.replace(r#"j."#, "j");
+    
+        
+
+
+    // let mut re = Regex::new(r"c\.").unwrap();
+    // char_images_response_json = re.replace_all(&char_images_response_json, "近").to_string();
+    // re = Regex::new(r"f\.").unwrap();
+    // char_images_response_json = re.replace_all(&char_images_response_json, "遠").to_string();
+
+    let mut re = Regex::new(r#""(214)([LMHU])""#).unwrap();
+    char_images_response_json = re.replace_all(&char_images_response_json, r#""$2ヤクザキック($1$2)""#).to_string();
+
+    let mut re = Regex::new(r#""(236)([LMHU])""#).unwrap();
+    char_images_response_json = re.replace_all(&char_images_response_json, r#""$2レギンレイヴ($1$2)""#).to_string();
+
+    let mut re = Regex::new(r#""(623)([LMHU])""#).unwrap();
+    char_images_response_json = re.replace_all(&char_images_response_json, r#""$2ライジングソード($1$2)""#).to_string();
+
 
     let mut imagedata: Imageresponse = serde_json::from_str(&char_images_response_json).unwrap();
 

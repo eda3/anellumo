@@ -49,98 +49,98 @@
   ]
 },
 	{
-  "input": "c.H",
+  "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_cH.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.L",
+  "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_cL.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.M",
+  "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Lowain_cM.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX",
+  "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Lowain_cXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6H",
+  "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Lowain_cXX6H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6M",
+  "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Lowain_cXX6M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XXX",
+  "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Lowain_cXXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.H",
+  "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/4/42/GBVSR_Lowain_fH.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.L",
+  "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Lowain_fL.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.M",
+  "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/7/75/GBVSR_Lowain_fM.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Lowain_jH.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Lowain_jL.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Lowain_jM.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Lowain_jU.png",
   "hitbox_img": [
     ""
@@ -161,7 +161,7 @@
   ]
 },
 	{
-  "input": "j.LU",
+  "input": "jLU",
   "move_img": "https://www.dustloop.com/wiki/images/2/28/GBVSR_Lowain_AirThrow.png",
   "hitbox_img": [
     ""
@@ -182,28 +182,28 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Lowain_214L.png\\GBVSR_Lowain_214M.png\\GBVSR_Lowain_214H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Lowain_214L.png\\GBVSR_Lowain_214M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_214U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lowain_214U_Hitbox.png"
@@ -238,56 +238,56 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hレギンレイヴ(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lレギンレイヴ(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mレギンレイヴ(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uレギンレイヴ(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5f/GBVSR_Lowain_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/df/GBVSR_Lowain_236U_Hitbox.png"
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hライジングソード(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_623H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lライジングソード(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Lowain_623L.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mライジングソード(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Lowain_623M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uライジングソード(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Lowain_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Lowain_623U_Hitbox.png"

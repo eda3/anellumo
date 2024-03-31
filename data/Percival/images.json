@@ -49,98 +49,98 @@
   ]
 },
 	{
-  "input": "c.H",
+  "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/f/f0/GBVS_Percival_cH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Percival_cH_Hitbox.png"
   ]
 },
 	{
-  "input": "c.L",
+  "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVS_Percival_cL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Percival_cL_Hitbox.png"
   ]
 },
 	{
-  "input": "c.M",
+  "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Percival_cM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/18/GBVSR_Percival_cM_Hitbox.png"
   ]
 },
 	{
-  "input": "c.XX",
+  "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/d/d9/GBVS_Percival_cXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6H",
+  "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Percival_cXX6H.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XX6M",
+  "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Percival_cXX6M.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "c.XXX",
+  "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVS_Percival_cXXX.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.H",
+  "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/3/3c/GBVS_Percival_fH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/44/GBVSR_Percival_fH_Hitbox1.png\\GBVSR_Percival_fH_Hitbox2.png"
   ]
 },
 	{
-  "input": "f.L",
+  "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVS_Percival_fL.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "f.M",
+  "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/6/68/GBVS_Percival_fM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/82/GBVSR_Percival_fM_Hitbox.png"
   ]
 },
 	{
-  "input": "j.H",
+  "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVS_Percival_jH.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Percival_jH_Hitbox.png"
   ]
 },
 	{
-  "input": "j.L",
+  "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Percival_jL.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/59/GBVSR_Percival_jL_Hitbox.png"
   ]
 },
 	{
-  "input": "j.M",
+  "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVS_Percival_jM.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Percival_jM_Hitbox2.png"
   ]
 },
 	{
-  "input": "j.U",
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVS_Percival_jU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Percival_jU_Hitbox.png"
@@ -154,7 +154,7 @@
   ]
 },
 	{
-  "input": "j.LU",
+  "input": "jLU",
   "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVS_Percival_AirThrow.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Percival_AirThrow_Hitbox.png"
@@ -182,7 +182,7 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hヤクザキック(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/7/7a/GBVS_Percival_214X.png",
   "hitbox_img": [
     ""
@@ -210,7 +210,7 @@
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lヤクザキック(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/7/7a/GBVS_Percival_214X.png",
   "hitbox_img": [
     ""
@@ -238,7 +238,7 @@
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mヤクザキック(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/7/7a/GBVS_Percival_214X.png",
   "hitbox_img": [
     ""
@@ -266,7 +266,7 @@
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uヤクザキック(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Percival_214U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Percival_214U_Hitbox1.png"
@@ -301,56 +301,56 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hレギンレイヴ(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVS_Percival_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Percival_236X_Hitbox1.png\\GBVSR_Percival_236X_Hitbox2.png"
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lレギンレイヴ(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVS_Percival_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Percival_236X_Hitbox1.png\\GBVSR_Percival_236X_Hitbox2.png"
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mレギンレイヴ(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVS_Percival_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Percival_236X_Hitbox1.png\\GBVSR_Percival_236X_Hitbox2.png"
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uレギンレイヴ(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Percival_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Percival_236U_Hitbox1.png"
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hライジングソード(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVS_Percival_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Percival_623M_Hitbox.png\\GBVSR_Percival_623X_Hitbox1.png\\GBVSR_Percival_623X_Hitbox2.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lライジングソード(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVS_Percival_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Percival_623X_Hitbox1.png\\GBVSR_Percival_623X_Hitbox2.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mライジングソード(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVS_Percival_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Percival_623M_Hitbox.png\\GBVSR_Percival_623X_Hitbox1.png\\GBVSR_Percival_623X_Hitbox2.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uライジングソード(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Percival_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/92/GBVSR_Percival_623U_Hitbox1.png"

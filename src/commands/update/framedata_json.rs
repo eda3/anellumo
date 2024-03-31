@@ -2,6 +2,7 @@ use std::io::Write;
 use serde::Deserialize;
 use crate::{CHARS, MoveInfo};
 use std::fs::File;
+use regex::Regex;
 extern crate ureq;
 
 #[derive(Deserialize, Debug)]
@@ -38,6 +39,33 @@ pub async fn frames_to_json(mut char_page_response_json: String, mut file: &File
     char_page_response_json = char_page_response_json.replace(r#"&lt;br/&gt;"#, ", ");
     // Ino low profile
     char_page_response_json = char_page_response_json.replace(r#" &lt;span class=&quot;tooltip&quot; &gt;Low Profile&lt;span class=&quot;tooltiptext&quot; style=&quot;&quot;&gt;When a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short.&lt;/span&gt;&lt;/span&gt;"#, "");
+
+
+    char_page_response_json = char_page_response_json.replace(r#"c."#, "近");
+    char_page_response_json = char_page_response_json.replace(r#"f."#, "遠");
+    char_page_response_json = char_page_response_json.replace(r#"j."#, "j"); 
+    char_page_response_json = char_page_response_json.replace(r#"Ultimate"#, "U");
+    char_page_response_json = char_page_response_json.replace(r#""BC","name":"Brave Counter""#, r#""ブレイブカウンター","name":"ブレイブカウンター""#);
+    char_page_response_json = char_page_response_json.replace(r#""jLU","name":"Air Throw""#, r#""空投げ(jLU)","name":"jLU""#);
+    char_page_response_json = char_page_response_json.replace(r#""LU","name":"Ground Throw""#, r#""投げ(LU)","name":"LU""#);
+    char_page_response_json = char_page_response_json.replace(r#""MH","name":"Raging Strike""#, r#""レイジングストライク(MH)","name":"MH""#);
+    char_page_response_json = char_page_response_json.replace(r#""MH~MH","name":"Raging Chain""#, r#""レイジングチェイン(MHMH)","name":"MHMH""#);
+
+    let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
+    char_page_response_json = re.replace_all(&char_page_response_json, r#""input":"$2ドラブバースト($1$2)","name":"$1$2""#).to_string();
+
+    re = Regex::new(r#""input":"(236)([LMHU])","name":"[LMHU] Reginleiv""#).unwrap();
+    char_page_response_json = re.replace_all(&char_page_response_json, r#""input":"$2レギンレイヴ($1$2)","name":"$1$2""#).to_string();
+
+    re = Regex::new(r#""input":"(623)([LMHU])","name":"[LMHU] Rising Sword""#).unwrap();
+    char_page_response_json = re.replace_all(&char_page_response_json, r#""input":"$2ライジングソード($1$2)","name":"$1$2""#).to_string();
+
+    char_page_response_json = char_page_response_json.replace(r#""214L~214M","name":"L Overdrive Surge Followup""#, r#""Lドライブバースト追加攻撃(214L214M)","name":"L214M214""#);
+    char_page_response_json = char_page_response_json.replace(r#""236236H","name":"Tempest Blade""#, r#""テンペストブレード(236236H)","name":"236236H""#);
+    char_page_response_json = char_page_response_json.replace(r#""236236H236U","name":"Eternal Edge""#, r#""比類無き十の力(236236H236U)","name":"236236H236U""#);
+    char_page_response_json = char_page_response_json.replace(r#""236236U","name":"Catastrophe""#, r#""カタストロフィ(236236U)","name":"236236U""#);
+    char_page_response_json = char_page_response_json.replace(r#""""#, r#""","name":"""#);
+    char_page_response_json = char_page_response_json.replace(r#""""#, r#""","name":"""#);
 
     let mut moves_info: Response = serde_json::from_str(&char_page_response_json).unwrap();
 
@@ -86,6 +114,8 @@ pub async fn frames_to_json(mut char_page_response_json: String, mut file: &File
         }
         if moves_info.cargoquery[x].title.hit.is_none(){
             moves_info.cargoquery[x].title.hit = Some("-".to_string());
+
+
 
         }
         if let Some(hit) = &mut moves_info.cargoquery[x].title.hit{
@@ -154,3 +184,4 @@ pub async fn frames_to_json(mut char_page_response_json: String, mut file: &File
         } 
     }
 }
+
