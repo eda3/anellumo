@@ -191,6 +191,59 @@ pub async fn frames_to_json(
         r#""パワーレイズアタック(5[U]]U[)","name":"5[U]]U[""#,
     );
 
+    re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Vorpal Blade""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ボーパルブレード($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236\[)([LMH])(\])","name":"[LMH] Reginleiv: Recidive""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2レギンレイヴ・レシディーヴ($1$2$3)","name":"$1$2$3""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(214)([LM])~(214[LM])","name":"[LM] Vorpal Blade Follow-up""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ボーパルブレード（追加攻撃）($1$2$3)","name":"$1$2$3""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(5U )([lL]v[0-4])","name":"Overdrive Surge""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ドライブバースト($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~214H","name":"H Vorpal Blade Follow-up 1""#,
+        r#""ボーパルブレード（追加攻撃１）(214H214H)","name":"214H214H""#,
+    );    
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~214H~214H","name":"H Vorpal Blade Follow-up 2""#,
+        r#""ボーパルブレード（追加攻撃２）(214H214H214H)","name":"214H214H214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Eternal Ascendancy""#,
+        r#""絶類なる十の力(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Skyfall""#,
+        r#""大いなる破局(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5\[U\] ~ X","name":"Cancel""#,
+        r#""ドライブバースト（キャンセル）(5[U]X)","name":"5[U]X""#,
+    );
+
     // ニーアの技名置換
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Ominous Turn""#).unwrap();
     char_page_response_json = re
@@ -244,6 +297,7 @@ pub async fn frames_to_json(
         r#""5[U]","name":"Love's Redemption (Charged)""#,
         r#""愛ノ救イ（タメ）(5[U])","name":"5[U]""#,
     );
+
     let mut moves_info: Response = serde_json::from_str(&char_page_response_json).unwrap();
 
     for x in 0..moves_info.cargoquery.len() {
