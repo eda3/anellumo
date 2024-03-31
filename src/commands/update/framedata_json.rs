@@ -208,7 +208,8 @@ pub async fn frames_to_json(
         )
         .to_string();
 
-    re = Regex::new(r#""input":"(214)([LM])~(214[LM])","name":"[LM] Vorpal Blade Follow-up""#).unwrap();
+    re = Regex::new(r#""input":"(214)([LM])~(214[LM])","name":"[LM] Vorpal Blade Follow-up""#)
+        .unwrap();
     char_page_response_json = re
         .replace_all(
             &char_page_response_json,
@@ -227,7 +228,7 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(
         r#""214H~214H","name":"H Vorpal Blade Follow-up 1""#,
         r#""ボーパルブレード（追加攻撃１）(214H214H)","name":"214H214H""#,
-    );    
+    );
     char_page_response_json = char_page_response_json.replace(
         r#""214H~214H~214H","name":"H Vorpal Blade Follow-up 2""#,
         r#""ボーパルブレード（追加攻撃２）(214H214H214H)","name":"214H214H214H""#,
