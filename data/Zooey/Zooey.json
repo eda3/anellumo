@@ -26,14 +26,14 @@
 	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Guard Crush Mid","startup":"28","active":"-","recovery":"17","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15","block":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 [+15]","invincibility":"-"},
 	{"input":"レイジングチェイン(MHMH)","name":"MHMH","damage":"1000","guard":"Mid","startup":"13","active":"6","recovery":"17","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15","block":"+4","invincibility":"-"},
 	{"input":"214H","name":"H Spinning Slash","damage":"1000","guard":"Mid","startup":"15","active":"4","recovery":"19","hit":"-4","block":"-8","invincibility":"-"},
-	{"input":"214H~5X","name":"H Ray Strike","damage":"600","guard":"Low","startup":"18","active":"6","recovery":"19","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+34","block":"-8","invincibility":"-"},
-	{"input":"214H~6X","name":"M Bisection","damage":"900","guard":"Mid","startup":"19","active":"6","recovery":"24","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+39","block":"-11","invincibility":"-"},
+	{"input":"214H5X","name":"H Ray Strike","damage":"600","guard":"Low","startup":"18","active":"6","recovery":"19","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+34","block":"-8","invincibility":"-"},
+	{"input":"214H6X","name":"M Bisection","damage":"900","guard":"Mid","startup":"19","active":"6","recovery":"24","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+39","block":"-11","invincibility":"-"},
 	{"input":"214L","name":"L Spinning Slash","damage":"700","guard":"Mid","startup":"15","active":"4","recovery":"19","hit":"&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;0","block":"-4","invincibility":"-"},
-	{"input":"214L~5X","name":"L Ray Strike","damage":"400","guard":"Low","startup":"18","active":"6","recovery":"19","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+28","block":"-8","invincibility":"-"},
-	{"input":"214L~6X","name":"L Bisection","damage":"600","guard":"Mid","startup":"19","active":"6","recovery":"24","hit":"Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21","block":"-11","invincibility":"-"},
+	{"input":"214L5X","name":"L Ray Strike","damage":"400","guard":"Low","startup":"18","active":"6","recovery":"19","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+28","block":"-8","invincibility":"-"},
+	{"input":"214L6X","name":"L Bisection","damage":"600","guard":"Mid","startup":"19","active":"6","recovery":"24","hit":"Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21","block":"-11","invincibility":"-"},
 	{"input":"214M","name":"M Spinning Slash","damage":"800","guard":"Mid","startup":"19","active":"4","recovery":"17","hit":"&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;0","block":"-4 ","invincibility":"-"},
-	{"input":"214M~5X","name":"M Ray Strike","damage":"400","guard":"Low","startup":"18","active":"6","recovery":"19","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+28","block":"-8","invincibility":"-"},
-	{"input":"214M~6X","name":"M Bisection","damage":"600","guard":"Mid","startup":"19","active":"6","recovery":"24","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+33","block":"-11","invincibility":"-"},
+	{"input":"214M5X","name":"M Ray Strike","damage":"400","guard":"Low","startup":"18","active":"6","recovery":"19","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+28","block":"-8","invincibility":"-"},
+	{"input":"214M6X","name":"M Bisection","damage":"600","guard":"Mid","startup":"19","active":"6","recovery":"24","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+33","block":"-11","invincibility":"-"},
 	{"input":"214U","name":"U Spinning Slash","damage":"2600","guard":"All","startup":"13","active":"-","recovery":"Total 75","hit":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+63","block":"-4","invincibility":"-"},
 	{"input":"22H","name":"H Thunder","damage":"1600 (600, 300×2, 400)","guard":"Mid, All×3","startup":"15 [19]","active":"9 [10,10,6]","recovery":"32","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+12 [+16]","block":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+5 [+12] ","invincibility":"-"},
 	{"input":"22L","name":"L Thunder","damage":"400, 700","guard":"Mid, All","startup":"15 [19]","active":"9 [6]","recovery":"25","hit":"-10 (+2) &lt;span style=&quot;color: \n#3455ff&quot; &gt;[+7]","block":"-14 (-2) [+3] ","invincibility":"-"},
@@ -54,5 +54,5 @@
 	{"input":"236236H","name":"Gamma Ray","damage":"4000 (1000, 90x31, 210)","guard":"Mid","startup":"8+4","active":"6","recovery":"40","hit":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46","block":"-27","invincibility":"1~17 All"},
 	{"input":"236236U","name":"Armageddon","damage":"6000 (3000, 3000)","guard":"Mid→All","startup":"8+7","active":"15","recovery":"61","hit":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46","block":"-25","invincibility":"1~63 All"},
 	{"input":"5U","name":"Convergence","damage":"-","guard":"-","startup":"-","active":"-","recovery":"Total 23-368","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5U~6X","name":"The Last Wish","damage":"1200","guard":"Mid","startup":"5","active":"8","recovery":"22","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+19 [+28]","block":"-20 [-11]","invincibility":"2~4 All"}
+	{"input":"5U6X","name":"The Last Wish","damage":"1200","guard":"Mid","startup":"5","active":"8","recovery":"22","hit":"KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+19 [+28]","block":"-20 [-11]","invincibility":"2~4 All"}
 ]

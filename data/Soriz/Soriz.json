@@ -41,12 +41,12 @@
 	{"input":"623L","name":"L Roundhouse Fang","damage":"1000","guard":"Mid","startup":"7","active":"6","recovery":"18","hit":"Air Tech","block":"-7 ","invincibility":"-"},
 	{"input":"623M","name":"M Roundhouse Fang","damage":"1000","guard":"Mid","startup":"7","active":"6","recovery":"20","hit":"Air Tech","block":"-9","invincibility":"-"},
 	{"input":"623U","name":"U Roundhouse Fang","damage":"1000×2","guard":"Mid","startup":"8","active":"5(3)7","recovery":"25","hit":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+31 ","block":"-14 ","invincibility":"1-22 All"},
-	{"input":"Macho 214U","name":"Macho U Punch the Stars","damage":"250x8, 500, 700/1200","guard":"Midx8, Guard Crush 40, Mid","startup":"13","active":"22(15)?(?)6,  {17}","recovery":"21,  {16}","hit":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46 ","block":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46 ","invincibility":"-"},
-	{"input":"214X~214X","name":"Tenacious Will","damage":"1000","guard":"Guard Crush 30","startup":"20","active":"3","recovery":"23","hit":"+5","block":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+5 ","invincibility":"-"},
-	{"input":"214X~236X","name":"Bravado Bullet","damage":"1000","guard":"Mid","startup":"14","active":"6","recovery":"21","hit":"KD","block":"-8 ","invincibility":"-"},
+	{"input":"Macho214U","name":"Macho U Punch the Stars","damage":"250x8, 500, 700/1200","guard":"Midx8, Guard Crush 40, Mid","startup":"13","active":"22(15)?(?)6,  {17}","recovery":"21,  {16}","hit":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46 ","block":"HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46 ","invincibility":"-"},
+	{"input":"214X214X","name":"Tenacious Will","damage":"1000","guard":"Guard Crush 30","startup":"20","active":"3","recovery":"23","hit":"+5","block":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+5 ","invincibility":"-"},
+	{"input":"214X236X","name":"Bravado Bullet","damage":"1000","guard":"Mid","startup":"14","active":"6","recovery":"21","hit":"KD","block":"-8 ","invincibility":"-"},
 	{"input":"236236H","name":"Leaping Tiger, Charging Dragon","damage":"2000, 2500 [1500, 2000]","guard":"Mid","startup":"7+6","active":"2(27)3","recovery":"45","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+45 ","block":"-29 ","invincibility":"1~14 All"},
 	{"input":"236236U","name":"Macho Ultimatum","damage":"-","guard":"-","startup":"-","active":"-","recovery":"10+15","hit":"-","block":"-","invincibility":"-"},
-	{"input":"Macho 236236U","name":"Way of the Fundoshi Fist","damage":"(0), 1200, 1800, 3000","guard":"Throw, Mid","startup":"9+0","active":"1(10)3","recovery":"42","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+44 ","block":"-26 ","invincibility":"1-9 Full"},
+	{"input":"Macho236236U","name":"Way of the Fundoshi Fist","damage":"(0), 1200, 1800, 3000","guard":"Throw, Mid","startup":"9+0","active":"1(10)3","recovery":"42","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+44 ","block":"-26 ","invincibility":"1-9 Full"},
 	{"input":"5U","name":"Muscle Fury","damage":"-","guard":"-","startup":"3","active":"27-57","recovery":"9","hit":"-","block":"-","invincibility":"During Active: Armor"},
-	{"input":"5U~6X","name":"Reactive Muscles","damage":"900","guard":"Mid","startup":"11","active":"3","recovery":"22","hit":"+3","block":"-3 ","invincibility":"1~13 Armor"}
+	{"input":"5U6X","name":"Reactive Muscles","damage":"900","guard":"Mid","startup":"11","active":"3","recovery":"22","hit":"+3","block":"-3 ","invincibility":"1~13 Armor"}
 ]

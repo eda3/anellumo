@@ -44,10 +44,10 @@
 	{"input":"Lヴァサーゴ(632146L)","name":"632146L","damage":"500, 1500","guard":"Throw","startup":"34","active":"3","recovery":"36","hit":"HKD (+19)","block":"-","invincibility":"-"},
 	{"input":"Mヴァサーゴ(632146M)","name":"632146M","damage":"500, 2000","guard":"Throw","startup":"52","active":"3","recovery":"36","hit":"HKD (+19)","block":"-","invincibility":"-"},
 	{"input":"Uヴァサーゴ(632146U)","name":"632146U","damage":"-","guard":"-","startup":"3","active":"85","recovery":"48","hit":"-","block":"-","invincibility":"3-87 Catch All"},
-	{"input":"ヴァサーゴ（当身）(632146U Catch)","name":"632146U Catch","damage":"900×2","guard":"Mid","startup":"Jump+11","active":"Until L+2","recovery":"11","hit":"HKD (+47)","block":"-","invincibility":"1-5 All"},
-	{"input":"ヴァサーゴ（投げ）(632146U Throw)","name":"632146U Throw","damage":"500, 1000, 1500","guard":"Throw","startup":"8","active":"4","recovery":"16","hit":"HKD (+48)","block":"-","invincibility":"1-11 All"},
+	{"input":"ヴァサーゴ（当身）(632146UCatch)","name":"632146U Catch","damage":"900×2","guard":"Mid","startup":"Jump+11","active":"Until L+2","recovery":"11","hit":"HKD (+47)","block":"-","invincibility":"1-5 All"},
+	{"input":"ヴァサーゴ（投げ）(632146UThrow)","name":"632146U Throw","damage":"500, 1000, 1500","guard":"Throw","startup":"8","active":"4","recovery":"16","hit":"HKD (+48)","block":"-","invincibility":"1-11 All"},
 	{"input":"レメゲトン(236236H)","name":"236236H","damage":"1000×2, 500, 2000 [1000, 2500]","guard":"Mid","startup":"8+5","active":"4(18)9","recovery":"30","hit":"HKD (+40)","block":"&lt;span class=&quot;colorful-text-4&quot; &gt;-20&lt;/span&gt;","invincibility":"1~16 All"},
 	{"input":"アナゲンネーシス(236236U)","name":"236236U","damage":"3000, 600, 120×10, 120 [2500, 1500]","guard":"Mid","startup":"8+5","active":"3(12)3","recovery":"45","hit":"HKD (+41)","block":"&lt;span class=&quot;colorful-text-4&quot; &gt;-29&lt;/span&gt;","invincibility":"1~15 All"},
 	{"input":"無価値なもの(5U)","name":"5U","damage":"-","guard":"-","startup":"3","active":"85","recovery":"48","hit":"-","block":"-","invincibility":"3~87 Catch"},
-	{"input":"無価値なもの（当身）(5U Catch)","name":"5U Catch","damage":"300, 900","guard":"All","startup":"Jump+11","active":"Until L+2","recovery":"11","hit":"HKD (+47)","block":"-2 ","invincibility":"1-6 All"}
+	{"input":"無価値なもの（当身）(5UCatch)","name":"5U Catch","damage":"300, 900","guard":"All","startup":"Jump+11","active":"Until L+2","recovery":"11","hit":"HKD (+47)","block":"-2 ","invincibility":"1-6 All"}
 ]

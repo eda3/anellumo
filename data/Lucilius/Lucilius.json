@@ -45,7 +45,7 @@
 	{"input":"236236H","name":"Axion","damage":"1000×4","guard":"All","startup":"4+11","active":"3","recovery":"54","hit":"HKD +40","block":"-20","invincibility":"1-17 Full"},
 	{"input":"236236U","name":"Paradise Lost","damage":"1440, 120×18, 1800","guard":"Mid","startup":"5+9","active":"8","recovery":"57","hit":"HKD +43","block":"-30","invincibility":"1-21 Full"},
 	{"input":"5U","name":"Orbital Resonance","damage":"-","guard":"-","startup":"18","active":"-","recovery":"18","hit":"-","block":"-","invincibility":"-"},
-	{"input":"5U~H","name":"Orbital Resonance ~ H","damage":"1200","guard":"Mid","startup":"10","active":"6","recovery":"Total 49","hit":"KD +32","block":"-7","invincibility":"-"},
-	{"input":"5U~L","name":"Orbital Resonance ~ L","damage":"800","guard":"All","startup":"10","active":"6","recovery":"Total 49","hit":"+2","block":"-2","invincibility":"-"},
-	{"input":"5U~M","name":"Orbital Resonance ~ M","damage":"500×2","guard":"All","startup":"16","active":"11(11)13","recovery":"Total 53","hit":"+6","block":"+2","invincibility":"-"}
+	{"input":"5UH","name":"Orbital Resonance ~ H","damage":"1200","guard":"Mid","startup":"10","active":"6","recovery":"Total 49","hit":"KD +32","block":"-7","invincibility":"-"},
+	{"input":"5UL","name":"Orbital Resonance ~ L","damage":"800","guard":"All","startup":"10","active":"6","recovery":"Total 49","hit":"+2","block":"-2","invincibility":"-"},
+	{"input":"5UM","name":"Orbital Resonance ~ M","damage":"500×2","guard":"All","startup":"16","active":"11(11)13","recovery":"Total 53","hit":"+6","block":"+2","invincibility":"-"}
 ]

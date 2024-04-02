@@ -354,6 +354,13 @@ pub async fn frames_to_json(
         if moves_info.cargoquery[x].title.hit.is_none() {
             moves_info.cargoquery[x].title.hit = Some("-".to_string());
         }
+        if moves_info.cargoquery[x].title.hit.is_none() {
+            moves_info.cargoquery[x].title.hit = Some("-".to_string());
+        }
+        if let Some(input) = &mut moves_info.cargoquery[x].title.input {
+            *input = input.replace("~", "");
+            *input = input.replace(" ", "");
+        }
         if let Some(hit) = &mut moves_info.cargoquery[x].title.hit {
             *hit = hit.replace("&lt;span style=&quot;color: \n#b70c0b&quot; &gt;", "");
             *hit = hit.replace("&lt;span style=&quot;color: \n#00d7c0&quot; &gt;'''", "");
