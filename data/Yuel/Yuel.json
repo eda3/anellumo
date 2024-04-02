@@ -4,7 +4,7 @@
 	{"input":"2M","name":"2M","damage":"900","guard":"Mid","startup":"7","active":"3","recovery":"15","hit":"+1","block":"-3","invincibility":"-"},
 	{"input":"2U","name":"2U","damage":"1000","guard":"Low","startup":"7","active":"3","recovery":"24","hit":"HKD +43","block":"-12","invincibility":"-"},
 	{"input":"66H","name":"66H","damage":"1200","guard":"Mid","startup":"15","active":"4","recovery":"23","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+10","block":"-8 ","invincibility":"-"},
-	{"input":"66L","name":"66L","damage":"1000","guard":"Mid","startup":"8","active":"3","recovery":"10","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6","block":"+2 ","invincibility":"-"},
+	{"input":"66L","name":"66L","damage":"1000","guard":"Mid","startup":"8","active":"3","recovery":"10 [15]","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6","block":"+2 ","invincibility":"-"},
 	{"input":"66M","name":"66M","damage":"1100","guard":"Low","startup":"12","active":"4","recovery":"21","hit":"KD","block":"-8 ","invincibility":"-"},
 	{"input":"近H","name":"近H","damage":"1000, 200×2","guard":"All","startup":"8","active":"2, 2, 2","recovery":"21","hit":"0","block":"-4","invincibility":"-"},
 	{"input":"近L","name":"近L","damage":"600","guard":"All","startup":"5","active":"3","recovery":"6","hit":"&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8","block":"+4","invincibility":"-"},
