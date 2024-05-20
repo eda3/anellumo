@@ -182,28 +182,28 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Soriz_214X_Hitbox_1.png\\GBVSR_Soriz_214X_Hitbox_2.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Soriz_214X_Hitbox_1.png\\GBVSR_Soriz_214X_Hitbox_2.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Soriz_214X_Hitbox_1.png\\GBVSR_Soriz_214X_Hitbox_2.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Soriz_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/da/GBVSR_Soriz_214U_Hitbox.png"
@@ -238,56 +238,56 @@
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Soriz_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Soriz_236X_Hitbox.png"
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Soriz_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Soriz_236X_Hitbox.png"
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Soriz_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Soriz_236X_Hitbox.png"
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Soriz_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Soriz_236U_Hitbox.png"
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Soriz_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Soriz_623X_Hitbox_1.png\\GBVSR_Soriz_623X_Hitbox_2.png\\GBVSR_Soriz_623X_Hitbox_3.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Soriz_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Soriz_623X_Hitbox_1.png\\GBVSR_Soriz_623X_Hitbox_2.png\\GBVSR_Soriz_623X_Hitbox_3.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Soriz_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Soriz_623X_Hitbox_1.png\\GBVSR_Soriz_623X_Hitbox_2.png\\GBVSR_Soriz_623X_Hitbox_3.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVSR_Soriz_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Soriz_623U_Hitbox.png"

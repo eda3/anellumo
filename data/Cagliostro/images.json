@@ -175,28 +175,28 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVS_Cagliostro_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/35/GBVSR_Cagliostro_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVS_Cagliostro_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/35/GBVSR_Cagliostro_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVS_Cagliostro_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/35/GBVSR_Cagliostro_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Cagliostro_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Cagliostro_214U_Hitbox.png"
@@ -231,56 +231,56 @@
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Cagliostro_236U.png\\GBVSR_Cagliostro_236U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/93/GBVSR_Cagliostro_236U_Hitbox.png\\GBVSR_Cagliostro_236U_2_Hitbox.png"
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/e/ed/GBVS_Cagliostro_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Cagliostro_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/e/ed/GBVS_Cagliostro_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Cagliostro_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/e/ed/GBVS_Cagliostro_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Cagliostro_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Cagliostro_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/01/GBVSR_Cagliostro_623U_Hitbox.png"

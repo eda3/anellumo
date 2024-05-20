@@ -44,6 +44,7 @@ pub async fn images_to_json(
     // re = Regex::new(r"f\.").unwrap();
     // char_images_response_json = re.replace_all(&char_images_response_json, "遠").to_string();
 
+    /*
     let mut re = Regex::new(r#""(214)([LMHU])""#).unwrap();
     char_images_response_json = re
         .replace_all(&char_images_response_json, r#""$2ヤクザキック($1$2)""#)
@@ -58,6 +59,7 @@ pub async fn images_to_json(
     char_images_response_json = re
         .replace_all(&char_images_response_json, r#""$2ライジングソード($1$2)""#)
         .to_string();
+    */
 
     let mut imagedata: Imageresponse = serde_json::from_str(&char_images_response_json).unwrap();
 

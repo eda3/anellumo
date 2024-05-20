@@ -182,7 +182,7 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Djeeta_214L.png",
     "hitbox_img": [
       ""
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Djeeta_214L.png",
     "hitbox_img": [
       ""
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Djeeta_214M.png",
     "hitbox_img": [
       ""
@@ -231,35 +231,35 @@
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Djeeta_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Djeeta_214U_Hitbox_1.png"
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Djeeta_236X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Djeeta_236X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Djeeta_236X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Djeeta_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/01/GBVSR_Djeeta_236U_Hitbox_1.png"
@@ -287,28 +287,28 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Djeeta_623L.png\\GBVSR_Djeeta_623M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Djeeta_623L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/c/c8/GBVSR_Djeeta_623M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Djeeta_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/40/GBVSR_Djeeta_623U_Hitbox_1.png"

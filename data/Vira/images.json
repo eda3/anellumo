@@ -182,28 +182,28 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Vira_214L.png\\GBVSR_Vira_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Vira_214L_Hitbox.png\\GBVSR_Vira_214M_Hitbox.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Vira_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/24/GBVSR_Vira_214L_Hitbox.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/9/97/GBVSR_Vira_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/15/GBVSR_Vira_214M_Hitbox.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/4/40/GBVSR_Vira_214U.png\\GBVSR_Vira_214U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Vira_214U_Hitbox.png"
@@ -238,56 +238,56 @@
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Vira_236X_1.png\\GBVS_Vira_236X_2.png\\GBVS_Vira_Grand_236X_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0d/GBVS_Vira_236X_Hitbox_1.png\\GBVS_Vira_236X_Hitbox_2.png\\GBVS_Vira_236X_Hitbox_3.png"
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/8/80/GBVS_Vira_236X_1.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Vira_236X_1.png\\GBVS_Vira_236X_2.png\\GBVS_Vira_Grand_236X_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0d/GBVS_Vira_236X_Hitbox_1.png\\GBVS_Vira_236X_Hitbox_2.png\\GBVS_Vira_236X_Hitbox_3.png"
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/7/70/GBVSR_Vira_236U.png\\GBVSR_Vira_236U_2.png\\GBVSR_Vira_236U_3.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/33/GBVSR_Vira_236U_Hitbox.png"
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVS_Vira_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Vira_623X_Hitbox_1.png\\GBVSR_Vira_623X_Hitbox_2.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVS_Vira_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Vira_623X_Hitbox_1.png\\GBVSR_Vira_623X_Hitbox_2.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVS_Vira_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Vira_623X_Hitbox_1.png\\GBVSR_Vira_623X_Hitbox_2.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Vira_623U.png\\GBVSR_Vira_214U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/07/GBVSR_Vira_623U_Hitbox.png"

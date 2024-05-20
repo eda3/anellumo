@@ -191,7 +191,7 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Anila_214H_Hitbox.png",
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Anila_214L_Hitbox.png",
@@ -223,7 +223,7 @@
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/69/GBVSR_Anila_214M_Hitbox.png",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Anila_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/33/GBVSR_Anila_214U_Hitbox.png",
@@ -279,7 +279,7 @@
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/33/GBVSR_Anila_236H_Hitbox.png",
@@ -287,7 +287,7 @@
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8d/GBVSR_Anila_236L_Hitbox.png",
@@ -295,7 +295,7 @@
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Anila_236M_Hitbox.png",
@@ -303,7 +303,7 @@
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Anila_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/17/GBVSR_Anila_236U_Hitbox.png",
@@ -311,7 +311,7 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Anila_623H_Hitbox.png",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Anila_623L_Hitbox.png",
@@ -327,7 +327,7 @@
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/71/GBVSR_Anila_623M_Hitbox.png",
@@ -335,7 +335,7 @@
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Anila_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/93/GBVSR_Anila_623U_Hitbox.png",

@@ -182,28 +182,28 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Vaseraga_214L_Hitbox.png\\GBVSR_Vaseraga_214M_Hitbox.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Vaseraga_214L_Hitbox.png\\GBVSR_Vaseraga_214M_Hitbox.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Vaseraga_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/85/GBVSR_Vaseraga_214U_Hitbox.png"

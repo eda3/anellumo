@@ -182,56 +182,56 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Seox_214L_Hitbox1.png\\GBVSR_Seox_214L_Hitbox2.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Seox_214L_Hitbox1.png\\GBVSR_Seox_214L_Hitbox2.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/8/80/GBVS_Seox_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Seox_214M_Hitbox.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Seox_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Seox_214U_Hitbox.png"
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/14/GBVSR_Seox_236L_Hitbox.png\\GBVSR_Seox_236X_Hitbox.png\\GBVSR_Seox_236H_Hitbox.png"
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/59/GBVSR_Seox_236L_Hitbox.png\\GBVSR_Seox_236X_Hitbox.png"
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/59/GBVSR_Seox_236L_Hitbox.png\\GBVSR_Seox_236X_Hitbox.png"
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Seox_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Seox_236U_Hitbox.png"
@@ -287,28 +287,28 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/8/8a/GBVS_Seox_623x-1.png\\GBVS_Seox_623x-2.png\\GBVS_Seox_236x6u.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/8/8a/GBVS_Seox_623x-1.png\\GBVS_Seox_623x-2.png\\GBVS_Seox_236x6u.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/f/f3/GBVS_Seox_623x-1.png\\GBVS_Seox_623x-2.png\\GBVS_Seox_623M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Seox_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Seox_623U_Hitbox.png"

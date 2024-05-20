@@ -199,7 +199,7 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/7/72/GBVS_Eustace_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/63/GBVSR_Eustace_214M_Hitbox.png"
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVS_Eustace_214L.png",
     "hitbox_img": [
       ""
@@ -269,7 +269,7 @@
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/7/72/GBVS_Eustace_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/63/GBVSR_Eustace_214M_Hitbox.png"
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Eustace_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Eustace_214U_Hitbox.png\\GBVSR_Eustace_214U_Hitbox2.png"
@@ -318,28 +318,28 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Eustace_623X.png\\GBVS_Eustace_623X_Grenade.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Eustace_623X.png\\GBVS_Eustace_623X_Grenade.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVS_Eustace_623X.png\\GBVS_Eustace_623X_Grenade.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Eustace_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/57/GBVSR_Eustace_623U_Hitbox.png"

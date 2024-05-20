@@ -1,6 +1,6 @@
 [
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Avatar_Belial_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Avatar_Belial_214X_Hitbox.png"
@@ -192,21 +192,21 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Avatar_Belial_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Avatar_Belial_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Avatar_Belial_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Avatar_Belial_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Avatar_Belial_214U.png\\GBVSR_Avatar_Belial_214U_Far.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Avatar_Belial_214U_Hitbox.png"
@@ -304,56 +304,56 @@
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVS_Avatar_Belial_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/00/GBVSR_Avatar_Belial_236L_Hitbox1.png\\GBVSR_Avatar_Belial_236L_Hitbox2.png"
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVS_Avatar_Belial_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/00/GBVSR_Avatar_Belial_236L_Hitbox1.png\\GBVSR_Avatar_Belial_236L_Hitbox2.png"
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVS_Avatar_Belial_236M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Avatar_Belial_236M_Hitbox1.png\\GBVSR_Avatar_Belial_236M_Hitbox2.png"
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Avatar_Belial_236U.png\\GBVSR_Avatar_Belial_236U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/be/GBVSR_Avatar_Belial_236U_Hitbox.png"
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Avatar_Belial_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/91/GBVSR_Avatar_Belial_623M_Hitbox1.png\\GBVSR_Avatar_Belial_623M_Hitbox2.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Avatar_Belial_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Avatar_Belial_623L_Hitbox.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Avatar_Belial_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/91/GBVSR_Avatar_Belial_623M_Hitbox1.png\\GBVSR_Avatar_Belial_623M_Hitbox2.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/1/1d/GBVSR_Avatar_Belial_623U_1.png\\GBVSR_Avatar_Belial_623U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/40/GBVSR_Avatar_Belial_623U_Hitbox.png"

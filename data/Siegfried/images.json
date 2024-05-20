@@ -185,7 +185,7 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Siegfried_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/81/GBVSR_Siegfried_214H_Hitbox_1.png",
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Siegfried_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Siegfried_214L_Hitbox_1.png",
@@ -201,7 +201,7 @@
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Siegfried_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/97/GBVSR_Siegfried_214M_Hitbox_1.png",
@@ -209,7 +209,7 @@
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Siegfried_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/84/GBVSR_Siegfried_214U_Hitbox_1.png",
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Siegfried_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Siegfried_236H_Hitbox_1.png",
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Siegfried_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/61/GBVSR_Siegfried_236L_Hitbox_1.png",
@@ -297,7 +297,7 @@
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Siegfried_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a5/GBVSR_Siegfried_236M_Hitbox_1.png",
@@ -305,7 +305,7 @@
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Siegfried_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/09/GBVSR_Siegfried_236U_Hitbox_1.png",
@@ -313,7 +313,7 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Siegfried_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Siegfried_623H_Hitbox_1.png",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Siegfried_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c8/GBVSR_Siegfried_623L_Hitbox_1.png",
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Siegfried_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/35/GBVSR_Siegfried_623M_Hitbox_1.png",
@@ -337,7 +337,7 @@
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Siegfried_623U.png\\GBVSR_Siegfried_623U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/87/GBVSR_Siegfried_623U_Hitbox_1.png",

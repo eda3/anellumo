@@ -190,35 +190,35 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ladiva_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ladiva_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Ladiva_214X_Hitbox.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Ladiva_214U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Hレギンレイヴ(236H)",
+    "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "input": "Lレギンレイヴ(236L)",
+    "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Ladiva_236L_Hitbox1.png",
@@ -250,7 +250,7 @@
     ]
   },
   {
-    "input": "Mレギンレイヴ(236M)",
+    "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
@@ -258,7 +258,7 @@
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVSR_Ladiva_236U.png",
     "hitbox_img": [
       ""
@@ -293,28 +293,28 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Ladiva_623X_Whif遠png\\GBVSR_Ladiva_623L.png\\GBVSR_Ladiva_623M.png\\GBVSR_Ladiva_623H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Ladiva_623X_Whif遠png\\GBVSR_Ladiva_623L.png\\GBVSR_Ladiva_623M.png\\GBVSR_Ladiva_623H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Ladiva_623X_Whif遠png\\GBVSR_Ladiva_623L.png\\GBVSR_Ladiva_623M.png\\GBVSR_Ladiva_623H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Ladiva_623U_whif遠png\\GBVSR_Ladiva_623U.png",
     "hitbox_img": [
       ""

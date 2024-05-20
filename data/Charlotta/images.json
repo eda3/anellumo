@@ -182,28 +182,28 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Charlotta_214X_Hitbox1.png\\GBVSR_Charlotta_214X_Hitbox2.png"
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Charlotta_214X_Hitbox1.png\\GBVSR_Charlotta_214X_Hitbox2.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Charlotta_214X_Hitbox1.png\\GBVSR_Charlotta_214X_Hitbox2.png"
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Charlotta_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Charlotta_214U_Hitbox.png"

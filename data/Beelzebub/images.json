@@ -147,7 +147,7 @@
     ]
   },
   {
-    "input": "Uヤクザキック(214U)",
+    "input": "214U",
     "move_img": "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Beelzebub_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/38/GBVSR_Beelzebub_214U_Hitbox_1.png\\"
@@ -161,14 +161,14 @@
     ]
   },
   {
-    "input": "Uレギンレイヴ(236U)",
+    "input": "236U",
     "move_img": "https://www.dustloop.com/wiki/images/e/e2/GBVSR_Beelzebub_236U.png\\GBVSR_Beelzebub_236U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Beelzebub_236U_Hitbox_1.png\\"
     ]
   },
   {
-    "input": "Uライジングソード(623U)",
+    "input": "623U",
     "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Beelzebub_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Beelzebub_623U_Hitbox_1.png\\"
@@ -217,21 +217,21 @@
     ]
   },
   {
-    "input": "Hヤクザキック(214H)",
+    "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Beelzebub_214M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Lヤクザキック(214L)",
+    "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Beelzebub_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Beelzebub_214L_Hitbox_1.png\\_GBVSR_Beelzebub_214L_Hitbox_2.png\\_GBVSR_Beelzebub_214L_Hitbox_3.png"
     ]
   },
   {
-    "input": "Mヤクザキック(214M)",
+    "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Beelzebub_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Beelzebub_214M_Hitbox_1.png\\_GBVSR_Beelzebub_214M_Hitbox_2.png\\_GBVSR_Beelzebub_214M_Hitbox_3.png"
@@ -315,21 +315,21 @@
     ]
   },
   {
-    "input": "Hライジングソード(623H)",
+    "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_623X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "Lライジングソード(623L)",
+    "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Beelzebub_623X_Hitbox.png"
     ]
   },
   {
-    "input": "Mライジングソード(623M)",
+    "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_623X.png",
     "hitbox_img": [
       ""
