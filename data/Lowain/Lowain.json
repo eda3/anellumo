@@ -528,7 +528,7 @@
 		"invincibility": "1-5 All, 6-11 Super Armor"
 	},
 	{
-		"input": "236236H236U",
+		"input": "236236H 236U",
 		"name": "Moment of Truth",
 		"damage": "1500",
 		"guard": "Mid",
@@ -540,7 +540,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236HG",
+		"input": "236236H G",
 		"name": "Totally Rad Juke",
 		"damage": "-",
 		"guard": "-",
@@ -552,7 +552,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236HH",
+		"input": "236236H H",
 		"name": "Flex On 'Em",
 		"damage": "800",
 		"guard": "High",
@@ -564,7 +564,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236HL",
+		"input": "236236H L",
 		"name": "It's Lit, Bros",
 		"damage": "200×3",
 		"guard": "Mid",
@@ -576,7 +576,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236HM",
+		"input": "236236H M",
 		"name": "Definitely Don't Try This at Home",
 		"damage": "700",
 		"guard": "Mid",
@@ -588,7 +588,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236HU",
+		"input": "236236H U",
 		"name": "Catch 'Em Slippin'",
 		"damage": "900",
 		"guard": "Low",
@@ -612,7 +612,7 @@
 		"invincibility": "1~2 ALL"
 	},
 	{
-		"input": "236236UH",
+		"input": "236236U H",
 		"name": "Nether Veil",
 		"damage": "1800",
 		"guard": "Unblockable",
@@ -624,7 +624,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236UL",
+		"input": "236236U L",
 		"name": "Earth Pillar",
 		"damage": "600×3",
 		"guard": "Mid",
@@ -636,7 +636,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236UM",
+		"input": "236236U M",
 		"name": "Axis Mundi",
 		"damage": "1500",
 		"guard": "All",
@@ -648,7 +648,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236UU",
+		"input": "236236U U",
 		"name": "Luminox Genesi",
 		"damage": "1300, 200×5",
 		"guard": "All",

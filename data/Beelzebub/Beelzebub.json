@@ -444,7 +444,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Hlvl1",
+		"input": "236H lvl 1",
 		"name": "H Black Flies Lv 1",
 		"damage": "500, 600, 100",
 		"guard": "All",
@@ -456,7 +456,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Hlvl2",
+		"input": "236H lvl 2",
 		"name": "H Black Flies Lv 2",
 		"damage": "500, 100, 600, 100×2",
 		"guard": "All",
@@ -468,7 +468,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Hlvl3",
+		"input": "236H lvl 3",
 		"name": "H Black Flies Lv 3",
 		"damage": "500, 100×2, 600, 100×4",
 		"guard": "All",
@@ -480,7 +480,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Llvl1",
+		"input": "236L lvl 1",
 		"name": "L Black Flies Lv 1",
 		"damage": "800",
 		"guard": "All",
@@ -492,7 +492,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Llvl2",
+		"input": "236L lvl 2",
 		"name": "L Black Flies Lv 2",
 		"damage": "800, 100",
 		"guard": "All",
@@ -504,7 +504,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Mlvl1",
+		"input": "236M lvl 1",
 		"name": "M Black Flies Lv 1",
 		"damage": "900,100",
 		"guard": "All",
@@ -516,7 +516,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Mlvl2",
+		"input": "236M lvl 2",
 		"name": "M Black Flies Lv 2",
 		"damage": "900,100×2",
 		"guard": "All",
@@ -528,7 +528,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236Mlvl3",
+		"input": "236M lvl 3",
 		"name": "M Black Flies Lv 3",
 		"damage": "900,100×4",
 		"guard": "All",

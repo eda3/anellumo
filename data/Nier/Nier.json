@@ -12,7 +12,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2H[d]",
+		"input": "2H [d]",
 		"name": "2H [d]",
 		"damage": "1250",
 		"guard": "Mid",
@@ -48,7 +48,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2M[d]",
+		"input": "2M [d]",
 		"name": "2M [d]",
 		"damage": "850",
 		"guard": "Low",
@@ -72,7 +72,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2U[d]",
+		"input": "2U [d]",
 		"name": "2U [d]",
 		"damage": "950",
 		"guard": "Low",
@@ -96,7 +96,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "66H[d]",
+		"input": "66H [d]",
 		"name": "66H [d]",
 		"damage": "1150",
 		"guard": "Mid",
@@ -144,7 +144,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近H[d]",
+		"input": "近H [d]",
 		"name": "近H [d]",
 		"damage": "1550",
 		"guard": "Mid",
@@ -180,7 +180,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近M[d]",
+		"input": "近M [d]",
 		"name": "近M [d]",
 		"damage": "1050",
 		"guard": "Mid",
@@ -252,7 +252,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠H[d]",
+		"input": "遠H [d]",
 		"name": "遠H [d]",
 		"damage": "1250",
 		"guard": "Mid",
@@ -288,7 +288,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠M[d]",
+		"input": "遠M [d]",
 		"name": "遠M [d]",
 		"damage": "850",
 		"guard": "Mid",
@@ -336,7 +336,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jH[d]",
+		"input": "jH [d]",
 		"name": "jH [d]",
 		"damage": "950",
 		"guard": "High/Air",
@@ -372,7 +372,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jM[d]",
+		"input": "jM [d]",
 		"name": "jM [d]",
 		"damage": "650",
 		"guard": "High/Air",
@@ -396,7 +396,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU[d]",
+		"input": "jU [d]",
 		"name": "Pain",
 		"damage": "800",
 		"guard": "All",

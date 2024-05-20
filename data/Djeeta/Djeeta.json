@@ -564,7 +564,7 @@
 		"invincibility": "1-21 All"
 	},
 	{
-		"input": "5Ulv0",
+		"input": "5U lv0",
 		"name": "Overdrive Surge",
 		"damage": "1200",
 		"guard": "All",
@@ -576,7 +576,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5Ulv1",
+		"input": "5U lv1",
 		"name": "Overdrive Surge",
 		"damage": "1500",
 		"guard": "All",
@@ -588,7 +588,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5Ulv2",
+		"input": "5U lv2",
 		"name": "Overdrive Surge",
 		"damage": "1800",
 		"guard": "All",
@@ -600,7 +600,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5ULv3",
+		"input": "5U Lv3",
 		"name": "Overdrive Surge",
 		"damage": "2100",
 		"guard": "All",
@@ -612,7 +612,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5ULv4",
+		"input": "5U Lv4",
 		"name": "Overdrive Surge",
 		"damage": "2400",
 		"guard": "All",
@@ -624,7 +624,7 @@
 		"invincibility": "4~20"
 	},
 	{
-		"input": "5[U]X",
+		"input": "5[U]  X",
 		"name": "Cancel",
 		"damage": "-",
 		"guard": "-",

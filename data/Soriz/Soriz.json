@@ -504,7 +504,7 @@
 		"invincibility": "1-22 All"
 	},
 	{
-		"input": "Macho214U",
+		"input": "Macho 214U",
 		"name": "Macho U Punch the Stars",
 		"damage": "250x8, 500, 700/1200",
 		"guard": "Midx8, Guard Crush 40, Mid",
@@ -564,7 +564,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Macho236236U",
+		"input": "Macho 236236U",
 		"name": "Way of the Fundoshi Fist",
 		"damage": "(0), 1200, 1800, 3000",
 		"guard": "Throw, Mid",

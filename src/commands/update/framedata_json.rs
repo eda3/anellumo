@@ -67,7 +67,6 @@ pub async fn frames_to_json(
         r#""MH~MH","name":"Raging Chain""#,
         r#""レイジングチェイン(MHMH)","name":"MHMH""#,
     );
-    /*
 
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re
@@ -135,6 +134,7 @@ pub async fn frames_to_json(
         r#""無価値なもの（当身）(5U Catch)","name":"5U Catch""#,
     );
 
+    /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
     char_page_response_json = re
@@ -361,7 +361,7 @@ pub async fn frames_to_json(
         }
         if let Some(input) = &mut moves_info.cargoquery[x].title.input {
             *input = input.replace("~", "");
-            *input = input.replace(" ", "");
+            // *input = input.replace(" ", "");
         }
         if let Some(hit) = &mut moves_info.cargoquery[x].title.hit {
             *hit = hit.replace("&lt;span style=&quot;color: \n#b70c0b&quot; &gt;", "");
@@ -393,6 +393,16 @@ pub async fn frames_to_json(
         //            moves_info.cargoquery[x].title.counter = Some("-".to_string());
         //        }
 
+        println!("");
+        println!(
+            "{}",
+            moves_info.cargoquery[x]
+                .title
+                .input
+                .as_ref()
+                .unwrap()
+                .to_string()
+        );
         // Serializing frame data
         let processed_moves_info = serde_json::to_string(&MoveInfo {
             input: moves_info.cargoquery[x]

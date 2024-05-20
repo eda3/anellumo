@@ -504,7 +504,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5ULv0",
+		"input": "5U Lv0",
 		"name": "Light Wall",
 		"damage": "1300",
 		"guard": "Mid",
@@ -516,7 +516,7 @@
 		"invincibility": "3~29 Armor All"
 	},
 	{
-		"input": "5ULv1",
+		"input": "5U Lv1",
 		"name": "Light Wall",
 		"damage": "1400",
 		"guard": "Mid",
@@ -528,7 +528,7 @@
 		"invincibility": "3~59 Armor All"
 	},
 	{
-		"input": "5ULv2",
+		"input": "5U Lv2",
 		"name": "Light Wall",
 		"damage": "1500",
 		"guard": "Mid",

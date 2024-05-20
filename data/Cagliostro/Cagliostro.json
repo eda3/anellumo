@@ -624,7 +624,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6ULevel1",
+		"input": "6U Level 1",
 		"name": "Collapse (Fire)",
 		"damage": "600",
 		"guard": "All",
@@ -636,7 +636,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6ULevel2",
+		"input": "6U Level 2",
 		"name": "Collapse (Fire)",
 		"damage": "400×2",
 		"guard": "All",
@@ -648,7 +648,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6ULevel3",
+		"input": "6U Level 3",
 		"name": "Collapse (Fire)",
 		"damage": "300×2, 400",
 		"guard": "All",
@@ -660,7 +660,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6ULevel4",
+		"input": "6U Level 4",
 		"name": "Collapse (Fire)",
 		"damage": "300×4",
 		"guard": "All",
@@ -672,7 +672,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6ULevel5",
+		"input": "6U Level 5",
 		"name": "Collapse (Fire)",
 		"damage": "300×5",
 		"guard": "All",
@@ -684,7 +684,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6ULevel1",
+		"input": "j2/6U Level 1",
 		"name": "Collapse (Fire)",
 		"damage": "600",
 		"guard": "All",
@@ -696,7 +696,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6ULevel2",
+		"input": "j2/6U Level 2",
 		"name": "Collapse (Fire)",
 		"damage": "400×2",
 		"guard": "All",
@@ -708,7 +708,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6ULevel3",
+		"input": "j2/6U Level 3",
 		"name": "Collapse (Fire)",
 		"damage": "300×2, 400",
 		"guard": "All",
@@ -720,7 +720,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6ULevel4",
+		"input": "j2/6U Level 4",
 		"name": "Collapse (Fire)",
 		"damage": "300×4",
 		"guard": "All",
@@ -732,7 +732,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6ULevel5",
+		"input": "j2/6U Level 5",
 		"name": "Collapse (Fire)",
 		"damage": "300×5",
 		"guard": "All",

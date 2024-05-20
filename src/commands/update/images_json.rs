@@ -31,37 +31,107 @@ struct Imagetitle {
 const IMAGE_HALF: &str = "https://www.dustloop.com/wiki/images";
 
 pub async fn images_to_json(
-    mut char_images_response_json: String,
+    mut char_page_response_json: String,
     mut file: &File,
     char_count: usize,
 ) {
-    char_images_response_json = char_images_response_json.replace(r#"c."#, "近");
-    char_images_response_json = char_images_response_json.replace(r#"f."#, "遠");
-    char_images_response_json = char_images_response_json.replace(r#"j."#, "j");
+    char_page_response_json = char_page_response_json.replace(r#""c."#, r#""近"#);
+    char_page_response_json = char_page_response_json.replace(r#""f."#, r#""遠"#);
+    char_page_response_json = char_page_response_json.replace(r#""j."#, r#""j"#);
+    char_page_response_json = char_page_response_json.replace(r#"Ultimate"#, "U");
+    char_page_response_json = char_page_response_json.replace(r#"Ulitmate"#, "U");
+
+    // println!("{}", char_page_response_json);
+
+    let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2アスモデウス($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236)([LMHU])","name":"[LMHU] Goetia""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ゴエティア($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236X)~(4)([LMH])","name":"[LMH] Everyone's A Little Crooked""#)
+        .unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$3少々屈曲するのは普通だろう？($1$2$3)","name":"$1$2$3""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(623)([LMHU])","name":"[LMHU] Notoria""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ノトリア($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(632146)([LMHU])","name":"[LMHU] Vassago""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ヴァサーゴ($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146U Catch","name":"U Vassago Catch""#,
+        r#""ヴァサーゴ（当身）(632146U Catch)","name":"632146U Catch""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146U Throw","name":"U Vassago Throw""#,
+        r#""ヴァサーゴ（投げ）(632146U Throw)","name":"632146U Throw""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Legemeton""#,
+        r#""レメゲトン(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Anagenesis""#,
+        r#""アナゲンネーシス(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Give Daddy Some Sugar""#,
+        r#""無価値なもの(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U Catch","name":"Give Daddy Some Sugar (Attack)""#,
+        r#""無価値なもの（当身）(5U Catch)","name":"5U Catch""#,
+    );
 
     // let mut re = Regex::new(r"c\.").unwrap();
-    // char_images_response_json = re.replace_all(&char_images_response_json, "近").to_string();
+    // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();
-    // char_images_response_json = re.replace_all(&char_images_response_json, "遠").to_string();
+    // char_page_response_json = re.replace_all(&char_page_response_json, "遠").to_string();
 
     /*
     let mut re = Regex::new(r#""(214)([LMHU])""#).unwrap();
-    char_images_response_json = re
-        .replace_all(&char_images_response_json, r#""$2ヤクザキック($1$2)""#)
+    char_page_response_json = re
+        .replace_all(&char_page_response_json, r#""$2ヤクザキック($1$2)""#)
         .to_string();
 
     let mut re = Regex::new(r#""(236)([LMHU])""#).unwrap();
-    char_images_response_json = re
-        .replace_all(&char_images_response_json, r#""$2レギンレイヴ($1$2)""#)
+    char_page_response_json = re
+        .replace_all(&char_page_response_json, r#""$2レギンレイヴ($1$2)""#)
         .to_string();
 
     let mut re = Regex::new(r#""(623)([LMHU])""#).unwrap();
-    char_images_response_json = re
-        .replace_all(&char_images_response_json, r#""$2ライジングソード($1$2)""#)
+    char_page_response_json = re
+        .replace_all(&char_page_response_json, r#""$2ライジングソード($1$2)""#)
         .to_string();
     */
 
-    let mut imagedata: Imageresponse = serde_json::from_str(&char_images_response_json).unwrap();
+    let mut imagedata: Imageresponse = serde_json::from_str(&char_page_response_json).unwrap();
 
     for x in 0..imagedata.cargoquery.len() {
         // Variable that the produced hitbox links will reside
@@ -168,7 +238,6 @@ pub async fn images_to_json(
                         Some(split_image[0].to_string().replace(' ', "_"));
 
                     // Sending image name to make_link to become a link
-                    println!("〇Multiple image names");
                     image_link = make_link(
                         imagedata.cargoquery[x]
                             .title
@@ -190,7 +259,6 @@ pub async fn images_to_json(
                             .replace(' ', "_"),
                     );
                     // Sending image name to make_link to become a link
-                    println!("〇Single image name");
                     image_link = make_link(
                         imagedata.cargoquery[x]
                             .title
@@ -278,8 +346,6 @@ pub async fn images_to_json(
 }
 
 async fn make_link(image_name: String) -> String {
-    println!("{}", image_name);
-    println!("");
     let image_bytes = image_name.as_bytes();
 
     // Creating a Md5 hasher instance

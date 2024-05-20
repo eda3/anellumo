@@ -504,7 +504,7 @@
 		"invincibility": "1-?? Full"
 	},
 	{
-		"input": "Grand22H",
+		"input": "Grand 22H",
 		"name": "H Summon Luminiera (Luminiera Form)",
 		"damage": "100x2, 400x3",
 		"guard": "All",
@@ -516,7 +516,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand22U",
+		"input": "Grand 22U",
 		"name": "U Grand Summon Luminiera",
 		"damage": "500×2, 600, 200",
 		"guard": "Mid",
@@ -528,7 +528,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand236U",
+		"input": "Grand 236U",
 		"name": "U Grand Darkane",
 		"damage": "200×4, 300×3, 1100",
 		"guard": "Mid",
@@ -540,7 +540,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand236[H]",
+		"input": "Grand 236[H]",
 		"name": "H Darkane (Charged, Luminiera Form)",
 		"damage": "200×4",
 		"guard": "Mid",
@@ -552,7 +552,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand236[M]",
+		"input": "Grand 236[M]",
 		"name": "M Darkane (Charged, Luminiera Form)",
 		"damage": "200×4",
 		"guard": "Mid",
@@ -564,7 +564,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand623H",
+		"input": "Grand 623H",
 		"name": "H Red Beryl Sword (Luminiera Form)",
 		"damage": "700, 400x2, 100",
 		"guard": "Mid",
@@ -576,7 +576,7 @@
 		"invincibility": "1~23 All"
 	},
 	{
-		"input": "Grand623M",
+		"input": "Grand 623M",
 		"name": "M Red Beryl Sword (Luminiera Form)",
 		"damage": "700, 1000",
 		"guard": "Mid",
@@ -588,7 +588,7 @@
 		"invincibility": "1~14 All"
 	},
 	{
-		"input": "Grand623U",
+		"input": "Grand 623U",
 		"name": "U Grand Red Beryl Sword",
 		"damage": "700, 200×3, 700, 200",
 		"guard": "Mid",
@@ -624,7 +624,7 @@
 		"invincibility": "1~15 All"
 	},
 	{
-		"input": "Grand236236H",
+		"input": "Grand 236236H",
 		"name": "Punishment Ray",
 		"damage": "1200, 200×14",
 		"guard": "All, All×14",
@@ -636,7 +636,7 @@
 		"invincibility": "1~16 All"
 	},
 	{
-		"input": "Grand236236U",
+		"input": "Grand 236236U",
 		"name": "Iliad Vision",
 		"damage": "600×2, 1800, 120×15, 240, 600×2 [500×2, 1500, 500, 1000]",
 		"guard": "Mid",
@@ -660,7 +660,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand5U",
+		"input": "Grand 5U",
 		"name": "Graveview",
 		"damage": "1200",
 		"guard": "Mid",
@@ -672,7 +672,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand5U2",
+		"input": "Grand 5U2",
 		"name": "Land",
 		"damage": "-",
 		"guard": "-",
@@ -684,7 +684,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand5U4",
+		"input": "Grand 5U4",
 		"name": "Retreat",
 		"damage": "-",
 		"guard": "-",
@@ -696,7 +696,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand5U6",
+		"input": "Grand 5U6",
 		"name": "Advance",
 		"damage": "-",
 		"guard": "-",
@@ -708,7 +708,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand5U8",
+		"input": "Grand 5U8",
 		"name": "Jump",
 		"damage": "-",
 		"guard": "-",
@@ -720,7 +720,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grand5UX",
+		"input": "Grand 5UX",
 		"name": "Falling Strike",
 		"damage": "1200",
 		"guard": "All",
@@ -732,7 +732,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Grandj66",
+		"input": "Grand j66",
 		"name": "Air Dash",
 		"damage": "-",
 		"guard": "-",
