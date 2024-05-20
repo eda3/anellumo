@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Hアスモデウス(214H)",
-		"name": "214H",
+		"input": "214H",
+		"name": "H Asmodeus",
 		"damage": "700, 800",
 		"guard": "Mid",
 		"startup": "14",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Lアスモデウス(214L)",
-		"name": "214L",
+		"input": "214L",
+		"name": "L Asmodeus",
 		"damage": "700, 500",
 		"guard": "Mid",
 		"startup": "15",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Mアスモデウス(214M)",
-		"name": "214M",
+		"input": "214M",
+		"name": "M Asmodeus",
 		"damage": "700, 700",
 		"guard": "Mid",
 		"startup": "21",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Uアスモデウス(214U)",
-		"name": "214U",
+		"input": "214U",
+		"name": "U Asmodeus",
 		"damage": "1500×2",
 		"guard": "Guard Crush 22",
 		"startup": "13",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Hゴエティア(236H)",
-		"name": "236H",
+		"input": "236H",
+		"name": "H Goetia",
 		"damage": "400×3",
 		"guard": "All",
 		"startup": "15",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Lゴエティア(236L)",
-		"name": "236L",
+		"input": "236L",
+		"name": "L Goetia",
 		"damage": "800",
 		"guard": "All",
 		"startup": "15",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Mゴエティア(236M)",
-		"name": "236M",
+		"input": "236M",
+		"name": "M Goetia",
 		"damage": "800",
 		"guard": "All",
 		"startup": "17",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Uゴエティア(236U)",
-		"name": "236U",
+		"input": "236U",
+		"name": "U Goetia",
 		"damage": "550, 70×15",
 		"guard": "All",
 		"startup": "13",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "H少々屈曲するのは普通だろう？(236X4H)",
-		"name": "236X4H",
+		"input": "236X4H",
+		"name": "H Everyone's A Little Crooked",
 		"damage": "100×5",
 		"guard": "All",
 		"startup": "27",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "L少々屈曲するのは普通だろう？(236X4L)",
-		"name": "236X4L",
+		"input": "236X4L",
+		"name": "L Everyone's A Little Crooked",
 		"damage": "150×3",
 		"guard": "All",
 		"startup": "13",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "M少々屈曲するのは普通だろう？(236X4M)",
-		"name": "236X4M",
+		"input": "236X4M",
+		"name": "M Everyone's A Little Crooked",
 		"damage": "150×3",
 		"guard": "All",
 		"startup": "13",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Hノトリア(623H)",
-		"name": "623H",
+		"input": "623H",
+		"name": "H Notoria",
 		"damage": "600, 400, 500",
 		"guard": "Mid×2, All",
 		"startup": "11",
@@ -456,8 +456,8 @@
 		"invincibility": "1~24 All"
 	},
 	{
-		"input": "Lノトリア(623L)",
-		"name": "623L",
+		"input": "623L",
+		"name": "L Notoria",
 		"damage": "700, 300",
 		"guard": "All",
 		"startup": "6",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Mノトリア(623M)",
-		"name": "623M",
+		"input": "623M",
+		"name": "M Notoria",
 		"damage": "1000, 500",
 		"guard": "All",
 		"startup": "38",
@@ -480,8 +480,8 @@
 		"invincibility": "11~22 All"
 	},
 	{
-		"input": "Uノトリア(623U)",
-		"name": "623U",
+		"input": "623U",
+		"name": "U Notoria",
 		"damage": "700, 300, 0, 500, 400, 100",
 		"guard": "Mid",
 		"startup": "8",
@@ -492,8 +492,8 @@
 		"invincibility": "1-14 All"
 	},
 	{
-		"input": "Hヴァサーゴ(632146H)",
-		"name": "632146H",
+		"input": "632146H",
+		"name": "H Vassago",
 		"damage": "500, 2000",
 		"guard": "Throw",
 		"startup": "27~82",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Lヴァサーゴ(632146L)",
-		"name": "632146L",
+		"input": "632146L",
+		"name": "L Vassago",
 		"damage": "500, 1500",
 		"guard": "Throw",
 		"startup": "34",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Mヴァサーゴ(632146M)",
-		"name": "632146M",
+		"input": "632146M",
+		"name": "M Vassago",
 		"damage": "500, 2000",
 		"guard": "Throw",
 		"startup": "52",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Uヴァサーゴ(632146U)",
-		"name": "632146U",
+		"input": "632146U",
+		"name": "U Vassago",
 		"damage": "-",
 		"guard": "-",
 		"startup": "3",
@@ -540,8 +540,8 @@
 		"invincibility": "3-87 Catch All"
 	},
 	{
-		"input": "ヴァサーゴ（当身）(632146UCatch)",
-		"name": "632146U Catch",
+		"input": "632146UCatch",
+		"name": "U Vassago Catch",
 		"damage": "900×2",
 		"guard": "Mid",
 		"startup": "Jump+11",
@@ -552,8 +552,8 @@
 		"invincibility": "1-5 All"
 	},
 	{
-		"input": "ヴァサーゴ（投げ）(632146UThrow)",
-		"name": "632146U Throw",
+		"input": "632146UThrow",
+		"name": "U Vassago Throw",
 		"damage": "500, 1000, 1500",
 		"guard": "Throw",
 		"startup": "8",
@@ -564,8 +564,8 @@
 		"invincibility": "1-11 All"
 	},
 	{
-		"input": "レメゲトン(236236H)",
-		"name": "236236H",
+		"input": "236236H",
+		"name": "Legemeton",
 		"damage": "1000×2, 500, 2000 [1000, 2500]",
 		"guard": "Mid",
 		"startup": "8+5",
@@ -576,8 +576,8 @@
 		"invincibility": "1~16 All"
 	},
 	{
-		"input": "アナゲンネーシス(236236U)",
-		"name": "236236U",
+		"input": "236236U",
+		"name": "Anagenesis",
 		"damage": "3000, 600, 120×10, 120 [2500, 1500]",
 		"guard": "Mid",
 		"startup": "8+5",
@@ -588,8 +588,8 @@
 		"invincibility": "1~15 All"
 	},
 	{
-		"input": "無価値なもの(5U)",
-		"name": "5U",
+		"input": "5U",
+		"name": "Give Daddy Some Sugar",
 		"damage": "-",
 		"guard": "-",
 		"startup": "3",
@@ -600,8 +600,8 @@
 		"invincibility": "3~87 Catch"
 	},
 	{
-		"input": "無価値なもの（当身）(5UCatch)",
-		"name": "5U Catch",
+		"input": "5UCatch",
+		"name": "Give Daddy Some Sugar (Attack)",
 		"damage": "300, 900",
 		"guard": "All",
 		"startup": "Jump+11",

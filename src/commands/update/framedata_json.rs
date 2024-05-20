@@ -67,6 +67,7 @@ pub async fn frames_to_json(
         r#""MH~MH","name":"Raging Chain""#,
         r#""レイジングチェイン(MHMH)","name":"MHMH""#,
     );
+    /*
 
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re
@@ -299,6 +300,7 @@ pub async fn frames_to_json(
         r#""5[U]","name":"Love's Redemption (Charged)""#,
         r#""愛ノ救イ（タメ）(5[U])","name":"5[U]""#,
     );
+    */
 
     let mut moves_info: Response = serde_json::from_str(&char_page_response_json).unwrap();
 
