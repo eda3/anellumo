@@ -3,7 +3,8 @@
     "input": "2H",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_2H.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/88/GBVSR_Cagliostro_2H_Hitbox1.png\\GBVSR_Cagliostro_2H_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/1/17/GBVSR_Cagliostro_2H_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/5/52/GBVSR_Cagliostro_2H_Hitbox2.png"
     ]
   },
   {
@@ -17,19 +18,23 @@
     "input": "2M",
     "move_img": "https://www.dustloop.com/wiki/images/e/ea/GBVS_Cagliostro_2M.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/5/54/GBVSR_Cagliostro_2M_Hitbox1.png\\GBVSR_Cagliostro_2M_Hitbox2.png\\GBVSR_Cagliostro_2M_Hitbox3.png"
+      "https://www.dustloop.com/wiki/images/4/46/GBVSR_Cagliostro_2M_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/4/45/GBVSR_Cagliostro_2M_Hitbox2.png",
+      "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Cagliostro_2M_Hitbox3.png"
     ]
   },
   {
     "input": "2U",
     "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVS_Cagliostro_2U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/9/96/GBVSR_Cagliostro_2U_Hitbox1.png\\GBVSR_Cagliostro_2U_Hitbox2.png\\GBVSR_Cagliostro_2U_Hitbox3.png"
+      "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Cagliostro_2U_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Cagliostro_2U_Hitbox2.png",
+      "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Cagliostro_2U_Hitbox3.png"
     ]
   },
   {
     "input": "66H",
-    "move_img": "https://www.dustloop.com/wiki/images/7/78/GBVSR_Cagliostro_66H.png\\GBVSR_Cagliostro_66H_2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Cagliostro_66H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/32/GBVSR_Cagliostro_66H_Hitbox.png"
     ]
@@ -52,7 +57,10 @@
     "input": "近H",
     "move_img": "https://www.dustloop.com/wiki/images/b/b2/GBVS_Cagliostro_cH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/1/18/GBVSR_Cagliostro_cH_Hitbox1.png\\GBVSR_Cagliostro_cH_Hitbox2.png\\GBVSR_Cagliostro_cH_Hitbox3.png\\GBVSR_Cagliostro_cH_Hitbox4.png"
+      "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Cagliostro_cH_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Cagliostro_cH_Hitbox2.png",
+      "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Cagliostro_cH_Hitbox3.png",
+      "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Cagliostro_cH_Hitbox4.png"
     ]
   },
   {
@@ -101,7 +109,9 @@
     "input": "遠H",
     "move_img": "https://www.dustloop.com/wiki/images/b/bc/GBVS_Cagliostro_fH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/79/GBVSR_Cagliostro_fH_Hitbox1.png\\GBVSR_Cagliostro_fH_Hitbox2.png\\GBVSR_Cagliostro_fH_Hitbox3.png"
+      "https://www.dustloop.com/wiki/images/1/11/GBVSR_Cagliostro_fH_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Cagliostro_fH_Hitbox2.png",
+      "https://www.dustloop.com/wiki/images/8/85/GBVSR_Cagliostro_fH_Hitbox3.png"
     ]
   },
   {
@@ -115,14 +125,18 @@
     "input": "遠M",
     "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVS_Cagliostro_fM.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/73/GBVSR_Cagliostro_fM_Hitbox1.png\\GBVSR_Cagliostro_fM_Hitbox2.png\\GBVSR_Cagliostro_fM_Hitbox3.png\\GBVSR_Cagliostro_fM_Hitbox4.png"
+      "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Cagliostro_fM_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Cagliostro_fM_Hitbox2.png",
+      "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Cagliostro_fM_Hitbox3.png",
+      "https://www.dustloop.com/wiki/images/9/96/GBVSR_Cagliostro_fM_Hitbox4.png"
     ]
   },
   {
     "input": "jH",
     "move_img": "https://www.dustloop.com/wiki/images/c/cd/GBVS_Cagliostro_jH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Cagliostro_jH_Hitbox1.png\\GBVSR_Cagliostro_jH_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Cagliostro_jH_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/3/31/GBVSR_Cagliostro_jH_Hitbox2.png"
     ]
   },
   {
@@ -143,7 +157,8 @@
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Cagliostro_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Cagliostro_BC_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/8/80/GBVSR_Cagliostro_BC_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -155,7 +170,7 @@
   },
   {
     "input": "LU",
-    "move_img": "https://www.dustloop.com/wiki/images/b/bd/GBVS_Cagliostro_FThrow.png\\GBVS_Cagliostro_BThrow.png",
+    "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVS_Cagliostro_FThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Cagliostro_FThrow_Hitbox.png"
     ]
@@ -164,14 +179,16 @@
     "input": "MH",
     "move_img": "https://www.dustloop.com/wiki/images/4/44/GBVSR_Cagliostro_RagingStrike.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/07/GBVSR_Cagliostro_5MH_Hitbox_1.png\\GBVSR_Cagliostro_5MH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/6/61/GBVSR_Cagliostro_5MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Cagliostro_5MH_Hitbox_2.png"
     ]
   },
   {
     "input": "MH~MH",
     "move_img": "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Cagliostro_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Cagliostro_6MH_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/8/89/GBVSR_Cagliostro_6MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -227,35 +244,41 @@
     "input": "22U",
     "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Cagliostro_22U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Cagliostro_22U_Hitbox.png\\_Numbers_in_[]_and_{}_are_recovery_when_hit/whiffed\\_On_hit,_cancelable_into_air_j236X"
+      "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Cagliostro_22U_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/4/4b/Numbers_in_[]_and_{}_are_recovery_when_hit/whiffed",
+      "https://www.dustloop.com/wiki/images/9/94/On_hit,_cancelable_into_air_j236X"
     ]
   },
   {
     "input": "236H",
-    "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_236X_Set.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236X_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
     "input": "236L",
-    "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_236X_Set.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236X_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
     "input": "236M",
-    "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_236X_Set.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236X_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
     "input": "236U",
-    "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Cagliostro_236U.png\\GBVSR_Cagliostro_236U_2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/7/75/GBVSR_Cagliostro_236U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/9/93/GBVSR_Cagliostro_236U_Hitbox.png\\GBVSR_Cagliostro_236U_2_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Cagliostro_236U_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/8/8d/GBVSR_Cagliostro_236U_2_Hitbox.png"
     ]
   },
   {
@@ -316,51 +339,62 @@
   },
   {
     "input": "j236H",
-    "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_236X_Set.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236X_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
     "input": "j236L",
-    "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_236X_Set.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236X_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
     "input": "j236M",
-    "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Cagliostro_236X_Set.png\\GBVS_Cagliostro_236X_Activate.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Cagliostro_236X_Set.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/04/GBVSR_Cagliostro_236X_Set_Hitbox.png\\GBVSR_Cagliostro_236X_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236X_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Cagliostro_236X_Activate_Hitbox.png"
     ]
   },
   {
     "input": "j236U",
-    "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Cagliostro_236U.png\\GBVSR_Cagliostro_236U_2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/7/75/GBVSR_Cagliostro_236U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Cagliostro_236U_Set_Hitbox.png\\GBVSR_Cagliostro_236U_Activate_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/2/23/GBVSR_Cagliostro_236U_Set_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Cagliostro_236U_Activate_Hitbox.png"
     ]
   },
   {
     "input": "236236H",
-    "move_img": "https://www.dustloop.com/wiki/images/5/58/GBVS_Cagliostro_236236H_Start.png\\GBVS_Cagliostro_236236H.png",
+    "move_img": "https://www.dustloop.com/wiki/images/4/48/GBVS_Cagliostro_236236H_Start.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Cagliostro_236236H_Hitbox1.png\\GBVSR_Cagliostro_236236H_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/d/de/GBVSR_Cagliostro_236236H_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Cagliostro_236236H_Hitbox2.png"
     ]
   },
   {
     "input": "236236U",
-    "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVS_Cagliostro_236236U_Start.png\\GBVS_Cagliostro_236236U.png",
+    "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVS_Cagliostro_236236U_Start.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/3/38/GBVSR_Cagliostro_236236U_Hitbox1.png\\GBVSR_Cagliostro_236236U_Hitbox2.png\\GBVSR_Cagliostro_236236U_Hitbox3.png\\GBVSR_Cagliostro_236236U_Hitbox4.png\\GBVSR_Cagliostro_236236U_Hitbox5.png\\GBVSR_Cagliostro_236236U_Hitbox6.png"
+      "https://www.dustloop.com/wiki/images/3/36/GBVSR_Cagliostro_236236U_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Cagliostro_236236U_Hitbox2.png",
+      "https://www.dustloop.com/wiki/images/0/06/GBVSR_Cagliostro_236236U_Hitbox3.png",
+      "https://www.dustloop.com/wiki/images/8/82/GBVSR_Cagliostro_236236U_Hitbox4.png",
+      "https://www.dustloop.com/wiki/images/2/23/GBVSR_Cagliostro_236236U_Hitbox5.png",
+      "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Cagliostro_236236U_Hitbox6.png"
     ]
   },
   {
     "input": "5U",
     "move_img": "https://www.dustloop.com/wiki/images/9/96/GBVS_Cagliostro_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Cagliostro_5U_Hitbox1.png\\GBVSR_Cagliostro_5U_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Cagliostro_5U_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Cagliostro_5U_Hitbox2.png"
     ]
   },
   {

@@ -3,7 +3,8 @@
     "input": "2H",
     "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVS_Zeta_2H.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Zeta_2H_Hitbox_1.png\\GBVSR_Zeta_2H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/8/84/GBVSR_Zeta_2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Zeta_2H_Hitbox_2.png"
     ]
   },
   {
@@ -24,7 +25,8 @@
     "input": "2U",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Zeta_2U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Zeta_2U_Hitbox_1.png\\GBVSR_Zeta_2U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Zeta_2U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Zeta_2U_Hitbox_2.png"
     ]
   },
   {
@@ -52,7 +54,8 @@
     "input": "近H",
     "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Zeta_cH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/e/e3/GBVSR_Zeta_cH_Hitbox_1.png\\GBVSR_Zeta_cH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/6/63/GBVSR_Zeta_cH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Zeta_cH_Hitbox_2.png"
     ]
   },
   {
@@ -101,14 +104,16 @@
     "input": "遠H",
     "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVS_Zeta_fH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/4d/GBVSR_Zeta_fH_Hitbox_1.png\\GBVSR_Zeta_fH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/2/23/GBVSR_Zeta_fH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/60/GBVSR_Zeta_fH_Hitbox_2.png"
     ]
   },
   {
     "input": "遠L",
     "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVS_Zeta_fL.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Zeta_fL_Hitbox_1.png\\GBVSR_Zeta_fL_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/1/17/GBVSR_Zeta_fL_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/db/GBVSR_Zeta_fL_Hitbox_2.png"
     ]
   },
   {
@@ -136,21 +141,25 @@
     "input": "jM",
     "move_img": "https://www.dustloop.com/wiki/images/c/cc/GBVS_Zeta_jM.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/f/f6/GBVSR_Zeta_jM_Hitbox_1.png\\GBVSR_Zeta_jM_Hitbox_2.png\\GBVSR_Zeta_jM_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/2/24/GBVSR_Zeta_jM_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Zeta_jM_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Zeta_jM_Hitbox_3.png"
     ]
   },
   {
     "input": "jU",
     "move_img": "https://www.dustloop.com/wiki/images/e/e9/GBVS_Zeta_jU.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Zeta_jU_Hitbox_1.png\\GBVSR_Zeta_jU_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/8/81/GBVSR_Zeta_jU_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/90/GBVSR_Zeta_jU_Hitbox_2.png"
     ]
   },
   {
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Zeta_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Zeta_BC_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Zeta_BC_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -162,7 +171,7 @@
   },
   {
     "input": "LU",
-    "move_img": "https://www.dustloop.com/wiki/images/0/09/GBVS_Zeta_Throw.png\\GBVS_Zeta_BackThrow.png",
+    "move_img": "https://www.dustloop.com/wiki/images/0/04/GBVS_Zeta_Throw.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/78/GBVSR_Zeta_Throw_Hitbox.png"
     ]
@@ -171,14 +180,16 @@
     "input": "MH",
     "move_img": "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Zeta_RagingStrike.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/1/15/GBVSR_Zeta_5MH_Hitbox_1.png\\GBVSR_Zeta_5MH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Zeta_5MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/7/73/GBVSR_Zeta_5MH_Hitbox_2.png"
     ]
   },
   {
     "input": "MH~MH",
     "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVSR_Zeta_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Zeta_6MH_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Zeta_6MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -227,28 +238,35 @@
     "input": "214X &gt; M",
     "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVS_Zeta_214X-M.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Zeta_214X-M_Hitbox_1.png\\GBVSR_Zeta_214X-M_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/8/80/GBVSR_Zeta_214X-M_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Zeta_214X-M_Hitbox_2.png"
     ]
   },
   {
     "input": "22H",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/85/GBVSR_Zeta_22X_Hitbox_1.png\\GBVSR_Zeta_22X_Hitbox_2.png\\GBVSR_Zeta_22X_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/7/70/GBVSR_Zeta_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/5/52/GBVSR_Zeta_22X_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/1/16/GBVSR_Zeta_22X_Hitbox_3.png"
     ]
   },
   {
     "input": "22L",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/85/GBVSR_Zeta_22X_Hitbox_1.png\\GBVSR_Zeta_22X_Hitbox_2.png\\GBVSR_Zeta_22X_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/7/70/GBVSR_Zeta_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/5/52/GBVSR_Zeta_22X_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/1/16/GBVSR_Zeta_22X_Hitbox_3.png"
     ]
   },
   {
     "input": "22M",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/85/GBVSR_Zeta_22X_Hitbox_1.png\\GBVSR_Zeta_22X_Hitbox_2.png\\GBVSR_Zeta_22X_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/7/70/GBVSR_Zeta_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/5/52/GBVSR_Zeta_22X_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/1/16/GBVSR_Zeta_22X_Hitbox_3.png"
     ]
   },
   {
@@ -283,21 +301,24 @@
     "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Zeta_236X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/da/GBVSR_Zeta_236X_Hitbox_1.png\\GBVSR_Zeta_236X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/4/48/GBVSR_Zeta_236X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Zeta_236X_Hitbox_2.png"
     ]
   },
   {
     "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Zeta_236X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/da/GBVSR_Zeta_236X_Hitbox_1.png\\GBVSR_Zeta_236X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/4/48/GBVSR_Zeta_236X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Zeta_236X_Hitbox_2.png"
     ]
   },
   {
     "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Zeta_236X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/da/GBVSR_Zeta_236X_Hitbox_1.png\\GBVSR_Zeta_236X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/4/48/GBVSR_Zeta_236X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Zeta_236X_Hitbox_2.png"
     ]
   },
   {
@@ -311,21 +332,24 @@
     "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/4/4d/GBVS_Zeta_66X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Zeta_623X_Hitbox_1.png\\GBVSR_Zeta_623X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Zeta_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Zeta_623X_Hitbox_2.png"
     ]
   },
   {
     "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/4/4d/GBVS_Zeta_66X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Zeta_623X_Hitbox_1.png\\GBVSR_Zeta_623X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Zeta_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Zeta_623X_Hitbox_2.png"
     ]
   },
   {
     "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/4/4d/GBVS_Zeta_66X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Zeta_623X_Hitbox_1.png\\GBVSR_Zeta_623X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Zeta_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Zeta_623X_Hitbox_2.png"
     ]
   },
   {
@@ -339,21 +363,24 @@
     "input": "623X~4X/6X",
     "move_img": "https://www.dustloop.com/wiki/images/4/4d/GBVS_Zeta_66X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Zeta_623X_Hitbox_1.png\\GBVSR_Zeta_623X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Zeta_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Zeta_623X_Hitbox_2.png"
     ]
   },
   {
     "input": "623X~7X/9X",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Zeta_22X_Hitbox.png\\"
+      "https://www.dustloop.com/wiki/images/3/37/GBVSR_Zeta_22X_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
     "input": "623X~8X",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Zeta_22X_Hitbox.png\\"
+      "https://www.dustloop.com/wiki/images/3/37/GBVSR_Zeta_22X_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -414,30 +441,37 @@
   },
   {
     "input": "236236H",
-    "move_img": "https://www.dustloop.com/wiki/images/d/d1/GBVS_Zeta_236236H_Start.png\\GBVS_Zeta_236236H.png",
+    "move_img": "https://www.dustloop.com/wiki/images/4/46/GBVS_Zeta_236236H_Start.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/6/62/GBVSR_Zeta_236236H_Hitbox_1.png\\GBVSR_Zeta_236236H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Zeta_236236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/0/00/GBVSR_Zeta_236236H_Hitbox_2.png"
     ]
   },
   {
     "input": "236236U",
-    "move_img": "https://www.dustloop.com/wiki/images/9/9b/GBVS_Zeta_236236U.png\\GBVS_Zeta_236236U_Finish.png",
+    "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVS_Zeta_236236U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/3/36/GBVSR_Zeta_236236U_Hitbox_1.png\\GBVSR_Zeta_236236U_Hitbox_2.png\\GBVSR_Zeta_236236U_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Zeta_236236U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Zeta_236236U_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Zeta_236236U_Hitbox_3.png"
     ]
   },
   {
     "input": "j236236H",
-    "move_img": "https://www.dustloop.com/wiki/images/6/64/GBVS_Zeta_236236H_Start.png\\GBVS_Zeta_j236236H.png",
+    "move_img": "https://www.dustloop.com/wiki/images/4/46/GBVS_Zeta_236236H_Start.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/87/GBVSR_Zeta_j236236H_Hitbox_1.png\\GBVSR_Zeta_j236236H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Zeta_j236236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Zeta_j236236H_Hitbox_2.png"
     ]
   },
   {
     "input": "5U",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Zeta_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Zeta_5U_Hitbox_1.png\\GBVSR_Zeta_5U_Hitbox_2.png\\GBVSR_Zeta_5U_Hitbox_3.png\\GBVSR_Zeta_5U_Hitbox_4.png"
+      "https://www.dustloop.com/wiki/images/3/32/GBVSR_Zeta_5U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Zeta_5U_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Zeta_5U_Hitbox_3.png",
+      "https://www.dustloop.com/wiki/images/8/82/GBVSR_Zeta_5U_Hitbox_4.png"
     ]
   }
 ]

@@ -3,7 +3,8 @@
     "input": "2H",
     "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVSR_Djeeta_2H.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/3/35/GBVSR_Djeeta_2H_Hitbox_1.png\\GBVSR_Djeeta_2H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Djeeta_2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/4/43/GBVSR_Djeeta_2H_Hitbox_2.png"
     ]
   },
   {
@@ -17,14 +18,16 @@
     "input": "2M",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Djeeta_2M.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/01/GBVSR_Djeeta_2M_Hitbox_1.png\\GBVSR_Djeeta_2M_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Djeeta_2M_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/93/GBVSR_Djeeta_2M_Hitbox_2.png"
     ]
   },
   {
     "input": "2U",
     "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Djeeta_2U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Djeeta_2U_Hitbox_1.png\\GBVSR_Djeeta_2U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Djeeta_2U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/68/GBVSR_Djeeta_2U_Hitbox_2.png"
     ]
   },
   {
@@ -52,7 +55,8 @@
     "input": "近H",
     "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Djeeta_cH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Djeeta_cH_Hitbox_1.png\\GBVSR_Djeeta_cH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/6/67/GBVSR_Djeeta_cH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Djeeta_cH_Hitbox_2.png"
     ]
   },
   {
@@ -101,7 +105,8 @@
     "input": "遠H",
     "move_img": "https://www.dustloop.com/wiki/images/b/bb/GBVSR_Djeeta_fH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/49/GBVSR_Djeeta_f5H_Hitbox_1.png\\GBVSR_Djeeta_f5H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Djeeta_f5H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Djeeta_f5H_Hitbox_2.png"
     ]
   },
   {
@@ -115,14 +120,16 @@
     "input": "遠M",
     "move_img": "https://www.dustloop.com/wiki/images/d/db/GBVSR_Djeeta_fM.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/5/59/GBVSR_Djeeta_f5M_Hitbox_1.png\\GBVSR_Djeeta_f5M_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Djeeta_f5M_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Djeeta_f5M_Hitbox_2.png"
     ]
   },
   {
     "input": "jH",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Djeeta_jH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/83/GBVSR_Djeeta_jH_Hitbox_1.png\\GBVSR_Djeeta_jH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Djeeta_jH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Djeeta_jH_Hitbox_2.png"
     ]
   },
   {
@@ -136,21 +143,25 @@
     "input": "jM",
     "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Djeeta_jM.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Djeeta_jM_Hitbox_1.png\\GBVSR_Djeeta_jM_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/5/54/GBVSR_Djeeta_jM_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Djeeta_jM_Hitbox_2.png"
     ]
   },
   {
     "input": "jU",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVSR_Djeeta_jU.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/5/59/GBVSR_Djeeta_jU_Hitbox_1.png\\GBVSR_Djeeta_jU_Hitbox_2.png\\GBVSR_Djeeta_jU_Hitbox3.png"
+      "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Djeeta_jU_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/3/32/GBVSR_Djeeta_jU_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Djeeta_jU_Hitbox3.png"
     ]
   },
   {
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Djeeta_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Djeeta_BC_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Djeeta_BC_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -162,7 +173,7 @@
   },
   {
     "input": "LU",
-    "move_img": "https://www.dustloop.com/wiki/images/b/b9/GBVSR_Djeeta_Throw.png\\GBVSR_Djeeta_BackThrow.png",
+    "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Djeeta_Throw.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/45/GBVSR_Djeeta_Throw_Hitbox.png"
     ]
@@ -171,14 +182,16 @@
     "input": "MH",
     "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Djeeta_RagingStrike.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Djeeta_5MH_Hitbox_1.png\\GBVSR_Djeeta_5MH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/9/95/GBVSR_Djeeta_5MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/2/25/GBVSR_Djeeta_5MH_Hitbox_2.png"
     ]
   },
   {
     "input": "MH~MH",
     "move_img": "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Djeeta_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/09/GBVSR_Djeeta_6MH_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Djeeta_6MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -288,7 +301,7 @@
   },
   {
     "input": "623H",
-    "move_img": "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Djeeta_623L.png\\GBVSR_Djeeta_623M.png",
+    "move_img": "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Djeeta_623L.png",
     "hitbox_img": [
       ""
     ]
@@ -316,14 +329,14 @@
   },
   {
     "input": "236236H",
-    "move_img": "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Djeeta_236236H_Start.png\\GBVSR_Djeeta_236236H.png",
+    "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_Djeeta_236236H_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Djeeta_236236H_Hitbox.png"
     ]
   },
   {
     "input": "236236U",
-    "move_img": "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Djeeta_236236U_Start.png\\GBVSR_Djeeta_236236U.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Djeeta_236236U_Start.png",
     "hitbox_img": [
       ""
     ]
@@ -332,35 +345,40 @@
     "input": "5U lv0",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Djeeta_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/00/GBVSR_Djeeta_5U_Hitbox_1.png\\GBVSR_Djeeta_5U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Djeeta_5U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Djeeta_5U_Hitbox_2.png"
     ]
   },
   {
     "input": "5U lv1",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Djeeta_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/00/GBVSR_Djeeta_5U_Hitbox_1.png\\GBVSR_Djeeta_5U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Djeeta_5U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Djeeta_5U_Hitbox_2.png"
     ]
   },
   {
     "input": "5U lv2",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Djeeta_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/00/GBVSR_Djeeta_5U_Hitbox_1.png\\GBVSR_Djeeta_5U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Djeeta_5U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Djeeta_5U_Hitbox_2.png"
     ]
   },
   {
     "input": "5U Lv3",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Djeeta_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/00/GBVSR_Djeeta_5U_Hitbox_1.png\\GBVSR_Djeeta_5U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Djeeta_5U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Djeeta_5U_Hitbox_2.png"
     ]
   },
   {
     "input": "5U Lv4",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Djeeta_5U.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/00/GBVSR_Djeeta_5U_Hitbox_1.png\\GBVSR_Djeeta_5U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Djeeta_5U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Djeeta_5U_Hitbox_2.png"
     ]
   },
   {

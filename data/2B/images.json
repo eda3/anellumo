@@ -157,7 +157,8 @@
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_2B_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/3/38/GBVSR_2B_BC_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/c/cd/GBVSR_2B_BC_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -185,7 +186,8 @@
     "input": "MH~MH",
     "move_img": "https://www.dustloop.com/wiki/images/7/7f/GBVSR_2B_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/b/b5/GBVSR_2B_6MH_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/8/80/GBVSR_2B_6MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -218,7 +220,7 @@
   },
   {
     "input": "22H",
-    "move_img": "https://www.dustloop.com/wiki/images/3/3e/GBVSR_2B_22H.png\\GBVSR_2B_22H_2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_2B_22H.png",
     "hitbox_img": [
       ""
     ]
@@ -281,7 +283,7 @@
   },
   {
     "input": "236236U",
-    "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_2B_236236U_Start.png\\GBVSR_2B_236236U.png\\GBVSR_2B_236236U_Finish.png",
+    "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_2B_236236U_Start.png",
     "hitbox_img": [
       ""
     ]

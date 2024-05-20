@@ -150,14 +150,16 @@
     "input": "6MH",
     "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lowain_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Lowain_6MH_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_6MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/4/49/GBVSR_Lowain_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/74/GBVSR_Lowain_BC_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_BC_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -169,7 +171,7 @@
   },
   {
     "input": "LU",
-    "move_img": "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Lowain_Throw.png\\GBVSR_Lowain_BackThrow.png",
+    "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Lowain_Throw.png",
     "hitbox_img": [
       ""
     ]
@@ -178,12 +180,13 @@
     "input": "MH",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_RagingStrike.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/45/GBVSR_Lowain_5MH_Hitbox_1.png\\GBVSR_Lowain_5MH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/9/96/GBVSR_Lowain_5MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/9/98/GBVSR_Lowain_5MH_Hitbox_2.png"
     ]
   },
   {
     "input": "214H",
-    "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Lowain_214L.png\\GBVSR_Lowain_214M.png\\GBVSR_Lowain_214H.png",
+    "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
     "hitbox_img": [
       ""
     ]
@@ -197,7 +200,7 @@
   },
   {
     "input": "214M",
-    "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Lowain_214L.png\\GBVSR_Lowain_214M.png",
+    "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
     "hitbox_img": [
       ""
     ]
@@ -386,7 +389,7 @@
   },
   {
     "input": "5U",
-    "move_img": "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Lowain_5U.png\\GBVSR_Lowain_5U_Food.png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Lowain_5U.png",
     "hitbox_img": [
       ""
     ]

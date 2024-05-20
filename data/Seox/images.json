@@ -3,7 +3,8 @@
     "input": "2H",
     "move_img": "https://www.dustloop.com/wiki/images/8/82/GBVS_Seox_2H.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/1/10/GBVSR_Seox_2H_Hitbox1.png\\GBVSR_Seox_2H_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/2/20/GBVSR_Seox_2H_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/5/58/GBVSR_Seox_2H_Hitbox2.png"
     ]
   },
   {
@@ -50,9 +51,10 @@
   },
   {
     "input": "近H",
-    "move_img": "https://www.dustloop.com/wiki/images/b/b9/GBVS_Seox_cH-1.png\\GBVS_Seox_cH-2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVS_Seox_cH-1.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/b/be/GBVSR_Seox_cH_Hitbox1.png\\GBVSR_Seox_cH_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/7/79/GBVSR_Seox_cH_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/9/92/GBVSR_Seox_cH_Hitbox2.png"
     ]
   },
   {
@@ -150,14 +152,16 @@
     "input": "6MH",
     "move_img": "https://www.dustloop.com/wiki/images/6/66/GBVSR_Seox_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Seox_6MH_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/7/73/GBVSR_Seox_6MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Seox_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Seox_BC_Hitbox_1.png\\"
+      "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Seox_BC_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -169,7 +173,7 @@
   },
   {
     "input": "LU",
-    "move_img": "https://www.dustloop.com/wiki/images/1/1b/GBVS_Seox_fThrow.png\\GBVS_Seox_bThrow.png",
+    "move_img": "https://www.dustloop.com/wiki/images/3/3c/GBVS_Seox_fThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/19/GBVSR_Seox_fThrow_Hitbox.png"
     ]
@@ -178,21 +182,24 @@
     "input": "MH",
     "move_img": "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Seox_RagingStrike.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/06/GBVSR_Seox_5MH_Hitbox_1.png\\GBVSR_Seox_5MH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/7/75/GBVSR_Seox_5MH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Seox_5MH_Hitbox_2.png"
     ]
   },
   {
     "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Seox_214L_Hitbox1.png\\GBVSR_Seox_214L_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Seox_214L_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/2/21/GBVSR_Seox_214L_Hitbox2.png"
     ]
   },
   {
     "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Seox_214L_Hitbox1.png\\GBVSR_Seox_214L_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Seox_214L_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/2/21/GBVSR_Seox_214L_Hitbox2.png"
     ]
   },
   {
@@ -213,21 +220,25 @@
     "input": "236H",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/1/14/GBVSR_Seox_236L_Hitbox.png\\GBVSR_Seox_236X_Hitbox.png\\GBVSR_Seox_236H_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Seox_236L_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/91/GBVSR_Seox_236X_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/2/24/GBVSR_Seox_236H_Hitbox.png"
     ]
   },
   {
     "input": "236L",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/5/59/GBVSR_Seox_236L_Hitbox.png\\GBVSR_Seox_236X_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Seox_236L_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/91/GBVSR_Seox_236X_Hitbox.png"
     ]
   },
   {
     "input": "236M",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/5/59/GBVSR_Seox_236L_Hitbox.png\\GBVSR_Seox_236X_Hitbox.png"
+      "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Seox_236L_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/9/91/GBVSR_Seox_236X_Hitbox.png"
     ]
   },
   {
@@ -255,19 +266,21 @@
     "input": "236X &gt; 6L",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Seox_236x6x.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/82/GBVSR_Seox_236x6x_Hitbox1.png\\GBVSR_Seox_236x6x_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/d/de/GBVSR_Seox_236x6x_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Seox_236x6x_Hitbox2.png"
     ]
   },
   {
     "input": "236X &gt; 6M/H",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Seox_236x6x.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/82/GBVSR_Seox_236x6x_Hitbox1.png\\GBVSR_Seox_236x6x_Hitbox2.png"
+      "https://www.dustloop.com/wiki/images/d/de/GBVSR_Seox_236x6x_Hitbox1.png",
+      "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Seox_236x6x_Hitbox2.png"
     ]
   },
   {
     "input": "236X &gt; 6U/4U",
-    "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVS_Seox_236x6u.png\\GBVS_Seox_236x4u.png",
+    "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVS_Seox_236x6u.png",
     "hitbox_img": [
       ""
     ]
@@ -288,21 +301,21 @@
   },
   {
     "input": "623H",
-    "move_img": "https://www.dustloop.com/wiki/images/8/8a/GBVS_Seox_623x-1.png\\GBVS_Seox_623x-2.png\\GBVS_Seox_236x6u.png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Seox_623x-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
     "input": "623L",
-    "move_img": "https://www.dustloop.com/wiki/images/8/8a/GBVS_Seox_623x-1.png\\GBVS_Seox_623x-2.png\\GBVS_Seox_236x6u.png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Seox_623x-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
     "input": "623M",
-    "move_img": "https://www.dustloop.com/wiki/images/f/f3/GBVS_Seox_623x-1.png\\GBVS_Seox_623x-2.png\\GBVS_Seox_623M.png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Seox_623x-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
@@ -372,21 +385,21 @@
   },
   {
     "input": "214214H",
-    "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVS_Seox_214214H.png\\GBVS_Seox_214214H_Clone.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Seox_214214H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
     "input": "236236H",
-    "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVS_Seox_236236H_Start.png\\GBVS_Seox_236236H.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6e/GBVS_Seox_236236H_Start.png",
     "hitbox_img": [
       ""
     ]
   },
   {
     "input": "236236U",
-    "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Seox_236236U_Start.png\\GBVS_Seox_236236U.png",
+    "move_img": "https://www.dustloop.com/wiki/images/d/d3/GBVS_Seox_236236U_Start.png",
     "hitbox_img": [
       ""
     ]

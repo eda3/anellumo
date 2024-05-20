@@ -3,7 +3,8 @@
     "input": "2H",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Soriz_2H.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Soriz_2H_Hitbox_1.png\\GBVSR_Soriz_2H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Soriz_2H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/5/52/GBVSR_Soriz_2H_Hitbox_2.png"
     ]
   },
   {
@@ -52,7 +53,8 @@
     "input": "近H",
     "move_img": "https://www.dustloop.com/wiki/images/8/84/GBVSR_Soriz_cH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Soriz_cH_Hitbox_1.png\\GBVSR_Soriz_cH2_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/3/32/GBVSR_Soriz_cH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/5/50/GBVSR_Soriz_cH2_Hitbox_2.png"
     ]
   },
   {
@@ -101,7 +103,8 @@
     "input": "遠H",
     "move_img": "https://www.dustloop.com/wiki/images/9/97/GBVSR_Soriz_fH.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Soriz_fH_Hitbox_1.png\\GBVSR_Soriz_fH_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Soriz_fH_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Soriz_fH_Hitbox_2.png"
     ]
   },
   {
@@ -150,7 +153,8 @@
     "input": "BC",
     "move_img": "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Soriz_BraveCounter.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/0/08/GBVSR_Soriz_BC_Hitbox.png\\"
+      "https://www.dustloop.com/wiki/images/2/25/GBVSR_Soriz_BC_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
@@ -162,7 +166,7 @@
   },
   {
     "input": "LU",
-    "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Soriz_Throw.png\\GBVSR_Soriz_BackThrow.png",
+    "move_img": "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Soriz_Throw.png",
     "hitbox_img": [
       ""
     ]
@@ -178,28 +182,32 @@
     "input": "MH~MH",
     "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVSR_Soriz_RagingChain.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Soriz_6MH_Hitbox.png\\"
+      "https://www.dustloop.com/wiki/images/1/16/GBVSR_Soriz_6MH_Hitbox.png",
+      "https://www.dustloop.com/wiki/images/d/d4/"
     ]
   },
   {
     "input": "214H",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/75/GBVSR_Soriz_214X_Hitbox_1.png\\GBVSR_Soriz_214X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png"
     ]
   },
   {
     "input": "214L",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/75/GBVSR_Soriz_214X_Hitbox_1.png\\GBVSR_Soriz_214X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png"
     ]
   },
   {
     "input": "214M",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/75/GBVSR_Soriz_214X_Hitbox_1.png\\GBVSR_Soriz_214X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png"
     ]
   },
   {
@@ -213,21 +221,24 @@
     "input": "22H",
     "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Soriz_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/49/GBVSR_Soriz_22X_Hitbox_1.png\\GBVSR_Soriz_22X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Soriz_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/60/GBVSR_Soriz_22X_Hitbox_2.png"
     ]
   },
   {
     "input": "22L",
     "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Soriz_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/49/GBVSR_Soriz_22X_Hitbox_1.png\\GBVSR_Soriz_22X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Soriz_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/60/GBVSR_Soriz_22X_Hitbox_2.png"
     ]
   },
   {
     "input": "22M",
     "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Soriz_22X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/4/49/GBVSR_Soriz_22X_Hitbox_1.png\\GBVSR_Soriz_22X_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Soriz_22X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/6/60/GBVSR_Soriz_22X_Hitbox_2.png"
     ]
   },
   {
@@ -269,21 +280,27 @@
     "input": "623H",
     "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Soriz_623X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Soriz_623X_Hitbox_1.png\\GBVSR_Soriz_623X_Hitbox_2.png\\GBVSR_Soriz_623X_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/7/79/GBVSR_Soriz_623X_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/9/91/GBVSR_Soriz_623X_Hitbox_3.png"
     ]
   },
   {
     "input": "623L",
     "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Soriz_623X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Soriz_623X_Hitbox_1.png\\GBVSR_Soriz_623X_Hitbox_2.png\\GBVSR_Soriz_623X_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/7/79/GBVSR_Soriz_623X_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/9/91/GBVSR_Soriz_623X_Hitbox_3.png"
     ]
   },
   {
     "input": "623M",
     "move_img": "https://www.dustloop.com/wiki/images/1/12/GBVSR_Soriz_623X.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Soriz_623X_Hitbox_1.png\\GBVSR_Soriz_623X_Hitbox_2.png\\GBVSR_Soriz_623X_Hitbox_3.png"
+      "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_623X_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/7/79/GBVSR_Soriz_623X_Hitbox_2.png",
+      "https://www.dustloop.com/wiki/images/9/91/GBVSR_Soriz_623X_Hitbox_3.png"
     ]
   },
   {
@@ -295,7 +312,7 @@
   },
   {
     "input": "Macho 214U",
-    "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Soriz_214U.png\\GBVSR_Soriz_214U_2.png\\GBVSR_Soriz_Macho_214U_2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Soriz_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/da/GBVSR_Soriz_214U_Hitbox.png"
     ]
@@ -316,9 +333,10 @@
   },
   {
     "input": "236236H",
-    "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Soriz_236236H_Start.png\\GBVSR_Soriz_236236H_1.png\\GBVSR_Soriz_236236H_2.png",
+    "move_img": "https://www.dustloop.com/wiki/images/3/38/GBVSR_Soriz_236236H_Start.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/5/58/GBVSR_Soriz_236236H_Hitbox_1.png\\GBVSR_Soriz_236236H_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/6/69/GBVSR_Soriz_236236H_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/5/55/GBVSR_Soriz_236236H_Hitbox_2.png"
     ]
   },
   {
@@ -330,9 +348,10 @@
   },
   {
     "input": "Macho 236236U",
-    "move_img": "https://www.dustloop.com/wiki/images/8/8d/GBVSR_Soriz_Macho_236236U_Start.png\\GBVSR_Soriz_Macho_236236U.png",
+    "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Soriz_Macho_236236U_Start.png",
     "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/e/e3/GBVSR_Soriz_Macho_236236U_Hitbox_1.png\\GBVSR_Soriz_Macho_236236U_Hitbox_2.png"
+      "https://www.dustloop.com/wiki/images/5/5f/GBVSR_Soriz_Macho_236236U_Hitbox_1.png",
+      "https://www.dustloop.com/wiki/images/4/47/GBVSR_Soriz_Macho_236236U_Hitbox_2.png"
     ]
   },
   {

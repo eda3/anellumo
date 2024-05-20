@@ -154,20 +154,21 @@ pub async fn images_to_json(
                     .images
                     .as_mut()
                     .unwrap()
-                    .contains(';')
+                    .contains('\\')
                 {
                     let split_image: Vec<&str> = imagedata.cargoquery[x]
                         .title
                         .images
                         .as_mut()
                         .unwrap()
-                        .split(';')
+                        .split('\\')
                         .collect();
 
                     imagedata.cargoquery[x].title.images =
                         Some(split_image[0].to_string().replace(' ', "_"));
 
                     // Sending image name to make_link to become a link
+                    println!("〇Multiple image names");
                     image_link = make_link(
                         imagedata.cargoquery[x]
                             .title
@@ -189,6 +190,7 @@ pub async fn images_to_json(
                             .replace(' ', "_"),
                     );
                     // Sending image name to make_link to become a link
+                    println!("〇Single image name");
                     image_link = make_link(
                         imagedata.cargoquery[x]
                             .title
@@ -228,7 +230,7 @@ pub async fn images_to_json(
                     .hitboxes
                     .as_ref()
                     .unwrap()
-                    .split(';')
+                    .split('\\')
                     .collect();
 
                 for hitbox_string in &hitbox_str {
@@ -276,6 +278,8 @@ pub async fn images_to_json(
 }
 
 async fn make_link(image_name: String) -> String {
+    println!("{}", image_name);
+    println!("");
     let image_bytes = image_name.as_bytes();
 
     // Creating a Md5 hasher instance
