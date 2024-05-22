@@ -103,15 +103,15 @@ pub async fn frames_to_json(
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236H","name":"Pod C""#,
-        r#""ポッドc(236H)","name":"236H""#,
+        r#""ポッドC(236H)","name":"236H""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236L","name":"Pod A""#,
-        r#""ポッドa(236L)","name":"236L""#,
+        r#""ポッドA(236L)","name":"236L""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236M","name":"Pod B""#,
-        r#""ポッドb(236M)","name":"236M""#,
+        r#""ポッドB(236M)","name":"236M""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236U","name":"R010: Laser""#,
