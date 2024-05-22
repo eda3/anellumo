@@ -179,7 +179,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVSR_Soriz_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/16/GBVSR_Soriz_6MH_Hitbox.png",
@@ -318,14 +318,14 @@
     ]
   },
   {
-    "input": "214X~214X",
+    "input": "214X214X",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_Macho_214X-214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/11/GBVSR_Soriz_Macho_214X-214X_Hitbox.png"
     ]
   },
   {
-    "input": "214X~236X",
+    "input": "214X236X",
     "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Soriz_Macho_214X-236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Soriz_Macho_214X-236X_Hitbox.png"
@@ -362,7 +362,7 @@
     ]
   },
   {
-    "input": "5U~6X",
+    "input": "5U6X",
     "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Soriz_5U-6X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/65/GBVSR_Soriz_5U_Hitbox.png"

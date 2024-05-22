@@ -184,7 +184,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Cagliostro_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/89/GBVSR_Cagliostro_6MH_Hitbox_1.png",
@@ -246,7 +246,7 @@
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Cagliostro_22U_Hitbox.png",
       "https://www.dustloop.com/wiki/images/4/4b/Numbers_in_[]_and_{}_are_recovery_when_hit/whiffed",
-      "https://www.dustloop.com/wiki/images/9/94/On_hit,_cancelable_into_air_j236X"
+      "https://www.dustloop.com/wiki/images/f/fc/On_hit,_cancelable_into_air_j.236X"
     ]
   },
   {

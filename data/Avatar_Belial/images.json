@@ -190,7 +190,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Avatar_Belial_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/90/GBVSR_Avatar_Belial_6MH_Hitbox_1.png;"
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "input": "22H~H",
+    "input": "22HH",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVS_Avatar_Belial_22X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/09/GBVSR_Avatar_Belial_22XH_Hitbox.png"
@@ -253,7 +253,7 @@
     ]
   },
   {
-    "input": "22L~H",
+    "input": "22LH",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVS_Avatar_Belial_22X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/09/GBVSR_Avatar_Belial_22XH_Hitbox.png"
@@ -267,7 +267,7 @@
     ]
   },
   {
-    "input": "22M~H",
+    "input": "22MH",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVS_Avatar_Belial_22X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/09/GBVSR_Avatar_Belial_22XH_Hitbox.png"
@@ -281,28 +281,28 @@
     ]
   },
   {
-    "input": "22X~L",
+    "input": "22XL",
     "move_img": "https://www.dustloop.com/wiki/images/4/48/GBVS_Avatar_Belial_22X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Avatar_Belial_22XL_Hitbox.png"
     ]
   },
   {
-    "input": "22X~M",
+    "input": "22XM",
     "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVS_Avatar_Belial_22X-M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Avatar_Belial_22XM_Hitbox.png"
     ]
   },
   {
-    "input": "22X~U",
+    "input": "22XU",
     "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVS_Avatar_Belial_22X-U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Avatar_Belial_22XU_Hitbox.png"
     ]
   },
   {
-    "input": "22X~[U]",
+    "input": "22X[U]",
     "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVS_Avatar_Belial_22X-U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Avatar_Belial_22XU-Charged_Hitbox1.png",

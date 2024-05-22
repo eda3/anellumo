@@ -175,7 +175,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Anila_RC.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Anila_RC_Hitbox_1.png;"
@@ -189,7 +189,7 @@
     ]
   },
   {
-    "input": "214H~4X",
+    "input": "214H4X",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
@@ -203,7 +203,7 @@
     ]
   },
   {
-    "input": "214L~4X",
+    "input": "214L4X",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
@@ -217,7 +217,7 @@
     ]
   },
   {
-    "input": "214M~4X",
+    "input": "214M4X",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "input": "5U~U",
+    "input": "5UU",
     "move_img": "https://www.dustloop.com/wiki/images/1/14/GBVSR_Anila_5UU.png",
     "hitbox_img": [
       ""

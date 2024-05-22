@@ -167,7 +167,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Lancelot_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Lancelot_RC_Hitbox.png"
@@ -181,7 +181,7 @@
     ]
   },
   {
-    "input": "214H~4H",
+    "input": "214H4H",
     "move_img": "https://www.dustloop.com/wiki/images/f/fb/GBVS_Lancelot_214X-4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/13/GBVSR_Lancelot_214X4X_Hitbox.png"
@@ -209,14 +209,14 @@
     ]
   },
   {
-    "input": "214X~4X",
+    "input": "214X4X",
     "move_img": "https://www.dustloop.com/wiki/images/f/fb/GBVS_Lancelot_214X-4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/13/GBVSR_Lancelot_214X4X_Hitbox.png"
     ]
   },
   {
-    "input": "214X~4X Ender",
+    "input": "214X4X Ender",
     "move_img": "https://www.dustloop.com/wiki/images/4/42/GBVS_Lancelot_214X-4X-4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Lancelot_214X4X4X_Hitbox.png"
@@ -344,28 +344,28 @@
     ]
   },
   {
-    "input": "5U~2U",
+    "input": "5U2U",
     "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVS_Lancelot_5U-2U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U~4U",
+    "input": "5U4U",
     "move_img": "https://www.dustloop.com/wiki/images/0/0a/GBVS_Lancelot_5U-4U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U~5U",
+    "input": "5U5U",
     "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVS_Lancelot_5U-5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U~6U",
+    "input": "5U6U",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVS_Lancelot_5U-6U.png",
     "hitbox_img": [
       ""

@@ -181,7 +181,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVSR_Zooey_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Zooey_MHMH_Hitbox_1.png",
@@ -197,14 +197,14 @@
     ]
   },
   {
-    "input": "214H~5X",
+    "input": "214H5X",
     "move_img": "https://www.dustloop.com/wiki/images/8/82/GBVSR_Zooey_214X-5X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Zooey_214X-5X_Hitbox.png"
     ]
   },
   {
-    "input": "214H~6X",
+    "input": "214H6X",
     "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Zooey_214X-6X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Zooey_214X-6X_Hitbox_1.png",
@@ -220,14 +220,14 @@
     ]
   },
   {
-    "input": "214L~5X",
+    "input": "214L5X",
     "move_img": "https://www.dustloop.com/wiki/images/8/82/GBVSR_Zooey_214X-5X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Zooey_214X-5X_Hitbox.png"
     ]
   },
   {
-    "input": "214L~6X",
+    "input": "214L6X",
     "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Zooey_214X-6X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Zooey_214X-6X_Hitbox_1.png",
@@ -243,14 +243,14 @@
     ]
   },
   {
-    "input": "214M~5X",
+    "input": "214M5X",
     "move_img": "https://www.dustloop.com/wiki/images/8/82/GBVSR_Zooey_214X-5X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Zooey_214X-5X_Hitbox.png"
     ]
   },
   {
-    "input": "214M~6X",
+    "input": "214M6X",
     "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Zooey_214X-6X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Zooey_214X-6X_Hitbox_1.png",
@@ -408,7 +408,7 @@
     ]
   },
   {
-    "input": "5U~6X",
+    "input": "5U6X",
     "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVSR_Zooey_5U-6X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Zooey_5U-6X_Hitbox.png"

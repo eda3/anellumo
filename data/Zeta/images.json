@@ -185,7 +185,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVSR_Zeta_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Zeta_6MH_Hitbox_1.png",
@@ -277,21 +277,21 @@
     ]
   },
   {
-    "input": "22X~1X/2X/3X",
+    "input": "22X1X/2X/3X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22X~6X/4X",
+    "input": "22X6X/4X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22X~9X/8X/7X",
+    "input": "22X9X/8X/7X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "input": "623X~4X/6X",
+    "input": "623X4X/6X",
     "move_img": "https://www.dustloop.com/wiki/images/4/4d/GBVS_Zeta_66X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/af/GBVSR_Zeta_623X_Hitbox_1.png",
@@ -368,7 +368,7 @@
     ]
   },
   {
-    "input": "623X~7X/9X",
+    "input": "623X7X/9X",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/37/GBVSR_Zeta_22X_Hitbox.png",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "input": "623X~8X",
+    "input": "623X8X",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVS_Zeta_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/37/GBVSR_Zeta_22X_Hitbox.png",
@@ -412,28 +412,28 @@
     ]
   },
   {
-    "input": "~6X/4X",
+    "input": "6X/4X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "~9X/8X/7X",
+    "input": "9X/8X/7X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "~j1X/j2X/j3X",
+    "input": "j.1X/j.2X/j.3X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "~j6X/j4X",
+    "input": "j.6X/j.4X",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Zeta_66X_FollowUp.png",
     "hitbox_img": [
       ""

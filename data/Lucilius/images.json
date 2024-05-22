@@ -176,7 +176,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Lucilius_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Lucilius_6MH_Hitbox_1.png",
@@ -324,21 +324,21 @@
     ]
   },
   {
-    "input": "5U~H",
+    "input": "5UH",
     "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Lucilius_5UH.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Lucilius_5UH_Hitbox.png"
     ]
   },
   {
-    "input": "5U~L",
+    "input": "5UL",
     "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Lucilius_5UL.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/96/GBVSR_Lucilius_5UL_Hitbox.png"
     ]
   },
   {
-    "input": "5U~M",
+    "input": "5UM",
     "move_img": "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Lucilius_5UM.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Lucilius_5UM_Hitbox.png"

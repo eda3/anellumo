@@ -187,7 +187,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Djeeta_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Djeeta_6MH_Hitbox_1.png",
@@ -202,14 +202,14 @@
     ]
   },
   {
-    "input": "214H~214H",
+    "input": "214H214H",
     "move_img": "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Djeeta_214M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214H~214H~214H",
+    "input": "214H214H214H",
     "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Djeeta_214X_214X.png",
     "hitbox_img": [
       ""
@@ -223,7 +223,7 @@
     ]
   },
   {
-    "input": "214L~214L",
+    "input": "214L214L",
     "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Djeeta_214X_214X.png",
     "hitbox_img": [
       ""
@@ -237,7 +237,7 @@
     ]
   },
   {
-    "input": "214M~214M",
+    "input": "214M214M",
     "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Djeeta_214X_214X.png",
     "hitbox_img": [
       ""
@@ -382,7 +382,7 @@
     ]
   },
   {
-    "input": "5[U] ~ X",
+    "input": "5[U]  X",
     "move_img": "",
     "hitbox_img": [
       ""

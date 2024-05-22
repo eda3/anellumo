@@ -175,7 +175,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/2/21/GBVSR_Ladiva_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/56/GBVSR_Ladiva_6MH_Hitbox_1.png;"
@@ -253,84 +253,84 @@
   },
   {
     "input": "360H",
-    "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_360X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/87/GBVSR_Ladiva_360M_Hitbox.png"
     ]
   },
   {
     "input": "360L",
-    "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_360X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Ladiva_360L_Hitbox.png"
     ]
   },
   {
     "input": "360M",
-    "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Ladiva_360X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/87/GBVSR_Ladiva_360M_Hitbox.png"
     ]
   },
   {
     "input": "360U",
-    "move_img": "https://www.dustloop.com/wiki/images/a/af/GBVSR_Ladiva_360U_whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Ladiva_360U_whiff.png",
     "hitbox_img": [
       ""
     ]
   },
   {
     "input": "623H",
-    "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Ladiva_623X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Ladiva_623X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
     ]
   },
   {
     "input": "623L",
-    "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Ladiva_623X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Ladiva_623X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
     ]
   },
   {
     "input": "623M",
-    "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Ladiva_623X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Ladiva_623X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/99/GBVSR_Ladiva_623X_Hitbox.png"
     ]
   },
   {
     "input": "623U",
-    "move_img": "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Ladiva_623U_whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Ladiva_623U_whiff.png",
     "hitbox_img": [
       ""
     ]
   },
   {
     "input": "j360H",
-    "move_img": "https://www.dustloop.com/wiki/images/8/88/GBVSR_Ladiva_j360X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360M_Hitbox.png"
     ]
   },
   {
     "input": "j360L",
-    "move_img": "https://www.dustloop.com/wiki/images/8/88/GBVSR_Ladiva_j360X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/34/GBVSR_Ladiva_j360L_Hitbox.png"
     ]
   },
   {
     "input": "j360M",
-    "move_img": "https://www.dustloop.com/wiki/images/8/88/GBVSR_Ladiva_j360X_Whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360X_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Ladiva_j360M_Hitbox.png"
     ]
   },
   {
     "input": "j360U",
-    "move_img": "https://www.dustloop.com/wiki/images/c/ce/GBVSR_Ladiva_j360U_whif遠png",
+    "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Ladiva_j360U_whiff.png",
     "hitbox_img": [
       ""
     ]

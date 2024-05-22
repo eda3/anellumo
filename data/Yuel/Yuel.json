@@ -151,7 +151,7 @@
 		"startup": "12",
 		"active": "3",
 		"recovery": "16",
-		"hit": "KD",
+		"hit": "KD +51",
 		"block": "-4",
 		"invincibility": "-"
 	},
@@ -451,7 +451,7 @@
 		"startup": "18",
 		"active": "2×6,4",
 		"recovery": "21",
-		"hit": "KD",
+		"hit": "KD +48",
 		"block": "-8",
 		"invincibility": "-"
 	},
@@ -487,7 +487,7 @@
 		"startup": "6",
 		"active": "2×5",
 		"recovery": "27",
-		"hit": "KD",
+		"hit": "KD +52",
 		"block": "-12",
 		"invincibility": "-"
 	},
@@ -499,7 +499,7 @@
 		"startup": "9",
 		"active": "2×8",
 		"recovery": "33",
-		"hit": "KD",
+		"hit": "Air Recovery +16",
 		"block": "-26",
 		"invincibility": "1-14 Full"
 	},
@@ -571,7 +571,7 @@
 		"startup": "8",
 		"active": "3",
 		"recovery": "15",
-		"hit": "KD",
+		"hit": "Air Recovery +23",
 		"block": "-3",
 		"invincibility": "-"
 	},

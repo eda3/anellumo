@@ -350,7 +350,7 @@
 	{
 		"input": "214U",
 		"name": "U Carnal Passion",
-		"damage": "2600 total",
+		"damage": "800x2, 1000",
 		"guard": "Mid",
 		"startup": "13 [20]",
 		"active": "4(11)4(16)6",
@@ -626,7 +626,7 @@
 	{
 		"input": "236236U",
 		"name": "Wild Sin",
-		"damage": "6000[4000]",
+		"damage": "6000[2000x2]",
 		"guard": "Grab[All]",
 		"startup": "13+0",
 		"active": "2",
@@ -639,7 +639,7 @@
 		"input": "j236236H",
 		"name": "Diafthora",
 		"damage": "4000",
-		"guard": "Mid",
+		"guard": "All",
 		"startup": "7+8",
 		"active": "Until L+2",
 		"recovery": "31",

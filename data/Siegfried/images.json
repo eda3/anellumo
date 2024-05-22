@@ -181,7 +181,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Siegfried_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Siegfried_6MH_Hitbox_1.png;"
@@ -244,28 +244,28 @@
     ]
   },
   {
-    "input": "22X~H",
+    "input": "22XH",
     "move_img": "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Siegfried_22XH.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/71/GBVSR_Siegfried_22XH_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22X~L",
+    "input": "22XL",
     "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Siegfried_22XL.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Siegfried_22XL_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22X~M",
+    "input": "22XM",
     "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Siegfried_22XM.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Siegfried_22XM_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22X~U",
+    "input": "22XU",
     "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Siegfried_22XU.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/de/GBVSR_Siegfried_22XU_Hitbox_1.png;"

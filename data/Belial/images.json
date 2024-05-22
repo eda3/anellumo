@@ -180,7 +180,7 @@
     ]
   },
   {
-    "input": "MH~MH",
+    "input": "MHMH",
     "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Belial_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Belial_6MH_Hitbox_1.png;"
@@ -245,21 +245,21 @@
     ]
   },
   {
-    "input": "H少々屈曲するのは普通だろう？(236X4H)",
+    "input": "236X4H",
     "move_img": "https://www.dustloop.com/wiki/images/3/36/GBVSR_Belial_236L-4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/43/GBVSR_Belial_236X_4H_Hitbox.png"
     ]
   },
   {
-    "input": "L少々屈曲するのは普通だろう？(236X4L)",
+    "input": "236X4L",
     "move_img": "https://www.dustloop.com/wiki/images/3/36/GBVSR_Belial_236L-4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/60/GBVSR_Belial_236X_4L_Hitbox.png"
     ]
   },
   {
-    "input": "M少々屈曲するのは普通だろう？(236X4M)",
+    "input": "236X4M",
     "move_img": "https://www.dustloop.com/wiki/images/3/36/GBVSR_Belial_236L-4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Belial_236X_4M_Hitbox.png"

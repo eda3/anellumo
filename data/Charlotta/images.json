@@ -238,28 +238,28 @@
     ]
   },
   {
-    "input": "22X~5",
+    "input": "22X5",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Charlotta_22X-5.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/74/GBVSR_Charlotta_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22X~H",
-    "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Charlotta_22X-H_Whif遠png",
+    "input": "22XH",
+    "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Charlotta_22X-H_Whiff.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/41/GBVSR_Charlotta_22XH_Hitbox.png"
     ]
   },
   {
-    "input": "22X~L",
+    "input": "22XL",
     "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Charlotta_22X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/16/GBVSR_Charlotta_22XL_Hitbox.png"
     ]
   },
   {
-    "input": "22X~M",
+    "input": "22XM",
     "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVSR_Charlotta_22X-M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Charlotta_22XM_Hitbox.png"
