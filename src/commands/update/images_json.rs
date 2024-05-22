@@ -40,9 +40,14 @@ pub async fn images_to_json(
     char_page_response_json = char_page_response_json.replace(r#""j."#, r#""j"#);
     char_page_response_json = char_page_response_json.replace(r#"Ultimate"#, "U");
     char_page_response_json = char_page_response_json.replace(r#"Ulitmate"#, "U");
+    char_page_response_json = char_page_response_json.replace(r#"~"#, "");
 
     // println!("{}", char_page_response_json);
     // 2B
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"R030: Hammer""#,
+        r#""R030:ハンマー(214H)","name":"214H""#,
+    );
     char_page_response_json = char_page_response_json.replace(
         r#""214H","name":"R030: Hammer""#,
         r#""R030:ハンマー(214H)","name":"214H""#,
@@ -89,7 +94,7 @@ pub async fn images_to_json(
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236U","name":"R010: Laser""#,
-        r#""R010：レーザー(236U)","name":"236U""#,
+        r#""R010:レーザー(236U)","name":"236U""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236236H","name":"Android Kick Sequence""#,

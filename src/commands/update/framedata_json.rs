@@ -115,7 +115,7 @@ pub async fn frames_to_json(
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236U","name":"R010: Laser""#,
-        r#""R010：レーザー(236U)","name":"236U""#,
+        r#""R010:レーザー(236U)","name":"236U""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236236H","name":"Android Kick Sequence""#,
