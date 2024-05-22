@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "MHMH",
-		"name": "Raging Chain",
+		"input": "レイジングチェイン(MHMH)",
+		"name": "MHMH",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "13",

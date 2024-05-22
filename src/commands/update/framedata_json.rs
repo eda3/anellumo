@@ -49,7 +49,6 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(r#"j."#, "j");
     char_page_response_json = char_page_response_json.replace(r#"Ultimate"#, "U");
     char_page_response_json = char_page_response_json.replace(r#"Ulitmate"#, "U");
-    char_page_response_json = char_page_response_json.replace(r#"~"#, "");
     char_page_response_json = char_page_response_json.replace(
         r#""BC","name":"Brave Counter""#,
         r#""ブレイブカウンター","name":"ブレイブカウンター""#,
@@ -157,7 +156,7 @@ pub async fn frames_to_json(
     );
     println!("{}", char_page_response_json);
     char_page_response_json = char_page_response_json.replace(
-        r#""214H4X","name":"H And Beyond!""#,
+        r#""214H~4X","name":"H And Beyond!""#,
         r#""H意気羊羊(214H4X)","name":"214H4X""#,
     );
     char_page_response_json = char_page_response_json.replace(
@@ -165,7 +164,7 @@ pub async fn frames_to_json(
         r#""L前途羊羊(214L)","name":"214L""#,
     );
     char_page_response_json = char_page_response_json.replace(
-        r#""214L4X","name":"L And Beyond!""#,
+        r#""214L~4X","name":"L And Beyond!""#,
         r#""L意気羊羊(214L4X)","name":"214L4X""#,
     );
     char_page_response_json = char_page_response_json.replace(
@@ -173,7 +172,7 @@ pub async fn frames_to_json(
         r#""M前途羊羊(214M)","name":"214M""#,
     );
     char_page_response_json = char_page_response_json.replace(
-        r#""214M4X","name":"M And Beyond!""#,
+        r#""214M~4X","name":"M And Beyond!""#,
         r#""M意気羊羊(214M4X)","name":"214M4X""#,
     );
     char_page_response_json = char_page_response_json.replace(
@@ -241,7 +240,7 @@ pub async fn frames_to_json(
         r#""牙羊乱舞(5U)","name":"5U""#,
     );
     char_page_response_json = char_page_response_json.replace(
-        r#""5UU","name":"Ramification Follow-up""#,
+        r#""5U~U","name":"Ramification Follow-up""#,
         r#""牙羊乱舞（追加攻撃）(5UU)","name":"5UU""#,
     );
     // ベリアル
