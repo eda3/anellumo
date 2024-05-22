@@ -82,15 +82,15 @@ pub async fn images_to_json(
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236H","name":"Pod C""#,
-        r#""ポッドc(236H)","name":"236H""#,
+        r#""ポッドC(236H)","name":"236H""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236L","name":"Pod A""#,
-        r#""ポッドa(236L)","name":"236L""#,
+        r#""ポッドA(236L)","name":"236L""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236M","name":"Pod B""#,
-        r#""ポッドb(236M)","name":"236M""#,
+        r#""ポッドB(236M)","name":"236M""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236U","name":"R010: Laser""#,
@@ -113,7 +113,7 @@ pub async fn images_to_json(
         r#""回避行動(5U)","name":"5U""#,
     );
     char_page_response_json = char_page_response_json.replace(
-        r#""5U~U","name":"Counterstrike""#,
+        r#""5UU","name":"Counterstrike""#,
         r#""転進重撃(5UU)","name":"5UU""#,
     );
     char_page_response_json = char_page_response_json.replace(
@@ -125,7 +125,7 @@ pub async fn images_to_json(
         r#""ポッド掴まり(jU)","name":"jU""#,
     );
     char_page_response_json = char_page_response_json.replace(
-        r#""jU~U","name":"Grab Pod Follow-up""#,
+        r#""jUU","name":"Grab Pod Follow-up""#,
         r#""ポッド掴まり追加攻撃(jUU)","name":"jUU""#,
     );
     // ベリアル
