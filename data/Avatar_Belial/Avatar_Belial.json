@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Carnal Passion",
+		"input": "H煮エ滾ル熱情(214H)",
+		"name": "214H",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "16",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Carnal Passion",
+		"input": "M煮エ滾ル熱情(214M)",
+		"name": "214M",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "21",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Carnal Passion",
+		"input": "U煮エ滾ル熱情(214U)",
+		"name": "214U",
 		"damage": "800x2, 1000",
 		"guard": "Mid",
 		"startup": "13 [20]",
@@ -360,8 +360,8 @@
 		"invincibility": "[13~18 All]"
 	},
 	{
-		"input": "214X4X",
-		"name": "Followup 1",
+		"input": "煮エ滾ル熱情追加攻撃(214X4X)",
+		"name": "214X4X",
 		"damage": "400",
 		"guard": "Mid",
 		"startup": "9",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214X4X4X",
-		"name": "Followup 2",
+		"input": "煮エ滾ル熱情追加攻撃2(214X4X4X)",
+		"name": "214X4X4X",
 		"damage": "700",
 		"guard": "Mid",
 		"startup": "13",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Wings Bestowed",
+		"input": "H賜リシ翼(22H)",
+		"name": "22H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22HH",
-		"name": "H Barbatos",
+		"input": "Hバルバトス(22HH)",
+		"name": "22HH",
 		"damage": "2000",
 		"guard": "Throw",
 		"startup": "30~35",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Wings Bestowed",
+		"input": "L賜リシ翼(22L)",
+		"name": "22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22LH",
-		"name": "L Barbatos",
+		"input": "Lバルバトス(22LH)",
+		"name": "22LH",
 		"damage": "2000",
 		"guard": "Throw",
 		"startup": "31",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Wings Bestowed",
+		"input": "M賜リシ翼(22M)",
+		"name": "22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22MH",
-		"name": "M Barbatos",
+		"input": "Mバルバトス(22MH)",
+		"name": "22MH",
 		"damage": "2500",
 		"guard": "Throw",
 		"startup": "29~33",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Wings Bestowed",
+		"input": "U賜リシ翼(22U)",
+		"name": "22U",
 		"damage": "700, 600, 200x4, 300x2, 800",
 		"guard": "Mid",
 		"startup": "9 [33]",
@@ -468,8 +468,8 @@
 		"invincibility": "[13~18 All]"
 	},
 	{
-		"input": "22XL",
-		"name": "Stolas",
+		"input": "ストラス(22XL)",
+		"name": "22X~L",
 		"damage": "700",
 		"guard": "All",
 		"startup": "15",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XM",
-		"name": "Beleth",
+		"input": "ベレト(22XM)",
+		"name": "22X~M",
 		"damage": "600, 100×5",
 		"guard": "All",
 		"startup": "21",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XU",
-		"name": "Habakkuk (Midair)",
+		"input": "ハバクク(22XU)",
+		"name": "22X~U",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "27",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X[U]",
-		"name": "Habakkuk (Midair, Charged)",
+		"input": "ハバクク（タメ）(22X[U])",
+		"name": "22X~[U]",
 		"damage": "1100",
 		"guard": "All",
 		"startup": "27",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Rejected Truth",
+		"input": "H否定サレタ真実(236H)",
+		"name": "236H",
 		"damage": "800, 100×4",
 		"guard": "All",
 		"startup": "16",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "Rejected Truth",
+		"input": "L否定サレタ真実(236L)",
+		"name": "236L",
 		"damage": "500, 100×3",
 		"guard": "All",
 		"startup": "13",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "Destructive Delusions",
+		"input": "M嘘ノ上塗リ(236M)",
+		"name": "236M",
 		"damage": "500, 200, 100×3",
 		"guard": "All",
 		"startup": "20",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Destructive Delusions",
+		"input": "U嘘ノ上塗リ(236U)",
+		"name": "236U",
 		"damage": "2300 total",
 		"guard": "All",
 		"startup": "9",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Blind Devotion",
+		"input": "H盲目的ナ信心(623H)",
+		"name": "623H",
 		"damage": "700, 100, 50×4, 700",
 		"guard": "Mid",
 		"startup": "11",
@@ -576,8 +576,8 @@
 		"invincibility": "1~25 All"
 	},
 	{
-		"input": "623L",
-		"name": "L Blind Devotion",
+		"input": "L盲目的ナ信心(623L)",
+		"name": "623L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "6",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Blind Devotion",
+		"input": "M盲目的ナ信心(623M)",
+		"name": "623M",
 		"damage": "600, 100×5",
 		"guard": "Mid, All×5",
 		"startup": "9",
@@ -600,8 +600,8 @@
 		"invincibility": "1~13 All"
 	},
 	{
-		"input": "623U",
-		"name": "U Blind Devotion",
+		"input": "U盲目的ナ信心(623U)",
+		"name": "623U",
 		"damage": "700, 300, 50x4, 300, 400, 100",
 		"guard": "Mid",
 		"startup": "8",
@@ -612,8 +612,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Diafthora",
+		"input": "ディアプトラ(236236H)",
+		"name": "236236H",
 		"damage": "4000",
 		"guard": "Mid",
 		"startup": "9+4",
@@ -624,8 +624,8 @@
 		"invincibility": "1~15 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Wild Sin",
+		"input": "ワイルド・シン(236236U)",
+		"name": "236236U",
 		"damage": "6000[2000x2]",
 		"guard": "Grab[All]",
 		"startup": "13+0",
@@ -636,8 +636,8 @@
 		"invincibility": "1~18 All"
 	},
 	{
-		"input": "j236236H",
-		"name": "Diafthora",
+		"input": "空中ディアプトラ(j236236H)",
+		"name": "j236236H",
 		"damage": "4000",
 		"guard": "All",
 		"startup": "7+8",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U",
-		"name": "Habakkuk",
+		"input": "ハバクク(5U)",
+		"name": "5U",
 		"damage": "1300",
 		"guard": "All",
 		"startup": "28",
@@ -660,8 +660,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U Follow-Up",
-		"name": "Pact (5U)",
+		"input": "聖約(5U Follow-Up)",
+		"name": "5U Follow-Up",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "20[1]",
@@ -672,8 +672,8 @@
 		"invincibility": "11-19 All"
 	},
 	{
-		"input": "5[U]",
-		"name": "Habakkuk (Charged)",
+		"input": "ハバクク（タメ）(5[U])",
+		"name": "5[U]",
 		"damage": "1300",
 		"guard": "All",
 		"startup": "49",
@@ -684,8 +684,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "8U Follow-Up",
-		"name": "Pact (8U)",
+		"input": "パクト（上）(8U Follow-Up)",
+		"name": "8U Follow-Up",
 		"damage": "700",
 		"guard": "All",
 		"startup": "37[1]",

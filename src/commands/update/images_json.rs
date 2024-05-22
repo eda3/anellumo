@@ -350,6 +350,129 @@ pub async fn images_to_json(
         r#""jU","name":"Arm the Bastion""#,
         r#""城廓の構え(jU)","name":"jU""#,
     );
+        // アバタール・ベリアル
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Carnal Passion""#,
+        r#""H煮エ滾ル熱情(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Carnal Passion""#,
+        r#""M煮エ滾ル熱情(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Carnal Passion""#,
+        r#""U煮エ滾ル熱情(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X4X","name":"Followup 1""#,
+        r#""煮エ滾ル熱情追加攻撃(214X4X)","name":"214X4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X4X4X","name":"Followup 2""#,
+        r#""煮エ滾ル熱情追加攻撃2(214X4X4X)","name":"214X4X4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Wings Bestowed""#,
+        r#""H賜リシ翼(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H~H","name":"H Barbatos""#,
+        r#""Hバルバトス(22HH)","name":"22HH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Wings Bestowed""#,
+        r#""L賜リシ翼(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L~H","name":"L Barbatos""#,
+        r#""Lバルバトス(22LH)","name":"22LH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Wings Bestowed""#,
+        r#""M賜リシ翼(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M~H","name":"M Barbatos""#,
+        r#""Mバルバトス(22MH)","name":"22MH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Wings Bestowed""#,
+        r#""U賜リシ翼(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~L","name":"Stolas""#,
+        r#""ストラス(22X~L)","name":"22X~L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~M","name":"Beleth""#,
+        r#""ベレト(22X~M)","name":"22X~M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~U","name":"Habakkuk (Midair)""#,
+        r#""ハバクク(22X~U)","name":"22X~U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~[U]","name":"Habakkuk (Midair, Charged)""#,
+        r#""ハバクク（タメ）(22X~[U])","name":"22X~[U]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Rejected Truth""#,
+        r#""H否定サレタ真実(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"Rejected Truth""#,
+        r#""L否定サレタ真実(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"Destructive Delusions""#,
+        r#""M嘘ノ上塗リ(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Destructive Delusions""#,
+        r#""U嘘ノ上塗リ(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Blind Devotion""#,
+        r#""H盲目的ナ信心(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Blind Devotion""#,
+        r#""L盲目的ナ信心(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Blind Devotion""#,
+        r#""M盲目的ナ信心(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Blind Devotion""#,
+        r#""U盲目的ナ信心(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Diafthora""#,
+        r#""ディアプトラ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Wild Sin""#,
+        r#""ワイルド・シン(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236236H","name":"Diafthora""#,
+        r#""空中ディアプトラ(j236236H)","name":"j236236H""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""5U","name":"Habakkuk""#, r#""ハバクク(5U)","name":"5U""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U Follow-Up","name":"Pact (5U)""#,
+        r#""聖約(5U Follow-Up)","name":"5U Follow-Up""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]","name":"Habakkuk (Charged)""#,
+        r#""ハバクク（タメ）(5[U])","name":"5[U]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""8U Follow-Up","name":"Pact (8U)""#,
+        r#""パクト（上）(8U Follow-Up)","name":"8U Follow-Up""#,
+    );
     // ベリアル
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re

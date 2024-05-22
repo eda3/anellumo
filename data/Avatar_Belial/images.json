@@ -197,21 +197,21 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "H煮エ滾ル熱情(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Avatar_Belial_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Avatar_Belial_214X_Hitbox.png"
     ]
   },
   {
-    "input": "214M",
+    "input": "M煮エ滾ル熱情(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Avatar_Belial_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ef/GBVSR_Avatar_Belial_214X_Hitbox.png"
     ]
   },
   {
-    "input": "214U",
+    "input": "U煮エ滾ル熱情(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Avatar_Belial_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Avatar_Belial_214U_Hitbox.png"
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "input": "22H",
+    "input": "H賜リシ翼(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ea/GBVS_Avatar_Belial_22X.png",
     "hitbox_img": [
       ""
@@ -246,7 +246,7 @@
     ]
   },
   {
-    "input": "22L",
+    "input": "L賜リシ翼(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Avatar_Belial_22X.png",
     "hitbox_img": [
       ""
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "input": "22M",
+    "input": "M賜リシ翼(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Avatar_Belial_22X.png",
     "hitbox_img": [
       ""
@@ -274,7 +274,7 @@
     ]
   },
   {
-    "input": "22U",
+    "input": "U賜リシ翼(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Avatar_Belial_22U_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/33/GBVSR_Avatar_Belial_22U_Hitbox.png"
@@ -310,7 +310,7 @@
     ]
   },
   {
-    "input": "236H",
+    "input": "H否定サレタ真実(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVS_Avatar_Belial_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/06/GBVSR_Avatar_Belial_236L_Hitbox1.png",
@@ -318,7 +318,7 @@
     ]
   },
   {
-    "input": "236L",
+    "input": "L否定サレタ真実(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVS_Avatar_Belial_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/06/GBVSR_Avatar_Belial_236L_Hitbox1.png",
@@ -326,7 +326,7 @@
     ]
   },
   {
-    "input": "236M",
+    "input": "M嘘ノ上塗リ(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVS_Avatar_Belial_236M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/35/GBVSR_Avatar_Belial_236M_Hitbox1.png",
@@ -334,14 +334,14 @@
     ]
   },
   {
-    "input": "236U",
+    "input": "U嘘ノ上塗リ(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Avatar_Belial_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/be/GBVSR_Avatar_Belial_236U_Hitbox.png"
     ]
   },
   {
-    "input": "623H",
+    "input": "H盲目的ナ信心(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Avatar_Belial_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Avatar_Belial_623M_Hitbox1.png",
@@ -349,14 +349,14 @@
     ]
   },
   {
-    "input": "623L",
+    "input": "L盲目的ナ信心(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Avatar_Belial_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Avatar_Belial_623L_Hitbox.png"
     ]
   },
   {
-    "input": "623M",
+    "input": "M盲目的ナ信心(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Avatar_Belial_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Avatar_Belial_623M_Hitbox1.png",
@@ -364,21 +364,21 @@
     ]
   },
   {
-    "input": "623U",
+    "input": "U盲目的ナ信心(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Avatar_Belial_623U_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/40/GBVSR_Avatar_Belial_623U_Hitbox.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "ディアプトラ(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVS_Avatar_Belial_236236H_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Avatar_Belial_23636H_Hitbox.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "ワイルド・シン(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f3/GBVS_Avatar_Belial_236236U_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Avatar_Belial_236236U_Hitbox1.png",
@@ -388,35 +388,35 @@
     ]
   },
   {
-    "input": "j236236H",
+    "input": "空中ディアプトラ(j236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVS_Avatar_Belial_236236H_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Avatar_Belial_23636H_Hitbox.png"
     ]
   },
   {
-    "input": "5U",
+    "input": "ハバクク(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVS_Avatar_Belial_5U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Avatar_Belial_5U_Hitbox.png"
     ]
   },
   {
-    "input": "5U Follow-Up",
+    "input": "聖約(5U Follow-Up)",
     "move_img": "https://www.dustloop.com/wiki/images/4/40/GBVS_Avatar_Belial_5U_Followup.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Avatar_Belial_Pact_Hitbox.png"
     ]
   },
   {
-    "input": "5[U]",
+    "input": "ハバクク（タメ）(5[U])",
     "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVS_Avatar_Belial_5U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Avatar_Belial_5U_Hitbox.png"
     ]
   },
   {
-    "input": "8U Follow-Up",
+    "input": "パクト（上）(8U Follow-Up)",
     "move_img": "https://www.dustloop.com/wiki/images/4/48/GBVS_Avatar_Belial_22X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Avatar_Belial_22XL_Hitbox.png"
