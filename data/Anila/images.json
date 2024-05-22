@@ -182,42 +182,42 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "H前途羊羊(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Anila_214H_Hitbox.png;"
     ]
   },
   {
-    "input": "214H4X",
+    "input": "H意気羊羊(214H4X)",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
     ]
   },
   {
-    "input": "214L",
+    "input": "L前途羊羊(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_214L_Hitbox.png;"
     ]
   },
   {
-    "input": "214L4X",
+    "input": "L意気羊羊(214L4X)",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
     ]
   },
   {
-    "input": "214M",
+    "input": "M前途羊羊(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Anila_214M_Hitbox.png;"
     ]
   },
   {
-    "input": "214M4X",
+    "input": "M意気羊羊(214M4X)",
     "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
@@ -231,112 +231,112 @@
     ]
   },
   {
-    "input": "22H",
+    "input": "H飛羊乗雲(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_22L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/01/GBVSR_Anila_22H_Hitbox.png;"
     ]
   },
   {
-    "input": "22L",
+    "input": "L飛羊乗雲(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_22L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/db/GBVSR_Anila_22L_Hitbox.png;"
     ]
   },
   {
-    "input": "22M",
+    "input": "M飛羊乗雲(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_22L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/65/GBVSR_Anila_22M_Hitbox.png;"
     ]
   },
   {
-    "input": "22U",
+    "input": "U飛羊乗雲(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Anila_22U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Anila_22U_Hitbox.png;"
     ]
   },
   {
-    "input": "236H",
+    "input": "H駆けよ、もふもふ！(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Anila_236H_Hitbox.png;"
     ]
   },
   {
-    "input": "236L",
+    "input": "L駆けよ、もふもふ！(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Anila_236L_Hitbox.png;"
     ]
   },
   {
-    "input": "236M",
+    "input": "M駆けよ、もふもふ！(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Anila_236M_Hitbox.png;"
     ]
   },
   {
-    "input": "236U",
+    "input": "U駆けよ、もふもふ！(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Anila_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/39/GBVSR_Anila_236U_Hitbox.png;"
     ]
   },
   {
-    "input": "623H",
+    "input": "H色即是空(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/78/GBVSR_Anila_623H_Hitbox.png;"
     ]
   },
   {
-    "input": "623L",
+    "input": "L色即是空(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Anila_623L_Hitbox.png;"
     ]
   },
   {
-    "input": "623M",
+    "input": "M色即是空(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/46/GBVSR_Anila_623M_Hitbox.png;"
     ]
   },
   {
-    "input": "623U",
+    "input": "U色即是空(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Anila_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Anila_623U_Hitbox.png;"
     ]
   },
   {
-    "input": "236236H",
+    "input": "金牙神然(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Anila_236236H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/36/GBVSR_Anila_236236H_Hitbox.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "羊爛怒涛(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Anila_236236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/ce/GBVSR_Anila_236236U_Hitbox.png"
     ]
   },
   {
-    "input": "5U",
+    "input": "牙羊乱舞(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Anila_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5UU",
+    "input": "牙羊乱舞（追加攻撃）(5UU)",
     "move_img": "https://www.dustloop.com/wiki/images/1/14/GBVSR_Anila_5UU.png",
     "hitbox_img": [
       ""

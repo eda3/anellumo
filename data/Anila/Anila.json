@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "レイジングチェイン(MHMH)",
-		"name": "MHMH",
+		"input": "MHMH",
+		"name": "Raging Chain",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "13",
@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Flock to the Future",
+		"input": "H前途羊羊(214H)",
+		"name": "214H",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "15",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H4X",
-		"name": "H And Beyond!",
+		"input": "H意気羊羊(214H4X)",
+		"name": "214H4X",
 		"damage": "1100",
 		"guard": "All",
 		"startup": "9 (Total 23)",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Flock to the Future",
+		"input": "L前途羊羊(214L)",
+		"name": "214L",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "12",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L4X",
-		"name": "L And Beyond!",
+		"input": "L意気羊羊(214L4X)",
+		"name": "214L4X",
 		"damage": "700",
 		"guard": "All",
 		"startup": "9 (Total 20)",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Flock to the Future",
+		"input": "M前途羊羊(214M)",
+		"name": "214M",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "30",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M4X",
-		"name": "M And Beyond!",
+		"input": "M意気羊羊(214M4X)",
+		"name": "214M4X",
 		"damage": "1100",
 		"guard": "All",
 		"startup": "9 (Total 38)",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Fluff 'Em, Stuff 'Em!",
+		"input": "U前途羊羊(214U)",
+		"name": "214U",
 		"damage": "1100×2",
 		"guard": "Mid",
 		"startup": "11",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Over the Fence",
+		"input": "H飛羊乗雲(22H)",
+		"name": "22H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Over the Fence",
+		"input": "L飛羊乗雲(22L)",
+		"name": "22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Over the Fence",
+		"input": "M飛羊乗雲(22M)",
+		"name": "22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Over the Fence",
+		"input": "U飛羊乗雲(22U)",
+		"name": "22U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Fluff 'Em, Stuff 'Em!",
+		"input": "H駆けよ、もふもふ！(236H)",
+		"name": "236H",
 		"damage": "400×3",
 		"guard": "All",
 		"startup": "17",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Fluff 'Em, Stuff 'Em!",
+		"input": "L駆けよ、もふもふ！(236L)",
+		"name": "236L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "17",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Fluff 'Em, Stuff 'Em!",
+		"input": "M駆けよ、もふもふ！(236M)",
+		"name": "236M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "17",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Flock to the Future",
+		"input": "U駆けよ、もふもふ！(236U)",
+		"name": "236U",
 		"damage": "800×3",
 		"guard": "All",
 		"startup": "16",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H All is Vanity",
+		"input": "H色即是空(623H)",
+		"name": "623H",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "11",
@@ -504,8 +504,8 @@
 		"invincibility": "1-16 All"
 	},
 	{
-		"input": "623L",
-		"name": "L All is Vanity",
+		"input": "L色即是空(623L)",
+		"name": "623L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "6",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M All is Vanity",
+		"input": "M色即是空(623M)",
+		"name": "623M",
 		"damage": "1100",
 		"guard": "Mid, All",
 		"startup": "12",
@@ -528,8 +528,8 @@
 		"invincibility": "1-12 All"
 	},
 	{
-		"input": "623U",
-		"name": "U All is Vanity",
+		"input": "U色即是空(623U)",
+		"name": "623U",
 		"damage": "1000, 100, 150×6",
 		"guard": "Mid",
 		"startup": "8",
@@ -540,8 +540,8 @@
 		"invincibility": "1-10 All"
 	},
 	{
-		"input": "236236H",
-		"name": "Gilded Heaven Strike",
+		"input": "金牙神然(236236H)",
+		"name": "236236H",
 		"damage": "4500 (1000, 350×10)",
 		"guard": "Mid",
 		"startup": "5+9",
@@ -552,8 +552,8 @@
 		"invincibility": "1-24 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Fury of the Ram",
+		"input": "羊爛怒涛(236236U)",
+		"name": "236236U",
 		"damage": "6000 (3000, 120×20, 600) [4000 (1500, 500×5)]",
 		"guard": "Mid",
 		"startup": "8+6",
@@ -564,8 +564,8 @@
 		"invincibility": "1-15 All, 16-23 Strike"
 	},
 	{
-		"input": "5U",
-		"name": "Ramification",
+		"input": "牙羊乱舞(5U)",
+		"name": "5U",
 		"damage": "200×4",
 		"guard": "Mid",
 		"startup": "15",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UU",
-		"name": "Ramification Follow-up",
+		"input": "牙羊乱舞（追加攻撃）(5UU)",
+		"name": "5UU",
 		"damage": "500",
 		"guard": "Mid",
 		"startup": "15",

@@ -49,6 +49,7 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(r#"j."#, "j");
     char_page_response_json = char_page_response_json.replace(r#"Ultimate"#, "U");
     char_page_response_json = char_page_response_json.replace(r#"Ulitmate"#, "U");
+    char_page_response_json = char_page_response_json.replace(r#"~"#, "");
     char_page_response_json = char_page_response_json.replace(
         r#""BC","name":"Brave Counter""#,
         r#""ブレイブカウンター","name":"ブレイブカウンター""#,
@@ -149,11 +150,100 @@ pub async fn frames_to_json(
         r#""jU~U","name":"Grab Pod Follow-up""#,
         r#""ポッド掴まり追加攻撃(jUU)","name":"jUU""#,
     );
-
-    // char_page_response_json = char_page_response_json.replace(
-    // r#""#,
-    // r#""#,
-    // );
+    // アニラ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Flock to the Future""#,
+        r#""H前途羊羊(214H)","name":"214H""#,
+    );
+    println!("{}", char_page_response_json);
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H4X","name":"H And Beyond!""#,
+        r#""H意気羊羊(214H4X)","name":"214H4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Flock to the Future""#,
+        r#""L前途羊羊(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L4X","name":"L And Beyond!""#,
+        r#""L意気羊羊(214L4X)","name":"214L4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Flock to the Future""#,
+        r#""M前途羊羊(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M4X","name":"M And Beyond!""#,
+        r#""M意気羊羊(214M4X)","name":"214M4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Fluff 'Em, Stuff 'Em!""#,
+        r#""U前途羊羊(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Over the Fence""#,
+        r#""H飛羊乗雲(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Over the Fence""#,
+        r#""L飛羊乗雲(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Over the Fence""#,
+        r#""M飛羊乗雲(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Over the Fence""#,
+        r#""U飛羊乗雲(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Fluff 'Em, Stuff 'Em!""#,
+        r#""H駆けよ、もふもふ！(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Fluff 'Em, Stuff 'Em!""#,
+        r#""L駆けよ、もふもふ！(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Fluff 'Em, Stuff 'Em!""#,
+        r#""M駆けよ、もふもふ！(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Flock to the Future""#,
+        r#""U駆けよ、もふもふ！(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H All is Vanity""#,
+        r#""H色即是空(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L All is Vanity""#,
+        r#""L色即是空(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M All is Vanity""#,
+        r#""M色即是空(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U All is Vanity""#,
+        r#""U色即是空(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Gilded Heaven Strike""#,
+        r#""金牙神然(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Fury of the Ram""#,
+        r#""羊爛怒涛(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Ramification""#,
+        r#""牙羊乱舞(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5UU","name":"Ramification Follow-up""#,
+        r#""牙羊乱舞（追加攻撃）(5UU)","name":"5UU""#,
+    );
     // ベリアル
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re
