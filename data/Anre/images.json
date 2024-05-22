@@ -182,7 +182,7 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "H摩尼車(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/03/GBVS_Anre_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Anre_214L_Hitbox1.png",
@@ -190,7 +190,7 @@
     ]
   },
   {
-    "input": "214L",
+    "input": "L摩尼車(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/0/03/GBVS_Anre_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/21/GBVSR_Anre_214L_Hitbox1.png",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "input": "214M",
+    "input": "M摩尼車(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/03/GBVS_Anre_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Anre_214M_Hitbox1.png",
@@ -206,14 +206,14 @@
     ]
   },
   {
-    "input": "214U",
+    "input": "U摩尼車(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/4/40/GBVSR_Anre_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Anre_214U_Hitbox.png"
     ]
   },
   {
-    "input": "236H",
+    "input": "H羅刹槍(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a1/GBVS_Anre_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/67/GBVSR_Anre_236H_Hitbox1.png",
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "input": "236L",
+    "input": "L羅刹槍(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a1/GBVS_Anre_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/10/GBVSR_Anre_236L_Hitbox1.png",
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "input": "236M",
+    "input": "M羅刹槍(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a1/GBVS_Anre_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/38/GBVSR_Anre_236M_Hitbox1.png",
@@ -237,105 +237,105 @@
     ]
   },
   {
-    "input": "236U",
+    "input": "U羅刹槍(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVSR_Anre_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/46/GBVSR_Anre_236U_Hitbox.png"
     ]
   },
   {
-    "input": "236X-X",
+    "input": "真撃(236X-X)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a5/GBVS_Anre_236X-X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623H",
+    "input": "H螺旋回鉾(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Anre_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8d/GBVSR_Anre_623H_Hitbox.png"
     ]
   },
   {
-    "input": "623L",
+    "input": "L螺旋回鉾(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVS_Anre_623L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/07/GBVSR_Anre_623L_Hitbox.png"
     ]
   },
   {
-    "input": "623M",
+    "input": "M螺旋回鉾(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVS_Anre_623M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/61/GBVSR_Anre_623M_Hitbox.png"
     ]
   },
   {
-    "input": "623U",
+    "input": "U螺旋回鉾(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Anre_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Anre_623U_Hitbox.png"
     ]
   },
   {
-    "input": "623X-6H",
+    "input": "無双閃(623X-6H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/97/GBVS_Anre_623X-6H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/67/GBVSR_Anre_623X6H_Hitbox.png"
     ]
   },
   {
-    "input": "623X-6L",
+    "input": "輝極衝(623X-6L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/99/GBVS_Anre_623X-6L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Anre_623X6L_Hitbox.png"
     ]
   },
   {
-    "input": "623X-6M",
+    "input": "星断(623X-6M)",
     "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVS_Anre_623X-6M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/60/GBVSR_Anre_623X6M_Hitbox.png"
     ]
   },
   {
-    "input": "623X-6U",
+    "input": "速疾(623X-6U)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVS_Anre_623X-6U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "j214H",
+    "input": "空中H摩尼車(j214H)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Anre_j214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/86/GBVSR_Anre_j214X_Hitbox.png"
     ]
   },
   {
-    "input": "j214L",
+    "input": "空中L摩尼車(j214L)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Anre_j214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/86/GBVSR_Anre_j214X_Hitbox.png"
     ]
   },
   {
-    "input": "j214M",
+    "input": "空中M摩尼車(j214M)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Anre_j214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/86/GBVSR_Anre_j214X_Hitbox.png"
     ]
   },
   {
-    "input": "j214U",
+    "input": "空中U摩尼車(j214U)",
     "move_img": "https://www.dustloop.com/wiki/images/4/40/GBVSR_Anre_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/83/GBVSR_Anre_j214U_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8H",
+    "input": "H刹那の閃き([2]8H)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f4/GBVS_Anre_28X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/71/GBVSR_Anre_28H_Hitbox.png",
@@ -343,35 +343,35 @@
     ]
   },
   {
-    "input": "[2]8L",
+    "input": "L刹那の閃き([2]8L)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f4/GBVS_Anre_28X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Anre_28L_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8M",
+    "input": "M刹那の閃き([2]8M)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f4/GBVS_Anre_28X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Anre_28M_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8U",
+    "input": "U刹那の閃き([2]8U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Anre_28U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Anre_28U_Hitbox.png"
     ]
   },
   {
-    "input": "214214H",
+    "input": "雷光七本槍(214214H)",
     "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVS_Anre_214214H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H",
+    "input": "天逆鉾(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVS_Anre_236236H_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d1/GBVSR_Anre_236236H_Hitbox1.png",
@@ -381,7 +381,7 @@
     ]
   },
   {
-    "input": "236236U",
+    "input": "千槍無量曼荼羅(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/7/75/GBVS_Anre_236236U_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/19/GBVSR_Anre_236236U_Hitbox_1.png",
@@ -389,28 +389,28 @@
     ]
   },
   {
-    "input": "5U",
+    "input": "城廓の構え(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVS_Anre_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "j2U",
+    "input": "豪槍(j2U)",
     "move_img": "https://www.dustloop.com/wiki/images/b/bd/GBVS_Anre_j2U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/81/GBVSR_Anre_j2U_Hitbox.png"
     ]
   },
   {
-    "input": "j6U",
+    "input": "豪槍(j6U)",
     "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVS_Anre_j6U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Anre_j6U_Hitbox.png"
     ]
   },
   {
-    "input": "jU",
+    "input": "城廓の構え(jU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVS_Anre_jU.png",
     "hitbox_img": [
       ""

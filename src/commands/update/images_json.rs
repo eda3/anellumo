@@ -221,6 +221,135 @@ pub async fn images_to_json(
         r#""5UU","name":"Ramification Follow-up""#,
         r#""牙羊乱舞（追加攻撃）(5UU)","name":"5UU""#,
     );
+    // ウーノ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Mantra Wheel""#,
+        r#""H摩尼車(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Mantra Wheel""#,
+        r#""L摩尼車(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Mantra Wheel""#,
+        r#""M摩尼車(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Mantra Wheel""#,
+        r#""U摩尼車(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Rakshasa""#,
+        r#""H羅刹槍(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Rakshasa""#,
+        r#""L羅刹槍(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Rakshasa""#,
+        r#""M羅刹槍(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Rakshasa""#,
+        r#""U羅刹槍(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X-X","name":"Rakshasa Followup""#,
+        r#""真撃(236X-X)","name":"236X-X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Spiral Spear""#,
+        r#""H螺旋回鉾(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Spiral Spear""#,
+        r#""L螺旋回鉾(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Spiral Spear""#,
+        r#""M螺旋回鉾(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Spiral Spear""#,
+        r#""U螺旋回鉾(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X-6H","name":"Peerless Thrust""#,
+        r#""無双閃(623X-6H)","name":"623X-6H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X-6L","name":"Radiance Ruination""#,
+        r#""輝極衝(623X-6L)","name":"623X-6L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X-6M","name":"Astral Piercer""#,
+        r#""星断(623X-6M)","name":"623X-6M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X-6U","name":"Grand Haste""#,
+        r#""速疾(623X-6U)","name":"623X-6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214H","name":"Air H Mantra Wheel""#,
+        r#""空中H摩尼車(j214H)","name":"j214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214L","name":"Air L Mantra Wheel""#,
+        r#""空中L摩尼車(j214L)","name":"j214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214M","name":"Air M Mantra Wheel""#,
+        r#""空中M摩尼車(j214M)","name":"j214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214U","name":"U Air Mantra Wheel""#,
+        r#""空中U摩尼車(j214U)","name":"j214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8H","name":"H Fleeting Spark""#,
+        r#""H刹那の閃き([2]8H)","name":"[2]8H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8L","name":"L Fleeting Spark""#,
+        r#""L刹那の閃き([2]8L)","name":"[2]8L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8M","name":"M Fleeting Spark""#,
+        r#""M刹那の閃き([2]8M)","name":"[2]8M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8U","name":"U Fleeting Spark""#,
+        r#""U刹那の閃き([2]8U)","name":"[2]8U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"Seven Spears of Lightning""#,
+        r#""雷光七本槍(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Astralance: Everto""#,
+        r#""天逆鉾(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Thousand-Spear Void""#,
+        r#""千槍無量曼荼羅(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Arm the Bastion""#,
+        r#""城廓の構え(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j2U","name":"One Rift Spear""#,
+        r#""豪槍(j2U)","name":"j2U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j6U","name":"One Rift Spear""#,
+        r#""豪槍(j6U)","name":"j6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""jU","name":"Arm the Bastion""#,
+        r#""城廓の構え(jU)","name":"jU""#,
+    );
     // ベリアル
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re
