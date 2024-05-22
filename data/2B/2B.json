@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "R030: Hammer",
+		"input": "R030:ハンマー(214H)",
+		"name": "214H",
 		"damage": "2000",
 		"guard": "Mid",
 		"startup": "19",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "A160: Missile",
+		"input": "A160:ミサイル(214L)",
+		"name": "214L",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "14",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "A090: Wire",
+		"input": "A090:ワイヤー(214M)",
+		"name": "214M",
 		"damage": "700",
 		"guard": "All",
 		"startup": "23",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "R020: Mirage",
+		"input": "R020:ミラージュ(214U)",
+		"name": "214U",
 		"damage": "1000, 100×10",
 		"guard": "Mid",
 		"startup": "8",
@@ -372,8 +372,8 @@
 		"invincibility": "1-18 All"
 	},
 	{
-		"input": "22H",
-		"name": "A150: Volt",
+		"input": "A150:ヴォルト(22H)",
+		"name": "22H",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "33 [12]",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "A080: Wave",
+		"input": "A080:ウェーブ(22L)",
+		"name": "22L",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "33",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "A140: Gravity",
+		"input": "A140:グラビティ(22M)",
+		"name": "22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "~50",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "A130: Bomb",
+		"input": "A130:ボム(22U)",
+		"name": "22U",
 		"damage": "300×6",
 		"guard": "All",
 		"startup": "42",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "Pod C",
+		"input": "ポッドc(236H)",
+		"name": "236H",
 		"damage": "1400",
 		"guard": "All",
 		"startup": "13~28",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "Pod A",
+		"input": "ポッドa(236L)",
+		"name": "236L",
 		"damage": "150×5",
 		"guard": "All",
 		"startup": "13",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "Pod B",
+		"input": "ポッドb(236M)",
+		"name": "236M",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "18/22",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "R010: Laser",
+		"input": "R010：レーザー(236U)",
+		"name": "236U",
 		"damage": "1600",
 		"guard": "All",
 		"startup": "16/20",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Android Kick Sequence",
+		"input": "機蹴連携[強化装レーザー](236236H)",
+		"name": "236236H",
 		"damage": "800×5 [3000]",
 		"guard": "Mid",
 		"startup": "8+6",
@@ -480,8 +480,8 @@
 		"invincibility": "1-16 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Extermination Blade",
+		"input": "殲滅斬機[強化装スピアー](236236U)",
+		"name": "236236U",
 		"damage": "1800, 360×4, 960, 60×10, 1200 [1500, 300×4, 1300]",
 		"guard": "Mid",
 		"startup": "7+7",
@@ -492,8 +492,8 @@
 		"invincibility": "1-15 All"
 	},
 	{
-		"input": "720U",
-		"name": "Self-Destruct",
+		"input": "自爆(720U)",
+		"name": "720U",
 		"damage": "6600",
 		"guard": "Unblockable",
 		"startup": "4+59+0",
@@ -504,8 +504,8 @@
 		"invincibility": "1-65 All"
 	},
 	{
-		"input": "5U",
-		"name": "Evasive Maneuver",
+		"input": "回避行動(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -516,8 +516,8 @@
 		"invincibility": "Catch 5-19 Strike"
 	},
 	{
-		"input": "5UU",
-		"name": "Counterstrike",
+		"input": "転進重撃(5UU)",
+		"name": "5UU",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "5",
@@ -528,8 +528,8 @@
 		"invincibility": "1-17 All"
 	},
 	{
-		"input": "6U",
-		"name": "Evasive Maneuver",
+		"input": "回避行動(6U)",
+		"name": "6U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -540,8 +540,8 @@
 		"invincibility": "Catch 7-16 Strike"
 	},
 	{
-		"input": "jU",
-		"name": "Grab Pod",
+		"input": "ポッド掴まり(jU)",
+		"name": "jU",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jUU",
-		"name": "Grab Pod Follow-up",
+		"input": "ポッド掴まり追加攻撃(jUU)",
+		"name": "jUU",
 		"damage": "700",
 		"guard": "High/Air",
 		"startup": "11",

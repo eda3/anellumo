@@ -191,140 +191,140 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "R030:ハンマー(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/1/15/GBVSR_2B_214H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214L",
+    "input": "A160:ミサイル(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_2B_214L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214M",
+    "input": "A090:ワイヤー(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_2B_214M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214U",
+    "input": "R020:ミラージュ(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_2B_214U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22H",
+    "input": "A150:ヴォルト(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_2B_22H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22L",
+    "input": "A080:ウェーブ(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_2B_22L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22M",
+    "input": "A140:グラビティ(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/07/GBVSR_2B_22M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22U",
+    "input": "A130:ボム(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c6/GBVSR_2B_22U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236H",
+    "input": "ポッドc(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6b/GBVSR_2B_236H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236L",
+    "input": "ポッドa(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVSR_2B_236L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236M",
+    "input": "ポッドb(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_2B_236M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236U",
+    "input": "R010：レーザー(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_2B_236U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H",
+    "input": "機蹴連携[強化装レーザー](236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVSR_2B_236236H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U",
+    "input": "殲滅斬機[強化装スピアー](236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_2B_236236U_Start.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "720U",
+    "input": "自爆(720U)",
     "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_2B_720U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U",
+    "input": "回避行動(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_2B_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U~U",
+    "input": "転進重撃(5UU)",
     "move_img": "https://www.dustloop.com/wiki/images/7/79/GBVSR_2B_5HHH.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "6U",
+    "input": "回避行動(6U)",
     "move_img": "https://www.dustloop.com/wiki/images/7/77/GBVSR_2B_6U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "jU",
+    "input": "ポッド掴まり(jU)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_2B_jU.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "jU~U",
+    "input": "ポッド掴まり追加攻撃(jUU)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b6/GBVSR_2B_jUU.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4f/GBVSR_2B_jUU_Hitbox.png"

@@ -68,6 +68,93 @@ pub async fn frames_to_json(
         r#""レイジングチェイン(MHMH)","name":"MHMH""#,
     );
 
+    // 2B
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"R030: Hammer""#,
+        r#""R030:ハンマー(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"A160: Missile""#,
+        r#""A160:ミサイル(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"A090: Wire""#,
+        r#""A090:ワイヤー(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"R020: Mirage""#,
+        r#""R020:ミラージュ(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"A150: Volt""#,
+        r#""A150:ヴォルト(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"A080: Wave""#,
+        r#""A080:ウェーブ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"A140: Gravity""#,
+        r#""A140:グラビティ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"A130: Bomb""#,
+        r#""A130:ボム(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"Pod C""#,
+        r#""ポッドc(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"Pod A""#,
+        r#""ポッドa(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"Pod B""#,
+        r#""ポッドb(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"R010: Laser""#,
+        r#""R010：レーザー(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Android Kick Sequence""#,
+        r#""機蹴連携[強化装レーザー](236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Extermination Blade""#,
+        r#""殲滅斬機[強化装スピアー](236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""720U","name":"Self-Destruct""#,
+        r#""自爆(720U)","name":"720U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Evasive Maneuver""#,
+        r#""回避行動(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~U","name":"Counterstrike""#,
+        r#""転進重撃(5UU)","name":"5UU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""6U","name":"Evasive Maneuver""#,
+        r#""回避行動(6U)","name":"6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""jU","name":"Grab Pod""#,
+        r#""ポッド掴まり(jU)","name":"jU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""jU~U","name":"Grab Pod Follow-up""#,
+        r#""ポッド掴まり追加攻撃(jUU)","name":"jUU""#,
+    );
+
+    // char_page_response_json = char_page_response_json.replace(
+    // r#""#,
+    // r#""#,
+    // );
+    // ベリアル
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re
         .replace_all(

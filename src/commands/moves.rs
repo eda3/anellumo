@@ -91,6 +91,7 @@ pub async fn moves(
             }
         }
         moves_as_msg = moves_as_msg.to_owned() + ".";
+        moves_as_msg += "\n";
     }
     moves_as_msg += "\n```";
     ctx.say(&moves_as_msg).await?;
@@ -122,7 +123,7 @@ pub async fn moves(
                 continue;
             }
         }
-        moves_as_msg = moves_as_msg.to_owned() + ".";
+        moves_as_msg = moves_as_msg.to_owned() + ".\n";
     }
     moves_as_msg += "\n```";
     ctx.channel_id().say(ctx, &moves_as_msg).await?;
@@ -154,7 +155,7 @@ pub async fn moves(
                 continue;
             }
         }
-        moves_as_msg = moves_as_msg.to_owned() + ".";
+        moves_as_msg = moves_as_msg.to_owned() + ".\n";
     }
     moves_as_msg += "\n```";
     ctx.channel_id().say(ctx, &moves_as_msg).await?;
@@ -182,7 +183,7 @@ pub async fn moves(
                 continue;
             }
         }
-        moves_as_msg = moves_as_msg.to_owned() + ".";
+        moves_as_msg = moves_as_msg.to_owned() + ".\n";
     }
     moves_as_msg += "\n```";
 
