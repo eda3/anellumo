@@ -247,28 +247,28 @@
     ]
   },
   {
-    "input": "ポッドc(236H)",
+    "input": "ポッドC(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6b/GBVSR_2B_236H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "ポッドa(236L)",
+    "input": "ポッドA(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVSR_2B_236L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "ポッドb(236M)",
+    "input": "ポッドB(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_2B_236M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "R010：レーザー(236U)",
+    "input": "R010:レーザー(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e0/GBVSR_2B_236U.png",
     "hitbox_img": [
       ""
@@ -303,7 +303,7 @@
     ]
   },
   {
-    "input": "5UU",
+    "input": "転進重撃(5UU)",
     "move_img": "https://www.dustloop.com/wiki/images/7/79/GBVSR_2B_5HHH.png",
     "hitbox_img": [
       ""
@@ -324,7 +324,7 @@
     ]
   },
   {
-    "input": "jUU",
+    "input": "ポッド掴まり追加攻撃(jUU)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b6/GBVSR_2B_jUU.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4f/GBVSR_2B_jUU_Hitbox.png"

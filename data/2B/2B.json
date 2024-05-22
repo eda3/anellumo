@@ -420,7 +420,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "ポッドc(236H)",
+		"input": "ポッドC(236H)",
 		"name": "236H",
 		"damage": "1400",
 		"guard": "All",
@@ -432,7 +432,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "ポッドa(236L)",
+		"input": "ポッドA(236L)",
 		"name": "236L",
 		"damage": "150×5",
 		"guard": "All",
@@ -444,7 +444,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "ポッドb(236M)",
+		"input": "ポッドB(236M)",
 		"name": "236M",
 		"damage": "1200",
 		"guard": "All",
@@ -456,7 +456,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "R010：レーザー(236U)",
+		"input": "R010:レーザー(236U)",
 		"name": "236U",
 		"damage": "1600",
 		"guard": "All",
