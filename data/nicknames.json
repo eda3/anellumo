@@ -23,6 +23,13 @@
         ]
     },
     {
+        "character": "Beatrix",
+        "nicknames": [
+            "BT",
+            "ベアトリクス"
+        ]
+    },
+    {
         "character": "Beelzebub",
         "nicknames": [
             "ベルゼバブ"
@@ -150,6 +157,12 @@
         "character": "Soriz",
         "nicknames": [
             "ソリッズ"
+        ]
+    },
+    {
+        "character": "Vane",
+        "nicknames": [
+            "ヴェイン"
         ]
     },
     {
