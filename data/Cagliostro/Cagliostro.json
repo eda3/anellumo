@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Alexandria",
+		"input": "Hアレクサンドリア(214H)",
+		"name": "214H",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "12",
@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Alexandria",
+		"input": "Lアレクサンドリア(214L)",
+		"name": "214L",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "15",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Alexandria",
+		"input": "Mアレクサンドリア(214M)",
+		"name": "214M",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "21",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Alexandria",
+		"input": "Uアレクサンドリア(214U)",
+		"name": "214U",
 		"damage": "1000, 200×6",
 		"guard": "Mid",
 		"startup": "15",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Spare Body",
+		"input": "Hスペアボディ(22H)",
+		"name": "22H",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "13",
@@ -360,8 +360,8 @@
 		"invincibility": "13-30 All"
 	},
 	{
-		"input": "22L",
-		"name": "L Spare Body",
+		"input": "Lスペアボディ(22L)",
+		"name": "22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -372,8 +372,8 @@
 		"invincibility": "13-21 All"
 	},
 	{
-		"input": "22M",
-		"name": "M Spare Body",
+		"input": "Mスペアボディ(22M)",
+		"name": "22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -384,8 +384,8 @@
 		"invincibility": "14-33 All"
 	},
 	{
-		"input": "22U",
-		"name": "U Spare Body",
+		"input": "Uスペアボディ(22U)",
+		"name": "22U",
 		"damage": "2000",
 		"guard": "Mid",
 		"startup": "8",
@@ -396,8 +396,8 @@
 		"invincibility": "1-14 All"
 	},
 	{
-		"input": "236H",
-		"name": "H Mehen",
+		"input": "Hメヘン(236H)",
+		"name": "236H",
 		"damage": "800×2",
 		"guard": "All",
 		"startup": "38",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Mehen",
+		"input": "Lメヘン(236L)",
+		"name": "236L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "35+15",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Mehen",
+		"input": "Mメヘン(236M)",
+		"name": "236M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "50",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Mehen",
+		"input": "Uメヘン(236U)",
+		"name": "236U",
 		"damage": "900×2",
 		"guard": "All",
 		"startup": "-",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Calculated",
+		"input": "Hスペキュレーション(623H)",
+		"name": "623H",
 		"damage": "1800",
 		"guard": "Mid",
 		"startup": "20",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Calculated",
+		"input": "Lスペキュレーション(623L)",
+		"name": "623L",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "20",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Calculated",
+		"input": "Mスペキュレーション(623M)",
+		"name": "623M",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "24",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Calculated",
+		"input": "Uスペキュレーション(623U)",
+		"name": "623U",
 		"damage": "1000, 1500",
 		"guard": "Mid",
 		"startup": "18",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22H",
-		"name": "Air H Spare Body",
+		"input": "空中Hスペアボディ(j22H)",
+		"name": "j22H",
 		"damage": "1500",
 		"guard": "All",
 		"startup": "13",
@@ -504,8 +504,8 @@
 		"invincibility": "13-28 All"
 	},
 	{
-		"input": "j22L",
-		"name": "Air L Spare Body",
+		"input": "空中Lスペアボディ(j22L)",
+		"name": "j22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -516,8 +516,8 @@
 		"invincibility": "13-25 All"
 	},
 	{
-		"input": "j22M",
-		"name": "Air M Spare Body",
+		"input": "空中Mスペアボディ(j22M)",
+		"name": "j22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -528,8 +528,8 @@
 		"invincibility": "14-33 All"
 	},
 	{
-		"input": "j22U",
-		"name": "U Spare Body (Air)",
+		"input": "空中Uスペアボディ(j22U)",
+		"name": "j22U",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "17~22",
@@ -540,8 +540,8 @@
 		"invincibility": "7~Until Active"
 	},
 	{
-		"input": "j236H",
-		"name": "Air H Mehen",
+		"input": "空中Hメヘン(j236H)",
+		"name": "j236H",
 		"damage": "800×2",
 		"guard": "All",
 		"startup": "39",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236L",
-		"name": "Air L Mehen",
+		"input": "空中Lメヘン(j236L)",
+		"name": "j236L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "39",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236M",
-		"name": "Air M Mehen",
+		"input": "空中Mメヘン(j236M)",
+		"name": "j236M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "39",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236U",
-		"name": "U Mehen (Air)",
+		"input": "空中Uメヘン(j236U)",
+		"name": "j236U",
 		"damage": "900×2",
 		"guard": "All",
 		"startup": "-",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Ars Magna",
+		"input": "アルス・マグナ(236236H)",
+		"name": "236236H",
 		"damage": "200×15, 1500 [200×n, 500]",
 		"guard": "Mid→All",
 		"startup": "7+6",
@@ -600,8 +600,8 @@
 		"invincibility": "1~15 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Everything's Coming Up Cagliostro",
+		"input": "あなたもわたしもカリオストロ☆(236236U)",
+		"name": "236236U",
 		"damage": "900×4, 2400 [2500, 300×n]",
 		"guard": "Mid→All",
 		"startup": "8+5",
@@ -612,8 +612,8 @@
 		"invincibility": "1~15 All"
 	},
 	{
-		"input": "5U",
-		"name": "Collapse (Conjure)",
+		"input": "コラプス（生成）(5U)",
+		"name": "5U",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "12",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6U Level 1",
-		"name": "Collapse (Fire)",
+		"input": "コラプス（発射）Lv1(6U Level 1)",
+		"name": "6U Level 1",
 		"damage": "600",
 		"guard": "All",
 		"startup": "18",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6U Level 2",
-		"name": "Collapse (Fire)",
+		"input": "コラプス（発射）Lv2(6U Level 2)",
+		"name": "6U Level 2",
 		"damage": "400×2",
 		"guard": "All",
 		"startup": "18",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6U Level 3",
-		"name": "Collapse (Fire)",
+		"input": "コラプス（発射）Lv3(6U Level 3)",
+		"name": "6U Level 3",
 		"damage": "300×2, 400",
 		"guard": "All",
 		"startup": "18",
@@ -660,8 +660,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6U Level 4",
-		"name": "Collapse (Fire)",
+		"input": "コラプス（発射）Lv4(6U Level 4)",
+		"name": "6U Level 4",
 		"damage": "300×4",
 		"guard": "All",
 		"startup": "18",
@@ -672,8 +672,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6U Level 5",
-		"name": "Collapse (Fire)",
+		"input": "コラプス（発射）Lv5(6U Level 5)",
+		"name": "6U Level 5",
 		"damage": "300×5",
 		"guard": "All",
 		"startup": "18",
@@ -684,8 +684,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6U Level 1",
-		"name": "Collapse (Fire)",
+		"input": "空中コラプス（発射 Lv1）Lv1(j2/6U Level 1)",
+		"name": "j2/6U Level 1",
 		"damage": "600",
 		"guard": "All",
 		"startup": "22 [15]",
@@ -696,8 +696,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6U Level 2",
-		"name": "Collapse (Fire)",
+		"input": "空中コラプス（発射）Lv2(j2/6U Level 2)",
+		"name": "j2/6U Level 2",
 		"damage": "400×2",
 		"guard": "All",
 		"startup": "22 [15]",
@@ -708,8 +708,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6U Level 3",
-		"name": "Collapse (Fire)",
+		"input": "空中コラプス（発射）Lv3(j2/6U Level 3)",
+		"name": "j2/6U Level 3",
 		"damage": "300×2, 400",
 		"guard": "All",
 		"startup": "22 [15]",
@@ -720,8 +720,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6U Level 4",
-		"name": "Collapse (Fire)",
+		"input": "空中コラプス（発射）Lv4(j2/6U Level 4)",
+		"name": "j2/6U Level 4",
 		"damage": "300×4",
 		"guard": "All",
 		"startup": "22 [15]",
@@ -732,8 +732,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j2/6U Level 5",
-		"name": "Collapse (Fire)",
+		"input": "空中コラプス（発射）Lv5(j2/6U Level 5)",
+		"name": "j2/6U Level 5",
 		"damage": "300×5",
 		"guard": "All",
 		"startup": "22 [15]",
@@ -744,8 +744,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU",
-		"name": "Collapse (Conjure)",
+		"input": "空中コラプス（生成）(jU)",
+		"name": "jU",
 		"damage": "900",
 		"guard": "All",
 		"startup": "11",

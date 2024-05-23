@@ -623,6 +623,160 @@ pub async fn images_to_json(
         r#""無価値なもの（当身）(5U Catch)","name":"5U Catch""#,
     );
 
+    // カリオストロ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Alexandria""#,
+        r#""Hアレクサンドリア(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Alexandria""#,
+        r#""Lアレクサンドリア(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Alexandria""#,
+        r#""Mアレクサンドリア(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Alexandria""#,
+        r#""Uアレクサンドリア(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Spare Body""#,
+        r#""Hスペアボディ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Spare Body""#,
+        r#""Lスペアボディ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Spare Body""#,
+        r#""Mスペアボディ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Spare Body""#,
+        r#""Uスペアボディ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Mehen""#,
+        r#""Hメヘン(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Mehen""#,
+        r#""Lメヘン(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Mehen""#,
+        r#""Mメヘン(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Mehen""#,
+        r#""Uメヘン(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Calculated""#,
+        r#""Hスペキュレーション(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Calculated""#,
+        r#""Lスペキュレーション(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Calculated""#,
+        r#""Mスペキュレーション(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Calculated""#,
+        r#""Uスペキュレーション(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22H","name":"Air H Spare Body""#,
+        r#""空中Hスペアボディ(j22H)","name":"j22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22L","name":"Air L Spare Body""#,
+        r#""空中Lスペアボディ(j22L)","name":"j22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22M","name":"Air M Spare Body""#,
+        r#""空中Mスペアボディ(j22M)","name":"j22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22U","name":"U Spare Body (Air)""#,
+        r#""空中Uスペアボディ(j22U)","name":"j22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236H","name":"Air H Mehen""#,
+        r#""空中Hメヘン(j236H)","name":"j236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236L","name":"Air L Mehen""#,
+        r#""空中Lメヘン(j236L)","name":"j236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236M","name":"Air M Mehen""#,
+        r#""空中Mメヘン(j236M)","name":"j236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236U","name":"U Mehen (Air)""#,
+        r#""空中Uメヘン(j236U)","name":"j236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Ars Magna""#,
+        r#""アルス・マグナ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Everything's Coming Up Cagliostro""#,
+        r#""あなたもわたしもカリオストロ☆(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Collapse (Conjure)""#,
+        r#""コラプス（生成）(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""6U Level 1","name":"Collapse (Fire)""#,
+        r#""コラプス（発射）Lv1(6U Level 1)","name":"6U Level 1""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""6U Level 2","name":"Collapse (Fire)""#,
+        r#""コラプス（発射）Lv2(6U Level 2)","name":"6U Level 2""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""6U Level 3","name":"Collapse (Fire)""#,
+        r#""コラプス（発射）Lv3(6U Level 3)","name":"6U Level 3""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""6U Level 4","name":"Collapse (Fire)""#,
+        r#""コラプス（発射）Lv4(6U Level 4)","name":"6U Level 4""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""6U Level 5","name":"Collapse (Fire)""#,
+        r#""コラプス（発射）Lv5(6U Level 5)","name":"6U Level 5""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j2/6U Level 1","name":"Collapse (Fire)""#,
+        r#""空中コラプス（発射 Lv1）Lv1(j2/6U Level 1)","name":"j2/6U Level 1""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j2/6U Level 2","name":"Collapse (Fire)""#,
+        r#""空中コラプス（発射）Lv2(j2/6U Level 2)","name":"j2/6U Level 2""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j2/6U Level 3","name":"Collapse (Fire)""#,
+        r#""空中コラプス（発射）Lv3(j2/6U Level 3)","name":"j2/6U Level 3""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j2/6U Level 4","name":"Collapse (Fire)""#,
+        r#""空中コラプス（発射）Lv4(j2/6U Level 4)","name":"j2/6U Level 4""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j2/6U Level 5","name":"Collapse (Fire)""#,
+        r#""空中コラプス（発射）Lv5(j2/6U Level 5)","name":"j2/6U Level 5""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""jU","name":"Collapse (Conjure)""#,
+        r#""空中コラプス（生成）(jU)","name":"jU""#,
+    );
+
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();
