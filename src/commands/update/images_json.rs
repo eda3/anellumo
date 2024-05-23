@@ -350,7 +350,7 @@ pub async fn images_to_json(
         r#""jU","name":"Arm the Bastion""#,
         r#""城廓の構え(jU)","name":"jU""#,
     );
-        // アバタール・ベリアル
+    // アバタール・ベリアル
     char_page_response_json = char_page_response_json.replace(
         r#""214H","name":"H Carnal Passion""#,
         r#""H煮エ滾ル熱情(214H)","name":"214H""#,
