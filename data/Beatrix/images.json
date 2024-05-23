@@ -177,56 +177,56 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "Hサンダーバード(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVSR_Beatrix_214H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214L",
+    "input": "Lサンダーバード(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Beatrix_214L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214M",
+    "input": "Mサンダーバード(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Beatrix_214M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214U",
+    "input": "Uサンダーバード(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Beatrix_214U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22H",
+    "input": "Hライディングフリー(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Beatrix_22H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22L",
+    "input": "Lライディングフリー(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/0/09/GBVSR_Beatrix_22L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22M",
+    "input": "Mライディングフリー(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Beatrix_22M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22U",
+    "input": "Uライディングフリー(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Beatrix_22U.png",
     "hitbox_img": [
       ""
@@ -240,77 +240,77 @@
     ]
   },
   {
-    "input": "236H",
+    "input": "Hスターチェイサー(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Beatrix_236H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236L",
+    "input": "Lスターチェイサー(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Beatrix_236L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236M",
+    "input": "Mスターチェイサー(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a1/GBVSR_Beatrix_236M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236U",
+    "input": "Uスターチェイサー(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Beatrix_236U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623H",
+    "input": "Hエムブラスクの剣(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Beatrix_623H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623L",
+    "input": "Lエムブラスクの剣(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVSR_Beatrix_623L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623M",
+    "input": "Mエムブラスクの剣(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Beatrix_623M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623U",
+    "input": "Uエムブラスクの剣(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Beatrix_623U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H",
+    "input": "イモータル・アソールト(236236H)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U",
+    "input": "セイヴィアー・アンリーシュド(236236U)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U",
+    "input": "ナッシング・イズ・フォエヴァー(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Beatrix_5U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/92/GBVSR_Beatrix_5U_Hitbox.png"

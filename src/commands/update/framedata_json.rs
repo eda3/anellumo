@@ -495,6 +495,8 @@ pub async fn frames_to_json(
         r#""8U Follow-Up","name":"Pact (8U)""#,
         r#""パクト（上）(8U Follow-Up)","name":"8U Follow-Up""#,
     );
+
+    // ベアトリクス
     char_page_response_json = char_page_response_json.replace(
         r#""214H","name":"H Thunderbird""#,
         r#""Hサンダーバード(214H)","name":"214H""#,
