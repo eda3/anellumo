@@ -495,6 +495,87 @@ pub async fn frames_to_json(
         r#""8U Follow-Up","name":"Pact (8U)""#,
         r#""パクト（上）(8U Follow-Up)","name":"8U Follow-Up""#,
     );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Thunderbird""#,
+        r#""Hサンダーバード(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Thunderbird""#,
+        r#""Lサンダーバード(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Thunderbird""#,
+        r#""Mサンダーバード(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Thunderbird""#,
+        r#""Uサンダーバード(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Riding Free""#,
+        r#""Hライディングフリー(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Riding Free""#,
+        r#""Lライディングフリー(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Riding Free""#,
+        r#""Mライディングフリー(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Riding Free""#,
+        r#""Uライディングフリー(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~X","name":"Sapphire Slice""#,
+        r#""ライディングフリー追撃(22XX)","name":"22XX""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Star Chaser""#,
+        r#""Hスターチェイサー(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Star Chaser""#,
+        r#""Lスターチェイサー(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Star Chaser""#,
+        r#""Mスターチェイサー(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Star Chaser""#,
+        r#""Uスターチェイサー(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Embrasque Sword""#,
+        r#""Hエムブラスクの剣(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Embrasque Sword""#,
+        r#""Lエムブラスクの剣(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Embrasque Sword""#,
+        r#""Mエムブラスクの剣(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Embrasque Sword""#,
+        r#""Uエムブラスクの剣(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Immortal Assault""#,
+        r#""イモータル・アソールト(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Savior Unleashed""#,
+        r#""セイヴィアー・アンリーシュド(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Nothing Is Forever""#,
+        r#""ナッシング・イズ・フォエヴァー(5U)","name":"5U""#,
+    );
+
     // ベリアル
     let mut re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Asmodeus""#).unwrap();
     char_page_response_json = re

@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Thunderbird",
+		"input": "Hサンダーバード(214H)",
+		"name": "214H",
 		"damage": "400,800,600",
 		"guard": "-",
 		"startup": "10",
@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Thunderbird",
+		"input": "Lサンダーバード(214L)",
+		"name": "214L",
 		"damage": "400,800",
 		"guard": "-",
 		"startup": "13",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Thunderbird",
+		"input": "Mサンダーバード(214M)",
+		"name": "214M",
 		"damage": "800,600",
 		"guard": "-",
 		"startup": "30",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Thunderbird",
+		"input": "Uサンダーバード(214U)",
+		"name": "214U",
 		"damage": "500,1100,800",
 		"guard": "-",
 		"startup": "9",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Riding Free",
+		"input": "Hライディングフリー(22H)",
+		"name": "22H",
 		"damage": "100×3,1000",
 		"guard": "-",
 		"startup": "11",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Riding Free",
+		"input": "Lライディングフリー(22L)",
+		"name": "22L",
 		"damage": "800",
 		"guard": "-",
 		"startup": "18",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Riding Free",
+		"input": "Mライディングフリー(22M)",
+		"name": "22M",
 		"damage": "1200",
 		"guard": "-",
 		"startup": "28",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Riding Free",
+		"input": "Uライディングフリー(22U)",
+		"name": "22U",
 		"damage": "100×4,1200,1200",
 		"guard": "-",
 		"startup": "13",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XX",
-		"name": "Sapphire Slice",
+		"input": "ライディングフリー追撃(22XX)",
+		"name": "22XX",
 		"damage": "600[800]",
 		"guard": "Mid",
 		"startup": "14",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Star Chaser",
+		"input": "Hスターチェイサー(236H)",
+		"name": "236H",
 		"damage": "1600",
 		"guard": "All",
 		"startup": "13",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Star Chaser",
+		"input": "Lスターチェイサー(236L)",
+		"name": "236L",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "16",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Star Chaser",
+		"input": "Mスターチェイサー(236M)",
+		"name": "236M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "27",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Star Chaser",
+		"input": "Uスターチェイサー(236U)",
+		"name": "236U",
 		"damage": "800,1600",
 		"guard": "-",
 		"startup": "9",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Embrasque Sword",
+		"input": "Hエムブラスクの剣(623H)",
+		"name": "623H",
 		"damage": "1500",
 		"guard": "-",
 		"startup": "11",
@@ -468,8 +468,8 @@
 		"invincibility": "1-? All"
 	},
 	{
-		"input": "623L",
-		"name": "L Embrasque Sword",
+		"input": "Lエムブラスクの剣(623L)",
+		"name": "623L",
 		"damage": "1000",
 		"guard": "-",
 		"startup": "6",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Embrasque Sword",
+		"input": "Mエムブラスクの剣(623M)",
+		"name": "623M",
 		"damage": "1100",
 		"guard": "-",
 		"startup": "12",
@@ -492,8 +492,8 @@
 		"invincibility": "1-17 All"
 	},
 	{
-		"input": "623U",
-		"name": "U Embrasque Sword",
+		"input": "Uエムブラスクの剣(623U)",
+		"name": "623U",
 		"damage": "600,500,900",
 		"guard": "-",
 		"startup": "8",
@@ -504,8 +504,8 @@
 		"invincibility": "1-?? Full"
 	},
 	{
-		"input": "236236H",
-		"name": "Immortal Assault",
+		"input": "イモータル・アソールト(236236H)",
+		"name": "236236H",
 		"damage": "900,700×3,1500[2700,200×3]",
 		"guard": "Mid",
 		"startup": "13",
@@ -516,8 +516,8 @@
 		"invincibility": "1-14 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Savior Unleashed",
+		"input": "セイヴィアー・アンリーシュド(236236U)",
+		"name": "236236U",
 		"damage": "2640,3360",
 		"guard": "Mid",
 		"startup": "14",
@@ -528,8 +528,8 @@
 		"invincibility": "1-16 All"
 	},
 	{
-		"input": "5U",
-		"name": "Nothing Is Forever",
+		"input": "ナッシング・イズ・フォエヴァー(5U)",
+		"name": "5U",
 		"damage": "2500",
 		"guard": "Throw",
 		"startup": "10",
