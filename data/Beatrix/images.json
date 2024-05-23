@@ -98,13 +98,6 @@
     ]
   },
   {
-    "input": "遠H",
-    "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Beatrix_fH.png",
-    "hitbox_img": [
-      "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Beatrix_fH_Hitbox.png"
-    ]
-  },
-  {
     "input": "遠L",
     "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVSR_Beatrix_fL.png",
     "hitbox_img": [
