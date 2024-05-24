@@ -1043,6 +1043,112 @@ pub async fn frames_to_json(
         r#""ステイ・トゥナイト追加攻撃(5UU)","name":"5UU""#,
     );
 
+    // フェリ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Trombe""#,
+        r#""Hトロンペ(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Trombe""#,
+        r#""Lトロンペ(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Trombe""#,
+        r#""Mトロンペ(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Trombe""#,
+        r#""Uトロンペ(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Geegee, Get 'Em!""#,
+        r#""H足止めだ、ジジ！(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Geegee, Get 'Em!""#,
+        r#""L足止めだ、ジジ！(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Geegee, Get 'Em!""#,
+        r#""M足止めだ、ジジ！(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Geegee, Get 'Em!""#,
+        r#""U足止めだ、ジジ！(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Gespenst""#,
+        r#""Hゲシュペンスト(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Gespenst""#,
+        r#""Lゲシュペンスト(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Gespenst""#,
+        r#""Mゲシュペンスト(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Gespenst""#,
+        r#""Uゲシュペンスト(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X4X","name":"Heel""#,
+        r#""こっちに来い(236X4X)","name":"236X4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236XX","name":"Whip It Good""#,
+        r#""お仕置きだ(236XX)","name":"236XX""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Beppo, Sic 'Em!""#,
+        r#""H迎え撃て、ベッポ！(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Beppo, Sic 'Em!""#,
+        r#""L迎え撃て、ベッポ！(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Beppo, Sic 'Em!""#,
+        r#""M迎え撃て、ベッポ！(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Beppo, Sic 'Em!""#,
+        r#""U迎え撃て、ベッポ！(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"Hinrichten""#,
+        r#""ヒン・リヒテン(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Vergiften""#,
+        r#""フェアギフテン(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Aetheryte Requiescat""#,
+        r#""エーテライト・レクイエスカ(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Ein Ball""#,
+        r#""アイン・バル(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j4U","name":"Spectral Dive""#,
+        r#""ドローレン(j4U)","name":"j4U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j5U/6U","name":"Spectral Dive""#,
+        r#""ドローレン(j5U/6U)","name":"j5U/6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j7U","name":"Ghostwing""#,
+        r#""空中移動(j7U)","name":"j7U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j8U","name":"Ghostwing""#,
+        r#""空中移動(j8U)","name":"j8U""#,
+    );
+
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
