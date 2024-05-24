@@ -43,7 +43,7 @@
   },
   {
     "input": "66M",
-    "move_img": "https://www.dustloop.com/wiki/images/4/47/GBVSR_Beatrix_66M.png",
+    "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Beatrix_cXX6H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/12/GBVSR_Beatrix_66M_Hitbox.png"
     ]
@@ -95,6 +95,13 @@
     "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Beatrix_cXXX.png",
     "hitbox_img": [
       ""
+    ]
+  },
+  {
+    "input": "遠H",
+    "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Beatrix_fH.png",
+    "hitbox_img": [
+      "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Beatrix_fH_Hitbox.png"
     ]
   },
   {

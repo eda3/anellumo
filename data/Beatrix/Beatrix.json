@@ -168,6 +168,18 @@
 		"invincibility": "-"
 	},
 	{
+		"input": "遠H",
+		"name": "遠H",
+		"damage": "1300",
+		"guard": "Mid",
+		"startup": "11",
+		"active": "6",
+		"recovery": "19",
+		"hit": "0",
+		"block": "-4",
+		"invincibility": "-"
+	},
+	{
 		"input": "遠L",
 		"name": "遠L",
 		"damage": "600",
@@ -410,7 +422,7 @@
 	{
 		"input": "Hスターチェイサー(236H)",
 		"name": "236H",
-		"damage": "1600",
+		"damage": "400×4",
 		"guard": "All",
 		"startup": "13",
 		"active": "-",
@@ -422,7 +434,7 @@
 	{
 		"input": "Lスターチェイサー(236L)",
 		"name": "236L",
-		"damage": "1200",
+		"damage": "400,800",
 		"guard": "All",
 		"startup": "16",
 		"active": "-",
