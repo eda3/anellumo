@@ -799,6 +799,92 @@ pub async fn frames_to_json(
         r#""空中コラプス（生成）(jU)","name":"jU""#,
     );
 
+    // シャルロッテ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Sword of Lumiel""#,
+        r#""Hソード・オブ・リュミエール(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Sword of Lumiel""#,
+        r#""Lソード・オブ・リュミエール(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Sword of Lumiel""#,
+        r#""Mソード・オブ・リュミエール(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Sword of Lumiel""#,
+        r#""Uソード・オブ・リュミエール(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Noble Strategy""#,
+        r#""Uノーブルストラテジー(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X","name":"Noble Strategy""#,
+        r#""ノーブルストラテジー(22X)","name":"22X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~5","name":"With Surest Strike!""#,
+        r#""素早く隙を突くであります(22X5)","name":"22X5""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~H","name":"With Sweetest Skills!""#,
+        r#""これがキマったらカッコいいであります(22XH)","name":"22XH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~L","name":"With Flying Nobility!""#,
+        r#""遙か上空から急襲するであります(22XL)","name":"22XL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~M","name":"With Purest Bravery!""#,
+        r#""勇ましく斬るあります(22XM)","name":"22XM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8H","name":"H Holy Ladder""#,
+        r#""Hホーリーラダー([2]8H)","name":"[2]8H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8L","name":"L Holy Ladder""#,
+        r#""Lホーリーラダー([2]8L)","name":"[2]8L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8M","name":"M Holy Ladder""#,
+        r#""Mホーリーラダー([2]8M)","name":"[2]8M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8U","name":"U Holy Ladder""#,
+        r#""Uホーリーラダー([2]8U)","name":"[2]8U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6H","name":"H Shining Onslaught""#,
+        r#""Hグリッターオンスロート([4]6H)","name":"[4]6H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6L","name":"L Shining Onslaught""#,
+        r#""Lグリッターオンスロート([4]6L)","name":"[4]6L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6M","name":"M Shining Onslaught""#,
+        r#""Mグリッターオンスロート([4]6M)","name":"[4]6M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6U","name":"U Shining Onslaught""#,
+        r#""Uグリッターオンスロート([4]6U)","name":"[4]6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Brilliant Moon""#,
+        r#""ブリリアントムーン(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Noble Execution""#,
+        r#""ノーブル・エクスキューション(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Königsschild""#,
+        r#""ケーニシルト(5U)","name":"5U""#,
+    );
+
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();

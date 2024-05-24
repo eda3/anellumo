@@ -312,8 +312,8 @@
 		"invincibility": "4-36 Throw,  23-36 Low ,  22-35 Airborne"
 	},
 	{
-		"input": "214H",
-		"name": "H Sword of Lumiel",
+		"input": "Hソード・オブ・リュミエール(214H)",
+		"name": "214H",
 		"damage": "300×5",
 		"guard": "Mid",
 		"startup": "13",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Sword of Lumiel",
+		"input": "Lソード・オブ・リュミエール(214L)",
+		"name": "214L",
 		"damage": "300×2, 400",
 		"guard": "Mid",
 		"startup": "7",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Sword of Lumiel",
+		"input": "Mソード・オブ・リュミエール(214M)",
+		"name": "214M",
 		"damage": "200, 250×4",
 		"guard": "Mid",
 		"startup": "18",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Sword of Lumiel",
+		"input": "Uソード・オブ・リュミエール(214U)",
+		"name": "214U",
 		"damage": "500, 100, 150x8, 700",
 		"guard": "Mid",
 		"startup": "11",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Noble Strategy",
+		"input": "Uノーブルストラテジー(22U)",
+		"name": "22U",
 		"damage": "600, 800x2",
 		"guard": "Mid",
 		"startup": "9",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X",
-		"name": "Noble Strategy",
+		"input": "ノーブルストラテジー(22X)",
+		"name": "22X",
 		"damage": "-",
 		"guard": "-",
 		"startup": "26",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X5",
-		"name": "With Surest Strike!",
+		"input": "素早く隙を突くであります(22X5)",
+		"name": "22X5",
 		"damage": "1200",
 		"guard": "Low",
 		"startup": "L+7",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XH",
-		"name": "With Sweetest Skills!",
+		"input": "これがキマったらカッコいいであります(22XH)",
+		"name": "22XH",
 		"damage": "2000/2000/3000",
 		"guard": "Throw",
 		"startup": "5",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XL",
-		"name": "With Flying Nobility!",
+		"input": "遙か上空から急襲するであります(22XL)",
+		"name": "22XL",
 		"damage": "800/800/1200",
 		"guard": "All",
 		"startup": "9",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XM",
-		"name": "With Purest Bravery!",
+		"input": "勇ましく斬るあります(22XM)",
+		"name": "22XM",
 		"damage": "1200/1200/1800",
 		"guard": "High/Air",
 		"startup": "17",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8H",
-		"name": "H Holy Ladder",
+		"input": "Hホーリーラダー([2]8H)",
+		"name": "[2]8H",
 		"damage": "100×8, 700",
 		"guard": "Mid",
 		"startup": "11",
@@ -444,8 +444,8 @@
 		"invincibility": "1-18 Full"
 	},
 	{
-		"input": "[2]8L",
-		"name": "L Holy Ladder",
+		"input": "Lホーリーラダー([2]8L)",
+		"name": "[2]8L",
 		"damage": "500, 500",
 		"guard": "Mid, All",
 		"startup": "6",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8M",
-		"name": "M Holy Ladder",
+		"input": "Mホーリーラダー([2]8M)",
+		"name": "[2]8M",
 		"damage": "500, 600",
 		"guard": "Mid, All",
 		"startup": "9",
@@ -468,8 +468,8 @@
 		"invincibility": "1~10 All"
 	},
 	{
-		"input": "[2]8U",
-		"name": "U Holy Ladder",
+		"input": "Uホーリーラダー([2]8U)",
+		"name": "[2]8U",
 		"damage": "600, 100, 50x6, 500x2",
 		"guard": "Mid",
 		"startup": "8",
@@ -480,8 +480,8 @@
 		"invincibility": "1-11 All"
 	},
 	{
-		"input": "[4]6H",
-		"name": "H Shining Onslaught",
+		"input": "Hグリッターオンスロート([4]6H)",
+		"name": "[4]6H",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "11",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6L",
-		"name": "L Shining Onslaught",
+		"input": "Lグリッターオンスロート([4]6L)",
+		"name": "[4]6L",
 		"damage": "1100",
 		"guard": "Mid",
 		"startup": "11",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6M",
-		"name": "M Shining Onslaught",
+		"input": "Mグリッターオンスロート([4]6M)",
+		"name": "[4]6M",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "15",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6U",
-		"name": "U Shining Onslaught",
+		"input": "Uグリッターオンスロート([4]6U)",
+		"name": "[4]6U",
 		"damage": "2600",
 		"guard": "Mid",
 		"startup": "11",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Brilliant Moon",
+		"input": "ブリリアントムーン(236236H)",
+		"name": "236236H",
 		"damage": "1000, 250×9, 1250",
 		"guard": "Mid",
 		"startup": "8+5",
@@ -540,8 +540,8 @@
 		"invincibility": "1-14 Full"
 	},
 	{
-		"input": "236236U",
-		"name": "Noble Execution",
+		"input": "ノーブル・エクスキューション(236236U)",
+		"name": "236236U",
 		"damage": "3000x2",
 		"guard": "Mid, All",
 		"startup": "8+3",
@@ -552,8 +552,8 @@
 		"invincibility": "1-21 Full"
 	},
 	{
-		"input": "5U",
-		"name": "Königsschild",
+		"input": "ケーニシルト(5U)",
+		"name": "5U",
 		"damage": "1600",
 		"guard": "Unblockable",
 		"startup": "6",
