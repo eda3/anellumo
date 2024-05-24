@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Close Combat",
+		"input": "Hクロース・コンバット(214H)",
+		"name": "214H",
 		"damage": "500",
 		"guard": "Mid",
 		"startup": "15~26",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214HH",
-		"name": "Assault Knife",
+		"input": "アサルトナイフ(214HH)",
+		"name": "214HH",
 		"damage": "800, 100*4",
 		"guard": "Mid",
 		"startup": "7",
@@ -360,8 +360,8 @@
 		"invincibility": "1-26 All"
 	},
 	{
-		"input": "214HL",
-		"name": "Stunlight",
+		"input": "スタンライト(214HL)",
+		"name": "214HL",
 		"damage": "750",
 		"guard": "Mid",
 		"startup": "15",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214HM",
-		"name": "Takedown",
+		"input": "テイクダウン(214HM)",
+		"name": "214HM",
 		"damage": "900",
 		"guard": "Low",
 		"startup": "9",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214HU",
-		"name": "Spreadshot",
+		"input": "スプレッドショット(214HU)",
+		"name": "214HU",
 		"damage": "600*3",
 		"guard": "All",
 		"startup": "26",
@@ -396,8 +396,8 @@
 		"invincibility": "14~28 All"
 	},
 	{
-		"input": "214L",
-		"name": "L Close Combat",
+		"input": "Lクロース・コンバット(214L)",
+		"name": "214L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214LH",
-		"name": "Assault Knife",
+		"input": "アサルトナイフ(214LH)",
+		"name": "214LH",
 		"damage": "600, 400",
 		"guard": "All",
 		"startup": "7",
@@ -420,8 +420,8 @@
 		"invincibility": "1-8 All"
 	},
 	{
-		"input": "214LL",
-		"name": "Stunlight",
+		"input": "スタンライト(214LL)",
+		"name": "214LL",
 		"damage": "700",
 		"guard": "Mid",
 		"startup": "12",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214LM",
-		"name": "Takedown",
+		"input": "テイクダウン(214LM)",
+		"name": "214LM",
 		"damage": "800",
 		"guard": "Low",
 		"startup": "9",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214LU",
-		"name": "Spreadshot",
+		"input": "スプレッドショット(214LU)",
+		"name": "214LU",
 		"damage": "400*3",
 		"guard": "All",
 		"startup": "26",
@@ -456,8 +456,8 @@
 		"invincibility": "14~28 All"
 	},
 	{
-		"input": "214M",
-		"name": "M Close Combat",
+		"input": "Mクロース・コンバット(214M)",
+		"name": "214M",
 		"damage": "500",
 		"guard": "Mid",
 		"startup": "16~25",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214MH",
-		"name": "Assault Knife",
+		"input": "アサルトナイフ(214MH)",
+		"name": "214MH",
 		"damage": "400, 400",
 		"guard": "All",
 		"startup": "7",
@@ -480,8 +480,8 @@
 		"invincibility": "1-8 All"
 	},
 	{
-		"input": "214ML",
-		"name": "Stunlight",
+		"input": "スタンライト(214ML)",
+		"name": "214ML",
 		"damage": "500",
 		"guard": "Mid",
 		"startup": "12",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214MM",
-		"name": "Takedown",
+		"input": "テイクダウン(214MM)",
+		"name": "214MM",
 		"damage": "600",
 		"guard": "Low",
 		"startup": "9",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214MU",
-		"name": "Spreadshot",
+		"input": "スプレッドショット(214MU)",
+		"name": "214MU",
 		"damage": "400*3",
 		"guard": "All",
 		"startup": "26",
@@ -516,8 +516,8 @@
 		"invincibility": "14~28 All"
 	},
 	{
-		"input": "214U",
-		"name": "U Assault Knife",
+		"input": "Uクロース・コンバット(214U)",
+		"name": "214U",
 		"damage": "700, 100*6, 600",
 		"guard": "All",
 		"startup": "8",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214XG",
-		"name": "Brake",
+		"input": "ブレーキ(214XG)",
+		"name": "214XG",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Rat Race",
+		"input": "Hラット・レース(623H)",
+		"name": "623H",
 		"damage": "800, 800",
 		"guard": "Mid",
 		"startup": "21",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Rat Race",
+		"input": "Lラット・レース(623L)",
+		"name": "623L",
 		"damage": "200,600",
 		"guard": "Mid",
 		"startup": "28",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Rat Race",
+		"input": "Mラット・レース(623M)",
+		"name": "623M",
 		"damage": "200,600",
 		"guard": "Mid",
 		"startup": "24",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Rat Race",
+		"input": "Uラット・レース(623U)",
+		"name": "623U",
 		"damage": "500*3",
 		"guard": "All",
 		"startup": "99",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8H",
-		"name": "H Slow Kill",
+		"input": "Hスロー・キル([2]8H)",
+		"name": "[2]8H",
 		"damage": "500×2",
 		"guard": "All",
 		"startup": "13~23",
@@ -600,8 +600,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8L",
-		"name": "L Slow Kill",
+		"input": "Lスロー・キル([2]8L)",
+		"name": "[2]8L",
 		"damage": "700",
 		"guard": "All",
 		"startup": "15~26",
@@ -612,8 +612,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8M",
-		"name": "M Slow Kill",
+		"input": "Mスロー・キル([2]8M)",
+		"name": "[2]8M",
 		"damage": "700",
 		"guard": "All",
 		"startup": "15~26",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8U",
-		"name": "U Slow Kill",
+		"input": "Uスロー・キル([2]8U)",
+		"name": "[2]8U",
 		"damage": "800*3",
 		"guard": "All",
 		"startup": "13",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8[H]",
-		"name": "H Slow Kill (Charged)",
+		"input": "Hスロー・キル（タメ）([2]8[H])",
+		"name": "[2]8[H]",
 		"damage": "300×4",
 		"guard": "All",
 		"startup": "24",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8[L]",
-		"name": "L Slow Kill (Charged)",
+		"input": "Lスロー・キル（タメ）([2]8[L])",
+		"name": "[2]8[L]",
 		"damage": "400×2",
 		"guard": "All",
 		"startup": "27",
@@ -660,8 +660,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[2]8[M]",
-		"name": "M Slow Kill (Charged)",
+		"input": "Mスロー・キル（タメ）([2]8[M])",
+		"name": "[2]8[M]",
 		"damage": "400×2",
 		"guard": "All",
 		"startup": "27",
@@ -672,8 +672,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6H",
-		"name": "H Flamek Thunder",
+		"input": "Hフラメクの雷([4]6H)",
+		"name": "[4]6H",
 		"damage": "400,400,400",
 		"guard": "All",
 		"startup": "13~24",
@@ -684,8 +684,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6L",
-		"name": "L Flamek Thunder",
+		"input": "Lフラメクの雷([4]6L)",
+		"name": "[4]6L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "13~24",
@@ -696,8 +696,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6M",
-		"name": "M Flamek Thunder",
+		"input": "Mフラメクの雷([4]6M)",
+		"name": "[4]6M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "15~26",
@@ -708,8 +708,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6U",
-		"name": "U Flamek Thunder",
+		"input": "Uフラメクの雷([4]6U)",
+		"name": "[4]6U",
 		"damage": "500*4, 600",
 		"guard": "All",
 		"startup": "11",
@@ -720,8 +720,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6[H]",
-		"name": "H Flamek Thunder (Charged)",
+		"input": "Hフラメクの雷（タメ）([4]6[H])",
+		"name": "[4]6[H]",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "25~45",
@@ -732,8 +732,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6[L]",
-		"name": "L Flamek Thunder (Charged)",
+		"input": "Lフラメクの雷（タメ）([4]6[L])",
+		"name": "[4]6[L]",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "25",
@@ -744,8 +744,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6[M]",
-		"name": "M Flamek Thunder (Charged)",
+		"input": "Mフラメクの雷（タメ）([4]6[M])",
+		"name": "[4]6[M]",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "27",
@@ -756,8 +756,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Acidrage Howl",
+		"input": "アシッドレイジ・ロアー(236236H)",
+		"name": "236236H",
 		"damage": "1000, 350×3, 450, 100×15",
 		"guard": "Mid",
 		"startup": "9+4~13",
@@ -768,8 +768,8 @@
 		"invincibility": "1-13 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Dead-End Fall",
+		"input": "デッドエンド・フォール(236236U)",
+		"name": "236236U",
 		"damage": "240×16, 60×33, 180 [200×15, 1000]",
 		"guard": "Mid",
 		"startup": "9+4",
@@ -780,8 +780,8 @@
 		"invincibility": "1-15 Full"
 	},
 	{
-		"input": "5U",
-		"name": "Stay Tonight",
+		"input": "ステイ・トゥナイト(5U)",
+		"name": "5U",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "19",
@@ -792,8 +792,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UU",
-		"name": "Followup",
+		"input": "ステイ・トゥナイト追加攻撃(5UU)",
+		"name": "5UU",
 		"damage": "600(800)",
 		"guard": "Mid",
 		"startup": "5~23 (24)",

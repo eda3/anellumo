@@ -885,6 +885,164 @@ pub async fn frames_to_json(
         r#""ケーニシルト(5U)","name":"5U""#,
     );
 
+    // ユーステス
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Close Combat""#,
+        r#""Hクロース・コンバット(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HH","name":"Assault Knife""#,
+        r#""アサルトナイフ(214HH)","name":"214HH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HL","name":"Stunlight""#,
+        r#""スタンライト(214HL)","name":"214HL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HM","name":"Takedown""#,
+        r#""テイクダウン(214HM)","name":"214HM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HU","name":"Spreadshot""#,
+        r#""スプレッドショット(214HU)","name":"214HU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Close Combat""#,
+        r#""Lクロース・コンバット(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LH","name":"Assault Knife""#,
+        r#""アサルトナイフ(214LH)","name":"214LH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LL","name":"Stunlight""#,
+        r#""スタンライト(214LL)","name":"214LL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LM","name":"Takedown""#,
+        r#""テイクダウン(214LM)","name":"214LM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LU","name":"Spreadshot""#,
+        r#""スプレッドショット(214LU)","name":"214LU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Close Combat""#,
+        r#""Mクロース・コンバット(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214MH","name":"Assault Knife""#,
+        r#""アサルトナイフ(214MH)","name":"214MH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214ML","name":"Stunlight""#,
+        r#""スタンライト(214ML)","name":"214ML""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214MM","name":"Takedown""#,
+        r#""テイクダウン(214MM)","name":"214MM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214MU","name":"Spreadshot""#,
+        r#""スプレッドショット(214MU)","name":"214MU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Assault Knife""#,
+        r#""Uクロース・コンバット(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214XG","name":"Brake""#,
+        r#""ブレーキ(214XG)","name":"214XG""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Rat Race""#,
+        r#""Hラット・レース(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Rat Race""#,
+        r#""Lラット・レース(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Rat Race""#,
+        r#""Mラット・レース(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Rat Race""#,
+        r#""Uラット・レース(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8H","name":"H Slow Kill""#,
+        r#""Hスロー・キル([2]8H)","name":"[2]8H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8L","name":"L Slow Kill""#,
+        r#""Lスロー・キル([2]8L)","name":"[2]8L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8M","name":"M Slow Kill""#,
+        r#""Mスロー・キル([2]8M)","name":"[2]8M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8U","name":"U Slow Kill""#,
+        r#""Uスロー・キル([2]8U)","name":"[2]8U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8[H]","name":"H Slow Kill (Charged)""#,
+        r#""Hスロー・キル（タメ）([2]8[H])","name":"[2]8[H]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8[L]","name":"L Slow Kill (Charged)""#,
+        r#""Lスロー・キル（タメ）([2]8[L])","name":"[2]8[L]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8[M]","name":"M Slow Kill (Charged)""#,
+        r#""Mスロー・キル（タメ）([2]8[M])","name":"[2]8[M]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6H","name":"H Flamek Thunder""#,
+        r#""Hフラメクの雷([4]6H)","name":"[4]6H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6L","name":"L Flamek Thunder""#,
+        r#""Lフラメクの雷([4]6L)","name":"[4]6L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6M","name":"M Flamek Thunder""#,
+        r#""Mフラメクの雷([4]6M)","name":"[4]6M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6U","name":"U Flamek Thunder""#,
+        r#""Uフラメクの雷([4]6U)","name":"[4]6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6[H]","name":"H Flamek Thunder (Charged)""#,
+        r#""Hフラメクの雷（タメ）([4]6[H])","name":"[4]6[H]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6[L]","name":"L Flamek Thunder (Charged)""#,
+        r#""Lフラメクの雷（タメ）([4]6[L])","name":"[4]6[L]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6[M]","name":"M Flamek Thunder (Charged)""#,
+        r#""Mフラメクの雷（タメ）([4]6[M])","name":"[4]6[M]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Acidrage Howl""#,
+        r#""アシッドレイジ・ロアー(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Dead-End Fall""#,
+        r#""デッドエンド・フォール(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Stay Tonight""#,
+        r#""ステイ・トゥナイト(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5UU","name":"Followup""#,
+        r#""ステイ・トゥナイト追加攻撃(5UU)","name":"5UU""#,
+    );
+
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();

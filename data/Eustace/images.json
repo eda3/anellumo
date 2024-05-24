@@ -170,49 +170,49 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/6/64/GBVSR_Eustace_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/41/GBVS_Eustace_BC_Hitbox.png;"
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVS_Eustace_jLU.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Eustace_AirThrow_Hitbox.png"
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5c/GBVS_Eustace_LU.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/66/GBVSR_Eustace_Throw_Hitbox.png"
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Eustace_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c9/GBVS_Eustace_5MH_Hitbox_1.png;_GBVS_Eustace_5MH_Hitbox_2.png"
     ]
   },
   {
-    "input": "MHMH",
+    "input": "レイジングチェイン(MHMH)",
     "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Eustace_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a3/GBVS_Eustace_RC_Hitbox.png;"
     ]
   },
   {
-    "input": "214H",
+    "input": "Hクロース・コンバット(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/7/72/GBVS_Eustace_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/63/GBVSR_Eustace_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214H &gt; H",
+    "input": "アサルトナイフ(214HH)",
     "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVS_Eustace_214X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Eustace_214XH_Hitbox1.png",
@@ -220,21 +220,21 @@
     ]
   },
   {
-    "input": "214H &gt; L",
+    "input": "スタンライト(214HL)",
     "move_img": "https://www.dustloop.com/wiki/images/6/69/GBVS_Eustace_214X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/49/GBVSR_Eustace_214XL_Hitbox.png"
     ]
   },
   {
-    "input": "214H &gt; M",
+    "input": "テイクダウン(214HM)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVS_Eustace_214X-M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/89/GBVSR_Eustace_214XM_Hitbox.png"
     ]
   },
   {
-    "input": "214H &gt; U",
+    "input": "スプレッドショット(214HU)",
     "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVS_Eustace_214X-U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/25/GBVSR_Eustace_214XU_Hitbox1.png",
@@ -243,14 +243,14 @@
     ]
   },
   {
-    "input": "214L",
+    "input": "Lクロース・コンバット(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVS_Eustace_214L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214L &gt; H",
+    "input": "アサルトナイフ(214LH)",
     "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVS_Eustace_214X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Eustace_214XH_Hitbox1.png",
@@ -258,21 +258,21 @@
     ]
   },
   {
-    "input": "214L &gt; L",
+    "input": "スタンライト(214LL)",
     "move_img": "https://www.dustloop.com/wiki/images/6/69/GBVS_Eustace_214X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/49/GBVSR_Eustace_214XL_Hitbox.png"
     ]
   },
   {
-    "input": "214L &gt; M",
+    "input": "テイクダウン(214LM)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVS_Eustace_214X-M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/89/GBVSR_Eustace_214XM_Hitbox.png"
     ]
   },
   {
-    "input": "214L &gt; U",
+    "input": "スプレッドショット(214LU)",
     "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVS_Eustace_214X-U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/25/GBVSR_Eustace_214XU_Hitbox1.png",
@@ -281,14 +281,14 @@
     ]
   },
   {
-    "input": "214M",
+    "input": "Mクロース・コンバット(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/7/72/GBVS_Eustace_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/63/GBVSR_Eustace_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214M &gt; H",
+    "input": "アサルトナイフ(214MH)",
     "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVS_Eustace_214X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Eustace_214XH_Hitbox1.png",
@@ -296,21 +296,21 @@
     ]
   },
   {
-    "input": "214M &gt; L",
+    "input": "スタンライト(214ML)",
     "move_img": "https://www.dustloop.com/wiki/images/6/69/GBVS_Eustace_214X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/49/GBVSR_Eustace_214XL_Hitbox.png"
     ]
   },
   {
-    "input": "214M &gt; M",
+    "input": "テイクダウン(214MM)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVS_Eustace_214X-M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/89/GBVSR_Eustace_214XM_Hitbox.png"
     ]
   },
   {
-    "input": "214M &gt; U",
+    "input": "スプレッドショット(214MU)",
     "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVS_Eustace_214X-U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/25/GBVSR_Eustace_214XU_Hitbox1.png",
@@ -319,7 +319,7 @@
     ]
   },
   {
-    "input": "214U",
+    "input": "Uクロース・コンバット(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Eustace_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Eustace_214U_Hitbox.png",
@@ -327,42 +327,42 @@
     ]
   },
   {
-    "input": "214X &gt; G",
+    "input": "ブレーキ(214XG)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623H",
+    "input": "Hラット・レース(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVS_Eustace_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
     ]
   },
   {
-    "input": "623L",
+    "input": "Lラット・レース(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVS_Eustace_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
     ]
   },
   {
-    "input": "623M",
+    "input": "Mラット・レース(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVS_Eustace_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Eustace_623X_Hitbox.png"
     ]
   },
   {
-    "input": "623U",
+    "input": "Uラット・レース(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Eustace_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/57/GBVSR_Eustace_623U_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8H",
+    "input": "Hスロー・キル([2]8H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Eustace_28X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Eustace_28X_Hitbox.png",
@@ -370,7 +370,7 @@
     ]
   },
   {
-    "input": "[2]8L",
+    "input": "Lスロー・キル([2]8L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Eustace_28X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Eustace_28X_Hitbox.png",
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "input": "[2]8M",
+    "input": "Mスロー・キル([2]8M)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Eustace_28X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Eustace_28X_Hitbox.png",
@@ -386,7 +386,7 @@
     ]
   },
   {
-    "input": "[2]8U",
+    "input": "Uスロー・キル([2]8U)",
     "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Eustace_28U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Eustace_28U_Hitbox.png",
@@ -394,28 +394,28 @@
     ]
   },
   {
-    "input": "[2]8[H]",
+    "input": "Hスロー・キル（タメ）([2]8[H])",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Eustace_28X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "[2]8[L]",
+    "input": "Lスロー・キル（タメ）([2]8[L])",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Eustace_28X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "[2]8[M]",
+    "input": "Mスロー・キル（タメ）([2]8[M])",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Eustace_28X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "[4]6H",
+    "input": "Hフラメクの雷([4]6H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Eustace_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Eustace_46X_Hitbox1.png",
@@ -423,7 +423,7 @@
     ]
   },
   {
-    "input": "[4]6L",
+    "input": "Lフラメクの雷([4]6L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Eustace_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Eustace_46X_Hitbox1.png",
@@ -431,7 +431,7 @@
     ]
   },
   {
-    "input": "[4]6M",
+    "input": "Mフラメクの雷([4]6M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Eustace_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Eustace_46X_Hitbox1.png",
@@ -439,7 +439,7 @@
     ]
   },
   {
-    "input": "[4]6U",
+    "input": "Uフラメクの雷([4]6U)",
     "move_img": "https://www.dustloop.com/wiki/images/5/51/GBVSR_Eustace_46U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/69/GBVSR_Eustace_46U_Hitbox.png",
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "input": "[4]6[H]",
+    "input": "Hフラメクの雷（タメ）([4]6[H])",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Eustace_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/64/GBVSR_Eustace_46X_Charged_Hitbox1.png",
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "input": "[4]6[L]",
+    "input": "Lフラメクの雷（タメ）([4]6[L])",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Eustace_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/64/GBVSR_Eustace_46X_Charged_Hitbox1.png",
@@ -463,7 +463,7 @@
     ]
   },
   {
-    "input": "[4]6[M]",
+    "input": "Mフラメクの雷（タメ）([4]6[M])",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVS_Eustace_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/64/GBVSR_Eustace_46X_Charged_Hitbox1.png",
@@ -471,14 +471,14 @@
     ]
   },
   {
-    "input": "236236H",
+    "input": "アシッドレイジ・ロアー(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVS_Eustace_236236H_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/31/GBVSR_Eustace_236236H_Hitbox.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "デッドエンド・フォール(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVS_Eustace_236236U_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Eustace_236236U_Hitbox1.png",
@@ -486,14 +486,14 @@
     ]
   },
   {
-    "input": "5U",
+    "input": "ステイ・トゥナイト(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/2/22/GBVS_Eustace_5U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Eustace_5U_Hitbox.png"
     ]
   },
   {
-    "input": "5UU",
+    "input": "ステイ・トゥナイト追加攻撃(5UU)",
     "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVS_Eustace_5UU.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Eustace_5UU_Hitbox.png"
