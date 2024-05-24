@@ -1147,6 +1147,130 @@ pub async fn images_to_json(
         r#""空中移動(j8U)","name":"j8U""#,
     );
 
+    // グリームニル
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Deathrite Tempest""#,
+        r#""H葬嵐神滅穿(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Deathrite Tempest""#,
+        r#""L葬嵐神滅穿(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Deathrite Tempest""#,
+        r#""M葬嵐神滅穿(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"Deathrite Temptest""#,
+        r#""U葬嵐神滅穿(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Wind Crest""#,
+        r#""Hウィンドエングライヴ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Wind Crest""#,
+        r#""Lウィンドエングライヴ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Wind Crest""#,
+        r#""Mウィンドエングライヴ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"Wind Crest""#,
+        r#""Uウィンドエングライヴ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Dancing Storm""#,
+        r#""Hダンシングストーム(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H4X","name":"H Wind Shift""#,
+        r#""軌道変化左(236H4X)","name":"236H4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H6X","name":"H Wind Shift""#,
+        r#""軌道変化右(236H6X)","name":"236H6X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H8X","name":"H Wind Shift""#,
+        r#""軌道変化上(236H8X)","name":"236H8X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Dancing Storm""#,
+        r#""Lダンシングストーム(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Dancing Storm""#,
+        r#""Mダンシングストーム(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X4X","name":"L/M Wind Shift""#,
+        r#""L/M軌道変化(236X~4X)","name":"236X4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X6X","name":"L/M Wind Shift""#,
+        r#""L/M軌道変化(236X~6X)","name":"236X6X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X8X","name":"L/M Wind Shift""#,
+        r#""L/M軌道変化(236X~8X)","name":"236X8X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Winds of Temptation""#,
+        r#""Hギルティサイクロン(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Winds of Temptation""#,
+        r#""Lギルティサイクロン(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Winds of Temptation""#,
+        r#""Mギルティサイクロン(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"Winds of Temptation""#,
+        r#""Uギルティサイクロン(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214H","name":"H Voidlight Erasure""#,
+        r#""H虚幻晄裂葬(j214H)","name":"j214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214L","name":"L Voidlight Erasure""#,
+        r#""L虚幻晄裂葬(j214L)","name":"j214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214M","name":"M Voidlight Erasure""#,
+        r#""M虚幻晄裂葬(j214M)","name":"j214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214U","name":"Voidlight Erasure""#,
+        r#""U虚幻晄裂葬(j214U)","name":"j214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"Grace of the Radiant""#,
+        r#""天佑神助晄(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Holy Ray of Purification""#,
+        r#""神聖破邪晄(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Terminal Vortex""#,
+        r#""エンドテンペスト(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"Dancing Storm""#,
+        r#""ダンシングストーム(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""5U","name":"Galewing""#, r#""天翔疾駆(5U)","name":"5U""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""XU","name":"Gale Dash""#,
+        r#""ゲイルダッシュ(XU)","name":"XU""#,
+    );
+
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();

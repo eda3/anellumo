@@ -147,252 +147,252 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Grimnir_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Grimnir_BC_Hitbox_1.png;"
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/28/GBVSR_Grimnir_AirThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/39/GBVSR_Grimnir_AirThrow_Hitbox.png"
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/7/7e/GBVSR_Grimnir_Throw.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Grimnir_GroundThrow_Hitbox.png"
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Grimnir_5MH.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Grimnir_5MH_Hitbox_1.png"
     ]
   },
   {
-    "input": "MHMH",
+    "input": "レイジングチェイン(MHMH)",
     "move_img": "https://www.dustloop.com/wiki/images/2/22/GBVSR_Grimnir_RC.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/47/GBVSR_Grimnir_RC_Hitbox_1.png;"
     ]
   },
   {
-    "input": "214H",
+    "input": "H葬嵐神滅穿(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Grimnir_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "214L",
+    "input": "L葬嵐神滅穿(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Grimnir_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "214M",
+    "input": "M葬嵐神滅穿(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Grimnir_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "214U",
+    "input": "U葬嵐神滅穿(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Grimnir_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/61/GBVSR_Grimnir_214U_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22H",
+    "input": "Hウィンドエングライヴ(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Grimnir_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Grimnir_22X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22L",
+    "input": "Lウィンドエングライヴ(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Grimnir_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Grimnir_22X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22M",
+    "input": "Mウィンドエングライヴ(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Grimnir_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Grimnir_22X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "22U",
+    "input": "Uウィンドエングライヴ(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Grimnir_22U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Grimnir_22U_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236H",
+    "input": "Hダンシングストーム(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_236X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236H4X",
+    "input": "軌道変化左(236H4X)",
     "move_img": "https://www.dustloop.com/wiki/images/5/54/GBVSR_Grimnir_236X4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Grimnir_236X4X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236H6X",
+    "input": "軌道変化右(236H6X)",
     "move_img": "https://www.dustloop.com/wiki/images/5/54/GBVSR_Grimnir_236X4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Grimnir_236X4X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236H8X",
+    "input": "軌道変化上(236H8X)",
     "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Grimnir_236X8X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Grimnir_236X8X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236L",
+    "input": "Lダンシングストーム(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_236X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236M",
+    "input": "Mダンシングストーム(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_236X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236X4X",
+    "input": "L/M軌道変化(236X~4X)",
     "move_img": "https://www.dustloop.com/wiki/images/5/54/GBVSR_Grimnir_236X4X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Grimnir_236X4X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236X6X",
+    "input": "L/M軌道変化(236X~6X)",
     "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Grimnir_236X6X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Grimnir_236X6X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "236X8X",
+    "input": "L/M軌道変化(236X~8X)",
     "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Grimnir_236X8X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Grimnir_236X8X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "623H",
+    "input": "Hギルティサイクロン(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Grimnir_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Grimnir_623X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "623L",
+    "input": "Lギルティサイクロン(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Grimnir_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Grimnir_623X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "623M",
+    "input": "Mギルティサイクロン(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/5/53/GBVSR_Grimnir_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Grimnir_623X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "623U",
+    "input": "Uギルティサイクロン(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Grimnir_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Grimnir_623U_Hitbox_1.png;"
     ]
   },
   {
-    "input": "j214H",
+    "input": "H虚幻晄裂葬(j214H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_Grimnir_j214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "j214L",
+    "input": "L虚幻晄裂葬(j214L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_Grimnir_j214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "j214M",
+    "input": "M虚幻晄裂葬(j214M)",
     "move_img": "https://www.dustloop.com/wiki/images/9/93/GBVSR_Grimnir_j214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Grimnir_214X_Hitbox_1.png;"
     ]
   },
   {
-    "input": "j214U",
+    "input": "U虚幻晄裂葬(j214U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Grimnir_j214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Grimnir_j214U_Hitbox_1.png;"
     ]
   },
   {
-    "input": "214214H",
+    "input": "天佑神助晄(214214H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Grimnir_214214H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/78/GBVSR_Grimnir_214214H_Hitbox.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "神聖破邪晄(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/3/36/GBVSR_Grimnir_236236H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Grimnir_236236H_Hitbox.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "エンドテンペスト(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Grimnir_SSBA2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Grimnir_236236U_Hitbox.png"
     ]
   },
   {
-    "input": "236U",
+    "input": "ダンシングストーム(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Grimnir_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Grimnir_236U_Hitbox_1.png;"
     ]
   },
   {
-    "input": "5U",
+    "input": "天翔疾駆(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Grimnir_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "XU",
+    "input": "ゲイルダッシュ(XU)",
     "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Grimnir_GaleDash.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/af/GBVSR_Grimnir_GaleDash_Hitbox.png"
