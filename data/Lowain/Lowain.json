@@ -312,8 +312,8 @@
 		"invincibility": "4-36 Throw,  23-36 Low ,  22-35 Airborne"
 	},
 	{
-		"input": "214H",
-		"name": "H Awesome Sauce",
+		"input": "Hポコパン(214H)",
+		"name": "214H",
 		"damage": "400×2, 300",
 		"guard": "Mid",
 		"startup": "15",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Awesome Sauce",
+		"input": "Lポコパン(214L)",
+		"name": "214L",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "19",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Awesome Sauce",
+		"input": "Mポコパン(214M)",
+		"name": "214M",
 		"damage": "500×2",
 		"guard": "Mid",
 		"startup": "17",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Awesome Sauce",
+		"input": "Uポコパン(214U)",
+		"name": "214U",
 		"damage": "500x4",
 		"guard": "Mid",
 		"startup": "11",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Magnificent Tool of Destruction",
+		"input": "H戦争兵器(22H)",
+		"name": "22H",
 		"damage": "170×6",
 		"guard": "All",
 		"startup": "38",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Magnificent Tool of Destruction",
+		"input": "L戦争兵器(22L)",
+		"name": "22L",
 		"damage": "400×2",
 		"guard": "All",
 		"startup": "38",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Magnificent Tool of Destruction",
+		"input": "M戦争兵器(22M)",
+		"name": "22M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "47",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Magnificent Tool of Destruction",
+		"input": "U戦争兵器(22U)",
+		"name": "22U",
 		"damage": "50x1~50, 10x51~End, 1000",
 		"guard": "Mid",
 		"startup": "17",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Sammy &amp; Tommy",
+		"input": "Hエルっち&トモちゃん(236H)",
+		"name": "236H",
 		"damage": "700×2",
 		"guard": "Low/Air, All",
 		"startup": "21",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Sammy &amp; Tommy",
+		"input": "Lエルっち&トモちゃん(236L)",
+		"name": "236L",
 		"damage": "700",
 		"guard": "Low/Air",
 		"startup": "21",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Sammy &amp; Tommy",
+		"input": "Mエルっち&トモちゃん(236M)",
+		"name": "236M",
 		"damage": "700",
 		"guard": "All",
 		"startup": "39",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Sammy &amp; Tommy",
+		"input": "Uエルっち&トモちゃん(236U)",
+		"name": "236U",
 		"damage": "400x5",
 		"guard": "Mid",
 		"startup": "14",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Come at Me, Bro!",
+		"input": "Hエルっち&トモちゃん(623H)",
+		"name": "623H",
 		"damage": "1200",
 		"guard": "Unblockable",
 		"startup": "-",
@@ -468,8 +468,8 @@
 		"invincibility": "1~16 Catch All"
 	},
 	{
-		"input": "623L",
-		"name": "L Come at Me, Bro!",
+		"input": "LAventure(623L)",
+		"name": "623L",
 		"damage": "1200",
 		"guard": "Unblockable",
 		"startup": "-",
@@ -480,8 +480,8 @@
 		"invincibility": "4~22 Catch High"
 	},
 	{
-		"input": "623M",
-		"name": "M Come at Me, Bro!",
+		"input": "MAventure(623M)",
+		"name": "623M",
 		"damage": "1200",
 		"guard": "Unblockable",
 		"startup": "-",
@@ -492,8 +492,8 @@
 		"invincibility": "1~19 Catch Low"
 	},
 	{
-		"input": "623U",
-		"name": "U Come at Me, Bro!",
+		"input": "UAventure(623U)",
+		"name": "623U",
 		"damage": "700x2, 600",
 		"guard": "Midx2, Low",
 		"startup": "8",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "l.214U",
-		"name": "U Awesome Sauce (Lucky)",
+		"input": "Uポコパン（ラッキー）(l214U)",
+		"name": "l214U",
 		"damage": "500x3, 1000",
 		"guard": "Mid",
 		"startup": "11",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Human! Pyramid! Attack!",
+		"input": "超一騎当千(236236H)",
+		"name": "236236H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "5+6",
@@ -528,8 +528,8 @@
 		"invincibility": "1-5 All, 6-11 Super Armor"
 	},
 	{
-		"input": "236236H 236U",
-		"name": "Moment of Truth",
+		"input": "勝負所 ※KBSN解除されます（笑）(236236H236U)",
+		"name": "236236H236U",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "14",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H G",
-		"name": "Totally Rad Juke",
+		"input": "半端ない回避(236236HG)",
+		"name": "236236HG",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H H",
-		"name": "Flex On 'Em",
+		"input": "漢斬り(236236HH)",
+		"name": "236236HH",
 		"damage": "800",
 		"guard": "High",
 		"startup": "19",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H L",
-		"name": "It's Lit, Bros",
+		"input": "オラついた攻撃(236236HL)",
+		"name": "236236HL",
 		"damage": "200×3",
 		"guard": "Mid",
 		"startup": "8",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H M",
-		"name": "Definitely Don't Try This at Home",
+		"input": "絶対に真似しないでください(236236HM)",
+		"name": "236236HM",
 		"damage": "700",
 		"guard": "Mid",
 		"startup": "9",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H U",
-		"name": "Catch 'Em Slippin'",
+		"input": "膝スラ(236236HU)",
+		"name": "236236H U",
 		"damage": "900",
 		"guard": "Low",
 		"startup": "23",
@@ -600,8 +600,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236U",
-		"name": "Try This on for Size!",
+		"input": "サイズ感的に勝ち目ねーから！(236236U)",
+		"name": "236236U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -612,8 +612,8 @@
 		"invincibility": "1~2 ALL"
 	},
 	{
-		"input": "236236U H",
-		"name": "Nether Veil",
+		"input": "ネザーマントル(236236UH)",
+		"name": "236236U H",
 		"damage": "1800",
 		"guard": "Unblockable",
 		"startup": "30",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236U L",
-		"name": "Earth Pillar",
+		"input": "ランドピラー(236236UL)",
+		"name": "236236UL",
 		"damage": "600×3",
 		"guard": "Mid",
 		"startup": "18",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236U M",
-		"name": "Axis Mundi",
+		"input": "アクシスムンディ(236236UM)",
+		"name": "236236UM",
 		"damage": "1500",
 		"guard": "All",
 		"startup": "22-69",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236U U",
-		"name": "Luminox Genesi",
+		"input": "創世のルミノックス(236236UU)",
+		"name": "236236UU",
 		"damage": "1300, 200×5",
 		"guard": "All",
 		"startup": "45",
@@ -660,8 +660,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U",
-		"name": "Don't Mind If I Do",
+		"input": "シーメーマシマシ(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "39",

@@ -155,7 +155,7 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/4/49/GBVSR_Lowain_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_BC_Hitbox_1.png",
@@ -163,21 +163,21 @@
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/28/GBVSR_Lowain_AirThrow.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Lowain_Throw.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/96/GBVSR_Lowain_5MH_Hitbox_1.png",
@@ -185,210 +185,210 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "Hポコパン(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214L",
+    "input": "Lポコパン(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214M",
+    "input": "Mポコパン(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214U",
+    "input": "Uポコパン(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lowain_214U_Hitbox.png"
     ]
   },
   {
-    "input": "22H",
+    "input": "H戦争兵器(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Lowain_22H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22L",
+    "input": "L戦争兵器(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Lowain_22L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22M",
+    "input": "M戦争兵器(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/6/65/GBVSR_Lowain_22M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22U",
+    "input": "U戦争兵器(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Lowain_22U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/34/GBVSR_Lowain_22U_Hitbox.png"
     ]
   },
   {
-    "input": "236H",
+    "input": "Hエルっち&トモちゃん(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236L",
+    "input": "Lエルっち&トモちゃん(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236M",
+    "input": "Mエルっち&トモちゃん(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236U",
+    "input": "Uエルっち&トモちゃん(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5f/GBVSR_Lowain_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/df/GBVSR_Lowain_236U_Hitbox.png"
     ]
   },
   {
-    "input": "623H",
+    "input": "Hエルっち&トモちゃん(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_623H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623L",
+    "input": "LAventure(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Lowain_623L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623M",
+    "input": "MAventure(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Lowain_623M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "623U",
+    "input": "UAventure(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Lowain_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Lowain_623U_Hitbox.png"
     ]
   },
   {
-    "input": "l.214U",
+    "input": "Uポコパン（ラッキー）(l214U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lowain_214U_Hitbox.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "超一騎当千(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Lowain_236236H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H 236U",
+    "input": "勝負所 ※KBSN解除されます（笑）(236236H236U)",
     "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Lowain_HPA_236U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H G",
+    "input": "半端ない回避(236236HG)",
     "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lowain_HPA_5G.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H H",
+    "input": "漢斬り(236236HH)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Lowain_HPA_5H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H L",
+    "input": "オラついた攻撃(236236HL)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Lowain_HPA_5L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H M",
+    "input": "絶対に真似しないでください(236236HM)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Lowain_HPA_5M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H U",
+    "input": "膝スラ(236236HU)",
     "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Lowain_HPA_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U",
+    "input": "サイズ感的に勝ち目ねーから！(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Lowain_236236U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U H",
+    "input": "ネザーマントル(236236UH)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Lowain_Yggdrasil_5H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U L",
+    "input": "ランドピラー(236236UL)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ed/GBVSR_Lowain_Yggdrasil_5L.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U M",
+    "input": "アクシスムンディ(236236UM)",
     "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Lowain_Yggdrasil_5M.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U U",
+    "input": "創世のルミノックス(236236UU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Lowain_Yggdrasil_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U",
+    "input": "シーメーマシマシ(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Lowain_5U.png",
     "hitbox_img": [
       ""

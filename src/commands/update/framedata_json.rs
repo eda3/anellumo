@@ -1592,6 +1592,128 @@ pub async fn frames_to_json(
         r#""jU","name":"Wirbelwind""#,
         r#""空中ヴィルベルヴィント(jU)","name":"jU""#,
     );
+
+    // ローアイン
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Awesome Sauce""#,
+        r#""Hポコパン(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Awesome Sauce""#,
+        r#""Lポコパン(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Awesome Sauce""#,
+        r#""Mポコパン(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Awesome Sauce""#,
+        r#""Uポコパン(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Magnificent Tool of Destruction""#,
+        r#""H戦争兵器(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Magnificent Tool of Destruction""#,
+        r#""L戦争兵器(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Magnificent Tool of Destruction""#,
+        r#""M戦争兵器(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Magnificent Tool of Destruction""#,
+        r#""U戦争兵器(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Sammy &amp; Tommy""#,
+        r#""Hエルっち&トモちゃん(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Sammy &amp; Tommy""#,
+        r#""Lエルっち&トモちゃん(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Sammy &amp; Tommy""#,
+        r#""Mエルっち&トモちゃん(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Sammy &amp; Tommy""#,
+        r#""Uエルっち&トモちゃん(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Come at Me, Bro!""#,
+        r#""Hエルっち&トモちゃん(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Come at Me, Bro!""#,
+        r#""LAventure(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Come at Me, Bro!""#,
+        r#""MAventure(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Come at Me, Bro!""#,
+        r#""UAventure(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""l.214U","name":"U Awesome Sauce (Lucky)""#,
+        r#""Uポコパン（ラッキー）(l214U)","name":"l214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Human! Pyramid! Attack!""#,
+        r#""超一騎当千(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H 236U","name":"Moment of Truth""#,
+        r#""勝負所 ※KBSN解除されます（笑）(236236H236U)","name":"236236H236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H G","name":"Totally Rad Juke""#,
+        r#""半端ない回避(236236HG)","name":"236236HG""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H H","name":"Flex On 'Em""#,
+        r#""漢斬り(236236HH)","name":"236236HH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H L","name":"It's Lit, Bros""#,
+        r#""オラついた攻撃(236236HL)","name":"236236HL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H M","name":"Definitely Don't Try This at Home""#,
+        r#""絶対に真似しないでください(236236HM)","name":"236236HM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H U","name":"Catch 'Em Slippin'""#,
+        r#""膝スラ(236236HU)","name":"236236H U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Try This on for Size!""#,
+        r#""サイズ感的に勝ち目ねーから！(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U H","name":"Nether Veil""#,
+        r#""ネザーマントル(236236UH)","name":"236236U H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U L","name":"Earth Pillar""#,
+        r#""ランドピラー(236236UL)","name":"236236UL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U M","name":"Axis Mundi""#,
+        r#""アクシスムンディ(236236UM)","name":"236236UM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U U","name":"Luminox Genesi""#,
+        r#""創世のルミノックス(236236UU)","name":"236236UU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Don't Mind If I Do""#,
+        r#""シーメーマシマシ(5U)","name":"5U""#,
+    );
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
