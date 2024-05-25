@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H6H",
-		"name": "H Headbutt of Love (2)",
+		"input": "H愛のヘッドバット（2）(236H6H)",
+		"name": "236H6H",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "15",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H6HH",
-		"name": "H Headbutt of Love (3)",
+		"input": "H愛のヘッドバット（3）(236H6HH)",
+		"name": "236H6HH",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "15",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UH",
-		"name": "Hurl",
+		"input": "ドラゴンホイップH(5UH)",
+		"name": "5UH",
 		"damage": "1300",
 		"guard": "-",
 		"startup": "-",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UM",
-		"name": "Hurl",
+		"input": "ドラゴンホイップM(5UM)",
+		"name": "5UM",
 		"damage": "1300",
 		"guard": "-",
 		"startup": "-",
