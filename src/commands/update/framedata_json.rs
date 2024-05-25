@@ -43,7 +43,9 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(r#"&lt;br/&gt;"#, ", ");
     // Ino low profile
     char_page_response_json = char_page_response_json.replace(r#" &lt;span class=&quot;tooltip&quot; &gt;Low Profile&lt;span class=&quot;tooltiptext&quot; style=&quot;&quot;&gt;When a character's hurtbox is entirely beneath an opponent's attack. This can be caused by crouching, certain moves, and being short.&lt;/span&gt;&lt;/span&gt;"#, "");
-
+    char_page_response_json = char_page_response_json.replace(r#"&lt;span style=&quot;color: \n#3455ff&quot; &gt;"#, "");
+    char_page_response_json = char_page_response_json.replace(r#"&lt;span style=&quot;color: \n#bcbd0c&quot; &gt"#, "");
+        
     char_page_response_json = char_page_response_json.replace(r#"c."#, "近");
     char_page_response_json = char_page_response_json.replace(r#"f."#, "遠");
     char_page_response_json = char_page_response_json.replace(r#"j."#, "j");
@@ -52,6 +54,10 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(
         r#""BC","name":"Brave Counter""#,
         r#""ブレイブカウンター","name":"ブレイブカウンター""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#"L+U"#,
+        r#"LU"#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""jLU","name":"Air Throw""#,
@@ -1272,6 +1278,84 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(
         r#""XU","name":"Gale Dash""#,
         r#""ゲイルダッシュ(XU)","name":"XU""#,
+    );
+
+    // カタリナ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Enchanted Lands""#,
+        r#""Hエンチャントランズ(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Enchanted Lands""#,
+        r#""Lエンチャントランズ(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Enchanted Lands""#,
+        r#""Mエンチャントランズ(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Enchanted Lands""#,
+        r#""Uエンチャントランズ(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Frozen Blade""#,
+        r#""Hマイディライド(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Frozen Blade""#,
+        r#""Lマイディライド(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Frozen Blade""#,
+        r#""Mマイディライド(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Frozen Blade""#,
+        r#""Uマイディライド(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Emerald Sword""#,
+        r#""Hエメラルドソード(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Emerald Sword""#,
+        r#""Lエメラルドソード(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Emerald Sword""#,
+        r#""Mエメラルドソード(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Emerald Sword""#,
+        r#""Uエメラルドソード(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Blades of Frost""#,
+        r#""アイシクルネイル(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Realm of Ice""#,
+        r#""ヴィジョン・ディヴァイン(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U44","name":"Backstep""#,
+        r#""バックステップ(5U44)","name":"5U44""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U66","name":"Frontstep""#,
+        r#""フロントステップ(5U66)","name":"5U66""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U Lv0","name":"Light Wall""#,
+        r#""ライトウォールLv0(5U Lv0)","name":"5U Lv0""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U Lv1","name":"Light Wall""#,
+        r#""ライトウォールLv1(5U Lv1)","name":"5U Lv1""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U Lv2","name":"Light Wall""#,
+        r#""ライトウォールLv2(5U Lv2)","name":"5U Lv2""#,
     );
 
     /*
