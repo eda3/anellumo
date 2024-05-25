@@ -1358,6 +1358,37 @@ pub async fn frames_to_json(
         r#""ライトウォールLv2(5U Lv2)","name":"5U Lv2""#,
     );
 
+    // ファスティバ
+    char_page_response_json = char_page_response_json.replace(r#""214H","name":"H Elegant Lariat""#,r#""H漢女のラリアット(214H)","name":"214H""#,);
+char_page_response_json = char_page_response_json.replace(r#""214L","name":"L Elegant Lariat""#,r#""L漢女のラリアット(214L)","name":"214L""#,);
+char_page_response_json = char_page_response_json.replace(r#""214M","name":"M Elegant Lariat""#,r#""M漢女のラリアット(214M)","name":"214M""#,);
+char_page_response_json = char_page_response_json.replace(r#""214U","name":"U Elegant Lariat""#,r#""U漢女のラリアット(214U)","name":"214U""#,);
+char_page_response_json = char_page_response_json.replace(r#""236H","name":"H Headbutt of Love (1)""#,r#""H愛のヘッドバット（1）(236H)","name":"236H""#,);
+char_page_response_json = char_page_response_json.replace(r#""236H~6H","name":"H Headbutt of Love (2)""#,r#""H愛のヘッドバット（2）(236H~6H)","name":"236H~6H""#,);
+char_page_response_json = char_page_response_json.replace(r#""236H~6H~H","name":"H Headbutt of Love (3)""#,r#""H愛のヘッドバット（3）(236H~6H~H)","name":"236H~6H~H""#,);
+char_page_response_json = char_page_response_json.replace(r#""236L","name":"L Headbutt of Love""#,r#""L愛のヘッドバット(236L)","name":"236L""#,);
+char_page_response_json = char_page_response_json.replace(r#""236M","name":"M Headbutt of Love""#,r#""M愛のヘッドバット(236M)","name":"236M""#,);
+char_page_response_json = char_page_response_json.replace(r#""236U","name":"U Headbutt of Love""#,r#""U愛のヘッドバット(236U)","name":"236U""#,);
+char_page_response_json = char_page_response_json.replace(r#""360H","name":"H Jewel Resort Screwdriver""#,r#""Hスクリュー・ジュエルバスター(360H)","name":"360H""#,);
+char_page_response_json = char_page_response_json.replace(r#""360L","name":"L Jewel Resort Screwdriver""#,r#""Lスクリュー・ジュエルバスター(360L)","name":"360L""#,);
+char_page_response_json = char_page_response_json.replace(r#""360M","name":"M Jewel Resort Screwdriver""#,r#""Mスクリュー・ジュエルバスター(360M)","name":"360M""#,);
+char_page_response_json = char_page_response_json.replace(r#""360U","name":"U Jewel Resort Screwdriver""#,r#""Uスクリュー・ジュエルバスター(360U)","name":"360U""#,);
+char_page_response_json = char_page_response_json.replace(r#""623H","name":"H Devoted Body Slam""#,r#""H真心のボディ・スラム(623H)","name":"623H""#,);
+char_page_response_json = char_page_response_json.replace(r#""623L","name":"L Devoted Body Slam""#,r#""L真心のボディ・スラム(623L)","name":"623L""#,);
+char_page_response_json = char_page_response_json.replace(r#""623M","name":"M Devoted Body Slam""#,r#""M真心のボディ・スラム(623M)","name":"623M""#,);
+char_page_response_json = char_page_response_json.replace(r#""623U","name":"U Devoted Body Slam""#,r#""U真心のボディ・スラム(623U)","name":"623U""#,);
+char_page_response_json = char_page_response_json.replace(r#""j360H","name":"H Leg Drop of Adoration""#,r#""H慈しみのレッグ・ドロップ(j360H)","name":"j360H""#,);
+char_page_response_json = char_page_response_json.replace(r#""j360L","name":"L Leg Drop of Adoration""#,r#""L慈しみのレッグ・ドロップ(j360L)","name":"j360L""#,);
+char_page_response_json = char_page_response_json.replace(r#""j360M","name":"M Leg Drop of Adoration""#,r#""M慈しみのレッグ・ドロップ(j360M)","name":"j360M""#,);
+char_page_response_json = char_page_response_json.replace(r#""j360U","name":"U Leg Drop of Adoration""#,r#""U慈しみのレッグ・ドロップ(j360U)","name":"j360U""#,);
+char_page_response_json = char_page_response_json.replace(r#""214214H","name":"Maximum Love Bomb""#,r#""ラヴマックス・ボンバー(214214H)","name":"214214H""#,);
+char_page_response_json = char_page_response_json.replace(r#""236236H","name":"Maximum Love Bomb""#,r#""ラヴマックス・ボンバー(236236H)","name":"236236H""#,);
+char_page_response_json = char_page_response_json.replace(r#""720U","name":"The Shape of Love""#,r#""ある愛のカタチ～ジュエル・リゾート編～(720U)","name":"720U""#,);
+char_page_response_json = char_page_response_json.replace(r#""5U","name":"Love Grapple""#,r#""抱きしめてア・ゲ・ル！(5U)","name":"5U""#,);
+char_page_response_json = char_page_response_json.replace(r#""5U~H","name":"Hurl""#,r#""ドラゴンホイップH(5U~H)","name":"5U~H""#,);
+char_page_response_json = char_page_response_json.replace(r#""5UL","name":"Hurl""#,r#""ドラゴンホイップ(5UL)","name":"5UL""#,);
+char_page_response_json = char_page_response_json.replace(r#""5U~M","name":"Hurl""#,r#""ドラゴンホイップM(5U~M)","name":"5U~M""#,);
+
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();

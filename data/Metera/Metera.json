@@ -187,7 +187,7 @@
 		"startup": "8",
 		"active": "6",
 		"recovery": "5",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6",
+		"hit": "+6",
 		"block": "+2",
 		"invincibility": "-"
 	},
@@ -248,7 +248,7 @@
 		"active": "6",
 		"recovery": "17",
 		"hit": "+21",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6 ",
+		"block": "+6 ",
 		"invincibility": "-"
 	},
 	{
@@ -284,7 +284,7 @@
 		"active": "6",
 		"recovery": "17",
 		"hit": "+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 ",
+		"block": "+8 ",
 		"invincibility": "4-36 Throw,  23-36 Low ,  22-35 Airborne"
 	},
 	{
@@ -404,7 +404,7 @@
 		"active": "-",
 		"recovery": "Total 43",
 		"hit": "SKD",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+5",
+		"block": "+5",
 		"invincibility": "-"
 	},
 	{
@@ -451,8 +451,8 @@
 		"startup": "15+22",
 		"active": "-",
 		"recovery": "20",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+31 ~ +50 SKD",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;-12, +21 ~ +26",
+		"hit": "+31 ~ +50 SKD",
+		"block": "-12, +21 ~ +26",
 		"invincibility": "-"
 	},
 	{
@@ -463,8 +463,8 @@
 		"startup": "22+22",
 		"active": "-",
 		"recovery": "23",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+28 ~ +35",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+18 ~ +22",
+		"hit": "+28 ~ +35",
+		"block": "+18 ~ +22",
 		"invincibility": "-"
 	},
 	{
@@ -475,8 +475,8 @@
 		"startup": "18+22",
 		"active": "-",
 		"recovery": "17",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+34 ~ +40",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+24 ~ +27",
+		"hit": "+34 ~ +40",
+		"block": "+24 ~ +27",
 		"invincibility": "-"
 	},
 	{

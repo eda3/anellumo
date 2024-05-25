@@ -295,8 +295,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 &lt;span style=&quot;color: \n#3455ff&quot; &gt;[+15]",
+		"hit": "+15",
+		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
 	{
@@ -312,44 +312,44 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Elegant Lariat",
+		"input": "H漢女のラリアット(214H)",
+		"name": "214H",
 		"damage": "1800 [2000]",
 		"guard": "Mid",
 		"startup": "18 [16]",
 		"active": "6",
 		"recovery": "21",
 		"hit": "KD+41",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+5 ",
+		"block": "+5 ",
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Elegant Lariat",
+		"input": "L漢女のラリアット(214L)",
+		"name": "214L",
 		"damage": "1200 [1300]",
 		"guard": "Mid",
 		"startup": "18 [17]",
 		"active": "6",
 		"recovery": "21",
 		"hit": "KD+12",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+5 ",
+		"block": "+5 ",
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Elegant Lariat",
+		"input": "M漢女のラリアット(214M)",
+		"name": "214M",
 		"damage": "1500 [1600]",
 		"guard": "Mid",
 		"startup": "34 [28]",
 		"active": "6",
 		"recovery": "18",
 		"hit": "KD+39",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6 ",
+		"block": "+6 ",
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Elegant Lariat",
+		"input": "U漢女のラリアット(214U)",
+		"name": "214U",
 		"damage": "1500, 1000",
 		"guard": "Mid",
 		"startup": "17",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Headbutt of Love (1)",
+		"input": "H愛のヘッドバット（1）(236H)",
+		"name": "236H",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "17",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Headbutt of Love",
+		"input": "L愛のヘッドバット(236L)",
+		"name": "236L",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "17",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Headbutt of Love",
+		"input": "M愛のヘッドバット(236M)",
+		"name": "236M",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "28",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Headbutt of Love",
+		"input": "U愛のヘッドバット(236U)",
+		"name": "236U",
 		"damage": "2000",
 		"guard": "Unblockable",
 		"startup": "22",
@@ -432,8 +432,8 @@
 		"invincibility": "Superarmor 1~18"
 	},
 	{
-		"input": "360H",
-		"name": "H Jewel Resort Screwdriver",
+		"input": "Hスクリュー・ジュエルバスター(360H)",
+		"name": "360H",
 		"damage": "3500",
 		"guard": "Throw",
 		"startup": "6",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "360L",
-		"name": "L Jewel Resort Screwdriver",
+		"input": "Lスクリュー・ジュエルバスター(360L)",
+		"name": "360L",
 		"damage": "2300",
 		"guard": "Throw",
 		"startup": "7",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "360M",
-		"name": "M Jewel Resort Screwdriver",
+		"input": "Mスクリュー・ジュエルバスター(360M)",
+		"name": "360M",
 		"damage": "2700",
 		"guard": "Throw",
 		"startup": "9",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "360U",
-		"name": "U Jewel Resort Screwdriver",
+		"input": "Uスクリュー・ジュエルバスター(360U)",
+		"name": "360U",
 		"damage": "4000",
 		"guard": "Throw",
 		"startup": "5",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Devoted Body Slam",
+		"input": "H真心のボディ・スラム(623H)",
+		"name": "623H",
 		"damage": "2500",
 		"guard": "-",
 		"startup": "10",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Devoted Body Slam",
+		"input": "L真心のボディ・スラム(623L)",
+		"name": "623L",
 		"damage": "1000",
 		"guard": "-",
 		"startup": "7",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Devoted Body Slam",
+		"input": "M真心のボディ・スラム(623M)",
+		"name": "623M",
 		"damage": "2000",
 		"guard": "-",
 		"startup": "12",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Devoted Body Slam",
+		"input": "U真心のボディ・スラム(623U)",
+		"name": "623U",
 		"damage": "3000",
 		"guard": "Throw",
 		"startup": "6",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j360H",
-		"name": "H Leg Drop of Adoration",
+		"input": "H慈しみのレッグ・ドロップ(j360H)",
+		"name": "j360H",
 		"damage": "500, 3000",
 		"guard": "-",
 		"startup": "4",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j360L",
-		"name": "L Leg Drop of Adoration",
+		"input": "L慈しみのレッグ・ドロップ(j360L)",
+		"name": "j360L",
 		"damage": "500, 1800",
 		"guard": "-",
 		"startup": "7",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j360M",
-		"name": "M Leg Drop of Adoration",
+		"input": "M慈しみのレッグ・ドロップ(j360M)",
+		"name": "j360M",
 		"damage": "500, 2200",
 		"guard": "-",
 		"startup": "9",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j360U",
-		"name": "U Leg Drop of Adoration",
+		"input": "U慈しみのレッグ・ドロップ(j360U)",
+		"name": "j360U",
 		"damage": "4000",
 		"guard": "Throw",
 		"startup": "5",
@@ -576,8 +576,8 @@
 		"invincibility": "Strike invul 1~18"
 	},
 	{
-		"input": "214214H",
-		"name": "Maximum Love Bomb",
+		"input": "ラヴマックス・ボンバー(214214H)",
+		"name": "214214H",
 		"damage": "200, 2000, 2300",
 		"guard": "Throw",
 		"startup": "9+0",
@@ -588,8 +588,8 @@
 		"invincibility": "1~10 All"
 	},
 	{
-		"input": "236236H",
-		"name": "Maximum Love Bomb",
+		"input": "ラヴマックス・ボンバー(236236H)",
+		"name": "236236H",
 		"damage": "1700, 2300",
 		"guard": "Mid",
 		"startup": "7+8",
@@ -600,8 +600,8 @@
 		"invincibility": "1~7 All, 8~12 Projectile"
 	},
 	{
-		"input": "720U",
-		"name": "The Shape of Love",
+		"input": "ある愛のカタチ～ジュエル・リゾート編～(720U)",
+		"name": "720U",
 		"damage": "360×4, 24×100, 2400",
 		"guard": "Throw",
 		"startup": "9+0",
@@ -612,8 +612,8 @@
 		"invincibility": "1~10 All"
 	},
 	{
-		"input": "5U",
-		"name": "Love Grapple",
+		"input": "抱きしめてア・ゲ・ル！(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "Throw",
 		"startup": "34-40",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UL",
-		"name": "Hurl",
+		"input": "ドラゴンホイップ(5UL)",
+		"name": "5UL",
 		"damage": "1300",
 		"guard": "-",
 		"startup": "-",

@@ -20,7 +20,7 @@
 		"active": "3",
 		"recovery": "8",
 		"hit": "+4",
-		"block": "&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;+0",
+		"block": ";+0",
 		"invincibility": "-"
 	},
 	{
@@ -259,7 +259,7 @@
 		"startup": "10 [18]",
 		"active": "3",
 		"recovery": "19 [Total 54]",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21 [0]",
+		"hit": "KD +21 [0]",
 		"block": "+6 [+5]",
 		"invincibility": "1-20 [1-?] All"
 	},
@@ -295,7 +295,7 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
+		"hit": "+15",
 		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
@@ -307,7 +307,7 @@
 		"startup": "13",
 		"active": "4",
 		"recovery": "17",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
+		"hit": "+15",
 		"block": "-",
 		"invincibility": "-"
 	},
@@ -320,7 +320,7 @@
 		"active": "3 (5) 18",
 		"recovery": "6",
 		"hit": "KD +48",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+3",
+		"block": "+3",
 		"invincibility": "-"
 	},
 	{
@@ -356,7 +356,7 @@
 		"active": "11",
 		"recovery": "Total 38",
 		"hit": "HKD +83",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+24",
+		"block": "+24",
 		"invincibility": "-"
 	},
 	{
@@ -440,7 +440,7 @@
 		"active": "2",
 		"recovery": "31",
 		"hit": "KD +37",
-		"block": "-4 &lt;span style=&quot;color: \n#3455ff&quot; &gt;[Crush +16]",
+		"block": "-4 [Crush +16]",
 		"invincibility": "Soul Forge: 1~16 Armor"
 	},
 	{

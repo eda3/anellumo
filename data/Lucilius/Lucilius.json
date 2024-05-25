@@ -259,7 +259,7 @@
 		"startup": "10 [18]",
 		"active": "3",
 		"recovery": "19 [Total 54]",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21 [0]",
+		"hit": "KD +21 [0]",
 		"block": "+6 [+5]",
 		"invincibility": "1-20 [1-?] Full"
 	},
@@ -295,8 +295,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 [+15]",
+		"hit": "+15",
+		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
 	{
@@ -416,7 +416,7 @@
 		"active": "43",
 		"recovery": "Total 69",
 		"hit": "+33",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+29",
+		"block": "+29",
 		"invincibility": "-"
 	},
 	{
@@ -452,7 +452,7 @@
 		"active": "55",
 		"recovery": "Total 47",
 		"hit": "+46",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+42",
+		"block": "+42",
 		"invincibility": "-"
 	},
 	{

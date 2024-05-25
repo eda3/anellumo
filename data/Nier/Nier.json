@@ -223,7 +223,7 @@
 		"startup": "12",
 		"active": "3",
 		"recovery": "16",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+30",
+		"hit": "KD +30",
 		"block": "-4",
 		"invincibility": "-"
 	},
@@ -439,7 +439,7 @@
 		"startup": "4",
 		"active": "3",
 		"recovery": "31",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+42",
+		"hit": "HKD +42",
 		"block": "-",
 		"invincibility": "-"
 	},
@@ -451,8 +451,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 &lt;span style=&quot;color: \n#3455ff&quot; &gt;[+15]",
+		"hit": "+15",
+		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
 	{
@@ -463,7 +463,7 @@
 		"startup": "13",
 		"active": "-",
 		"recovery": "-",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
+		"hit": "+15",
 		"block": "-",
 		"invincibility": "-"
 	},
@@ -475,7 +475,7 @@
 		"startup": "16",
 		"active": "17",
 		"recovery": "15",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+38",
+		"hit": "KD +38",
 		"block": "-5",
 		"invincibility": "-"
 	},
@@ -487,7 +487,7 @@
 		"startup": "19",
 		"active": "17",
 		"recovery": "12",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+27",
+		"hit": "Air Recovery +27",
 		"block": "-2",
 		"invincibility": "-"
 	},
@@ -499,8 +499,8 @@
 		"startup": "43",
 		"active": "-",
 		"recovery": "Total 57",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+41",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+12",
+		"hit": "Air Recovery +41",
+		"block": "+12",
 		"invincibility": "-"
 	},
 	{
@@ -511,8 +511,8 @@
 		"startup": "15",
 		"active": "18(8)17(8)17",
 		"recovery": "Total 42",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+114",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+50",
+		"hit": "HKD +114",
+		"block": "+50",
 		"invincibility": "-"
 	},
 	{
@@ -523,7 +523,7 @@
 		"startup": "18",
 		"active": "17",
 		"recovery": "13",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+37",
+		"hit": "KD +37",
 		"block": "-3",
 		"invincibility": "-"
 	},
@@ -535,7 +535,7 @@
 		"startup": "19",
 		"active": "17",
 		"recovery": "12",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+26",
+		"hit": "Air Recovery +26",
 		"block": "-2",
 		"invincibility": "-"
 	},
@@ -547,8 +547,8 @@
 		"startup": "43",
 		"active": "-",
 		"recovery": "Total 57",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+53",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+12",
+		"hit": "KD +53",
+		"block": "+12",
 		"invincibility": "-"
 	},
 	{
@@ -559,8 +559,8 @@
 		"startup": "13",
 		"active": "42",
 		"recovery": "Total 40",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+93",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+27",
+		"hit": "HKD +93",
+		"block": "+27",
 		"invincibility": "-"
 	},
 	{
@@ -571,7 +571,7 @@
 		"startup": "18",
 		"active": "12(2)4",
 		"recovery": "41",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+43",
+		"hit": "KD +43",
 		"block": "+4",
 		"invincibility": "-"
 	},
@@ -583,7 +583,7 @@
 		"startup": "19",
 		"active": "12(2)4",
 		"recovery": "32",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+25",
+		"hit": "Air Recovery +25",
 		"block": "-2",
 		"invincibility": "-"
 	},
@@ -595,8 +595,8 @@
 		"startup": "52",
 		"active": "48",
 		"recovery": "Total 58",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+113",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+86",
+		"hit": "Air Recovery +113",
+		"block": "+86",
 		"invincibility": "-"
 	},
 	{
@@ -607,8 +607,8 @@
 		"startup": "20",
 		"active": "59(2)18",
 		"recovery": "Total 31",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+140",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+80",
+		"hit": "HKD +140",
+		"block": "+80",
 		"invincibility": "-"
 	},
 	{
@@ -619,7 +619,7 @@
 		"startup": "12",
 		"active": "6",
 		"recovery": "49",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+26",
+		"hit": "KD +26",
 		"block": "-23",
 		"invincibility": "1-23 Armor"
 	},
@@ -631,7 +631,7 @@
 		"startup": "14",
 		"active": "6",
 		"recovery": "33",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+26",
+		"hit": "Air Recovery +26",
 		"block": "-6",
 		"invincibility": "-"
 	},
@@ -643,7 +643,7 @@
 		"startup": "30",
 		"active": "6",
 		"recovery": "32",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+27",
+		"hit": "Air Recovery +27",
 		"block": "-5",
 		"invincibility": "21-35 Armor"
 	},
@@ -655,7 +655,7 @@
 		"startup": "12",
 		"active": "24",
 		"recovery": "34",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+41",
+		"hit": "HKD +41",
 		"block": "-25",
 		"invincibility": "1-15 Armor"
 	},
@@ -679,7 +679,7 @@
 		"startup": "9+7",
 		"active": "39",
 		"recovery": "52",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+43",
+		"hit": "HKD +43",
 		"block": "-34",
 		"invincibility": "1-18 All"
 	},
@@ -691,7 +691,7 @@
 		"startup": "11+3",
 		"active": "-",
 		"recovery": "Total 49 [63]",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+40",
+		"hit": "HKD +40",
 		"block": "-",
 		"invincibility": "1~21 All [1~21 Catch Strike]"
 	},

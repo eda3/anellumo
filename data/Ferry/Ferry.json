@@ -43,7 +43,7 @@
 		"startup": "10",
 		"active": "6",
 		"recovery": "17",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+47",
+		"hit": "HKD +47",
 		"block": "-8",
 		"invincibility": "-"
 	},
@@ -55,7 +55,7 @@
 		"startup": "13",
 		"active": "4",
 		"recovery": "27",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+28",
+		"hit": "HKD +28",
 		"block": "-3 ",
 		"invincibility": "-"
 	},
@@ -67,7 +67,7 @@
 		"startup": "8",
 		"active": "3",
 		"recovery": "10",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6",
+		"hit": "+6",
 		"block": "+2 ",
 		"invincibility": "-"
 	},
@@ -91,7 +91,7 @@
 		"startup": "9",
 		"active": "4",
 		"recovery": "12",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+7",
+		"hit": "+7",
 		"block": "+3 ",
 		"invincibility": "-"
 	},
@@ -103,7 +103,7 @@
 		"startup": "6",
 		"active": "3",
 		"recovery": "8",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6",
+		"hit": "+6",
 		"block": "+2 ",
 		"invincibility": "-"
 	},
@@ -116,7 +116,7 @@
 		"active": "6",
 		"recovery": "9",
 		"hit": "+4",
-		"block": "&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;0 ",
+		"block": ";0 ",
 		"invincibility": "-"
 	},
 	{
@@ -163,7 +163,7 @@
 		"startup": "12",
 		"active": "3",
 		"recovery": "18",
-		"hit": "&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;0",
+		"hit": ";0",
 		"block": "-4 ",
 		"invincibility": "-"
 	},
@@ -247,7 +247,7 @@
 		"startup": "4",
 		"active": "3",
 		"recovery": "26",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+43",
+		"hit": "HKD +43",
 		"block": "-",
 		"invincibility": "-"
 	},
@@ -260,7 +260,7 @@
 		"active": "3",
 		"recovery": "19",
 		"hit": "KD",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+6 ",
+		"block": "+6 ",
 		"invincibility": "-"
 	},
 	{
@@ -283,7 +283,7 @@
 		"startup": "4",
 		"active": "3",
 		"recovery": "26",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+49",
+		"hit": "HKD +49",
 		"block": "-",
 		"invincibility": "-"
 	},
@@ -295,8 +295,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 [&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15]",
+		"hit": "+15",
+		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
 	{
@@ -355,7 +355,7 @@
 		"startup": "11",
 		"active": "8",
 		"recovery": "19",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+66 ",
+		"hit": "HKD +66 ",
 		"block": "-3 ",
 		"invincibility": "-"
 	},
@@ -403,8 +403,8 @@
 		"startup": "13",
 		"active": "-",
 		"recovery": "Total 54",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+66 ",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+25 ",
+		"hit": "HKD +66 ",
+		"block": "+25 ",
 		"invincibility": "-"
 	},
 	{
@@ -451,8 +451,8 @@
 		"startup": "16",
 		"active": "9",
 		"recovery": "30",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+58 ",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+9 ",
+		"hit": "HKD +58 ",
+		"block": "+9 ",
 		"invincibility": "-"
 	},
 	{
@@ -523,7 +523,7 @@
 		"startup": "8",
 		"active": "6",
 		"recovery": "36",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+38 ",
+		"hit": "HKD +38 ",
 		"block": "-27 ",
 		"invincibility": "1-14 Full"
 	},
@@ -559,7 +559,7 @@
 		"startup": "7+6",
 		"active": "14",
 		"recovery": "42",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+46 [&lt;span style=&quot;color: \n#3455ff&quot; &gt;+56]",
+		"hit": "HKD +46 [+56]",
 		"block": "-37",
 		"invincibility": "1~12 All"
 	},

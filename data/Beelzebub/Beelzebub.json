@@ -307,7 +307,7 @@
 		"startup": "10 [18]",
 		"active": "3",
 		"recovery": "19 [Total 54]",
-		"hit": "KD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21 [0]",
+		"hit": "KD +21 [0]",
 		"block": "+6 [+5]",
 		"invincibility": "1-20 [1-?] All"
 	},
@@ -355,7 +355,7 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
+		"hit": "+15",
 		"block": "+8 [+15]",
 		"invincibility": "-"
 	},

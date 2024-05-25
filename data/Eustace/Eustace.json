@@ -319,8 +319,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15 ",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 ",
+		"hit": "+15 ",
+		"block": "+8 ",
 		"invincibility": "-"
 	},
 	{

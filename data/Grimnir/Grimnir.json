@@ -259,7 +259,7 @@
 		"startup": "10",
 		"active": "-",
 		"recovery": "Total 31",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21",
+		"hit": "Air Recovery +21",
 		"block": "+6",
 		"invincibility": "-"
 	},
@@ -295,8 +295,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 &lt;span style=&quot;color: \n#3455ff&quot; &gt;[+15]",
+		"hit": "+15",
+		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
 	{
@@ -307,7 +307,7 @@
 		"startup": "-",
 		"active": "-",
 		"recovery": "-",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
+		"hit": "+15",
 		"block": "-",
 		"invincibility": "-"
 	},

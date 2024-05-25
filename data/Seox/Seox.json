@@ -295,7 +295,7 @@
 		"startup": "4",
 		"active": "3",
 		"recovery": "32",
-		"hit": "HKD &lt;span style=&quot;color: \n#3455ff&quot; &gt;+37, +47",
+		"hit": "HKD +37, +47",
 		"block": "-",
 		"invincibility": "-"
 	},

@@ -31,7 +31,7 @@
 		"startup": "8",
 		"active": "3",
 		"recovery": "16",
-		"hit": "&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;0",
+		"hit": ";0",
 		"block": "-4",
 		"invincibility": "-"
 	},
@@ -163,7 +163,7 @@
 		"startup": "12",
 		"active": "3",
 		"recovery": "18",
-		"hit": "&lt;span style=&quot;color: \n#bcbd0c&quot; &gt;0",
+		"hit": ";0",
 		"block": "-4",
 		"invincibility": "-"
 	},
@@ -247,7 +247,7 @@
 		"startup": "10",
 		"active": "3",
 		"recovery": "19",
-		"hit": "Air Recovery &lt;span style=&quot;color: \n#3455ff&quot; &gt;+21",
+		"hit": "Air Recovery +21",
 		"block": "+6",
 		"invincibility": "1~13 All"
 	},
@@ -283,8 +283,8 @@
 		"startup": "28",
 		"active": "1",
 		"recovery": "37",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+8 &lt;span style=&quot;color: \n#3455ff&quot; &gt;[+15]",
+		"hit": "+15",
+		"block": "+8 [+15]",
 		"invincibility": "-"
 	},
 	{
@@ -295,7 +295,7 @@
 		"startup": "13",
 		"active": "5",
 		"recovery": "14",
-		"hit": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+15",
+		"hit": "+15",
 		"block": "-",
 		"invincibility": "-"
 	},
@@ -440,7 +440,7 @@
 		"active": "-",
 		"recovery": "Total 20",
 		"hit": "HKD",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+43",
+		"block": "+43",
 		"invincibility": "-"
 	},
 	{
@@ -584,7 +584,7 @@
 		"active": "-",
 		"recovery": "Until L+7",
 		"hit": "HKD",
-		"block": "&lt;span style=&quot;color: \n#3455ff&quot; &gt;+34",
+		"block": "+34",
 		"invincibility": "-"
 	},
 	{
