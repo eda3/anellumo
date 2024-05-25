@@ -47,10 +47,7 @@ pub async fn images_to_json(
         r#""BC","name":"Brave Counter""#,
         r#""ブレイブカウンター","name":"ブレイブカウンター""#,
     );
-    char_page_response_json = char_page_response_json.replace(
-        r#"L+U"#,
-        r#"LU"#,
-    );
+    char_page_response_json = char_page_response_json.replace(r#"L+U"#, r#"LU"#);
     char_page_response_json = char_page_response_json.replace(
         r#""jLU","name":"Air Throw""#,
         r#""空投げ(jLU)","name":"jLU""#,
@@ -1469,6 +1466,124 @@ pub async fn images_to_json(
     char_page_response_json = char_page_response_json.replace(
         r#""5UM","name":"Hurl""#,
         r#""ドラゴンホイップM(5UM)","name":"5UM""#,
+    );
+
+    // ランスロット
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Southern Cross""#,
+        r#""Hサザンクロス(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~4H","name":"H Southern Cross (2,3,4)""#,
+        r#""Hサザンクロス(214H4H)","name":"214H4H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Southern Cross""#,
+        r#""Lサザンクロス(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Southern Cross""#,
+        r#""Mサザンクロス(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Southern Cross""#,
+        r#""Uサザンクロス(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X~4X","name":"Southern Cross (2)""#,
+        r#""サザンクロス追加攻撃(214X4X)","name":"214X4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X~4X Ender","name":"Southern Cross Ender""#,
+        r#""サザンクロスエンダー(214X4X Ender)","name":"214X4X Ender""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Turbulenz""#,
+        r#""Hトゥルブレンツ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Turbulenz""#,
+        r#""Lトゥルブレンツ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Turbulenz""#,
+        r#""Mトゥルブレンツ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Turbulenz""#,
+        r#""Uトゥルブレンツ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22[X]","name":"Turbulenz (Charged)""#,
+        r#""トゥルブレンツ（タメ）(22[X])","name":"22[X]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Wogenstrom""#,
+        r#""Hヴォーゲンシュトローム(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Wogenstrom""#,
+        r#""Lヴォーゲンシュトローム(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Wogenstrom""#,
+        r#""Mヴォーゲンシュトローム(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Wogenstrom""#,
+        r#""Uヴォーゲンシュトローム(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Blade Impulse""#,
+        r#""Hブレードインパルス(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Blade Impulse""#,
+        r#""Lブレードインパルス(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Blade Impulse""#,
+        r#""Mブレードインパルス(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Blade Impulse""#,
+        r#""Uブレードインパルス(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Weiss Flugel""#,
+        r#""ヴァイス・フィリューゲル(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Schöner Winterhügel""#,
+        r#""シューナー・ヴィンターヒューゲル(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236236U","name":"Schöner Winterhügel""#,
+        r#""空中シューナー・ヴィンターヒューゲル(j236236U)","name":"j236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Wirbelwind""#,
+        r#""ヴィルベルヴィント(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~2U","name":"Jump""#,
+        r#""ジャンプ(5U2U)","name":"5U2U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~4U","name":"Feint""#,
+        r#""フェイント(5U4U)","name":"5U4U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~5U","name":"Quick Stop""#,
+        r#""急停止(5U5U)","name":"5U5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~6U","name":"Cross Over""#,
+        r#""回り込み(5U6U)","name":"5U6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""jU","name":"Wirbelwind""#,
+        r#""空中ヴィルベルヴィント(jU)","name":"jU""#,
     );
 
     // let mut re = Regex::new(r"c\.").unwrap();

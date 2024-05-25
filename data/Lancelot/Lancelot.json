@@ -288,8 +288,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Southern Cross",
+		"input": "Hサザンクロス(214H)",
+		"name": "214H",
 		"damage": "300",
 		"guard": "Mid",
 		"startup": "11",
@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H4H",
-		"name": "H Southern Cross (2,3,4)",
+		"input": "Hサザンクロス(214H4H)",
+		"name": "214H4H",
 		"damage": "350 (1st) / 315 (2nd) / 300 (3rd)",
 		"guard": "Mid",
 		"startup": "7 (1st)  / 9 (2nd) / 7 (3rd)",
@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Southern Cross",
+		"input": "Lサザンクロス(214L)",
+		"name": "214L",
 		"damage": "300",
 		"guard": "Mid",
 		"startup": "14",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Southern Cross",
+		"input": "Mサザンクロス(214M)",
+		"name": "214M",
 		"damage": "400",
 		"guard": "Mid",
 		"startup": "19",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Southern Cross",
+		"input": "Uサザンクロス(214U)",
+		"name": "214U",
 		"damage": "300×4, 100×4, 500",
 		"guard": "Mid",
 		"startup": "11",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214X4X",
-		"name": "Southern Cross (2)",
+		"input": "サザンクロス追加攻撃(214X4X)",
+		"name": "214X4X",
 		"damage": "400 (L) / 500 (M)",
 		"guard": "Mid",
 		"startup": "9",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214X4X Ender",
-		"name": "Southern Cross Ender",
+		"input": "サザンクロスエンダー(214X4X Ender)",
+		"name": "214X4X Ender",
 		"damage": "350 (L) / 420 (M) / 275 (H)",
 		"guard": "Mid",
 		"startup": "14",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Turbulenz",
+		"input": "Hトゥルブレンツ(22H)",
+		"name": "22H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -384,8 +384,8 @@
 		"invincibility": "7-21 Full, 4-30 Airborne"
 	},
 	{
-		"input": "22L",
-		"name": "L Turbulenz",
+		"input": "Lトゥルブレンツ(22L)",
+		"name": "22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -396,8 +396,8 @@
 		"invincibility": "7-21 Full, 4-30 Airborne"
 	},
 	{
-		"input": "22M",
-		"name": "M Turbulenz",
+		"input": "Mトゥルブレンツ(22M)",
+		"name": "22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -408,8 +408,8 @@
 		"invincibility": "7-21 Full, 4-30 Airborne"
 	},
 	{
-		"input": "22U",
-		"name": "U Turbulenz",
+		"input": "Uトゥルブレンツ(22U)",
+		"name": "22U",
 		"damage": "700, 800, 50×2, 100×4",
 		"guard": "Mid, High",
 		"startup": "8",
@@ -420,8 +420,8 @@
 		"invincibility": "1-53 Full"
 	},
 	{
-		"input": "22[X]",
-		"name": "Turbulenz (Charged)",
+		"input": "トゥルブレンツ（タメ）(22[X])",
+		"name": "22[X]",
 		"damage": "1000",
 		"guard": "High",
 		"startup": "13",
@@ -432,8 +432,8 @@
 		"invincibility": "4-20 All"
 	},
 	{
-		"input": "236H",
-		"name": "H Wogenstrom",
+		"input": "Hヴォーゲンシュトローム(236H)",
+		"name": "236H",
 		"damage": "350×2, 400",
 		"guard": "All",
 		"startup": "33",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Wogenstrom",
+		"input": "Lヴォーゲンシュトローム(236L)",
+		"name": "236L",
 		"damage": "700",
 		"guard": "All",
 		"startup": "33",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Wogenstrom",
+		"input": "Mヴォーゲンシュトローム(236M)",
+		"name": "236M",
 		"damage": "700",
 		"guard": "All",
 		"startup": "38",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Wogenstrom",
+		"input": "Uヴォーゲンシュトローム(236U)",
+		"name": "236U",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "18",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Blade Impulse",
+		"input": "Hブレードインパルス(623H)",
+		"name": "623H",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "16",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Blade Impulse",
+		"input": "Lブレードインパルス(623L)",
+		"name": "623L",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "16",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Blade Impulse",
+		"input": "Mブレードインパルス(623M)",
+		"name": "623M",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "25",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Blade Impulse",
+		"input": "Uブレードインパルス(623U)",
+		"name": "623U",
 		"damage": "1000, 200×3",
 		"guard": "Mid",
 		"startup": "14",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Weiss Flugel",
+		"input": "ヴァイス・フィリューゲル(236236H)",
+		"name": "236236H",
 		"damage": "1000, 100×8, 400, 100×6, 1200",
 		"guard": "Mid",
 		"startup": "9+4~13",
@@ -540,8 +540,8 @@
 		"invincibility": "1-12 All, 13-15 Strike/Throw"
 	},
 	{
-		"input": "236236U",
-		"name": "Schöner Winterhügel",
+		"input": "シューナー・ヴィンターヒューゲル(236236U)",
+		"name": "236236U",
 		"damage": "1200×2, 3000",
 		"guard": "Mid",
 		"startup": "10+6",
@@ -552,8 +552,8 @@
 		"invincibility": "1-15 All"
 	},
 	{
-		"input": "j236236U",
-		"name": "Schöner Winterhügel",
+		"input": "空中シューナー・ヴィンターヒューゲル(j236236U)",
+		"name": "j236236U",
 		"damage": "1200×2, 3000",
 		"guard": "All",
 		"startup": "14",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U",
-		"name": "Wirbelwind",
+		"input": "ヴィルベルヴィント(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U2U",
-		"name": "Jump",
+		"input": "ジャンプ(5U2U)",
+		"name": "5U2U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -588,8 +588,8 @@
 		"invincibility": "5-20 Full"
 	},
 	{
-		"input": "5U4U",
-		"name": "Feint",
+		"input": "フェイント(5U4U)",
+		"name": "5U4U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -600,8 +600,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U5U",
-		"name": "Quick Stop",
+		"input": "急停止(5U5U)",
+		"name": "5U5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -612,8 +612,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U6U",
-		"name": "Cross Over",
+		"input": "回り込み(5U6U)",
+		"name": "5U6U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU",
-		"name": "Wirbelwind",
+		"input": "空中ヴィルベルヴィント(jU)",
+		"name": "jU",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
