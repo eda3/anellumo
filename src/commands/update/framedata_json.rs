@@ -2102,9 +2102,119 @@ pub async fn frames_to_json(
         r#""5[U]","name":"Love's Redemption (Charged)""#,
         r#""愛ノ救イ（タメ）(5[U])","name":"5[U]""#,
     );
+    char_page_response_json = char_page_response_json.replace(r#" [d]"#, r#"d"#);
+    // パーシヴァル
     char_page_response_json = char_page_response_json.replace(
-        r#" [d]"#,
-        r#"d"#,
+        r#""214H","name":"H Lord's Strike""#,
+        r#""H王者の行進(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HH","name":"H Zerreissen""#,
+        r#""Hツェアライセン(214HH)","name":"214HH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HL","name":"H Schneiden""#,
+        r#""Hシュナイデン(214HL)","name":"214HL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214HM","name":"H Macht""#,
+        r#""Hマハト(214HM)","name":"214HM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Lord's Strike""#,
+        r#""L王者の行進(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LH","name":"L Zerreissen""#,
+        r#""Lツェアライセン(214LH)","name":"214LH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LL","name":"L Schneiden""#,
+        r#""Lシュナイデン(214LL)","name":"214LL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214LM","name":"L Macht""#,
+        r#""Lマハト(214LM)","name":"214LM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Lord's Strike""#,
+        r#""M王者の行進(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214MH","name":"M Zerreissen""#,
+        r#""Mツェアライセン(214MH)","name":"214MH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214ML","name":"M Schneiden""#,
+        r#""Mシュナイデン(214ML)","name":"214ML""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214MM","name":"M Macht""#,
+        r#""Mマハト(214MM)","name":"214MM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Zerreissen""#,
+        r#""Uツァライセン(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Träumerei""#,
+        r#""Hトロイメライ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Träumerei""#,
+        r#""Lトロイメライ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Träumerei""#,
+        r#""Mトロイメライ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Träumerei""#,
+        r#""Uトロイメライ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Anzünden""#,
+        r#""Hアン・ツュンデン(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Anzünden""#,
+        r#""Lアン・ツュンデン(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Anzünden""#,
+        r#""Mアン・ツュンデン(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Anzünden""#,
+        r#""Uアン・ツュンデン(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Platzen""#,
+        r#""Hプラッツェン(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Platzen""#,
+        r#""Lプラッツェン(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Platzen""#,
+        r#""Mプラッツェン(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Platzen""#,
+        r#""Uプラッツェン(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Lohenwolf""#,
+        r#""ローエン・ヴォルフ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Feuerrote Krone""#,
+        r#""ファイアーローター・クローネ(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"X-Seele""#,
+        r#""イクスゼーレ(5U)","name":"5U""#,
     );
     /*
     // グランの技名

@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Lord's Strike",
+		"input": "H王者の行進(214H)",
+		"name": "214H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "11",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214HH",
-		"name": "H Zerreissen",
+		"input": "Hツェアライセン(214HH)",
+		"name": "214HH",
 		"damage": "2100 [3500→2800]",
 		"guard": "Mid",
 		"startup": "9 [4]",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214HL",
-		"name": "H Schneiden",
+		"input": "Hシュナイデン(214HL)",
+		"name": "214HL",
 		"damage": "1200 [1300]",
 		"guard": "Low",
 		"startup": "5",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214HM",
-		"name": "H Macht",
+		"input": "Hマハト(214HM)",
+		"name": "214HM",
 		"damage": "2100 [2300]",
 		"guard": "Mid",
 		"startup": "17",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Lord's Strike",
+		"input": "L王者の行進(214L)",
+		"name": "214L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "11",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214LH",
-		"name": "L Zerreissen",
+		"input": "Lツェアライセン(214LH)",
+		"name": "214LH",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "10",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214LL",
-		"name": "L Schneiden",
+		"input": "Lシュナイデン(214LL)",
+		"name": "214LL",
 		"damage": "800",
 		"guard": "Low",
 		"startup": "5",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214LM",
-		"name": "L Macht",
+		"input": "Lマハト(214LM)",
+		"name": "214LM",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "20",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Lord's Strike",
+		"input": "M王者の行進(214M)",
+		"name": "214M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "11",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214MH",
-		"name": "M Zerreissen",
+		"input": "Mツェアライセン(214MH)",
+		"name": "214MH",
 		"damage": "1400 [2000→1700]",
 		"guard": "Mid",
 		"startup": "10 [4]",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214ML",
-		"name": "M Schneiden",
+		"input": "Mシュナイデン(214ML)",
+		"name": "214ML",
 		"damage": "800 [850]",
 		"guard": "Low",
 		"startup": "5",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214MM",
-		"name": "M Macht",
+		"input": "Mマハト(214MM)",
+		"name": "214MM",
 		"damage": "1400 [1600]",
 		"guard": "Mid",
 		"startup": "20",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Zerreissen",
+		"input": "Uツァライセン(214U)",
+		"name": "214U",
 		"damage": "3000 [0, 3400~8000]",
 		"guard": "Mid (Guard Crush)",
 		"startup": "12",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Träumerei",
+		"input": "Hトロイメライ(22H)",
+		"name": "22H",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "11",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Träumerei",
+		"input": "Lトロイメライ(22L)",
+		"name": "22L",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "11",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Träumerei",
+		"input": "Mトロイメライ(22M)",
+		"name": "22M",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "11",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Träumerei",
+		"input": "Uトロイメライ(22U)",
+		"name": "22U",
 		"damage": "1600",
 		"guard": "Mid",
 		"startup": "9",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Anzünden",
+		"input": "Hアン・ツュンデン(236H)",
+		"name": "236H",
 		"damage": "500x3→400x3 [600×3→500×3]",
 		"guard": "All",
 		"startup": "19",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Anzünden",
+		"input": "Lアン・ツュンデン(236L)",
+		"name": "236L",
 		"damage": "1000→800",
 		"guard": "All",
 		"startup": "22",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Anzünden",
+		"input": "Mアン・ツュンデン(236M)",
+		"name": "236M",
 		"damage": "1000→800 [1300→1100]",
 		"guard": "All",
 		"startup": "22",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Anzünden",
+		"input": "Uアン・ツュンデン(236U)",
+		"name": "236U",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "11",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Platzen",
+		"input": "Hプラッツェン(623H)",
+		"name": "623H",
 		"damage": "300, 600, 200×3 [300, 700, 100×7]",
 		"guard": "Mid",
 		"startup": "11",
@@ -576,8 +576,8 @@
 		"invincibility": "1-10 Full, 11-18 Strike"
 	},
 	{
-		"input": "623L",
-		"name": "L Platzen",
+		"input": "Lプラッツェン(623L)",
+		"name": "623L",
 		"damage": "600, 400",
 		"guard": "Mid, All",
 		"startup": "6",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Platzen",
+		"input": "Mプラッツェン(623M)",
+		"name": "623M",
 		"damage": "300, 500, 300 [300, 500, 100×5]",
 		"guard": "Mid×2, All",
 		"startup": "9",
@@ -600,8 +600,8 @@
 		"invincibility": "1-8 Full, 9-22 Strike"
 	},
 	{
-		"input": "623U",
-		"name": "U Platzen",
+		"input": "Uプラッツェン(623U)",
+		"name": "623U",
 		"damage": "800, 100, 50×6, 200, 600",
 		"guard": "Mid",
 		"startup": "8",
@@ -612,8 +612,8 @@
 		"invincibility": "1-16 Full"
 	},
 	{
-		"input": "236236H",
-		"name": "Lohenwolf",
+		"input": "ローエン・ヴォルフ(236236H)",
+		"name": "236236H",
 		"damage": "4500 [3500]",
 		"guard": "Mid [Unblockable]",
 		"startup": "6+7~146",
@@ -624,8 +624,8 @@
 		"invincibility": "1-9 Full, 10-15 Strike/Throw"
 	},
 	{
-		"input": "236236U",
-		"name": "Feuerrote Krone",
+		"input": "ファイアーローター・クローネ(236236U)",
+		"name": "236236U",
 		"damage": "5520→6240 [3000]",
 		"guard": "Mid, All",
 		"startup": "9+7",
@@ -636,8 +636,8 @@
 		"invincibility": "1-18 Full"
 	},
 	{
-		"input": "5U",
-		"name": "X-Seele",
+		"input": "イクスゼーレ(5U)",
+		"name": "5U",
 		"damage": "0",
 		"guard": "Throw",
 		"startup": "14",
