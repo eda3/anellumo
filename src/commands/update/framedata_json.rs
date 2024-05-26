@@ -1798,7 +1798,7 @@ pub async fn frames_to_json(
     );
     char_page_response_json = char_page_response_json.replace(
         r#""5U~H","name":"Orbital Resonance ~ H""#,
-        r#""Hオービタル・レゾナンス追加攻撃(5UH)","name":"5UH""#,
+        r#""Hオービタル・レゾナンス追加攻撃(5U~H)","name":"5UH""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""5U~L","name":"Orbital Resonance ~ L""#,
@@ -1807,6 +1807,118 @@ pub async fn frames_to_json(
     char_page_response_json = char_page_response_json.replace(
         r#""5U~M","name":"Orbital Resonance ~ M""#,
         r#""Mオービタル・レゾナンス追加攻撃(5UM)","name":"5UM""#,
+    );
+
+    // メーテラ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Starry Sky (Low)""#,
+        r#""H綺羅星（下段）(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Starry Sky (Low)""#,
+        r#""L綺羅星（下段）(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Starry Sky (Low)""#,
+        r#""M綺羅星（下段）(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Starry Sky (Low)""#,
+        r#""U綺羅星（下段）(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Aetherial Seal""#,
+        r#""Hエーテリアルシール(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Aetherial Seal""#,
+        r#""Lエーテリアルシール(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Aetherial Seal""#,
+        r#""Mエーテリアルシール(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Aetherial Seal""#,
+        r#""Uエーテリアルシール(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Starry Sky (High)""#,
+        r#""H綺羅星（上段）(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Starry Sky (High)""#,
+        r#""L綺羅星（上段）(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Starry Sky (High)""#,
+        r#""M綺羅星（上段）(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Starry Sky (High)""#,
+        r#""U綺羅星（上段）(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H The Great Fall""#,
+        r#""H隼落とし(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L The Great Fall""#,
+        r#""L隼落とし(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M The Great Fall""#,
+        r#""M隼落とし(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U The Great Fall""#,
+        r#""U隼落とし(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214H","name":"Air H Starry Sky (Low)""#,
+        r#""H空中綺羅星（上段）(j214H)","name":"j214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214L","name":"Air L Starry Sky (Low)""#,
+        r#""L空中綺羅星（上段）(j214L)","name":"j214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214M","name":"Air M Starry Sky (Low)""#,
+        r#""M空中綺羅星（上段）(j214M)","name":"j214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214U","name":"U Aerial Starry Sky (Low)""#,
+        r#""U空中綺羅星（上段）(j214U)","name":"j214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236H","name":"Air H Starry Sky (High)""#,
+        r#""H空中綺羅星（下段）(j236H)","name":"j236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236L","name":"Air L Starry Sky (High)""#,
+        r#""L空中綺羅星（下段）(j236L)","name":"j236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236M","name":"Air M Starry Sky (High)""#,
+        r#""M空中綺羅星（下段）(j236M)","name":"j236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236U","name":"U Aerial Starry Sky (High)""#,
+        r#""U空中綺羅星（下段）(j236U)","name":"j236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Dense Caress""#,
+        r#""デンス・キャレス(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Rapid Pulverize""#,
+        r#""ラピッド・パルパーション(236236U)","name":"236236U""#,
+    );
+    char_page_response_json =
+        char_page_response_json.replace(r#""5U","name":"Zephyr""#, r#""ゼファー(5U)","name":"5U""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""jU","name":"Zephyr""#,
+        r#""空中ゼファー(jU)","name":"jU""#,
     );
 
     /*

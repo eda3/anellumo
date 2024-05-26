@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Starry Sky (Low)",
+		"input": "H綺羅星（下段）(214H)",
+		"name": "214H",
 		"damage": "500*3",
 		"guard": "All",
 		"startup": "13",
@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Starry Sky (Low)",
+		"input": "L綺羅星（下段）(214L)",
+		"name": "214L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "13",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Starry Sky (Low)",
+		"input": "M綺羅星（下段）(214M)",
+		"name": "214M",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "13",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Starry Sky (Low)",
+		"input": "U綺羅星（下段）(214U)",
+		"name": "214U",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "11",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Aetherial Seal",
+		"input": "Hエーテリアルシール(22H)",
+		"name": "22H",
 		"damage": "{200*5}×2",
 		"guard": "All",
 		"startup": "20",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Aetherial Seal",
+		"input": "Lエーテリアルシール(22L)",
+		"name": "22L",
 		"damage": "200×5",
 		"guard": "All",
 		"startup": "20",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Aetherial Seal",
+		"input": "Mエーテリアルシール(22M)",
+		"name": "22M",
 		"damage": "200×5",
 		"guard": "All",
 		"startup": "20",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Aetherial Seal",
+		"input": "Uエーテリアルシール(22U)",
+		"name": "22U",
 		"damage": "2750",
 		"guard": "All",
 		"startup": "12",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Starry Sky (High)",
+		"input": "H綺羅星（上段）(236H)",
+		"name": "236H",
 		"damage": "500*3",
 		"guard": "All",
 		"startup": "12",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Starry Sky (High)",
+		"input": "L綺羅星（上段）(236L)",
+		"name": "236L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "12",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Starry Sky (High)",
+		"input": "M綺羅星（上段）(236M)",
+		"name": "236M",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "12",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Starry Sky (High)",
+		"input": "U綺羅星（上段）(236U)",
+		"name": "236U",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "11",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H The Great Fall",
+		"input": "H隼落とし(623H)",
+		"name": "623H",
 		"damage": "900, 200*4",
 		"guard": "Mid, All×4",
 		"startup": "15+22",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L The Great Fall",
+		"input": "L隼落とし(623L)",
+		"name": "623L",
 		"damage": "800, 150*4",
 		"guard": "Mid, All×4",
 		"startup": "22+22",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M The Great Fall",
+		"input": "M隼落とし(623M)",
+		"name": "623M",
 		"damage": "800, 150*4",
 		"guard": "Mid, All×4",
 		"startup": "18+22",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U The Great Fall",
+		"input": "U隼落とし(623U)",
+		"name": "623U",
 		"damage": "1000+1000 (500+1000)",
 		"guard": "Mid",
 		"startup": "8",
@@ -492,8 +492,8 @@
 		"invincibility": "?-?"
 	},
 	{
-		"input": "j214H",
-		"name": "Air H Starry Sky (Low)",
+		"input": "H空中綺羅星（上段）(j214H)",
+		"name": "j214H",
 		"damage": "500*3",
 		"guard": "All",
 		"startup": "22",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j214L",
-		"name": "Air L Starry Sky (Low)",
+		"input": "L空中綺羅星（上段）(j214L)",
+		"name": "j214L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "22",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j214M",
-		"name": "Air M Starry Sky (Low)",
+		"input": "M空中綺羅星（上段）(j214M)",
+		"name": "j214M",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "22",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j214U",
-		"name": "U Aerial Starry Sky (Low)",
+		"input": "U空中綺羅星（上段）(j214U)",
+		"name": "j214U",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "11",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236H",
-		"name": "Air H Starry Sky (High)",
+		"input": "H空中綺羅星（下段）(j236H)",
+		"name": "j236H",
 		"damage": "500*3",
 		"guard": "All",
 		"startup": "22",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236L",
-		"name": "Air L Starry Sky (High)",
+		"input": "L空中綺羅星（下段）(j236L)",
+		"name": "j236L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "22",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236M",
-		"name": "Air M Starry Sky (High)",
+		"input": "M空中綺羅星（下段）(j236M)",
+		"name": "j236M",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "22",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j236U",
-		"name": "U Aerial Starry Sky (High)",
+		"input": "U空中綺羅星（下段）(j236U)",
+		"name": "j236U",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "11",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Dense Caress",
+		"input": "デンス・キャレス(236236H)",
+		"name": "236236H",
 		"damage": "1650,1100,2200 (4950) 1650,1100*2 (3850)",
 		"guard": "Mid",
 		"startup": "8+5",
@@ -600,8 +600,8 @@
 		"invincibility": "1-15 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Rapid Pulverize",
+		"input": "ラピッド・パルパーション(236236U)",
+		"name": "236236U",
 		"damage": "264*10, 1320, 264*5, 1320 (6600) 264*10, 2640 (5280)",
 		"guard": "All",
 		"startup": "5+8",
@@ -612,8 +612,8 @@
 		"invincibility": "1-15 All"
 	},
 	{
-		"input": "5U",
-		"name": "Zephyr",
+		"input": "ゼファー(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "21",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU",
-		"name": "Zephyr",
+		"input": "空中ゼファー(jU)",
+		"name": "jU",
 		"damage": "-",
 		"guard": "-",
 		"startup": "21",

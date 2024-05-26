@@ -150,42 +150,42 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Metera_BraveCounter.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/6/67/GBVS_Metera_AirThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/45/GBVSR_Metera_AirThrow_Hitbox.png"
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/4/48/GBVS_Metera_Throw.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Metera_Throw_Hitbox.png"
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Metera_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3b/GBVS_Metera_5MH_Hitbox_1.png;_GBVS_Metera_5MH_Hitbox_2.png"
     ]
   },
   {
-    "input": "MHMH",
+    "input": "レイジングチェイン(MHMH)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Metera_RagingChain.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "214H",
+    "input": "H綺羅星（下段）(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVS_Metera_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Metera_214X_Hitbox1.png",
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "input": "214L",
+    "input": "L綺羅星（下段）(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVS_Metera_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Metera_214X_Hitbox1.png",
@@ -201,7 +201,7 @@
     ]
   },
   {
-    "input": "214M",
+    "input": "M綺羅星（下段）(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVS_Metera_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Metera_214X_Hitbox1.png",
@@ -209,14 +209,14 @@
     ]
   },
   {
-    "input": "214U",
+    "input": "U綺羅星（下段）(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Metera_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Metera_214U_Hitbox1.png"
     ]
   },
   {
-    "input": "22H",
+    "input": "Hエーテリアルシール(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Metera_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Metera_22X_Hitbox1.png",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "input": "22L",
+    "input": "Lエーテリアルシール(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Metera_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Metera_22X_Hitbox1.png",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "input": "22M",
+    "input": "Mエーテリアルシール(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Metera_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Metera_22X_Hitbox1.png",
@@ -240,14 +240,14 @@
     ]
   },
   {
-    "input": "22U",
+    "input": "Uエーテリアルシール(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVSR_Metera_22U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/18/GBVSR_Metera_22U_Hitbox1.png"
     ]
   },
   {
-    "input": "236H",
+    "input": "H綺羅星（上段）(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVS_Metera_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Metera_236X_Hitbox1.png",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "input": "236L",
+    "input": "L綺羅星（上段）(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVS_Metera_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Metera_236X_Hitbox1.png",
@@ -263,7 +263,7 @@
     ]
   },
   {
-    "input": "236M",
+    "input": "M綺羅星（上段）(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVS_Metera_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Metera_236X_Hitbox1.png",
@@ -271,14 +271,14 @@
     ]
   },
   {
-    "input": "236U",
+    "input": "U綺羅星（上段）(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Metera_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/76/GBVSR_Metera_236U_Hitbox1.png"
     ]
   },
   {
-    "input": "623H",
+    "input": "H隼落とし(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVS_Metera_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Metera_623M_Hitbox.png",
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "input": "623L",
+    "input": "L隼落とし(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVS_Metera_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/43/GBVSR_Metera_623L_Hitbox.png",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "input": "623M",
+    "input": "M隼落とし(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVS_Metera_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/68/GBVSR_Metera_623M_Hitbox.png",
@@ -302,70 +302,70 @@
     ]
   },
   {
-    "input": "623U",
+    "input": "U隼落とし(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/7/70/GBVSR_Metera_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Metera_623U_Hitbox1.png"
     ]
   },
   {
-    "input": "j214H",
+    "input": "H空中綺羅星（上段）(j214H)",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVS_Metera_j236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Metera_j236M_Hitbox.png"
     ]
   },
   {
-    "input": "j214L",
+    "input": "L空中綺羅星（上段）(j214L)",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVS_Metera_j236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Metera_j236L_Hitbox.png"
     ]
   },
   {
-    "input": "j214M",
+    "input": "M空中綺羅星（上段）(j214M)",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVS_Metera_j236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Metera_j236M_Hitbox.png"
     ]
   },
   {
-    "input": "j214U",
+    "input": "U空中綺羅星（上段）(j214U)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Metera_j214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Metera_j214U_Hitbox1.png"
     ]
   },
   {
-    "input": "j236H",
+    "input": "H空中綺羅星（下段）(j236H)",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVS_Metera_j236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Metera_j236L_Hitbox.png"
     ]
   },
   {
-    "input": "j236L",
+    "input": "L空中綺羅星（下段）(j236L)",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVS_Metera_j236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Metera_j236L_Hitbox.png"
     ]
   },
   {
-    "input": "j236M",
+    "input": "M空中綺羅星（下段）(j236M)",
     "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVS_Metera_j236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Metera_j236M_Hitbox.png"
     ]
   },
   {
-    "input": "j236U",
+    "input": "U空中綺羅星（下段）(j236U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Metera_j236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Metera_j236U_Hitbox1.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "デンス・キャレス(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVS_Metera_236236H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f6/GBVSR_Metera_236236H_Hitbox1.png",
@@ -376,7 +376,7 @@
     ]
   },
   {
-    "input": "236236U",
+    "input": "ラピッド・パルパーション(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVS_Metera_236236U_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/78/GBVSR_Metera_236236U_Hitbox1.png",
@@ -384,14 +384,14 @@
     ]
   },
   {
-    "input": "5U",
+    "input": "ゼファー(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Metera_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "jU",
+    "input": "空中ゼファー(jU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVS_Metera_5U.png",
     "hitbox_img": [
       ""
