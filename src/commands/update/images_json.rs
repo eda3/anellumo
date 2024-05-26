@@ -2043,6 +2043,64 @@ pub async fn images_to_json(
     char_page_response_json = char_page_response_json.replace(r#"[g]"#, r#"g"#);
     char_page_response_json = char_page_response_json.replace(r#"[k]"#, r#"k"#);
 
+    // ニーア
+    re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Ominous Turn""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2オミノスターン($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236)([LMHU])","name":"[LMHU] Fatal Waltz""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2死の舞踏($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(623)([LMHU])","name":"[LMHU] Misfortune""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ミスフォーチュン($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(22)([LMHU])","name":"[LMHU] Death, Reversed""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2リヴァース($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"World of Death and Love""#,
+        r#""死ト愛ノ世界(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Klagen Totentanz""#,
+        r#""クラーゲン・トーテンタンツ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Drowned in an Exquisite and Eternal Adieu""#,
+        r#""熱情ノ花、芳醇タル別レニ溺ルル(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Love's Redemption""#,
+        r#""愛ノ救イ(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]","name":"Love's Redemption (Charged)""#,
+        r#""愛ノ救イ（タメ）(5[U])","name":"5[U]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#" [d]"#,
+        r#"d"#,
+    );
+
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();

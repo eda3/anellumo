@@ -12,8 +12,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2H [d]",
-		"name": "2H [d]",
+		"input": "2Hd",
+		"name": "2Hd",
 		"damage": "1250",
 		"guard": "Mid",
 		"startup": "11",
@@ -48,8 +48,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2M [d]",
-		"name": "2M [d]",
+		"input": "2Md",
+		"name": "2Md",
 		"damage": "850",
 		"guard": "Low",
 		"startup": "7",
@@ -72,8 +72,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2U [d]",
-		"name": "2U [d]",
+		"input": "2Ud",
+		"name": "2Ud",
 		"damage": "950",
 		"guard": "Low",
 		"startup": "11",
@@ -96,8 +96,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "66H [d]",
-		"name": "66H [d]",
+		"input": "66Hd",
+		"name": "66Hd",
 		"damage": "1150",
 		"guard": "Mid",
 		"startup": "15",
@@ -144,8 +144,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近H [d]",
-		"name": "近H [d]",
+		"input": "近Hd",
+		"name": "近Hd",
 		"damage": "1550",
 		"guard": "Mid",
 		"startup": "10",
@@ -180,8 +180,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近M [d]",
-		"name": "近M [d]",
+		"input": "近Md",
+		"name": "近Md",
 		"damage": "1050",
 		"guard": "Mid",
 		"startup": "6",
@@ -252,8 +252,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠H [d]",
-		"name": "遠H [d]",
+		"input": "遠Hd",
+		"name": "遠Hd",
 		"damage": "1250",
 		"guard": "Mid",
 		"startup": "12",
@@ -288,8 +288,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠M [d]",
-		"name": "遠M [d]",
+		"input": "遠Md",
+		"name": "遠Md",
 		"damage": "850",
 		"guard": "Mid",
 		"startup": "10",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jH [d]",
-		"name": "jH [d]",
+		"input": "jHd",
+		"name": "jHd",
 		"damage": "950",
 		"guard": "High/Air",
 		"startup": "8",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jM [d]",
-		"name": "jM [d]",
+		"input": "jMd",
+		"name": "jMd",
 		"damage": "650",
 		"guard": "High/Air",
 		"startup": "7",
@@ -396,7 +396,7 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU [d]",
+		"input": "jUd",
 		"name": "Pain",
 		"damage": "800",
 		"guard": "All",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Ominous Turn",
+		"input": "Hオミノスターン(214H)",
+		"name": "214H",
 		"damage": "1300",
 		"guard": "All",
 		"startup": "16",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Ominous Turn",
+		"input": "Lオミノスターン(214L)",
+		"name": "214L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "19",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Ominous Turn",
+		"input": "Mオミノスターン(214M)",
+		"name": "214M",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "43",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Ominous Turn",
+		"input": "Uオミノスターン(214U)",
+		"name": "214U",
 		"damage": "800, 700×2",
 		"guard": "All",
 		"startup": "15",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Death, Reversed",
+		"input": "Hリヴァース(22H)",
+		"name": "22H",
 		"damage": "1300",
 		"guard": "All",
 		"startup": "18",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Death, Reversed",
+		"input": "Lリヴァース(22L)",
+		"name": "22L",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "19",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Death, Reversed",
+		"input": "Mリヴァース(22M)",
+		"name": "22M",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "43",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Death, Reversed",
+		"input": "Uリヴァース(22U)",
+		"name": "22U",
 		"damage": "700×3",
 		"guard": "All",
 		"startup": "13",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Fatal Waltz",
+		"input": "H死の舞踏(236H)",
+		"name": "236H",
 		"damage": "100×6, 500",
 		"guard": "All",
 		"startup": "18",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Fatal Waltz",
+		"input": "L死の舞踏(236L)",
+		"name": "236L",
 		"damage": "100×3, 500",
 		"guard": "All",
 		"startup": "19",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Fatal Waltz",
+		"input": "M死の舞踏(236M)",
+		"name": "236M",
 		"damage": "100×12, 500",
 		"guard": "All",
 		"startup": "52",
@@ -600,8 +600,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Fatal Waltz",
+		"input": "U死の舞踏(236U)",
+		"name": "236U",
 		"damage": "150×12, 600",
 		"guard": "All",
 		"startup": "20",
@@ -612,8 +612,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Misfortune",
+		"input": "Hミスフォーチュン(623H)",
+		"name": "623H",
 		"damage": "1500",
 		"guard": "All",
 		"startup": "12",
@@ -624,8 +624,8 @@
 		"invincibility": "1-23 Armor"
 	},
 	{
-		"input": "623L",
-		"name": "L Misfortune",
+		"input": "Lミスフォーチュン(623L)",
+		"name": "623L",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "14",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Misfortune",
+		"input": "Mミスフォーチュン(623M)",
+		"name": "623M",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "30",
@@ -648,8 +648,8 @@
 		"invincibility": "21-35 Armor"
 	},
 	{
-		"input": "623U",
-		"name": "U Misfortune",
+		"input": "Uミスフォーチュン(623U)",
+		"name": "623U",
 		"damage": "1200, 0, 800",
 		"guard": "Mid",
 		"startup": "12",
@@ -660,8 +660,8 @@
 		"invincibility": "1-15 Armor"
 	},
 	{
-		"input": "214214H",
-		"name": "World of Death and Love",
+		"input": "死ト愛ノ世界(214214H)",
+		"name": "214214H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -672,8 +672,8 @@
 		"invincibility": "8-9"
 	},
 	{
-		"input": "236236H",
-		"name": "Klagen Totentanz",
+		"input": "クラーゲン・トーテンタンツ(236236H)",
+		"name": "236236H",
 		"damage": "See notes",
 		"guard": "Mid",
 		"startup": "9+7",
@@ -684,8 +684,8 @@
 		"invincibility": "1-18 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Drowned in an Exquisite and Eternal Adieu",
+		"input": "熱情ノ花、芳醇タル別レニ溺ルル(236236U)",
+		"name": "236236U",
 		"damage": "See notes",
 		"guard": "Mid",
 		"startup": "11+3",
@@ -696,8 +696,8 @@
 		"invincibility": "1~21 All [1~21 Catch Strike]"
 	},
 	{
-		"input": "5U",
-		"name": "Love's Redemption",
+		"input": "愛ノ救イ(5U)",
+		"name": "5U",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "18",
@@ -708,8 +708,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5[U]",
-		"name": "Love's Redemption (Charged)",
+		"input": "愛ノ救イ（タメ）(5[U])",
+		"name": "5[U]",
 		"damage": "1600",
 		"guard": "Mid",
 		"startup": "36",
