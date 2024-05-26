@@ -2438,6 +2438,104 @@ pub async fn images_to_json(
         r#""マニガンス(5U)","name":"5U""#,
     );
 
+    // ソリッズ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Punch the Stars""#,
+        r#""H剛破天衝(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Punch the Stars""#,
+        r#""L剛破天衝(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Punch the Stars""#,
+        r#""M剛破天衝(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Punch the Stars""#,
+        r#""U剛破天衝(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Rock Smash""#,
+        r#""Hロックスマッシュ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Rock Smash""#,
+        r#""Lロックスマッシュ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Rock Smash""#,
+        r#""Mロックスマッシュ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Rock Smash""#,
+        r#""Uロックスマッシュ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Impact Knuckles""#,
+        r#""Hインパクトナックル(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Impact Knuckles""#,
+        r#""Lインパクトナックル(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Impact Knuckles""#,
+        r#""Mインパクトナックル(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Impact Knuckles""#,
+        r#""Uインパクトナックル(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Roundhouse Fang""#,
+        r#""H流牙蹴(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Roundhouse Fang""#,
+        r#""L流牙蹴(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Roundhouse Fang""#,
+        r#""M流牙蹴(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Roundhouse Fang""#,
+        r#""U流牙蹴(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Macho 214U","name":"Macho U Punch the Stars""#,
+        r#""漢気アルティメイアム剛破天衝(Macho 214U)","name":"Macho 214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X~214X","name":"Tenacious Will""#,
+        r#""不撓不屈(214X~214X)","name":"214X~214X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X~236X","name":"Bravado Bullet""#,
+        r#""肉弾気焔(214X~236X)","name":"214X~236X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Leaping Tiger, Charging Dragon""#,
+        r#""破虎撃龍(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Macho Ultimatum""#,
+        r#""漢気アルティメイアム(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Macho 236236U","name":"Way of the Fundoshi Fist""#,
+        r#""拳褌軼敵・漢の正拳突き(Macho 236236U)","name":"Macho 236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Muscle Fury""#,
+        r#""マッスルフューリー(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~6X","name":"Reactive Muscles""#,
+        r#""マッスルリアクション(5U6X)","name":"5U6X""#,
+    );
+
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();

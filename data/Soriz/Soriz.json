@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Punch the Stars",
+		"input": "H剛破天衝(214H)",
+		"name": "214H",
 		"damage": "450×4 [250×8]",
 		"guard": "Mid",
 		"startup": "13",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Punch the Stars",
+		"input": "L剛破天衝(214L)",
+		"name": "214L",
 		"damage": "250×4 [140×8]",
 		"guard": "Mid",
 		"startup": "13",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Punch the Stars",
+		"input": "M剛破天衝(214M)",
+		"name": "214M",
 		"damage": "300×4 [170×8]",
 		"guard": "Mid",
 		"startup": "20",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Punch the Stars",
+		"input": "U剛破天衝(214U)",
+		"name": "214U",
 		"damage": "250x8, 1000",
 		"guard": "Midx8, Guard Crush 50",
 		"startup": "13",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Rock Smash",
+		"input": "Hロックスマッシュ(22H)",
+		"name": "22H",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "15",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Rock Smash",
+		"input": "Lロックスマッシュ(22L)",
+		"name": "22L",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "18",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Rock Smash",
+		"input": "Mロックスマッシュ(22M)",
+		"name": "22M",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "28",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Rock Smash",
+		"input": "Uロックスマッシュ(22U)",
+		"name": "22U",
 		"damage": "900x3 [1000x3]",
 		"guard": "Mid",
 		"startup": "22",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Impact Knuckles",
+		"input": "Hインパクトナックル(236H)",
+		"name": "236H",
 		"damage": "1800",
 		"guard": "Mid",
 		"startup": "15 [14]",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Impact Knuckles",
+		"input": "Lインパクトナックル(236L)",
+		"name": "236L",
 		"damage": "1100",
 		"guard": "Mid",
 		"startup": "15 [13]",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Impact Knuckles",
+		"input": "Mインパクトナックル(236M)",
+		"name": "236M",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "26 [25]",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Impact Knuckles",
+		"input": "Uインパクトナックル(236U)",
+		"name": "236U",
 		"damage": "2300 [2500]",
 		"guard": "Mid",
 		"startup": "15",
@@ -456,8 +456,8 @@
 		"invincibility": "11-Active ends Armor"
 	},
 	{
-		"input": "623H",
-		"name": "H Roundhouse Fang",
+		"input": "H流牙蹴(623H)",
+		"name": "623H",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "6",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Roundhouse Fang",
+		"input": "L流牙蹴(623L)",
+		"name": "623L",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "7",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Roundhouse Fang",
+		"input": "M流牙蹴(623M)",
+		"name": "623M",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "7",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Roundhouse Fang",
+		"input": "U流牙蹴(623U)",
+		"name": "623U",
 		"damage": "1000×2",
 		"guard": "Mid",
 		"startup": "8",
@@ -504,8 +504,8 @@
 		"invincibility": "1-22 All"
 	},
 	{
-		"input": "Macho 214U",
-		"name": "Macho U Punch the Stars",
+		"input": "漢気アルティメイアム剛破天衝(Macho 214U)",
+		"name": "Macho 214U",
 		"damage": "250x8, 500, 700/1200",
 		"guard": "Midx8, Guard Crush 40, Mid",
 		"startup": "13",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214X214X",
-		"name": "Tenacious Will",
+		"input": "不撓不屈(214X214X)",
+		"name": "214X~214X",
 		"damage": "1000",
 		"guard": "Guard Crush 30",
 		"startup": "20",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214X236X",
-		"name": "Bravado Bullet",
+		"input": "肉弾気焔(214X236X)",
+		"name": "214X~236X",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "14",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Leaping Tiger, Charging Dragon",
+		"input": "破虎撃龍(236236H)",
+		"name": "236236H",
 		"damage": "2000, 2500 [1500, 2000]",
 		"guard": "Mid",
 		"startup": "7+6",
@@ -552,8 +552,8 @@
 		"invincibility": "1~14 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Macho Ultimatum",
+		"input": "漢気アルティメイアム(236236U)",
+		"name": "236236U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "Macho 236236U",
-		"name": "Way of the Fundoshi Fist",
+		"input": "拳褌軼敵・漢の正拳突き(Macho 236236U)",
+		"name": "Macho 236236U",
 		"damage": "(0), 1200, 1800, 3000",
 		"guard": "Throw, Mid",
 		"startup": "9+0",
@@ -576,8 +576,8 @@
 		"invincibility": "1-9 Full"
 	},
 	{
-		"input": "5U",
-		"name": "Muscle Fury",
+		"input": "マッスルフューリー(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "3",
@@ -588,8 +588,8 @@
 		"invincibility": "During Active: Armor"
 	},
 	{
-		"input": "5U6X",
-		"name": "Reactive Muscles",
+		"input": "マッスルリアクション(5U6X)",
+		"name": "5U6X",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "11",
