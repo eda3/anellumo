@@ -1921,6 +1921,134 @@ pub async fn frames_to_json(
         r#""空中ゼファー(jU)","name":"jU""#,
     );
 
+    // ナルメア
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H[g]","name":"H Transient""#,
+        r#""H泡沫(214Hg)","name":"214Hg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L[g]","name":"L Transient""#,
+        r#""L泡沫(214Lg)","name":"214Lg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M[g]","name":"M Transient""#,
+        r#""M泡沫(214Mg)","name":"214Mg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U[g]","name":"U Transient""#,
+        r#""U泡沫(214Ug)","name":"214Ug""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H[g]","name":"H Setsuna""#,
+        r#""H刹那(236Hg)","name":"236Hg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L[g]","name":"L Setsuna""#,
+        r#""L刹那(236Lg)","name":"236Lg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M[g]","name":"M Setsuna""#,
+        r#""M刹那(236Mg)","name":"236Mg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U[g]","name":"U Setsuna""#,
+        r#""U刹那(236Ug)","name":"236Ug""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H[g]","name":"H Absolute Horizon""#,
+        r#""H万里一空(623Hg)","name":"623Hg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L[g]","name":"L Absolute Horizon""#,
+        r#""L万里一空(623Lg)","name":"623Lg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M[g]","name":"M Absolute Horizon""#,
+        r#""M万里一空(623Mg)","name":"623Mg""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U[g]","name":"U Absolute Horizon""#,
+        r#""U万里一空(623Ug)","name":"623Ug""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H[k]","name":"H Crescent Moon""#,
+        r#""H繊月(214Hk)","name":"214Hk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L[k]","name":"L Crescent Moon""#,
+        r#""L繊月(214Lk)","name":"214Lk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M[k]","name":"M Crescent Moon""#,
+        r#""M繊月(214Mk)","name":"214Mk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U[k]","name":"U Crescent Moon""#,
+        r#""U繊月(214Uk)","name":"214Uk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H[k]","name":"H Kyokasuigetsu""#,
+        r#""H鏡花水月(236Hk)","name":"236Hk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L[k]","name":"L Kyokasuigetsu""#,
+        r#""L鏡花水月(236Lk)","name":"236Lk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M[k]","name":"M Kyokasuigetsu""#,
+        r#""M鏡花水月(236Mk)","name":"236Mk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U[k]","name":"U Kyokasuigetsu""#,
+        r#""U鏡花水月(236Uk)","name":"236Uk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H[k]","name":"H Mugenkagura""#,
+        r#""H夢幻神楽(623Hk)","name":"623Hk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L[k]","name":"L Mugenkagura""#,
+        r#""L夢幻神楽(623Lk)","name":"623Lk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M[k]","name":"M Mugenkagura""#,
+        r#""M夢幻神楽(623Mk)","name":"623Mk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U[k]","name":"U Mugenkagura""#,
+        r#""U夢幻神楽(623Uk)","name":"623Uk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214H[k]","name":"H Crescent Moon (Midair)""#,
+        r#""空中H繊月(j214Hk)","name":"j214Hk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214L[k]","name":"L Crescent Moon (Midair)""#,
+        r#""空中L繊月(j214Lk)","name":"j214Lk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214M[k]","name":"M Crescent Moon (Midair)""#,
+        r#""空中M繊月(j214Mk)","name":"j214Mk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214U[k]","name":"U Aerial Crescent Moon""#,
+        r#""空中U繊月(j214Uk)","name":"j214Uk""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"One Hundred Cloudscapes""#,
+        r#""紫雲百景(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Butterfly Effect: Ame-no-Uzume""#,
+        r#""胡蝶刃・天鈿女命舞(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Butterfly Effect""#,
+        r#""胡蝶刃(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(r#"[g]"#, r#"g"#);
+    char_page_response_json = char_page_response_json.replace(r#"[k]"#, r#"k"#);
+
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();

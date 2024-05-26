@@ -72,8 +72,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2H[g]",
-		"name": "2H[g]",
+		"input": "2Hg",
+		"name": "2Hg",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "11",
@@ -84,8 +84,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2L[g]",
-		"name": "2L[g]",
+		"input": "2Lg",
+		"name": "2Lg",
 		"damage": "400",
 		"guard": "Low",
 		"startup": "6",
@@ -96,8 +96,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2M[g]",
-		"name": "2M[g]",
+		"input": "2Mg",
+		"name": "2Mg",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "8",
@@ -108,8 +108,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2U[g]",
-		"name": "2U[g]",
+		"input": "2Ug",
+		"name": "2Ug",
 		"damage": "1000",
 		"guard": "Low",
 		"startup": "9",
@@ -120,8 +120,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5L[g]",
-		"name": "5L[g]",
+		"input": "5Lg",
+		"name": "5Lg",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "6",
@@ -132,8 +132,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "66H[g]",
-		"name": "66H[g]",
+		"input": "66Hg",
+		"name": "66Hg",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "20",
@@ -144,8 +144,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近H[g]",
-		"name": "近H[g]",
+		"input": "近Hg",
+		"name": "近Hg",
 		"damage": "1000, 400",
 		"guard": "Mid",
 		"startup": "8",
@@ -156,8 +156,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近M[g]",
-		"name": "近M[g]",
+		"input": "近Mg",
+		"name": "近Mg",
 		"damage": "1100",
 		"guard": "Mid",
 		"startup": "6",
@@ -168,8 +168,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠H[g]",
-		"name": "遠H[g]",
+		"input": "遠Hg",
+		"name": "遠Hg",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "10",
@@ -180,8 +180,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠M[g]",
-		"name": "遠M[g]",
+		"input": "遠Mg",
+		"name": "遠Mg",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "9",
@@ -192,8 +192,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jH[g]",
-		"name": "jH[g]",
+		"input": "jHg",
+		"name": "jHg",
 		"damage": "1000",
 		"guard": "High/Air",
 		"startup": "9",
@@ -204,8 +204,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jL[g]",
-		"name": "jL[g]",
+		"input": "jLg",
+		"name": "jLg",
 		"damage": "600",
 		"guard": "High/Air",
 		"startup": "5",
@@ -216,8 +216,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jM[g]",
-		"name": "jM[g]",
+		"input": "jMg",
+		"name": "jMg",
 		"damage": "700",
 		"guard": "High/Air",
 		"startup": "6",
@@ -228,8 +228,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU[g]",
-		"name": "jU[g]",
+		"input": "jUg",
+		"name": "jUg",
 		"damage": "1000",
 		"guard": "High/Air",
 		"startup": "10",
@@ -240,8 +240,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2H[k]",
-		"name": "2H[k]",
+		"input": "2Hk",
+		"name": "2Hk",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "11",
@@ -252,8 +252,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2L[k]",
-		"name": "2L[k]",
+		"input": "2Lk",
+		"name": "2Lk",
 		"damage": "400",
 		"guard": "Low",
 		"startup": "6",
@@ -264,8 +264,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2M[k]",
-		"name": "2M[k]",
+		"input": "2Mk",
+		"name": "2Mk",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "7",
@@ -276,8 +276,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "2U[k]",
-		"name": "2U[k]",
+		"input": "2Uk",
+		"name": "2Uk",
 		"damage": "1000",
 		"guard": "Low",
 		"startup": "7",
@@ -288,8 +288,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5L[k]",
-		"name": "5L[k]",
+		"input": "5Lk",
+		"name": "5Lk",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "5",
@@ -300,8 +300,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "66H[k]",
-		"name": "66H[k]",
+		"input": "66Hk",
+		"name": "66Hk",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "15",
@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近H[k]",
-		"name": "近H[k]",
+		"input": "近Hk",
+		"name": "近Hk",
 		"damage": "1600",
 		"guard": "Mid",
 		"startup": "9",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "近M[k]",
-		"name": "近M[k]",
+		"input": "近Mk",
+		"name": "近Mk",
 		"damage": "1100",
 		"guard": "Mid",
 		"startup": "6",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠H[k]",
-		"name": "遠H[k]",
+		"input": "遠Hk",
+		"name": "遠Hk",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "9",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "遠M[k]",
-		"name": "遠M[k]",
+		"input": "遠Mk",
+		"name": "遠Mk",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "7",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jH[k]",
-		"name": "jH[k]",
+		"input": "jHk",
+		"name": "jHk",
 		"damage": "1000",
 		"guard": "High/Air",
 		"startup": "12",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jL[k]",
-		"name": "jL[k]",
+		"input": "jLk",
+		"name": "jLk",
 		"damage": "600",
 		"guard": "High/Air",
 		"startup": "5",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jM[k]",
-		"name": "jM[k]",
+		"input": "jMk",
+		"name": "jMk",
 		"damage": "700",
 		"guard": "High/Air",
 		"startup": "7",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "jU[k]",
-		"name": "jU[k]",
+		"input": "jUk",
+		"name": "jUk",
 		"damage": "1000",
 		"guard": "High/Air",
 		"startup": "9",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H[g]",
-		"name": "H Transient",
+		"input": "H泡沫(214Hg)",
+		"name": "214Hg",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L[g]",
-		"name": "L Transient",
+		"input": "L泡沫(214Lg)",
+		"name": "214Lg",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M[g]",
-		"name": "M Transient",
+		"input": "M泡沫(214Mg)",
+		"name": "214Mg",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U[g]",
-		"name": "U Transient",
+		"input": "U泡沫(214Ug)",
+		"name": "214Ug",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -516,8 +516,8 @@
 		"invincibility": "9-17 All"
 	},
 	{
-		"input": "236H[g]",
-		"name": "H Setsuna",
+		"input": "H刹那(236Hg)",
+		"name": "236Hg",
 		"damage": "1300→1000",
 		"guard": "All",
 		"startup": "15",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L[g]",
-		"name": "L Setsuna",
+		"input": "L刹那(236Lg)",
+		"name": "236Lg",
 		"damage": "900→700",
 		"guard": "All",
 		"startup": "14",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M[g]",
-		"name": "M Setsuna",
+		"input": "M刹那(236Mg)",
+		"name": "236Mg",
 		"damage": "900→700",
 		"guard": "All",
 		"startup": "32~58",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U[g]",
-		"name": "U Setsuna",
+		"input": "U刹那(236Ug)",
+		"name": "236Ug",
 		"damage": "900, 80×5, 700→500",
 		"guard": "All",
 		"startup": "14",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H[g]",
-		"name": "H Absolute Horizon",
+		"input": "H万里一空(623Hg)",
+		"name": "623Hg",
 		"damage": "600, 300×3",
 		"guard": "Mid",
 		"startup": "11",
@@ -576,8 +576,8 @@
 		"invincibility": "1-20 All"
 	},
 	{
-		"input": "623L[g]",
-		"name": "L Absolute Horizon",
+		"input": "L万里一空(623Lg)",
+		"name": "623Lg",
 		"damage": "600, 400",
 		"guard": "All",
 		"startup": "6",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M[g]",
-		"name": "M Absolute Horizon",
+		"input": "M万里一空(623Mg)",
+		"name": "623Mg",
 		"damage": "700, 400",
 		"guard": "Mid, All",
 		"startup": "9",
@@ -600,8 +600,8 @@
 		"invincibility": "1-15 All"
 	},
 	{
-		"input": "623U[g]",
-		"name": "U Absolute Horizon",
+		"input": "U万里一空(623Ug)",
+		"name": "623Ug",
 		"damage": "600, 100×6, 800",
 		"guard": "Mid",
 		"startup": "8",
@@ -612,8 +612,8 @@
 		"invincibility": "1-17 All"
 	},
 	{
-		"input": "214H[k]",
-		"name": "H Crescent Moon",
+		"input": "H繊月(214Hk)",
+		"name": "214Hk",
 		"damage": "1600",
 		"guard": "All",
 		"startup": "32 [28]",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L[k]",
-		"name": "L Crescent Moon",
+		"input": "L繊月(214Lk)",
+		"name": "214Lk",
 		"damage": "1100",
 		"guard": "All",
 		"startup": "32 [28]",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M[k]",
-		"name": "M Crescent Moon",
+		"input": "M繊月(214Mk)",
+		"name": "214Mk",
 		"damage": "1200",
 		"guard": "All",
 		"startup": "38 [34]",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U[k]",
-		"name": "U Crescent Moon",
+		"input": "U繊月(214Uk)",
+		"name": "214Uk",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "27",
@@ -660,8 +660,8 @@
 		"invincibility": "9-17 All"
 	},
 	{
-		"input": "236H[k]",
-		"name": "H Kyokasuigetsu",
+		"input": "H鏡花水月(236Hk)",
+		"name": "236Hk",
 		"damage": "400×3",
 		"guard": "Mid",
 		"startup": "15 [7]",
@@ -672,8 +672,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L[k]",
-		"name": "L Kyokasuigetsu",
+		"input": "L鏡花水月(236Lk)",
+		"name": "236Lk",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "13 [6]",
@@ -684,8 +684,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M[k]",
-		"name": "M Kyokasuigetsu",
+		"input": "M鏡花水月(236Mk)",
+		"name": "236Mk",
 		"damage": "600×2",
 		"guard": "Mid",
 		"startup": "16 [8]",
@@ -696,8 +696,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U[k]",
-		"name": "U Kyokasuigetsu",
+		"input": "U鏡花水月(236Uk)",
+		"name": "236Uk",
 		"damage": "700×2, 600×2",
 		"guard": "Mid",
 		"startup": "13",
@@ -708,8 +708,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H[k]",
-		"name": "H Mugenkagura",
+		"input": "H夢幻神楽(623Hk)",
+		"name": "623Hk",
 		"damage": "600, 300×3",
 		"guard": "Mid",
 		"startup": "20 [6]",
@@ -720,8 +720,8 @@
 		"invincibility": "1~14 Catch High [1-15 All]"
 	},
 	{
-		"input": "623L[k]",
-		"name": "L Mugenkagura",
+		"input": "L夢幻神楽(623Lk)",
+		"name": "623Lk",
 		"damage": "700, 400",
 		"guard": "Mid, All",
 		"startup": "6",
@@ -732,8 +732,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M[k]",
-		"name": "M Mugenkagura",
+		"input": "M夢幻神楽(623Mk)",
+		"name": "623Mk",
 		"damage": "700, 400",
 		"guard": "Mid, All",
 		"startup": "20 [6]",
@@ -744,8 +744,8 @@
 		"invincibility": "1~14 Catch High [1-15 All]"
 	},
 	{
-		"input": "623U[k]",
-		"name": "U Mugenkagura",
+		"input": "U夢幻神楽(623Uk)",
+		"name": "623Uk",
 		"damage": "600, 900 [600, 900, 200×4]",
 		"guard": "Mid",
 		"startup": "12 [6]",
@@ -756,8 +756,8 @@
 		"invincibility": "1-9 Catch All ,  10-16 All [1-15 All]"
 	},
 	{
-		"input": "j214H[k]",
-		"name": "H Crescent Moon (Midair)",
+		"input": "空中H繊月(j214Hk)",
+		"name": "j214Hk",
 		"damage": "1500",
 		"guard": "All",
 		"startup": "5",
@@ -768,8 +768,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j214L[k]",
-		"name": "L Crescent Moon (Midair)",
+		"input": "空中L繊月(j214Lk)",
+		"name": "j214Lk",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "5",
@@ -780,8 +780,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j214M[k]",
-		"name": "M Crescent Moon (Midair)",
+		"input": "空中M繊月(j214Mk)",
+		"name": "j214Mk",
 		"damage": "1000",
 		"guard": "All",
 		"startup": "5",
@@ -792,8 +792,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j214U[k]",
-		"name": "U Aerial Crescent Moon",
+		"input": "空中U繊月(j214Uk)",
+		"name": "j214Uk",
 		"damage": "2000",
 		"guard": "All",
 		"startup": "27",
@@ -804,8 +804,8 @@
 		"invincibility": "4-17 All"
 	},
 	{
-		"input": "236236H",
-		"name": "One Hundred Cloudscapes",
+		"input": "紫雲百景(236236H)",
+		"name": "236236H",
 		"damage": "2500,750×2",
 		"guard": "Mid",
 		"startup": "7+4 [3+4]",
@@ -816,8 +816,8 @@
 		"invincibility": "1-16 All [1-12 All]"
 	},
 	{
-		"input": "236236U",
-		"name": "Butterfly Effect: Ame-no-Uzume",
+		"input": "胡蝶刃・天鈿女命舞(236236U)",
+		"name": "236236U",
 		"damage": "360×10, 240×5, 1200 [200×15,1000]",
 		"guard": "Mid→All",
 		"startup": "7+7",
@@ -828,8 +828,8 @@
 		"invincibility": "1-28 All"
 	},
 	{
-		"input": "5U",
-		"name": "Butterfly Effect",
+		"input": "胡蝶刃(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
