@@ -148,7 +148,7 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Vaseraga_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f1/GBVS_Vaseraga_BC_Hitbox_1.png",
@@ -156,21 +156,21 @@
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c6/GBVS_Vaseraga_AirThrow.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVS_Vaseraga_Throw.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Vaseraga_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c9/GBVS_Vaseraga_5MH_Hitbox_1.png",
@@ -178,7 +178,7 @@
     ]
   },
   {
-    "input": "MHMH",
+    "input": "レイジングチェイン(MHMH)",
     "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Vaseraga_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1a/GBVS_Vaseraga_6MH_Hitbox_1.png",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "Hインスティンクション(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png",
@@ -194,14 +194,14 @@
     ]
   },
   {
-    "input": "214L",
+    "input": "Lインスティンクション(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png"
     ]
   },
   {
-    "input": "214M",
+    "input": "Mインスティンクション(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVS_Vaseraga_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Vaseraga_214L_Hitbox.png",
@@ -209,112 +209,112 @@
     ]
   },
   {
-    "input": "214U",
+    "input": "Uインスティンクション(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Vaseraga_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/85/GBVSR_Vaseraga_214U_Hitbox.png"
     ]
   },
   {
-    "input": "22H",
+    "input": "Hクルード・ランページ(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVS_Vaseraga_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Vaseraga_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22L",
+    "input": "Lクルード・ランページ(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVS_Vaseraga_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Vaseraga_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22M",
+    "input": "Mクルード・ランページ(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3b/GBVS_Vaseraga_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Vaseraga_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22U",
+    "input": "Uクルード・ランページ(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Vaseraga_22U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Vaseraga_22U_Hitbox.png"
     ]
   },
   {
-    "input": "22X &gt; 44/G",
+    "input": "キャンセル(22X44)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22X &gt; 6",
+    "input": "前進(22X6)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "22X &gt; H",
+    "input": "縦斬り(22XH)",
     "move_img": "https://www.dustloop.com/wiki/images/6/67/GBVS_Vaseraga_22X-H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/15/GBVSR_Vaseraga_22X-H_Hitbox.png"
     ]
   },
   {
-    "input": "22X &gt; L",
+    "input": "なぎ払い上(22XL)",
     "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVS_Vaseraga_22X-L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Vaseraga_22X-L_Hitbox.png"
     ]
   },
   {
-    "input": "22X &gt; M",
+    "input": "なぎ払い下(22XM)",
     "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVS_Vaseraga_22X-M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/36/GBVSR_Vaseraga_22X-M_Hitbox.png"
     ]
   },
   {
-    "input": "22X &gt; U",
+    "input": "突き立て(22XU)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a5/GBVS_Vaseraga_22X-U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/51/GBVSR_Vaseraga_22X-U_Hitbox.png"
     ]
   },
   {
-    "input": "632146H",
+    "input": "H大鎌グロウノス(632146H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Vaseraga_632146X_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/18/GBVSR_Vaseraga_632146X_Hitbox.png"
     ]
   },
   {
-    "input": "632146L",
+    "input": "L大鎌グロウノス(632146L)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Vaseraga_632146X_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/18/GBVSR_Vaseraga_632146X_Hitbox.png"
     ]
   },
   {
-    "input": "632146M",
+    "input": "M大鎌グロウノス(632146M)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Vaseraga_632146X_1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/18/GBVSR_Vaseraga_632146X_Hitbox.png"
     ]
   },
   {
-    "input": "632146U",
+    "input": "U大鎌グロウノス(632146U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Vaseraga_632146U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/49/GBVSR_Vaseraga_632146U_Hitbox.png"
     ]
   },
   {
-    "input": "[4]6H",
+    "input": "Hバタリアンズ・オブ・フィア([4]6H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Vaseraga_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Vaseraga_46L_Hitbox.png",
@@ -322,35 +322,35 @@
     ]
   },
   {
-    "input": "[4]6L",
+    "input": "Lバタリアンズ・オブ・フィア([4]6L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Vaseraga_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Vaseraga_46L_Hitbox.png"
     ]
   },
   {
-    "input": "[4]6M",
+    "input": "Mバタリアンズ・オブ・フィア([4]6M)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVS_Vaseraga_46X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Vaseraga_46M_Hitbox.png"
     ]
   },
   {
-    "input": "[4]6U",
+    "input": "Uバタリアンズ・オブ・フィア([4]6U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Vaseraga_46U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Vaseraga_46U_Hitbox.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "ブラッディ・ムーン(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVS_Vaseraga_236236H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/de/GBVSR_Vaseraga_236236H_Hitbox.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "アフターマス(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/14/GBVS_Vaseraga_236236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Vaseraga_236236U_Hitbox_1.png",
@@ -358,7 +358,7 @@
     ]
   },
   {
-    "input": "5U",
+    "input": "ソウルフォージ(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVS_Vaseraga_5U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Vaseraga_5U_Hitbox.png"

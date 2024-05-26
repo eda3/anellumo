@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Instinction",
+		"input": "Hインスティンクション(214H)",
+		"name": "214H",
 		"damage": "400, 1200",
 		"guard": "Mid, All",
 		"startup": "&lt;span class=&quot;tooltip&quot; &gt;9, 17&lt;span class=&quot;tooltiptext&quot; style=&quot;&quot;&gt;strike, projectile&lt;/span&gt;&lt;/span&gt;",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Instinction",
+		"input": "Lインスティンクション(214L)",
+		"name": "214L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "22",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Instinction",
+		"input": "Mインスティンクション(214M)",
+		"name": "214M",
 		"damage": "400, 800",
 		"guard": "Mid, All",
 		"startup": "&lt;span class=&quot;tooltip&quot; &gt;12, 20&lt;span class=&quot;tooltiptext&quot; style=&quot;&quot;&gt;strike, projectile&lt;/span&gt;&lt;/span&gt;",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Instinction",
+		"input": "Uインスティンクション(214U)",
+		"name": "214U",
 		"damage": "1200, 200x2",
 		"guard": "All",
 		"startup": "11",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Savage Rampage",
+		"input": "Hクルード・ランページ(22H)",
+		"name": "22H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "15",
@@ -372,8 +372,8 @@
 		"invincibility": "Soul Forge: 5~? Armor"
 	},
 	{
-		"input": "22L",
-		"name": "L Savage Rampage",
+		"input": "Lクルード・ランページ(22L)",
+		"name": "22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "10",
@@ -384,8 +384,8 @@
 		"invincibility": "Soul Forge: 5~? Armor"
 	},
 	{
-		"input": "22M",
-		"name": "M Savage Rampage",
+		"input": "Mクルード・ランページ(22M)",
+		"name": "22M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "18",
@@ -396,8 +396,8 @@
 		"invincibility": "Soul Forge: 5~? Armor"
 	},
 	{
-		"input": "22U",
-		"name": "U Savage Rampage",
+		"input": "Uクルード・ランページ(22U)",
+		"name": "22U",
 		"damage": "750x2, 1500",
 		"guard": "All",
 		"startup": "15",
@@ -408,8 +408,8 @@
 		"invincibility": "7~? Armor"
 	},
 	{
-		"input": "22X44/G",
-		"name": "Cancel",
+		"input": "キャンセル(22X44)",
+		"name": "22X44",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X6",
-		"name": "March",
+		"input": "前進(22X6)",
+		"name": "22X6",
 		"damage": "500×4",
 		"guard": "Mid",
 		"startup": "16",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22XH",
-		"name": "Crushing Strike",
+		"input": "縦斬り(22XH)",
+		"name": "22XH",
 		"damage": "2000",
 		"guard": "Mid",
 		"startup": "15 [40]",
@@ -444,8 +444,8 @@
 		"invincibility": "Soul Forge: 1~16 Armor"
 	},
 	{
-		"input": "22XL",
-		"name": "Rising Slash",
+		"input": "なぎ払い上(22XL)",
+		"name": "22XL",
 		"damage": "1500",
 		"guard": "Mid",
 		"startup": "12 [32]",
@@ -456,8 +456,8 @@
 		"invincibility": "Soul Forge: 1~14 Armor"
 	},
 	{
-		"input": "22XM",
-		"name": "Sweeping Slash",
+		"input": "なぎ払い下(22XM)",
+		"name": "22XM",
 		"damage": "1500",
 		"guard": "Low",
 		"startup": "16 [36]",
@@ -468,8 +468,8 @@
 		"invincibility": "Soul Forge: 1~21 Armor"
 	},
 	{
-		"input": "22XU",
-		"name": "Ravaging Stomp",
+		"input": "突き立て(22XU)",
+		"name": "22XU",
 		"damage": "2000",
 		"guard": "Mid",
 		"startup": "20 [40]",
@@ -480,8 +480,8 @@
 		"invincibility": "Soul Forge: 1~25 Armor"
 	},
 	{
-		"input": "632146H",
-		"name": "H Great Scythe Grynoth",
+		"input": "H大鎌グロウノス(632146H)",
+		"name": "632146H",
 		"damage": "3000",
 		"guard": "Throw",
 		"startup": "26",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "632146L",
-		"name": "L Great Scythe Grynoth",
+		"input": "L大鎌グロウノス(632146L)",
+		"name": "632146L",
 		"damage": "2000",
 		"guard": "Throw",
 		"startup": "12",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "632146M",
-		"name": "M Great Scythe Grynoth",
+		"input": "M大鎌グロウノス(632146M)",
+		"name": "632146M",
 		"damage": "2500",
 		"guard": "Airthrow",
 		"startup": "9",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "632146U",
-		"name": "U Great Scythe Grynoth",
+		"input": "U大鎌グロウノス(632146U)",
+		"name": "632146U",
 		"damage": "2500",
 		"guard": "Throw",
 		"startup": "16",
@@ -528,8 +528,8 @@
 		"invincibility": "1-18 Full"
 	},
 	{
-		"input": "[4]6H",
-		"name": "H Battalions of Fear",
+		"input": "Hバタリアンズ・オブ・フィア([4]6H)",
+		"name": "[4]6H",
 		"damage": "1000×2",
 		"guard": "Mid",
 		"startup": "26 [76]",
@@ -540,8 +540,8 @@
 		"invincibility": "Soul Forge: 5~58 Armor"
 	},
 	{
-		"input": "[4]6L",
-		"name": "L Battalions of Fear",
+		"input": "Lバタリアンズ・オブ・フィア([4]6L)",
+		"name": "[4]6L",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "19",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "[4]6M",
-		"name": "M Battalions of Fear",
+		"input": "Mバタリアンズ・オブ・フィア([4]6M)",
+		"name": "[4]6M",
 		"damage": "1800",
 		"guard": "Mid",
 		"startup": "26 [51]",
@@ -564,8 +564,8 @@
 		"invincibility": "Soul Forge: 5~41 Armor"
 	},
 	{
-		"input": "[4]6U",
-		"name": "U Battalions of Fear",
+		"input": "Uバタリアンズ・オブ・フィア([4]6U)",
+		"name": "[4]6U",
 		"damage": "1000, 1500",
 		"guard": "All",
 		"startup": "9",
@@ -576,8 +576,8 @@
 		"invincibility": "5~? Guard Point"
 	},
 	{
-		"input": "236236H",
-		"name": "Bloody Moon",
+		"input": "ブラッディ・ムーン(236236H)",
+		"name": "236236H",
 		"damage": "1000, 1500, 100×17, 300 [1000, 2500]",
 		"guard": "Mid",
 		"startup": "6+6",
@@ -588,8 +588,8 @@
 		"invincibility": "1~14 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Aftermath",
+		"input": "アフターマス(236236U)",
+		"name": "236236U",
 		"damage": "3600, 360×4, 1200 [4000]",
 		"guard": "Mid",
 		"startup": "8+7",
@@ -600,8 +600,8 @@
 		"invincibility": "1~20 Throw, 1~20 Guard All"
 	},
 	{
-		"input": "5U",
-		"name": "Soul Forge",
+		"input": "ソウルフォージ(5U)",
+		"name": "5U",
 		"damage": "1300",
 		"guard": "Mid",
 		"startup": "21",

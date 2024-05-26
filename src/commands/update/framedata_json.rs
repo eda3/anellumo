@@ -2541,6 +2541,105 @@ pub async fn frames_to_json(
         r#""マッスルリアクション(5U6X)","name":"5U6X""#,
     );
 
+    // バザラガ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Instinction""#,
+        r#""Hインスティンクション(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Instinction""#,
+        r#""Lインスティンクション(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Instinction""#,
+        r#""Mインスティンクション(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Instinction""#,
+        r#""Uインスティンクション(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Savage Rampage""#,
+        r#""Hクルード・ランページ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Savage Rampage""#,
+        r#""Lクルード・ランページ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Savage Rampage""#,
+        r#""Mクルード・ランページ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Savage Rampage""#,
+        r#""Uクルード・ランページ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X44/G","name":"Cancel""#,
+        r#""キャンセル(22X44)","name":"22X44""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""22X6","name":"March""#, r#""前進(22X6)","name":"22X6""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""22XH","name":"Crushing Strike""#,
+        r#""縦斬り(22XH)","name":"22XH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22XL","name":"Rising Slash""#,
+        r#""なぎ払い上(22XL)","name":"22XL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22XM","name":"Sweeping Slash""#,
+        r#""なぎ払い下(22XM)","name":"22XM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22XU","name":"Ravaging Stomp""#,
+        r#""突き立て(22XU)","name":"22XU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146H","name":"H Great Scythe Grynoth""#,
+        r#""H大鎌グロウノス(632146H)","name":"632146H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146L","name":"L Great Scythe Grynoth""#,
+        r#""L大鎌グロウノス(632146L)","name":"632146L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146M","name":"M Great Scythe Grynoth""#,
+        r#""M大鎌グロウノス(632146M)","name":"632146M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""632146U","name":"U Great Scythe Grynoth""#,
+        r#""U大鎌グロウノス(632146U)","name":"632146U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6H","name":"H Battalions of Fear""#,
+        r#""Hバタリアンズ・オブ・フィア([4]6H)","name":"[4]6H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6L","name":"L Battalions of Fear""#,
+        r#""Lバタリアンズ・オブ・フィア([4]6L)","name":"[4]6L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6M","name":"M Battalions of Fear""#,
+        r#""Mバタリアンズ・オブ・フィア([4]6M)","name":"[4]6M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[4]6U","name":"U Battalions of Fear""#,
+        r#""Uバタリアンズ・オブ・フィア([4]6U)","name":"[4]6U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Bloody Moon""#,
+        r#""ブラッディ・ムーン(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Aftermath""#,
+        r#""アフターマス(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Soul Forge""#,
+        r#""ソウルフォージ(5U)","name":"5U""#,
+    );
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
