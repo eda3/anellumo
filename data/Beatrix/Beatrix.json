@@ -506,14 +506,14 @@
 	{
 		"input": "Uエムブラスクの剣(623U)",
 		"name": "623U",
-		"damage": "600,500,900",
-		"guard": "-",
+		"damage": "600, 500, 900",
+		"guard": "Mid",
 		"startup": "8",
 		"active": "8",
 		"recovery": "36",
 		"hit": "HKD (+44)",
 		"block": "-32",
-		"invincibility": "1-?? Full"
+		"invincibility": "1-15 All"
 	},
 	{
 		"input": "イモータル・アソールト(236236H)",

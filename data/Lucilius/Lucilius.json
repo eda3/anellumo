@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Iscariot",
+		"input": "Hイスカリオテ(214H)",
+		"name": "214H",
 		"damage": "0, 1000, 300×3",
 		"guard": "Mid",
 		"startup": "19",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Iscariot",
+		"input": "Lイスカリオテ(214L)",
+		"name": "214L",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "15",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Iscariot",
+		"input": "Mイスカリオテ(214M)",
+		"name": "214M",
 		"damage": "0, 1000, 300×3",
 		"guard": "Mid",
 		"startup": "17",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Iscariot",
+		"input": "Uイスカリオテ(214U)",
+		"name": "214U",
 		"damage": "0, 1000×3",
 		"guard": "Mid",
 		"startup": "14",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Tessera",
+		"input": "Hテセラ(22H)",
+		"name": "22H",
 		"damage": "300, 700",
 		"guard": "All",
 		"startup": "43",
@@ -372,8 +372,8 @@
 		"invincibility": "7-30 All"
 	},
 	{
-		"input": "22L",
-		"name": "L Tessera",
+		"input": "Lテセラ(22L)",
+		"name": "22L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -384,8 +384,8 @@
 		"invincibility": "7-23 All"
 	},
 	{
-		"input": "22M",
-		"name": "M Tessera",
+		"input": "Mテセラ(22M)",
+		"name": "22M",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "30",
@@ -396,8 +396,8 @@
 		"invincibility": "7-23 All"
 	},
 	{
-		"input": "22U",
-		"name": "U Tessera",
+		"input": "Uテセラ(22U)",
+		"name": "22U",
 		"damage": "2000",
 		"guard": "Mid",
 		"startup": "30",
@@ -408,8 +408,8 @@
 		"invincibility": "8-23 All"
 	},
 	{
-		"input": "236H",
-		"name": "H Iblis",
+		"input": "Hイブリース(236H)",
+		"name": "236H",
 		"damage": "175×8",
 		"guard": "All",
 		"startup": "39",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Iblis",
+		"input": "Lイブリース(236L)",
+		"name": "236L",
 		"damage": "250×4",
 		"guard": "All",
 		"startup": "20",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Iblis",
+		"input": "Mイブリース(236M)",
+		"name": "236M",
 		"damage": "200×6",
 		"guard": "All",
 		"startup": "20",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Iblis",
+		"input": "Uイブリース(236U)",
+		"name": "236U",
 		"damage": "160×10",
 		"guard": "All",
 		"startup": "18",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Phosphorus",
+		"input": "Hポースポロス(623H)",
+		"name": "623H",
 		"damage": "700, 800",
 		"guard": "Mid",
 		"startup": "20",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Phosphorus",
+		"input": "Lポースポロス(623L)",
+		"name": "623L",
 		"damage": "1250",
 		"guard": "Mid",
 		"startup": "13",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Phosphorus",
+		"input": "Mポースポロス(623M)",
+		"name": "623M",
 		"damage": "1250",
 		"guard": "Mid",
 		"startup": "20",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Phosphorus",
+		"input": "Uポースポロス(623U)",
+		"name": "623U",
 		"damage": "1000×2",
 		"guard": "Mid",
 		"startup": "8",
@@ -504,8 +504,8 @@
 		"invincibility": "1-9 Full"
 	},
 	{
-		"input": "214214H",
-		"name": "Axion Control",
+		"input": "アキシオン・コントロール(214214H)",
+		"name": "214214H",
 		"damage": "(500/700)×3, 500×3, 1000",
 		"guard": "All",
 		"startup": "4+14~16",
@@ -516,8 +516,8 @@
 		"invincibility": "1-7 Full"
 	},
 	{
-		"input": "236236H",
-		"name": "Axion",
+		"input": "アキシオン(236236H)",
+		"name": "236236H",
 		"damage": "1000×4",
 		"guard": "All",
 		"startup": "4+11",
@@ -528,8 +528,8 @@
 		"invincibility": "1-17 Full"
 	},
 	{
-		"input": "236236U",
-		"name": "Paradise Lost",
+		"input": "パラダイス・ロスト(236236U)",
+		"name": "236236U",
 		"damage": "1440, 120×18, 1800",
 		"guard": "Mid",
 		"startup": "5+9",
@@ -540,8 +540,8 @@
 		"invincibility": "1-21 Full"
 	},
 	{
-		"input": "5U",
-		"name": "Orbital Resonance",
+		"input": "オービタル・レゾナンス(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "18",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UH",
-		"name": "Orbital Resonance ~ H",
+		"input": "Hオービタル・レゾナンス追加攻撃(5UH)",
+		"name": "5UH",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "10",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UL",
-		"name": "Orbital Resonance ~ L",
+		"input": "Lオービタル・レゾナンス追加攻撃(5UL)",
+		"name": "5UL",
 		"damage": "800",
 		"guard": "All",
 		"startup": "10",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5UM",
-		"name": "Orbital Resonance ~ M",
+		"input": "Mオービタル・レゾナンス追加攻撃(5UM)",
+		"name": "5UM",
 		"damage": "500×2",
 		"guard": "All",
 		"startup": "16",

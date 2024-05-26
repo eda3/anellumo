@@ -1707,6 +1707,100 @@ pub async fn images_to_json(
         r#""5U","name":"Don't Mind If I Do""#,
         r#""シーメーマシマシ(5U)","name":"5U""#,
     );
+
+    // ルシファー
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Iscariot""#,
+        r#""Hイスカリオテ(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Iscariot""#,
+        r#""Lイスカリオテ(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Iscariot""#,
+        r#""Mイスカリオテ(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Iscariot""#,
+        r#""Uイスカリオテ(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Tessera""#,
+        r#""Hテセラ(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Tessera""#,
+        r#""Lテセラ(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Tessera""#,
+        r#""Mテセラ(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Tessera""#,
+        r#""Uテセラ(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Iblis""#,
+        r#""Hイブリース(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Iblis""#,
+        r#""Lイブリース(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Iblis""#,
+        r#""Mイブリース(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Iblis""#,
+        r#""Uイブリース(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Phosphorus""#,
+        r#""Hポースポロス(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Phosphorus""#,
+        r#""Lポースポロス(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Phosphorus""#,
+        r#""Mポースポロス(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Phosphorus""#,
+        r#""Uポースポロス(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"Axion Control""#,
+        r#""アキシオン・コントロール(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Axion""#,
+        r#""アキシオン(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Paradise Lost""#,
+        r#""パラダイス・ロスト(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Orbital Resonance""#,
+        r#""オービタル・レゾナンス(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~H","name":"Orbital Resonance ~ H""#,
+        r#""Hオービタル・レゾナンス追加攻撃(5U~H)","name":"5U~H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~L","name":"Orbital Resonance ~ L""#,
+        r#""Lオービタル・レゾナンス追加攻撃(5UL)","name":"5UL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~M","name":"Orbital Resonance ~ M""#,
+        r#""Mオービタル・レゾナンス追加攻撃(5UM)","name":"5UM""#,
+    );
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();
