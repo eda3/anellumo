@@ -157,7 +157,7 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Seox_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Seox_BC_Hitbox_1.png",
@@ -165,21 +165,21 @@
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b8/GBVS_Seox_aThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Seox_AirThrow_Hitbox.png"
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3c/GBVS_Seox_fThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/19/GBVSR_Seox_fThrow_Hitbox.png"
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Seox_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/75/GBVSR_Seox_5MH_Hitbox_1.png",
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "H鬼門・修羅(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Seox_214L_Hitbox1.png",
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "input": "214L",
+    "input": "L鬼門・修羅(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Seox_214L_Hitbox1.png",
@@ -203,21 +203,21 @@
     ]
   },
   {
-    "input": "214M",
+    "input": "M鬼門・修羅(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/8/80/GBVS_Seox_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Seox_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214U",
+    "input": "U鬼門・修羅(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Seox_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Seox_214U_Hitbox.png"
     ]
   },
   {
-    "input": "236H",
+    "input": "H六爪無斬(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Seox_236L_Hitbox.png",
@@ -226,7 +226,7 @@
     ]
   },
   {
-    "input": "236L",
+    "input": "L六爪無斬(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Seox_236L_Hitbox.png",
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "input": "236M",
+    "input": "M六爪無斬(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVS_Seox_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Seox_236L_Hitbox.png",
@@ -242,28 +242,28 @@
     ]
   },
   {
-    "input": "236U",
+    "input": "U六爪無斬(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Seox_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Seox_236U_Hitbox.png"
     ]
   },
   {
-    "input": "236X &gt; 4L",
+    "input": "L狼哮(236X4L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVS_Seox_236x4x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Seox_236x4x_Hitbox.png"
     ]
   },
   {
-    "input": "236X &gt; 4M/H",
+    "input": "M/H狼哮(236X4M/H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cf/GBVS_Seox_236x4x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Seox_236x4x_Hitbox.png"
     ]
   },
   {
-    "input": "236X &gt; 6L",
+    "input": "L/H真鬼蹴(236X6L)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Seox_236x6x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/de/GBVSR_Seox_236x6x_Hitbox1.png",
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "input": "236X &gt; 6M/H",
+    "input": "M真鬼蹴(236X6M/H)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d0/GBVS_Seox_236x6x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/de/GBVSR_Seox_236x6x_Hitbox1.png",
@@ -279,140 +279,140 @@
     ]
   },
   {
-    "input": "236X &gt; 6U/4U",
+    "input": "残影陣(236X6U/4U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVS_Seox_236x6u.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236X &gt; 8L",
+    "input": "L/H蛇頭斬(236X8L)",
     "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVS_Seox_236x8x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Seox_236x8x_Hitbox.png"
     ]
   },
   {
-    "input": "236X &gt; 8M/H",
+    "input": "M蛇頭斬(236X8M/H)",
     "move_img": "https://www.dustloop.com/wiki/images/8/85/GBVS_Seox_236x8x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Seox_236x8x_Hitbox.png"
     ]
   },
   {
-    "input": "623H",
+    "input": "H迅門・紫電(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Seox_623x-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
-    "input": "623L",
+    "input": "L迅門・紫電(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Seox_623x-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
-    "input": "623M",
+    "input": "M迅門・紫電(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c4/GBVS_Seox_623x-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Seox_623x_Hitbox.png"
     ]
   },
   {
-    "input": "623U",
+    "input": "U迅門・紫電(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e1/GBVSR_Seox_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Seox_623U_Hitbox.png"
     ]
   },
   {
-    "input": "j214H",
+    "input": "空中H鬼門・修羅(j214H)",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Seox_j214H_Hitbox.png"
     ]
   },
   {
-    "input": "j214L",
+    "input": "空中L鬼門・修羅(j214L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/92/GBVS_Seox_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Seox_j214X_Hitbox.png"
     ]
   },
   {
-    "input": "j214M",
+    "input": "空中M鬼門・修羅(j214M)",
     "move_img": "https://www.dustloop.com/wiki/images/8/80/GBVS_Seox_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Seox_j214X_Hitbox.png"
     ]
   },
   {
-    "input": "j214U",
+    "input": "空中U鬼門・修羅(j214U)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Seox_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/be/GBVSR_Seox_j214U_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8H",
+    "input": "H虚空拳([2]8H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c5/GBVS_Seox_28H-2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Seox_28L_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8L",
+    "input": "L虚空拳([2]8L)",
     "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVS_Seox_28x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Seox_28L_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8M",
+    "input": "M虚空拳([2]8M)",
     "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVS_Seox_28x.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Seox_28M_Hitbox.png"
     ]
   },
   {
-    "input": "[2]8U",
+    "input": "U虚空拳([2]8U)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Seox_28U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Seox_28U_Hitbox.png"
     ]
   },
   {
-    "input": "214214H",
+    "input": "六崩の悟り(214214H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVS_Seox_214214H.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236H",
+    "input": "天地虚空夜叉閃刃(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6e/GBVS_Seox_236236H_Start.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "236236U",
+    "input": "三千一穿明王波斬(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d3/GBVS_Seox_236236U_Start.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U",
+    "input": "闘鬼陣(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3e/GBVS_Seox_5U-1.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Seox_5U_Hitbox.png"
     ]
   },
   {
-    "input": "5[U]",
+    "input": "転地(5[U])",
     "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVS_Seox_5U-2.png",
     "hitbox_img": [
       ""

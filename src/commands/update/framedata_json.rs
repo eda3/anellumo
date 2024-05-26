@@ -2216,6 +2216,232 @@ pub async fn frames_to_json(
         r#""5U","name":"X-Seele""#,
         r#""イクスゼーレ(5U)","name":"5U""#,
     );
+
+    // シス
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Gate of Demons""#,
+        r#""H鬼門・修羅(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Gate of Demons""#,
+        r#""L鬼門・修羅(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Gate of Demons""#,
+        r#""M鬼門・修羅(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Gate of Demons""#,
+        r#""U鬼門・修羅(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Six-Claw Execution""#,
+        r#""H六爪無斬(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Six-Claw Execution""#,
+        r#""L六爪無斬(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Six-Claw Execution""#,
+        r#""M六爪無斬(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Six-Claw Execution""#,
+        r#""U六爪無斬(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X4L","name":"L Wolf's Howl""#,
+        r#""L狼哮(236X4L)","name":"236X4L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X4M/H","name":"M/H Wolf's Howl""#,
+        r#""M/H狼哮(236X4M/H)","name":"236X4M/H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X6L","name":"L/H Archdemon Kick""#,
+        r#""L/H真鬼蹴(236X6L)","name":"236X6L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X6M/H","name":"M Archdemon Kick""#,
+        r#""M真鬼蹴(236X6M/H)","name":"236X6M/H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X6U/4U","name":"Shadow Trace""#,
+        r#""残影陣(236X6U/4U)","name":"236X6U/4U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X8L","name":"L/H Snake Bite""#,
+        r#""L/H蛇頭斬(236X8L)","name":"236X8L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X8M/H","name":"M Snake Bite""#,
+        r#""M蛇頭斬(236X8M/H)","name":"236X8M/H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Thunderflash""#,
+        r#""H迅門・紫電(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Thunderflash""#,
+        r#""L迅門・紫電(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Thunderflash""#,
+        r#""M迅門・紫電(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Thunderflash""#,
+        r#""U迅門・紫電(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214H","name":"Air H Gate of Demons""#,
+        r#""空中H鬼門・修羅(j214H)","name":"j214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214L","name":"Air L Gate of Demons""#,
+        r#""空中L鬼門・修羅(j214L)","name":"j214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214M","name":"Air M Gate of Demons""#,
+        r#""空中M鬼門・修羅(j214M)","name":"j214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j214U","name":"U Aerial Gate of Demons""#,
+        r#""空中U鬼門・修羅(j214U)","name":"j214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8H","name":"H Empty Hand""#,
+        r#""H虚空拳([2]8H)","name":"[2]8H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8L","name":"L Empty Hand""#,
+        r#""L虚空拳([2]8L)","name":"[2]8L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8M","name":"M Empty Hand""#,
+        r#""M虚空拳([2]8M)","name":"[2]8M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""[2]8U","name":"U Empty Hand""#,
+        r#""U虚空拳([2]8U)","name":"[2]8U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"Six-Ruin's Enlightenment""#,
+        r#""六崩の悟り(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Void Claws: Terminus""#,
+        r#""天地虚空夜叉閃刃(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Three Thousand and One Talons""#,
+        r#""三千一穿明王波斬(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""5U","name":"Demon Step""#, r#""闘鬼陣(5U)","name":"5U""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]","name":"New Perspective""#,
+        r#""転地(5[U])","name":"5[U]""#,
+    );
+
+    // ジークフリート
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Verdrängen""#,
+        r#""Hメサジェ(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Verdrängen""#,
+        r#""Lメサジェ(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Verdrängen""#,
+        r#""Mメサジェ(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Verdrängen""#,
+        r#""Uメサジェ(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Orkan""#,
+        r#""Hオルカーン(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Orkan""#,
+        r#""Lオルカーン(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Orkan""#,
+        r#""Mオルカーン(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Orkan""#,
+        r#""Uオルカーン(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~H","name":"Uwe""#,
+        r#""ウーヴェ(22XH)","name":"22XH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~L","name":"Héritier""#,
+        r#""エリティエ(22XL)","name":"22XL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~M","name":"L'Ombre d'Hier""#,
+        r#""ロンブル・ディエール(22XM)","name":"22XM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~U","name":"Deliverance""#,
+        r#""デリヴランス(22XU)","name":"22XU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Nelah Nav""#,
+        r#""Hネラナヴ(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Nelah Nav""#,
+        r#""Lネラナヴ(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Nelah Nav""#,
+        r#""Mネラナヴ(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Nelah Nav""#,
+        r#""Uネラナヴ(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Messager""#,
+        r#""Hメサジェ(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Messager""#,
+        r#""Lメサジェ(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Messager""#,
+        r#""Mメサジェ(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Messager""#,
+        r#""Uメサジェ(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214214H","name":"Blood of the Dragon""#,
+        r#""ドラゴンブラッド(214214H)","name":"214214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Schwarze Fänge""#,
+        r#""シュヴァルツ・ファング(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Rasendes Scharzblut""#,
+        r#""ラーゼライシュヴァルツブルート(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Manigance""#,
+        r#""マニガンス(5U)","name":"5U""#,
+    );
     /*
     // グランの技名
     re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
