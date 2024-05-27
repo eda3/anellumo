@@ -158,7 +158,7 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/0/03/GBVSR_Gran_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_BC_Hitbox_1.png",
@@ -166,28 +166,28 @@
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Gran_AirThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/4/45/GBVSR_Gran_AirThrow_Hitbox.png"
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Gran_Throw.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Gran_Throw_Hitbox.png"
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Gran_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Gran_5MH_Hitbox_1.png"
     ]
   },
   {
-    "input": "MHMH",
+    "input": "レイジングチェイン(MHMH)",
     "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Gran_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/88/GBVSR_Gran_6MH_Hitbox_1.png",
@@ -195,14 +195,14 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "Hドライブバースト(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Gran_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Gran_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214L",
+    "input": "Lドライブバースト(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Gran_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/84/GBVSR_Gran_214L_Hitbox1.png",
@@ -210,28 +210,28 @@
     ]
   },
   {
-    "input": "214L214M",
+    "input": "Lドライブバースト追加攻撃(214L214M)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Gran_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Gran_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214M",
+    "input": "Mドライブバースト(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Gran_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Gran_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214U",
+    "input": "Uドライブバースト(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Gran_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Gran_214U_Hitbox_1.png"
     ]
   },
   {
-    "input": "236H",
+    "input": "Hレギンレイヴ(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Gran_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Gran_236X_Hitbox1.png",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "input": "236L",
+    "input": "Lレギンレイヴ(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Gran_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Gran_236X_Hitbox1.png",
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "input": "236M",
+    "input": "Mレギンレイヴ(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Gran_236L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Gran_236M_Hitbox.png",
@@ -256,14 +256,14 @@
     ]
   },
   {
-    "input": "236U",
+    "input": "Uレギンレイヴ(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/7/76/GBVSR_Gran_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/86/GBVSR_Gran_236U_Hitbox_1.png"
     ]
   },
   {
-    "input": "623H",
+    "input": "Hライジングソード(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVSR_Gran_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Gran_623X_Hitbox_1.png",
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "input": "623L",
+    "input": "Lライジングソード(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVSR_Gran_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Gran_623X_Hitbox_1.png",
@@ -279,7 +279,7 @@
     ]
   },
   {
-    "input": "623M",
+    "input": "Mライジングソード(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVSR_Gran_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Gran_623X_Hitbox_1.png",
@@ -287,14 +287,14 @@
     ]
   },
   {
-    "input": "623U",
+    "input": "Uライジングソード(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/16/GBVSR_Gran_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Gran_623U_Hitbox_1.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "テンペストブレード(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_236236H_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/39/GBVSR_Gran_23636H_Hitbox_1.png",
@@ -302,35 +302,35 @@
     ]
   },
   {
-    "input": "236236H236U",
+    "input": "比類無き十の力(236236H236U)",
     "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Gran_236236H236U_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Gran_23636H236U_Hitbox_1.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "カタストロフィ(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Gran_236236U_Start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/e/ed/GBVSR_Gran_236236U_Hitbox.png"
     ]
   },
   {
-    "input": "5[U]",
+    "input": "パワーレイズ(5[U])",
     "move_img": "https://www.dustloop.com/wiki/images/1/16/GBVSR_Gran_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5[U]X",
+    "input": "パワーレイズキャンセル([5U]X)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5[U]]U[",
+    "input": "パワーレイズアタック(5[U]]U[)",
     "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_5U_2.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_5U_Hitbox-1.png",

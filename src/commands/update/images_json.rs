@@ -1148,6 +1148,118 @@ pub async fn images_to_json(
         r#""空中移動(j8U)","name":"j8U""#,
     );
 
+    // グラン
+    re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Overdrive Surge""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ドライブバースト($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236)([LMHU])","name":"[LMHU] Reginleiv""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2レギンレイヴ($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(623)([LMHU])","name":"[LMHU] Rising Sword""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ライジングソード($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L~214M","name":"L Overdrive Surge Followup""#,
+        r#""Lドライブバースト追加攻撃(214L214M)","name":"L214M214""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Tempest Blade""#,
+        r#""テンペストブレード(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H236U","name":"Eternal Edge""#,
+        r#""比類無き十の力(236236H236U)","name":"236236H236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Catastrophe""#,
+        r#""カタストロフィ(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Catastrophe""#,
+        r#""カタストロフィ(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]","name":"Power Raise""#,
+        r#""パワーレイズ(5[U])","name":"5[U]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]~X","name":"Cancel""#,
+        r#""パワーレイズキャンセル([5U]X)","name":"5[U]X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5[U]~]U[","name":"Power Raise (Attack)""#,
+        r#""パワーレイズアタック(5[U]]U[)","name":"5[U]]U[""#,
+    );
+
+    re = Regex::new(r#""input":"(214)([LMHU])","name":"[LMHU] Vorpal Blade""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ボーパルブレード($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(236\[)([LMH])(\])","name":"[LMH] Reginleiv: Recidive""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2レギンレイヴ・レシディーヴ($1$2$3)","name":"$1$2$3""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(214)([LM])~(214[LM])","name":"[LM] Vorpal Blade Follow-up""#)
+        .unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ボーパルブレード（追加攻撃）($1$2$3)","name":"$1$2$3""#,
+        )
+        .to_string();
+
+    re = Regex::new(r#""input":"(5U )([lL]v[0-4])","name":"Overdrive Surge""#).unwrap();
+    char_page_response_json = re
+        .replace_all(
+            &char_page_response_json,
+            r#""input":"$2ドライブバースト($1$2)","name":"$1$2""#,
+        )
+        .to_string();
+
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~214H","name":"H Vorpal Blade Follow-up 1""#,
+        r#""ボーパルブレード（追加攻撃１）(214H214H)","name":"214H214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~214H~214H","name":"H Vorpal Blade Follow-up 2""#,
+        r#""ボーパルブレード（追加攻撃２）(214H214H214H)","name":"214H214H214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Eternal Ascendancy""#,
+        r#""絶類なる十の力(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Skyfall""#,
+        r#""大いなる破局(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5\[U\] ~ X","name":"Cancel""#,
+        r#""ドライブバースト（キャンセル）(5[U]X)","name":"5[U]X""#,
+    );
+
     // グリームニル
     char_page_response_json = char_page_response_json.replace(
         r#""214H","name":"H Deathrite Tempest""#,
