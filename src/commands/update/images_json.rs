@@ -2746,6 +2746,154 @@ pub async fn images_to_json(
         r#""5U","name":"Soul Forge""#,
         r#""ソウルフォージ(5U)","name":"5U""#,
     );
+
+    // ヴィーラ
+    // ヴィーラ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Scarlet Oath""#,
+        r#""Hスカーレット・オース(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Scarlet Oath""#,
+        r#""Lスカーレット・オース(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Scarlet Oath""#,
+        r#""Mスカーレット・オース(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Scarlet Oath""#,
+        r#""Uスカーレット・オース(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Summon Luminiera""#,
+        r#""Hシュヴァリエ召喚(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Summon Luminiera""#,
+        r#""Lシュヴァリエ召喚(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Summon Luminiera""#,
+        r#""Mシュヴァリエ召喚(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Summon Luminiera""#,
+        r#""Uシュヴァリエ召喚(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Darkane""#,
+        r#""Hダーケイン(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Darkane""#,
+        r#""Lダーケイン(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Darkane""#,
+        r#""Mダーケイン(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Darkane""#,
+        r#""Uダーケイン(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Red Beryl Sword""#,
+        r#""Hレッドベリルソード(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Red Beryl Sword""#,
+        r#""Lレッドベリルソード(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Red Beryl Sword""#,
+        r#""Mレッドベリルソード(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Red Beryl Sword""#,
+        r#""Uレッドベリルソード(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 22H","name":"H Summon Luminiera (Luminiera Form)""#,
+        r#""変身後Hシュヴァリエ召喚(g22H)","name":"g22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 22U","name":"U Grand Summon Luminiera""#,
+        r#""変身後Uシュヴァリエ召喚(g22U)","name":"g22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 236U","name":"U Grand Darkane""#,
+        r#""変身後Uダーケイン(g236U)","name":"g236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 236[H]","name":"H Darkane (Charged, Luminiera Form)""#,
+        r#""変身後Hダーケイン（タメ）(g236[H])","name":"g236[H]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 236[M]","name":"M Darkane (Charged, Luminiera Form)""#,
+        r#""変身後Mダーケイン（タメ）(g236[M])","name":"g236[M]""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 623H","name":"H Red Beryl Sword (Luminiera Form)""#,
+        r#""変身後Hレッドベリルソード(g623H)","name":"g623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 623M","name":"M Red Beryl Sword (Luminiera Form)""#,
+        r#""変身後Mレッドベリルソード(g623M)","name":"g623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 623U","name":"U Grand Red Beryl Sword""#,
+        r#""変身後Uレッドベリルソード(g623U)","name":"g623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Luminiera Merge""#,
+        r#""シュヴァリエマージ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Affection Abyss""#,
+        r#""アフェクション・アビス(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 236236H","name":"Punishment Ray""#,
+        r#""パニッシュメント・レイ(g236236H)","name":"g236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 236236U","name":"Iliad Vision""#,
+        r#""イーリアス・ヴィジョン(g236236U)","name":"Grand 236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Blade of Light""#,
+        r#""光の剣(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 5U","name":"Graveview""#,
+        r#""グレースビュー(変身後5U)","name":"g5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 5U~2","name":"Land""#,
+        r#""降りる(5U2)","name":"5U2""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 5U~4","name":"Retreat""#,
+        r#""後退(5U4)","name":"5U4""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 5U~6","name":"Advance""#,
+        r#""前進(5U6)","name":"5U6""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 5U~8","name":"Jump""#,
+        r#""ジャンプ(5U8)","name":"5U8""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand 5U~X","name":"Falling Strike""#,
+        r#""下降攻撃(5UX)","name":"5UX""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Grand j66","name":"Air Dash""#,
+        r#""空中ダッシュ(j66)","name":"j66""#,
+    );
+
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();
