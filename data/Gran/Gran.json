@@ -337,7 +337,7 @@
 	},
 	{
 		"input": "Lドライブバースト追加攻撃(214L214M)",
-		"name": "L214M214",
+		"name": "214L214M",
 		"damage": "500",
 		"guard": "Mid",
 		"startup": "13",

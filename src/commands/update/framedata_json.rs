@@ -1181,7 +1181,7 @@ pub async fn frames_to_json(
 
     char_page_response_json = char_page_response_json.replace(
         r#""214L~214M","name":"L Overdrive Surge Followup""#,
-        r#""Lドライブバースト追加攻撃(214L214M)","name":"L214M214""#,
+        r#""Lドライブバースト追加攻撃(214L214M)","name":"214L214M""#,
     );
     char_page_response_json = char_page_response_json.replace(
         r#""236236H","name":"Tempest Blade""#,
