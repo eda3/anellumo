@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Rhapsody",
+		"input": "Hラプソディー(214H)",
+		"name": "214H",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -324,8 +324,8 @@
 		"invincibility": "1~42 Guard All"
 	},
 	{
-		"input": "214L",
-		"name": "L Rhapsody",
+		"input": "Lラプソディー(214L)",
+		"name": "214L",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -336,8 +336,8 @@
 		"invincibility": "3~42 Guard High"
 	},
 	{
-		"input": "214M",
-		"name": "M Rhapsody",
+		"input": "Mラプソディー(214M)",
+		"name": "214M",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -348,8 +348,8 @@
 		"invincibility": "3~42 Guard Low"
 	},
 	{
-		"input": "214U",
-		"name": "U Rhapsody",
+		"input": "Uラプソディー(214U)",
+		"name": "214U",
 		"damage": "2200",
 		"guard": "Mid",
 		"startup": "1 [28]",
@@ -360,8 +360,8 @@
 		"invincibility": "1-27 Counter"
 	},
 	{
-		"input": "214XH",
-		"name": "Knee Assault",
+		"input": "膝蹴り(214XH)",
+		"name": "214XH",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "8",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214XL",
-		"name": "Crimson Cleave",
+		"input": "なぎ払い(214XL)",
+		"name": "214XL",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "15",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214XM",
-		"name": "Rising Split",
+		"input": "切り上げ(214XM)",
+		"name": "214XM",
 		"damage": "1400",
 		"guard": "Mid",
 		"startup": "9",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Spear of Arvess (Rise)",
+		"input": "Hアルベスの槍・上昇(22H)",
+		"name": "22H",
 		"damage": "1100",
 		"guard": "Mid",
 		"startup": "12",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Spear of Arvess (Rise)",
+		"input": "Lアルベスの槍・上昇(22L)",
+		"name": "22L",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "12",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Spear of Arvess (Rise)",
+		"input": "Mアルベスの槍・上昇(22M)",
+		"name": "22M",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "12",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Spear of Arvess (Rise)",
+		"input": "Uアルベスの槍・上昇(22U)",
+		"name": "22U",
 		"damage": "700",
 		"guard": "Mid",
 		"startup": "9",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X1X/2X/3X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・上昇（追加攻撃・下）(22X1X/2X/3X)",
+		"name": "22X1X/2X/3X",
 		"damage": "500 [700]",
 		"guard": "All",
 		"startup": "16",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X6X/4X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・上昇（追加攻撃・横）(22X6X/4X)",
+		"name": "22X6X/4X",
 		"damage": "500 [700]",
 		"guard": "All",
 		"startup": "16",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22X9X/8X/7X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・上昇（追加攻撃・上）(22X9X/8X/7X)",
+		"name": "22X9X/8X/7X",
 		"damage": "500 [700]",
 		"guard": "All",
 		"startup": "16",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "H Infinite Wonders",
+		"input": "Hインフィニット・ワンダーズ(236H)",
+		"name": "236H",
 		"damage": "400, 700",
 		"guard": "All",
 		"startup": "18 [30]",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "L Infinite Wonders",
+		"input": "Lインフィニット・ワンダーズ(236L)",
+		"name": "236L",
 		"damage": "700",
 		"guard": "All",
 		"startup": "20",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "M Infinite Wonders",
+		"input": "Mインフィニット・ワンダーズ(236M)",
+		"name": "236M",
 		"damage": "900",
 		"guard": "All",
 		"startup": "28~61",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Infinite Wonders",
+		"input": "Uインフィニット・ワンダーズ(236U)",
+		"name": "236U",
 		"damage": "400, 1600",
 		"guard": "All",
 		"startup": "9 [16]",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Spear of Arvess",
+		"input": "Hアルベスの槍(623H)",
+		"name": "623H",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "15",
@@ -540,8 +540,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623L",
-		"name": "L Spear of Arvess",
+		"input": "Lアルベスの槍(623L)",
+		"name": "623L",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "16",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Spear of Arvess",
+		"input": "Mアルベスの槍(623M)",
+		"name": "623M",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "19",
@@ -564,8 +564,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623U",
-		"name": "U Spear of Arvess",
+		"input": "Uアルベスの槍(623U)",
+		"name": "623U",
 		"damage": "2500",
 		"guard": "Mid",
 		"startup": "13",
@@ -576,8 +576,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623X4X/6X",
-		"name": "Spear of Arvess (Follow-up)",
+		"input": "アルベスの槍（追加攻撃・横）(623X4X/6X)",
+		"name": "623X4X/6X",
 		"damage": "500 [700]",
 		"guard": "All",
 		"startup": "16",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623X7X/9X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍（追加攻撃・斜め上）(623X7X/9X)",
+		"name": "623X7X/9X",
 		"damage": "500 [700]",
 		"guard": "All",
 		"startup": "16",
@@ -600,8 +600,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623X8X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍（追加攻撃・真上）(623X8X)",
+		"name": "623X8X",
 		"damage": "500 [700]",
 		"guard": "All",
 		"startup": "16",
@@ -612,8 +612,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22H",
-		"name": "H Spear of Arvess (Fall)",
+		"input": "Hアルベスの槍・下降(j22H)",
+		"name": "j22H",
 		"damage": "1100",
 		"guard": "All",
 		"startup": "18",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22L",
-		"name": "L Spear of Arvess (Fall)",
+		"input": "Lアルベスの槍・下降(j22L)",
+		"name": "j22L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "18",
@@ -636,8 +636,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22M",
-		"name": "M Spear of Arvess (Fall)",
+		"input": "Mアルベスの槍・下降(j22M)",
+		"name": "j22M",
 		"damage": "800",
 		"guard": "All",
 		"startup": "18",
@@ -648,8 +648,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22U",
-		"name": "U Aerial Spear of Arvess",
+		"input": "Uアルベスの槍・下降(j22U)",
+		"name": "j22U",
 		"damage": "2500",
 		"guard": "All",
 		"startup": "12",
@@ -660,8 +660,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "6X/4X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・下降（追加攻撃横）(6X/4X)",
+		"name": "6X/4X",
 		"damage": "500 [350]",
 		"guard": "All",
 		"startup": "16",
@@ -672,8 +672,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "9X/8X/7X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・下降（追加攻撃上）(9X/8X/7X)",
+		"name": "9X/8X/7X",
 		"damage": "700 [500]",
 		"guard": "All",
 		"startup": "16",
@@ -684,8 +684,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j1X/j2X/j3X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・下降（追加攻撃下）(j1X/j2X/j3X)",
+		"name": "j1X/j2X/j3X",
 		"damage": "500 [350]",
 		"guard": "All",
 		"startup": "16",
@@ -696,8 +696,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j6X/j4X",
-		"name": "Spear of Arvess (Followup)",
+		"input": "アルベスの槍・下降（追加攻撃ジャンプ横）(j6X/j4X)",
+		"name": "j6X/j4X",
 		"damage": "500 [350]",
 		"guard": "All",
 		"startup": "16",
@@ -708,8 +708,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Resolute Strike",
+		"input": "プロミネンスダイヴ(236236H)",
+		"name": "236236H",
 		"damage": "500×6, 1500 [500×7]",
 		"guard": "Mid",
 		"startup": "8+6",
@@ -720,8 +720,8 @@
 		"invincibility": "1-16 All, 17-22 Strike"
 	},
 	{
-		"input": "236236U",
-		"name": "Sirius Roar",
+		"input": "シリウスロア(236236U)",
+		"name": "236236U",
 		"damage": "3000, 120×15, 1200 [1000×4]",
 		"guard": "Mid",
 		"startup": "8+5",
@@ -732,8 +732,8 @@
 		"invincibility": "1-18 All"
 	},
 	{
-		"input": "j236236H",
-		"name": "Resolute Strike",
+		"input": "空中プロミネンスダイヴ(j236236H)",
+		"name": "j236236H",
 		"damage": "500×6, 1000",
 		"guard": "All",
 		"startup": "8+4",
@@ -744,8 +744,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U",
-		"name": "Signo Drive",
+		"input": "シグノ・ドライブ(5U)",
+		"name": "5U",
 		"damage": "600, 100×N",
 		"guard": "Mid",
 		"startup": "8",

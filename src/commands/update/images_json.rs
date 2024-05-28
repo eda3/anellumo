@@ -3004,6 +3004,155 @@ pub async fn images_to_json(
     char_page_response_json =
         char_page_response_json.replace(r#""td.U","name":null"#, r#""構え解除(kU)","name":"kU""#);
 
+    // ゼタ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Rhapsody""#,
+        r#""Hラプソディー(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Rhapsody""#,
+        r#""Lラプソディー(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Rhapsody""#,
+        r#""Mラプソディー(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Rhapsody""#,
+        r#""Uラプソディー(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214XH","name":"Knee Assault""#,
+        r#""膝蹴り(214XH)","name":"214XH""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214XL","name":"Crimson Cleave""#,
+        r#""なぎ払い(214XL)","name":"214XL""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214XM","name":"Rising Split""#,
+        r#""切り上げ(214XM)","name":"214XM""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Spear of Arvess (Rise)""#,
+        r#""Hアルベスの槍・上昇(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Spear of Arvess (Rise)""#,
+        r#""Lアルベスの槍・上昇(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Spear of Arvess (Rise)""#,
+        r#""Mアルベスの槍・上昇(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Spear of Arvess (Rise)""#,
+        r#""Uアルベスの槍・上昇(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~1X/2X/3X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・上昇（追加攻撃・下）(22X1X/2X/3X)","name":"22X1X/2X/3X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~6X/4X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・上昇（追加攻撃・横）(22X6X/4X)","name":"22X6X/4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~9X/8X/7X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・上昇（追加攻撃・上）(22X9X/8X/7X)","name":"22X9X/8X/7X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Infinite Wonders""#,
+        r#""Hインフィニット・ワンダーズ(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Infinite Wonders""#,
+        r#""Lインフィニット・ワンダーズ(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Infinite Wonders""#,
+        r#""Mインフィニット・ワンダーズ(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Infinite Wonders""#,
+        r#""Uインフィニット・ワンダーズ(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Spear of Arvess""#,
+        r#""Hアルベスの槍(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Spear of Arvess""#,
+        r#""Lアルベスの槍(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Spear of Arvess""#,
+        r#""Mアルベスの槍(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Spear of Arvess""#,
+        r#""Uアルベスの槍(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X~4X/6X","name":"Spear of Arvess (Follow-up)""#,
+        r#""アルベスの槍（追加攻撃・横）(623X4X/6X)","name":"623X4X/6X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X~7X/9X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍（追加攻撃・斜め上）(623X7X/9X)","name":"623X7X/9X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X~8X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍（追加攻撃・真上）(623X8X)","name":"623X8X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22H","name":"H Spear of Arvess (Fall)""#,
+        r#""Hアルベスの槍・下降(j22H)","name":"j22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22L","name":"L Spear of Arvess (Fall)""#,
+        r#""Lアルベスの槍・下降(j22L)","name":"j22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22M","name":"M Spear of Arvess (Fall)""#,
+        r#""Mアルベスの槍・下降(j22M)","name":"j22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22U","name":"U Aerial Spear of Arvess""#,
+        r#""Uアルベスの槍・下降(j22U)","name":"j22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""~6X/4X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・下降（追加攻撃横）(6X/4X)","name":"6X/4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""~9X/8X/7X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・下降（追加攻撃上）(9X/8X/7X)","name":"9X/8X/7X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""~j1X/j2X/j3X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・下降（追加攻撃下）(j1X/j2X/j3X)","name":"j1X/j2X/j3X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""~j6X/j4X","name":"Spear of Arvess (Followup)""#,
+        r#""アルベスの槍・下降（追加攻撃ジャンプ横）(j6X/j4X)","name":"j6X/j4X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Resolute Strike""#,
+        r#""プロミネンスダイヴ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Sirius Roar""#,
+        r#""シリウスロア(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j236236H","name":"Resolute Strike""#,
+        r#""空中プロミネンスダイヴ(j236236H)","name":"j236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Signo Drive""#,
+        r#""シグノ・ドライブ(5U)","name":"5U""#,
+    );
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();
