@@ -2899,6 +2899,118 @@ pub async fn frames_to_json(
         r#""空中ダッシュ(j66)","name":"j66""#,
     );
 
+    // ユエル
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Hanaarashi (1)""#,
+        r#""H華嵐(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H-M","name":"H Hanaarashi (2)""#,
+        r#""HM華嵐(214H-M)","name":"214H-M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Hanaarashi""#,
+        r#""L華嵐(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Hanaarashi""#,
+        r#""M華嵐(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Hanaarashi""#,
+        r#""U華嵐(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Foxflame""#,
+        r#""H狐火(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Foxflame""#,
+        r#""L狐火(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Foxflame""#,
+        r#""M狐火(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Foxflame""#,
+        r#""U狐火(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Starlit Sky""#,
+        r#""H夜天光(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Starlit Sky""#,
+        r#""L夜天光(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Starlit Sky""#,
+        r#""M夜天光(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Starlit Sky""#,
+        r#""U夜天光(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Hien: Homuragaeshi""#,
+        r#""H飛燕・焔返し(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Hien: Homuragaeshi""#,
+        r#""L飛燕・焔返し(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Hien: Homuragaeshi""#,
+        r#""M飛燕・焔返し(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Hien: Homuragaeshi""#,
+        r#""U飛燕・焔返し(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Crimson Dance: Rinnen-aratame""#,
+        r#""C紅之舞・凜炎改(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Sapphire Dance: Gentiana""#,
+        r#""S蒼紅之舞・竜胆(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Third Dance""#,
+        r#""参之毎(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""td.2H","name":"Yugetsu""#, r#""融月(k2H)","name":"k2H""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""td.2L","name":null"#, r#""構え2L(k2L)","name":"k2L""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""td.2M","name":null"#, r#""構え2M(k2M)","name":"k2M""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""td.44","name":null"#,
+        r#""構え後ろステップ(k44)","name":"k44""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""td.5H","name":"Gurren""#, r#""紅蓮(k5H)","name":"k5H""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""td.5L","name":null"#, r#""構え5L(k5L)","name":"k5L""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""td.5M","name":null"#, r#""構え5M(k5M)","name":"k5M""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""td.66","name":null"#,
+        r#""構え前ステップ(k66)","name":"k66""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""td.Catch","name":"Eye of the Sparrow""#,
+        r#""燕返し(k当て身)","name":"k当て身""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""td.L+M","name":null"#,
+        r#""構え投げ(k投げ)","name":"k投げ""#,
+    );
+    char_page_response_json =
+        char_page_response_json.replace(r#""td.U","name":null"#, r#""構え解除(kU)","name":"kU""#);
+
     let mut moves_info: Response = serde_json::from_str(&char_page_response_json).unwrap();
 
     for x in 0..moves_info.cargoquery.len() {

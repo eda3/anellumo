@@ -156,7 +156,7 @@
     ]
   },
   {
-    "input": "BC",
+    "input": "ブレイブカウンター",
     "move_img": "https://www.dustloop.com/wiki/images/0/03/GBVSR_Yuel_BraveCounter.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Yuel_BC_Hitbox_1.png",
@@ -164,21 +164,21 @@
     ]
   },
   {
-    "input": "jLU",
+    "input": "空投げ(jLU)",
     "move_img": "https://www.dustloop.com/wiki/images/6/64/GBVSR_Yuel_AirThrow.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Yuel_AirThrow_Hitbox.png"
     ]
   },
   {
-    "input": "LU",
+    "input": "投げ(LU)",
     "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVSR_Yuel_Throw.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Yuel_FThrow_Hitbox.png"
     ]
   },
   {
-    "input": "MH",
+    "input": "レイジングストライク(MH)",
     "move_img": "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Yuel_RagingStrike.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Yuel_5MH_Hitbox_1.png",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "input": "MHMH",
+    "input": "レイジングチェイン(MHMH)",
     "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Yuel_RagingChain.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/57/GBVSR_Yuel_6MH_Hitbox_1.png",
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "input": "214H",
+    "input": "H華嵐(214H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c0/GBVSR_Yuel_214L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Yuel_214L_Hitbox_1.png",
@@ -202,14 +202,14 @@
     ]
   },
   {
-    "input": "214H-M",
+    "input": "HM華嵐(214H-M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Yuel_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/01/GBVSR_Yuel_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214L",
+    "input": "L華嵐(214L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Yuel_214X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Yuel_214L_Hitbox_1.png",
@@ -217,49 +217,49 @@
     ]
   },
   {
-    "input": "214M",
+    "input": "M華嵐(214M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Yuel_214M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/0/01/GBVSR_Yuel_214M_Hitbox.png"
     ]
   },
   {
-    "input": "214U",
+    "input": "U華嵐(214U)",
     "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Yuel_214U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/24/GBVSR_Yuel_214U_Hitbox.png"
     ]
   },
   {
-    "input": "22H",
+    "input": "H狐火(22H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Yuel_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Yuel_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22L",
+    "input": "L狐火(22L)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Yuel_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Yuel_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22M",
+    "input": "M狐火(22M)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Yuel_22X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Yuel_22X_Hitbox.png"
     ]
   },
   {
-    "input": "22U",
+    "input": "U狐火(22U)",
     "move_img": "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Yuel_22U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Yuel_22U_Hitbox.png"
     ]
   },
   {
-    "input": "236H",
+    "input": "H夜天光(236H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Yuel_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Yuel_236X_Hitbox_1.png",
@@ -268,7 +268,7 @@
     ]
   },
   {
-    "input": "236L",
+    "input": "L夜天光(236L)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Yuel_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Yuel_236X_Hitbox_1.png",
@@ -277,7 +277,7 @@
     ]
   },
   {
-    "input": "236M",
+    "input": "M夜天光(236M)",
     "move_img": "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Yuel_236X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Yuel_236X_Hitbox_1.png",
@@ -286,14 +286,14 @@
     ]
   },
   {
-    "input": "236U",
+    "input": "U夜天光(236U)",
     "move_img": "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Yuel_236U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/3/37/GBVSR_Yuel_236U_Hitbox.png"
     ]
   },
   {
-    "input": "623H",
+    "input": "H飛燕・焔返し(623H)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Yuel_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/61/GBVSR_Yuel_623X_Hitbox_1.png",
@@ -301,7 +301,7 @@
     ]
   },
   {
-    "input": "623L",
+    "input": "L飛燕・焔返し(623L)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Yuel_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/61/GBVSR_Yuel_623X_Hitbox_1.png",
@@ -309,7 +309,7 @@
     ]
   },
   {
-    "input": "623M",
+    "input": "M飛燕・焔返し(623M)",
     "move_img": "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Yuel_623X.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/61/GBVSR_Yuel_623X_Hitbox_1.png",
@@ -317,35 +317,35 @@
     ]
   },
   {
-    "input": "623U",
+    "input": "U飛燕・焔返し(623U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/15/GBVSR_Yuel_623U.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/9/98/GBVSR_Yuel_623U_Hitbox.png"
     ]
   },
   {
-    "input": "236236H",
+    "input": "C紅之舞・凜炎改(236236H)",
     "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Yuel_236236H_start.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Yuel_26236H_Hitbox.png"
     ]
   },
   {
-    "input": "236236U",
+    "input": "S蒼紅之舞・竜胆(236236U)",
     "move_img": "https://www.dustloop.com/wiki/images/d/db/GBVSR_Yuel_236236U_Start.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "5U",
+    "input": "参之毎(5U)",
     "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Yuel_5U.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "td.2H",
+    "input": "融月(k2H)",
     "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Yuel_5U-2H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/53/GBVSR_Yuel_td_2H_Hitbox_1.png",
@@ -353,28 +353,28 @@
     ]
   },
   {
-    "input": "td.2L",
+    "input": "構え2L(k2L)",
     "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Yuel_5U-2L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Yuel_td_2L_Hitbox.png"
     ]
   },
   {
-    "input": "td.2M",
+    "input": "構え2M(k2M)",
     "move_img": "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Yuel_5U-2M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Yuel_5U_2M_Hitbox.png"
     ]
   },
   {
-    "input": "td.44",
+    "input": "構え後ろステップ(k44)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "td.5H",
+    "input": "紅蓮(k5H)",
     "move_img": "https://www.dustloop.com/wiki/images/a/a5/GBVSR_Yuel_5U-5H.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Yuel_td_5H_Hitbox_1.png",
@@ -382,14 +382,14 @@
     ]
   },
   {
-    "input": "td.5L",
+    "input": "構え5L(k5L)",
     "move_img": "https://www.dustloop.com/wiki/images/2/27/GBVSR_Yuel_5U-5L.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Yuel_td_5L_Hitbox.png"
     ]
   },
   {
-    "input": "td.5M",
+    "input": "構え5M(k5M)",
     "move_img": "https://www.dustloop.com/wiki/images/6/66/GBVSR_Yuel_5U-5M.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Yuel_td_5M_Hitbox_1.png",
@@ -397,28 +397,28 @@
     ]
   },
   {
-    "input": "td.66",
+    "input": "構え前ステップ(k66)",
     "move_img": "",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "td.Catch",
+    "input": "燕返し(k当て身)",
     "move_img": "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Yuel_5U-Catch.png",
     "hitbox_img": [
       "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Yuel_td_Catch_Hitbox.png"
     ]
   },
   {
-    "input": "td.L+M",
+    "input": "構え投げ(k投げ)",
     "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVSR_Yuel_Throw.png",
     "hitbox_img": [
       ""
     ]
   },
   {
-    "input": "td.U",
+    "input": "構え解除(kU)",
     "move_img": "",
     "hitbox_img": [
       ""
