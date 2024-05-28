@@ -312,8 +312,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H",
-		"name": "H Spinning Slash",
+		"input": "Hスピンスラッシュ(214H)",
+		"name": "214H",
 		"damage": "1000",
 		"guard": "Mid",
 		"startup": "15",
@@ -324,8 +324,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H5X",
-		"name": "H Ray Strike",
+		"input": "Hスピンスラッシュ（レイストライク）(214H5X)",
+		"name": "214H5X",
 		"damage": "600",
 		"guard": "Low",
 		"startup": "18",
@@ -336,8 +336,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214H6X",
-		"name": "M Bisection",
+		"input": "Hスピンスラッシュ（バイセクション）(214H6X)",
+		"name": "214H6X",
 		"damage": "900",
 		"guard": "Mid",
 		"startup": "19",
@@ -348,8 +348,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L",
-		"name": "L Spinning Slash",
+		"input": "Lスピンスラッシュ(214L)",
+		"name": "214L",
 		"damage": "700",
 		"guard": "Mid",
 		"startup": "15",
@@ -360,8 +360,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L5X",
-		"name": "L Ray Strike",
+		"input": "Lスピンスラッシュ（レイストライク）(214L5X)",
+		"name": "214L5X",
 		"damage": "400",
 		"guard": "Low",
 		"startup": "18",
@@ -372,8 +372,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214L6X",
-		"name": "L Bisection",
+		"input": "Lスピンスラッシュ（バイセクション）(214L6X)",
+		"name": "214L6X",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "19",
@@ -384,8 +384,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M",
-		"name": "M Spinning Slash",
+		"input": "Mスピンスラッシュ(214M)",
+		"name": "214M",
 		"damage": "800",
 		"guard": "Mid",
 		"startup": "19",
@@ -396,8 +396,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M5X",
-		"name": "M Ray Strike",
+		"input": "Mスピンスラッシュ（レイストライク）(214M5X)",
+		"name": "214M5X",
 		"damage": "400",
 		"guard": "Low",
 		"startup": "18",
@@ -408,8 +408,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214M6X",
-		"name": "M Bisection",
+		"input": "Mスピンスラッシュ（バイセクション）(214M6X)",
+		"name": "214M6X",
 		"damage": "600",
 		"guard": "Mid",
 		"startup": "19",
@@ -420,8 +420,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "214U",
-		"name": "U Spinning Slash",
+		"input": "Uスピンスラッシュ(214U)",
+		"name": "214U",
 		"damage": "850×2, 300×3",
 		"guard": "Mid",
 		"startup": "13",
@@ -432,8 +432,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22H",
-		"name": "H Thunder",
+		"input": "Hサンダー(22H)",
+		"name": "22H",
 		"damage": "1600 (600, 300×2, 400)",
 		"guard": "Mid, All×3",
 		"startup": "15 [19]",
@@ -444,8 +444,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22L",
-		"name": "L Thunder",
+		"input": "Lサンダー(22L)",
+		"name": "22L",
 		"damage": "400, 700",
 		"guard": "Mid, All",
 		"startup": "15 [19]",
@@ -456,8 +456,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22M",
-		"name": "M Thunder",
+		"input": "Mサンダー(22M)",
+		"name": "22M",
 		"damage": "400, 700",
 		"guard": "Mid, All",
 		"startup": "15 [19]",
@@ -468,8 +468,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "22U",
-		"name": "U Thunder",
+		"input": "Uサンダー(22U)",
+		"name": "22U",
 		"damage": "600, 1500",
 		"guard": "Mid (Guard Crush), All",
 		"startup": "25",
@@ -480,8 +480,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236H",
-		"name": "Sweeping Beam",
+		"input": "コールワイバーン（スウィープスライド）(236H)",
+		"name": "236H",
 		"damage": "200x10",
 		"guard": "All",
 		"startup": "34",
@@ -492,8 +492,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236L",
-		"name": "Immortal Thrust",
+		"input": "コールワイバーン（イモータルスラスト）(236L)",
+		"name": "236L",
 		"damage": "800",
 		"guard": "All",
 		"startup": "17",
@@ -504,8 +504,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236M",
-		"name": "Heavy Breath",
+		"input": "コールワイバーン（ブレス）(236M)",
+		"name": "236M",
 		"damage": "400×3",
 		"guard": "All",
 		"startup": "26",
@@ -516,8 +516,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236U",
-		"name": "U Peacemaker's Wings",
+		"input": "調整の翼(236U)",
+		"name": "236U",
 		"damage": "2500",
 		"guard": "Mid",
 		"startup": "15",
@@ -528,8 +528,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623H",
-		"name": "H Aerial Spinning Slash",
+		"input": "Hスピンスラッシュ・エア(623H)",
+		"name": "623H",
 		"damage": "1300 (300, 200×5)",
 		"guard": "Mid, All×5",
 		"startup": "9",
@@ -540,8 +540,8 @@
 		"invincibility": "9~19 All"
 	},
 	{
-		"input": "623L",
-		"name": "L Aerial Spinning Slash",
+		"input": "Lスピンスラッシュ・エア(623L)",
+		"name": "623L",
 		"damage": "300x3",
 		"guard": "All",
 		"startup": "27",
@@ -552,8 +552,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "623M",
-		"name": "M Aerial Spinning Slash",
+		"input": "Mスピンスラッシュ・エア(623M)",
+		"name": "623M",
 		"damage": "300, 200×5",
 		"guard": "All",
 		"startup": "14",
@@ -564,8 +564,8 @@
 		"invincibility": "14~19 All"
 	},
 	{
-		"input": "623U",
-		"name": "U Aerial Spinning Slash",
+		"input": "Uスピンスラッシュ・エア(623U)",
+		"name": "623U",
 		"damage": "600, 100×5, 900",
 		"guard": "Mid",
 		"startup": "8",
@@ -576,8 +576,8 @@
 		"invincibility": "1-13 Full"
 	},
 	{
-		"input": "j22H",
-		"name": "H Thunder (Midair)",
+		"input": "空中Hサンダー(j22H)",
+		"name": "j22H",
 		"damage": "700",
 		"guard": "All",
 		"startup": "22",
@@ -588,8 +588,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22L",
-		"name": "L Thunder (Midair)",
+		"input": "空中Lサンダー(j22L)",
+		"name": "j22L",
 		"damage": "700",
 		"guard": "All",
 		"startup": "22",
@@ -600,8 +600,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22M",
-		"name": "M Thunder (Midair)",
+		"input": "空中Mサンダー(j22M)",
+		"name": "j22M",
 		"damage": "700",
 		"guard": "All",
 		"startup": "22",
@@ -612,8 +612,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "j22U",
-		"name": "U Aerial Thunder",
+		"input": "空中Uサンダー(j22U)",
+		"name": "j22U",
 		"damage": "1500",
 		"guard": "All",
 		"startup": "17",
@@ -624,8 +624,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "236236H",
-		"name": "Gamma Ray",
+		"input": "ガンマ・レイ(236236H)",
+		"name": "236236H",
 		"damage": "4000 (1000, 90x31, 210)",
 		"guard": "Mid",
 		"startup": "8+4",
@@ -636,8 +636,8 @@
 		"invincibility": "1~17 All"
 	},
 	{
-		"input": "236236U",
-		"name": "Armageddon",
+		"input": "アーマゲドン(236236U)",
+		"name": "236236U",
 		"damage": "6000 (3000, 3000)",
 		"guard": "Mid→All",
 		"startup": "8+7",
@@ -648,8 +648,8 @@
 		"invincibility": "1~63 All"
 	},
 	{
-		"input": "5U",
-		"name": "Convergence",
+		"input": "コンバージェンス(5U)",
+		"name": "5U",
 		"damage": "-",
 		"guard": "-",
 		"startup": "-",
@@ -660,8 +660,8 @@
 		"invincibility": "-"
 	},
 	{
-		"input": "5U6X",
-		"name": "The Last Wish",
+		"input": "ラストウィッシュ(5U6X)",
+		"name": "5U~6X",
 		"damage": "1200",
 		"guard": "Mid",
 		"startup": "5",

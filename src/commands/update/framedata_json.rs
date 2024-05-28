@@ -3161,6 +3161,127 @@ pub async fn frames_to_json(
         r#""シグノ・ドライブ(5U)","name":"5U""#,
     );
 
+    // ゾーイ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Spinning Slash""#,
+        r#""Hスピンスラッシュ(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~5X","name":"H Ray Strike""#,
+        r#""Hスピンスラッシュ（レイストライク）(214H5X)","name":"214H5X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H~6X","name":"M Bisection""#,
+        r#""Hスピンスラッシュ（バイセクション）(214H6X)","name":"214H6X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Spinning Slash""#,
+        r#""Lスピンスラッシュ(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L~5X","name":"L Ray Strike""#,
+        r#""Lスピンスラッシュ（レイストライク）(214L5X)","name":"214L5X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L~6X","name":"L Bisection""#,
+        r#""Lスピンスラッシュ（バイセクション）(214L6X)","name":"214L6X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Spinning Slash""#,
+        r#""Mスピンスラッシュ(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M~5X","name":"M Ray Strike""#,
+        r#""Mスピンスラッシュ（レイストライク）(214M5X)","name":"214M5X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M~6X","name":"M Bisection""#,
+        r#""Mスピンスラッシュ（バイセクション）(214M6X)","name":"214M6X""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Spinning Slash""#,
+        r#""Uスピンスラッシュ(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Thunder""#,
+        r#""Hサンダー(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Thunder""#,
+        r#""Lサンダー(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Thunder""#,
+        r#""Mサンダー(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Thunder""#,
+        r#""Uサンダー(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"Sweeping Beam""#,
+        r#""コールワイバーン（スウィープスライド）(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"Immortal Thrust""#,
+        r#""コールワイバーン（イモータルスラスト）(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"Heavy Breath""#,
+        r#""コールワイバーン（ブレス）(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Peacemaker's Wings""#,
+        r#""調整の翼(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Aerial Spinning Slash""#,
+        r#""Hスピンスラッシュ・エア(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Aerial Spinning Slash""#,
+        r#""Lスピンスラッシュ・エア(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Aerial Spinning Slash""#,
+        r#""Mスピンスラッシュ・エア(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Aerial Spinning Slash""#,
+        r#""Uスピンスラッシュ・エア(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22H","name":"H Thunder (Midair)""#,
+        r#""空中Hサンダー(j22H)","name":"j22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22L","name":"L Thunder (Midair)""#,
+        r#""空中Lサンダー(j22L)","name":"j22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22M","name":"M Thunder (Midair)""#,
+        r#""空中Mサンダー(j22M)","name":"j22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""j22U","name":"U Aerial Thunder""#,
+        r#""空中Uサンダー(j22U)","name":"j22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Gamma Ray""#,
+        r#""ガンマ・レイ(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Armageddon""#,
+        r#""アーマゲドン(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Convergence""#,
+        r#""コンバージェンス(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~6X","name":"The Last Wish""#,
+        r#""ラストウィッシュ(5U~6X)","name":"5U~6X""#,
+    );
     let mut moves_info: Response = serde_json::from_str(&char_page_response_json).unwrap();
 
     for x in 0..moves_info.cargoquery.len() {
