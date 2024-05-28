@@ -2748,7 +2748,6 @@ pub async fn images_to_json(
     );
 
     // ヴィーラ
-    // ヴィーラ
     char_page_response_json = char_page_response_json.replace(
         r#""214H","name":"H Scarlet Oath""#,
         r#""Hスカーレット・オース(214H)","name":"214H""#,
