@@ -35,6 +35,7 @@ pub async fn images_to_json(
     mut file: &File,
     char_count: usize,
 ) {
+    char_page_response_json = char_page_response_json.replace(r#""input":"5L""#, r#""input":"近L""#);
     char_page_response_json = char_page_response_json.replace(r#""c."#, r#""近"#);
     char_page_response_json = char_page_response_json.replace(r#""f."#, r#""遠"#);
     char_page_response_json = char_page_response_json.replace(r#""j."#, r#""j"#);
@@ -3275,6 +3276,7 @@ pub async fn images_to_json(
         r#""5U~6X","name":"The Last Wish""#,
         r#""ラストウィッシュ(5U~6X)","name":"5U~6X""#,
     );
+    // char_page_response_json = char_page_response_json.replace(r#""近L"#, r#""5L""#);
     // let mut re = Regex::new(r"c\.").unwrap();
     // char_page_response_json = re.replace_all(&char_page_response_json, "近").to_string();
     // re = Regex::new(r"f\.").unwrap();

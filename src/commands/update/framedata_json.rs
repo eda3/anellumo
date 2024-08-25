@@ -48,6 +48,7 @@ pub async fn frames_to_json(
     char_page_response_json =
         char_page_response_json.replace(r#"&lt;span style=&quot;color: \n#bcbd0c&quot; &gt"#, "");
 
+    char_page_response_json = char_page_response_json.replace(r#""input":"5L""#, r#""input":"近L""#);
     char_page_response_json = char_page_response_json.replace(r#"c."#, "近");
     char_page_response_json = char_page_response_json.replace(r#"f."#, "遠");
     char_page_response_json = char_page_response_json.replace(r#"j."#, "j");
