@@ -35,7 +35,8 @@ pub async fn images_to_json(
     mut file: &File,
     char_count: usize,
 ) {
-    char_page_response_json = char_page_response_json.replace(r#""input":"5L""#, r#""input":"近L""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""input":"5L""#, r#""input":"近L""#);
     char_page_response_json = char_page_response_json.replace(r#""c."#, r#""近"#);
     char_page_response_json = char_page_response_json.replace(r#""f."#, r#""遠"#);
     char_page_response_json = char_page_response_json.replace(r#""j."#, r#""j"#);
@@ -2746,6 +2747,96 @@ pub async fn images_to_json(
     char_page_response_json = char_page_response_json.replace(
         r#""5U","name":"Soul Forge""#,
         r#""ソウルフォージ(5U)","name":"5U""#,
+    );
+
+    // ヴェルサシア
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Samsara""#,
+        r#""H輪廻(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Samsara""#,
+        r#""L輪廻(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Samsara""#,
+        r#""M輪廻(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Samsara""#,
+        r#""U輪廻(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214X~U","name":"Yama""#,
+        r#""夜摩天(214XU)","name":"214XU""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""22H","name":"H Anitya""#, r#""H無常(22H)","name":"22H""#);
+    char_page_response_json = char_page_response_json
+        .replace(r#""22L","name":"L Anitya""#, r#""L無常(22L)","name":"22L""#);
+    char_page_response_json = char_page_response_json
+        .replace(r#""22M","name":"M Anitya""#, r#""M無常(22M)","name":"22M""#);
+    char_page_response_json = char_page_response_json
+        .replace(r#""22U","name":"U Anitya""#, r#""U無常(22U)","name":"22U""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""22X~U","name":"Trayastrimsha""#,
+        r#""忉利天(22XU)","name":"22XU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Deadly Flare""#,
+        r#""H光焔(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Deadly Flare""#,
+        r#""L光焔(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Deadly Flare""#,
+        r#""M光焔(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Deadly Flare""#,
+        r#""U光焔(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236X~U","name":"Nirmanarati""#,
+        r#""化楽天(236XU)","name":"236XU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Nimbus""#,
+        r#""H身光(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Nimbus""#,
+        r#""L身光(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Nimbus""#,
+        r#""M身光(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Nimbus""#,
+        r#""U身光(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623X~U","name":"Tushita""#,
+        r#""兜率天(623XU)","name":"623XU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236H","name":"Yomotsu""#,
+        r#""黄泉(236236H)","name":"236236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Cataclysm""#,
+        r#""神撃(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Celestial Dominion""#,
+        r#""他化自在(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U~U","name":"Celestial Strike""#,
+        r#""四天王(5UU)","name":"5UU""#,
     );
 
     // ヴィーラ

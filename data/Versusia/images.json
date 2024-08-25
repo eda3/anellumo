@@ -186,7 +186,7 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "H輪廻(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Versusia_214L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Versusia_214L_Hitbox.png",
@@ -194,35 +194,35 @@
   ]
 },
 	{
-  "input": "214L",
+  "input": "L輪廻(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Versusia_214L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Versusia_214L_Hitbox.png"
   ]
 },
 	{
-  "input": "214M",
+  "input": "M輪廻(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/b/bb/GBVSR_Versusia_214M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/59/GBVSR_Versusia_214M_Hitbox.png"
   ]
 },
 	{
-  "input": "214U",
+  "input": "U輪廻(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/3/34/GBVSR_Versusia_214U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/54/GBVSR_Versusia_214U_Hitbox.png"
   ]
 },
 	{
-  "input": "214X~U",
+  "input": "夜摩天(214XU)",
   "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Versusia_214X_5U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c8/GBVSR_Versusia_214X_5U_Hitbox.png"
   ]
 },
 	{
-  "input": "22H",
+  "input": "H無常(22H)",
   "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Versusia_22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Versusia_22X_Hitbox.png",
@@ -230,7 +230,7 @@
   ]
 },
 	{
-  "input": "22L",
+  "input": "L無常(22L)",
   "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Versusia_22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Versusia_22X_Hitbox.png",
@@ -238,7 +238,7 @@
   ]
 },
 	{
-  "input": "22M",
+  "input": "M無常(22M)",
   "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Versusia_22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Versusia_22X_Hitbox.png",
@@ -246,7 +246,7 @@
   ]
 },
 	{
-  "input": "22U",
+  "input": "U無常(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Versusia_22U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Versusia_22U_Hitbox.png",
@@ -254,7 +254,7 @@
   ]
 },
 	{
-  "input": "22X~U",
+  "input": "忉利天(22XU)",
   "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Versusia_22X_5U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/20/GBVSR_Versusia_22X_5U_Hitbox.png",
@@ -262,28 +262,28 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "H光焔(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Versusia_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/18/GBVSR_Versusia_236X_Hitbox.png"
   ]
 },
 	{
-  "input": "236L",
+  "input": "L光焔(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Versusia_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/18/GBVSR_Versusia_236X_Hitbox.png"
   ]
 },
 	{
-  "input": "236M",
+  "input": "M光焔(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Versusia_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/18/GBVSR_Versusia_236X_Hitbox.png"
   ]
 },
 	{
-  "input": "236U",
+  "input": "U光焔(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Versusia_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Versusia_236U_Hitbox.png",
@@ -291,35 +291,35 @@
   ]
 },
 	{
-  "input": "236X~U",
+  "input": "化楽天(236XU)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Versusia_236X_5U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/77/GBVSR_Versusia_236X_5U_Hitbox.png"
   ]
 },
 	{
-  "input": "623H",
+  "input": "H身光(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Versusia_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Versusia_623H_Hitbox.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "L身光(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Versusia_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/54/GBVSR_Versusia_623L_Hitbox.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "M身光(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Versusia_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Versusia_623M_Hitbox.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "U身光(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Versusia_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2e/GBVSR_Versusia_623U_Hitbox.png",
@@ -327,14 +327,14 @@
   ]
 },
 	{
-  "input": "623X~U",
+  "input": "兜率天(623XU)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Versusia_623X_5U.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "236236H",
+  "input": "黄泉(236236H)",
   "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Versusia_236236H.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Versusia_236236H_Hitbox.png",
@@ -342,21 +342,21 @@
   ]
 },
 	{
-  "input": "236236U",
+  "input": "神撃(236236U)",
   "move_img": "https://www.dustloop.com/wiki/images/9/99/GBVSR_Versusia_236236U_Start.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Versusia_236236U_Hitbox.png"
   ]
 },
 	{
-  "input": "5U",
+  "input": "他化自在(5U)",
   "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_5U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/52/GBVSR_Versusia_5U_2_Hitbox.png"
   ]
 },
 	{
-  "input": "5U~U",
+  "input": "四天王(5UU)",
   "move_img": "https://www.dustloop.com/wiki/images/3/35/GBVSR_Versusia_5U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/52/GBVSR_Versusia_5U_2_Hitbox.png"
