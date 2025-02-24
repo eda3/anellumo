@@ -25,7 +25,8 @@
   "input": "2U",
   "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Soriz_2U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Soriz_2U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Soriz_2U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Soriz_2U_Hitbox_2.png"
   ]
 },
 	{
@@ -75,28 +76,28 @@
   "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/8/87/GBVSR_Soriz_cXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Soriz_cXX_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Soriz_cXX6H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/0/03/GBVSR_Soriz_cXX6H_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Soriz_cXX6M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Soriz_cXX6M_Hitbox.png"
   ]
 },
 	{
   "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Soriz_cXXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/3/39/GBVSR_Soriz_cXXX_Hitbox.png"
   ]
 },
 	{
@@ -161,14 +162,14 @@
   "input": "空投げ(jLU)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Soriz_AirThrow.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/8/80/GBVSR_Soriz_AirThrow_Hitbox.png"
   ]
 },
 	{
   "input": "投げ(LU)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Soriz_Throw.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Soriz_Throw_Hitbox.png"
   ]
 },
 	{
@@ -191,7 +192,9 @@
   "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/2/25/GBVSR_Soriz_214X_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Soriz_214X_Hitbox_4.png"
   ]
 },
 	{
@@ -199,7 +202,9 @@
   "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/2/25/GBVSR_Soriz_214X_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Soriz_214X_Hitbox_4.png"
   ]
 },
 	{
@@ -207,14 +212,19 @@
   "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/2/25/GBVSR_Soriz_214X_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Soriz_214X_Hitbox_4.png"
   ]
 },
 	{
   "input": "U剛破天衝(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Soriz_214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/da/GBVSR_Soriz_214U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/a/af/GBVSR_Soriz_214X_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Soriz_214X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/2/25/GBVSR_Soriz_214X_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Soriz_214X_Hitbox_4.png"
   ]
 },
 	{
@@ -245,7 +255,12 @@
   "input": "Uロックスマッシュ(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Soriz_22U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Soriz_22U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Soriz_22U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Soriz_22U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Soriz_22U_Hitbox_4.png",
+    "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Soriz_22U_Hitbox_5.png",
+    "https://www.dustloop.com/wiki/images/e/ec/GBVSR_Soriz_22U_Hitbox_6.png"
   ]
 },
 	{
@@ -273,7 +288,7 @@
   "input": "Uインパクトナックル(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Soriz_236U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Soriz_236U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Soriz_236X_Hitbox.png"
   ]
 },
 	{
@@ -282,7 +297,8 @@
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_623X_Hitbox_1.png",
     "https://www.dustloop.com/wiki/images/7/79/GBVSR_Soriz_623X_Hitbox_2.png",
-    "https://www.dustloop.com/wiki/images/9/91/GBVSR_Soriz_623X_Hitbox_3.png"
+    "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Soriz_623X_Hitbox_1_SSBA.png",
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Soriz_623X_Hitbox_2_SSBA.png"
   ]
 },
 	{
@@ -291,7 +307,8 @@
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_623X_Hitbox_1.png",
     "https://www.dustloop.com/wiki/images/7/79/GBVSR_Soriz_623X_Hitbox_2.png",
-    "https://www.dustloop.com/wiki/images/9/91/GBVSR_Soriz_623X_Hitbox_3.png"
+    "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Soriz_623X_Hitbox_1_SSBA.png",
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Soriz_623X_Hitbox_2_SSBA.png"
   ]
 },
 	{
@@ -300,32 +317,31 @@
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/37/GBVSR_Soriz_623X_Hitbox_1.png",
     "https://www.dustloop.com/wiki/images/7/79/GBVSR_Soriz_623X_Hitbox_2.png",
-    "https://www.dustloop.com/wiki/images/9/91/GBVSR_Soriz_623X_Hitbox_3.png"
+    "https://www.dustloop.com/wiki/images/f/fb/GBVSR_Soriz_623X_Hitbox_1_SSBA.png",
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Soriz_623X_Hitbox_2_SSBA.png"
   ]
 },
 	{
   "input": "U流牙蹴(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/1/13/GBVSR_Soriz_623U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d6/GBVSR_Soriz_623U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Soriz_623U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/0/08/GBVSR_Soriz_623U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/e/ed/GBVSR_Soriz_623U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/0/0d/GBVSR_Soriz_623U_Hitbox_1_SSBA.png",
+    "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Soriz_623U_Hitbox_2_SSBA.png",
+    "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Soriz_623U_Hitbox_3_SSBA.png"
   ]
 },
 	{
-  "input": "漢気アルティメイアム剛破天衝(Macho 214U)",
-  "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Soriz_214U.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/da/GBVSR_Soriz_214U_Hitbox.png"
-  ]
-},
-	{
-  "input": "不撓不屈(214X~214X)",
+  "input": "mu.214X~214X",
   "move_img": "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Soriz_Macho_214X-214X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/11/GBVSR_Soriz_Macho_214X-214X_Hitbox.png"
   ]
 },
 	{
-  "input": "肉弾気焔(214X~236X)",
+  "input": "mu.214X~236X",
   "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Soriz_Macho_214X-236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Soriz_Macho_214X-236X_Hitbox.png"
@@ -347,7 +363,7 @@
   ]
 },
 	{
-  "input": "拳褌軼敵・漢の正拳突き(Macho 236236U)",
+  "input": "mu.236236U",
   "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Soriz_Macho_236236U_Start.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/5f/GBVSR_Soriz_Macho_236236U_Hitbox_1.png",

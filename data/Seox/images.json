@@ -11,7 +11,7 @@
   "input": "2L",
   "move_img": "https://www.dustloop.com/wiki/images/e/e8/GBVS_Seox_2L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/de/GBVSR_Seox_2L_Hitbox.png"
+    ""
   ]
 },
 	{
@@ -39,7 +39,7 @@
   "input": "66L",
   "move_img": "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Seox_66L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Seox_66L_Hitbox.png"
+    ""
   ]
 },
 	{

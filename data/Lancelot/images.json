@@ -174,31 +174,17 @@
   ]
 },
 	{
-  "input": "Hサザンクロス(214H)",
-  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
-  ]
-},
-	{
-  "input": "Hサザンクロス(214H4H)",
+  "input": "214H~4H~4H~4H",
   "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Lancelot_214X-4X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/13/GBVSR_Lancelot_214X4X_Hitbox.png"
   ]
 },
 	{
-  "input": "Lサザンクロス(214L)",
-  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
+  "input": "214H~4H~4H~4H~4H",
+  "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Lancelot_214X-4X-4X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
-  ]
-},
-	{
-  "input": "Mサザンクロス(214M)",
-  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Lancelot_214X4X4X_Hitbox.png"
   ]
 },
 	{
@@ -210,6 +196,13 @@
   ]
 },
 	{
+  "input": "214X",
+  "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Lancelot_214X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lancelot_214X_Hitbox.png"
+  ]
+},
+	{
   "input": "サザンクロス追加攻撃(214X4X)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Lancelot_214X-4X.png",
   "hitbox_img": [
@@ -217,31 +210,10 @@
   ]
 },
 	{
-  "input": "サザンクロスエンダー(214X4X Ender)",
+  "input": "214X~4X~4X",
   "move_img": "https://www.dustloop.com/wiki/images/d/dd/GBVSR_Lancelot_214X-4X-4X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Lancelot_214X4X4X_Hitbox.png"
-  ]
-},
-	{
-  "input": "Hトゥルブレンツ(22H)",
-  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
-  ]
-},
-	{
-  "input": "Lトゥルブレンツ(22L)",
-  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
-  ]
-},
-	{
-  "input": "Mトゥルブレンツ(22M)",
-  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
   ]
 },
 	{
@@ -250,6 +222,13 @@
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Lancelot_22U_Hitbox_1.png",
     "https://www.dustloop.com/wiki/images/7/75/GBVSR_Lancelot_22U_Hitbox_2.png"
+  ]
+},
+	{
+  "input": "22X",
+  "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_22X.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Lancelot_22X_Hitbox.png"
   ]
 },
 	{
@@ -372,6 +351,13 @@
 	{
   "input": "回り込み(5U6U)",
   "move_img": "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lancelot_5U-6U.png",
+  "hitbox_img": [
+    ""
+  ]
+},
+	{
+  "input": "DeltaLeap",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Lancelot_DeltaLeap.png",
   "hitbox_img": [
     ""
   ]

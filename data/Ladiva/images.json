@@ -224,7 +224,7 @@
   ]
 },
 	{
-  "input": "H愛のヘッドバット（2）(236H6H)",
+  "input": "236H~6H",
   "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
@@ -232,7 +232,7 @@
   ]
 },
 	{
-  "input": "H愛のヘッドバット（3）(236H6HH)",
+  "input": "236H~6H~6H",
   "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/92/GBVSR_Ladiva_236M_Hitbox1.png",
@@ -266,7 +266,7 @@
   "input": "Hスクリュー・ジュエルバスター(360H)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Ladiva_360X_Whiff.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/87/GBVSR_Ladiva_360M_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Ladiva_360H_Hitbox.png"
   ]
 },
 	{
@@ -375,21 +375,14 @@
   ]
 },
 	{
-  "input": "ドラゴンホイップH(5UH)",
+  "input": "5U~H",
   "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_5U-X.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "ドラゴンホイップ(5UL)",
-  "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_5U-X.png",
-  "hitbox_img": [
-    ""
-  ]
-},
-	{
-  "input": "ドラゴンホイップM(5UM)",
+  "input": "5U~M",
   "move_img": "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Ladiva_5U-X.png",
   "hitbox_img": [
     ""

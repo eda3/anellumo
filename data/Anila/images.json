@@ -3,7 +3,8 @@
   "input": "2H",
   "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Anila_2H.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Anila_2H_Hitbox_1.png;_GBVS_Anila_2H_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Anila_2H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Anila_2H_Hitbox_2.png"
   ]
 },
 	{
@@ -17,14 +18,16 @@
   "input": "2M",
   "move_img": "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Anila_2M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d9/GBVSR_Anila_2M_Hitbox_1.png;"
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Anila_2M_Hitbox.png"
   ]
 },
 	{
   "input": "2U",
   "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Anila_2U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/02/GBVSR_Anila_2U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/0/02/GBVSR_Anila_2U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Anila_2U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Anila_2U_Hitbox_3.png"
   ]
 },
 	{
@@ -52,84 +55,89 @@
   "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Anila_cH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Anila_c5H_Hitbox_1.png;GBVS_Anila_c5H_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Anila_cH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/29/GBVSR_Anila_cH_Hitbox_2.png"
   ]
 },
 	{
   "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_Anila_cL.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Anila_c5L_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/b/bb/GBVSR_Anila_cL_Hitbox.png"
   ]
 },
 	{
   "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Anila_cM.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Anila_c5M_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Anila_cM_Hitbox.png"
   ]
 },
 	{
   "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_cXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Anila_cXX_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Anila_cXX6H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Anila_cXX6H_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_cXX6M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Anila_cXX6M_Hitbox.png"
   ]
 },
 	{
   "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Anila_cXXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Anila_cXXX_Hitbox.png"
   ]
 },
 	{
   "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/5/52/GBVSR_Anila_fH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Anila_f5H_Hitbox_1.png"
+    "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Anila_fH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Anila_fH_Hitbox_2.png"
   ]
 },
 	{
   "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/d/d1/GBVSR_Anila_fL.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Anila_f5L_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Anila_fL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/37/GBVSR_Anila_fL_Hitbox_2.png"
   ]
 },
 	{
   "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Anila_fM.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Anila_f5M_Hitbox_1.png;"
+    "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Anila_fM_Hitbox.png"
   ]
 },
 	{
   "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Anila_jH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Anila_jH_Hitbox_1.png;_GBVS_Anila_jH_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Anila_jH_Hitbox.png"
   ]
 },
 	{
   "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/7/73/GBVSR_Anila_jL.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d8/GBVS_Anila_jL_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/8/88/GBVSR_Anila_jL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/30/GBVSR_Anila_jL_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Anila_jL_Hitbox_3.png"
   ]
 },
 	{
@@ -143,14 +151,14 @@
   "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVSR_Anila_jU.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/87/GBVSR_Anila_jU_Hitbox_1.png;_GBVS_Anila_jU_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Anila_jU_Hitbox.png"
   ]
 },
 	{
   "input": "ブレイブカウンター",
-  "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVSR_Anila_BC.png",
+  "move_img": "https://www.dustloop.com/wiki/images/9/95/GBVSR_Anila_BraveCounter.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/48/GBVSR_Anila_BC_Hitbox_1.png;"
+    "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Anila_BraveCounter_Hitbox.png"
   ]
 },
 	{
@@ -164,154 +172,165 @@
   "input": "投げ(LU)",
   "move_img": "https://www.dustloop.com/wiki/images/6/65/GBVSR_Anila_Throw.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Anila_GroundThrow_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/4/47/GBVSR_Anila_Throw_Hitbox.png"
   ]
 },
 	{
   "input": "レイジングストライク(MH)",
-  "move_img": "https://www.dustloop.com/wiki/images/8/80/GBVSR_Anila_RS.png",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2c/GBVSR_Anila_RagingStrike.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/90/GBVSR_Anila_RS_Hitbox_1.png;_GBVS_Anila_RS_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/6/61/GBVSR_Anila_RagingStrike_Hitbox.png"
   ]
 },
 	{
   "input": "レイジングチェイン(MHMH)",
-  "move_img": "https://www.dustloop.com/wiki/images/b/be/GBVSR_Anila_RC.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Anila_RagingChain.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Anila_RC_Hitbox_1.png;"
+    "https://www.dustloop.com/wiki/images/2/22/GBVSR_Anila_RagingChain_Hitbox.png"
   ]
 },
 	{
   "input": "H前途羊羊(214H)",
-  "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Anila_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Anila_214H_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/7/73/GBVSR_Anila_214X_Hitbox.png"
   ]
 },
 	{
   "input": "214H~4X",
-  "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Anila_214X-4X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Anila_214X-4X_Hitbox.png"
   ]
 },
 	{
   "input": "L前途羊羊(214L)",
-  "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Anila_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_214L_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/7/73/GBVSR_Anila_214X_Hitbox.png"
   ]
 },
 	{
   "input": "214L~4X",
-  "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Anila_214X-4X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Anila_214X-4X_Hitbox.png"
   ]
 },
 	{
   "input": "M前途羊羊(214M)",
-  "move_img": "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Anila_214L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Anila_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Anila_214M_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/7/73/GBVSR_Anila_214X_Hitbox.png"
   ]
 },
 	{
   "input": "214M~4X",
-  "move_img": "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Anila_214L4X.png",
+  "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Anila_214X-4X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/9d/GBVSR_Anila_214XX_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Anila_214X-4X_Hitbox.png"
   ]
 },
 	{
   "input": "214U",
   "move_img": "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Anila_214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Anila_214U_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/3/33/GBVSR_Anila_214U_Hitbox.png"
   ]
 },
 	{
   "input": "H飛羊乗雲(22H)",
-  "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_22L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Anila_22X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/01/GBVSR_Anila_22H_Hitbox.png;"
+    ""
   ]
 },
 	{
   "input": "L飛羊乗雲(22L)",
-  "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_22L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Anila_22X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/db/GBVSR_Anila_22L_Hitbox.png;"
+    ""
   ]
 },
 	{
   "input": "M飛羊乗雲(22M)",
-  "move_img": "https://www.dustloop.com/wiki/images/4/41/GBVSR_Anila_22L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Anila_22X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Anila_22M_Hitbox.png;"
+    ""
   ]
 },
 	{
   "input": "U飛羊乗雲(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Anila_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Anila_22U_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/3/3c/GBVSR_Anila_22U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/33/GBVSR_Anila_22U_Hitbox_2.png"
   ]
 },
 	{
   "input": "236H",
-  "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Anila_236X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Anila_236H_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Anila_236X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/33/GBVSR_Anila_236H_Hitbox.png"
   ]
 },
 	{
   "input": "236L",
-  "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Anila_236X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Anila_236L_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Anila_236X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Anila_236X_Hitbox_2.png"
   ]
 },
 	{
   "input": "236M",
-  "move_img": "https://www.dustloop.com/wiki/images/c/c9/GBVSR_Anila_236L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Anila_236X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Anila_236M_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Anila_236X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/b/b1/GBVSR_Anila_236X_Hitbox_2.png"
   ]
 },
 	{
   "input": "U駆けよ、もふもふ！(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Anila_236U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/3/39/GBVSR_Anila_236U_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/1/17/GBVSR_Anila_236U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Anila_236U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Anila_236U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Anila_236U_Hitbox_4.png"
   ]
 },
 	{
   "input": "H色即是空(623H)",
-  "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Anila_623X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/78/GBVSR_Anila_623H_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Anila_623H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/6/63/GBVSR_Anila_623H_Hitbox_2.png"
   ]
 },
 	{
   "input": "L色即是空(623L)",
-  "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Anila_623X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Anila_623L_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Anila_623L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Anila_623X_Hitbox_2.png"
   ]
 },
 	{
   "input": "M色即是空(623M)",
-  "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Anila_623L.png",
+  "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Anila_623X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/46/GBVSR_Anila_623M_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/b/bc/GBVSR_Anila_623H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Anila_623X_Hitbox_2.png"
   ]
 },
 	{
   "input": "U色即是空(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Anila_623U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Anila_623U_Hitbox.png;"
+    "https://www.dustloop.com/wiki/images/9/93/GBVSR_Anila_623U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/a/aa/GBVSR_Anila_623U_Hitbox_2.png"
   ]
 },
 	{
@@ -325,21 +344,24 @@
   "input": "羊爛怒涛(236236U)",
   "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Anila_236236U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/ce/GBVSR_Anila_236236U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/c/ce/GBVSR_Anila_236236U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Anila_236236U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Anila_236236U_Hitbox_3.png"
   ]
 },
 	{
   "input": "牙羊乱舞(5U)",
   "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Anila_5U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Anila_5U_Hitbox.png"
   ]
 },
 	{
   "input": "5U~U",
   "move_img": "https://www.dustloop.com/wiki/images/1/14/GBVSR_Anila_5UU.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/e/e2/GBVSR_Anila_5UU_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Anila_5UU_Hitbox_2.png"
   ]
 }
 ]

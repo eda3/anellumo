@@ -3,7 +3,7 @@
   "input": "2H",
   "move_img": "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Beelzebub_2H.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/6/60/GBVSR_Beelzebub_2H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/88/GBVSR_Beelzebub_2H_Hitbox.png",
     "https://www.dustloop.com/wiki/images/3/30/GBVSR_Beelzebub_2H_Hitbox_2.png"
   ]
 },
@@ -18,7 +18,7 @@
   "input": "2M",
   "move_img": "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Beelzebub_2M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/07/GBVSR_Beelzebub_2M_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Beelzebub_2M_Hitbox.png",
     "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Beelzebub_2M_Hitbox_2.png"
   ]
 },
@@ -26,7 +26,8 @@
   "input": "2U",
   "move_img": "https://www.dustloop.com/wiki/images/6/68/GBVSR_Beelzebub_2U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Beelzebub_2U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Beelzebub_2U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Beelzebub_2U_Hitbox_2.png"
   ]
 },
 	{
@@ -45,91 +46,93 @@
 },
 	{
   "input": "66M",
-  "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVSR_Beelzebub_66M.png",
+  "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_cXX6M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Beelzebub_66M_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/4/44/GBVSR_Beelzebub_cXX6M_Hitbox.png"
   ]
 },
 	{
   "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/d/da/GBVSR_Beelzebub_cH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Beelzebub_c5H_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Beelzebub_c5H_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/1/11/GBVSR_Beelzebub_cH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/7/76/GBVSR_Beelzebub_cH_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Beelzebub_cH_Hitbox_3.png"
   ]
 },
 	{
   "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/3/31/GBVSR_Beelzebub_cL.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Beelzebub_c5L_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Beelzebub_cL_Hitbox.png"
   ]
 },
 	{
   "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Beelzebub_cM.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Beelzebub_c5M_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/2/20/GBVSR_Beelzebub_cM_Hitbox.png"
   ]
 },
 	{
   "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Beelzebub_cXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/5/55/GBVSR_Beelzebub_cXX_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Beelzebub_cXX_Hitbox_2.png"
   ]
 },
 	{
   "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Beelzebub_cXX6H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Beelzebub_cXX6H_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_cXX6M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/4/44/GBVSR_Beelzebub_cXX6M_Hitbox.png"
   ]
 },
 	{
   "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Beelzebub_cXXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Beelzebub_cXXX_Hitbox.png"
   ]
 },
 	{
   "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/2/22/GBVSR_Beelzebub_fH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Beelzebub_f5H_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Beelzebub_f5H_Hitbox_2.png",
-    "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Beelzebub_f5H_Hitbox_3.png",
-    "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Beelzebub_f5H_Hitbox_4.png"
+    "https://www.dustloop.com/wiki/images/2/22/GBVSR_Beelzebub_fH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Beelzebub_fH_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Beelzebub_fH_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Beelzebub_fH_Hitbox_4.png"
   ]
 },
 	{
   "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Beelzebub_fL.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/0/08/GBVSR_Beelzebub_fL_Hitbox.png"
   ]
 },
 	{
   "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Beelzebub_fM.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Beelzebub_f5M_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/0/05/GBVSR_Beelzebub_f5M_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Beelzebub_fM_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/28/GBVSR_Beelzebub_fM_Hitbox_2.png"
   ]
 },
 	{
   "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_Beelzebub_jH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/5/55/GBVSR_Beelzebub_jH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Beelzebub_jH_Hitbox.png",
     "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Beelzebub_jH_Hitbox_2.png"
   ]
 },
@@ -151,7 +154,7 @@
   "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/3/33/GBVSR_Beelzebub_jU.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Beelzebub_jU_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/6/6e/GBVSR_Beelzebub_jU_Hitbox.png",
     "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Beelzebub_jU_Hitbox_2.png"
   ]
 },
@@ -159,31 +162,34 @@
   "input": "214U",
   "move_img": "https://www.dustloop.com/wiki/images/4/4f/GBVSR_Beelzebub_214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Beelzebub_214U_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/1/16/GBVSR_Beelzebub_214U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/d/df/GBVSR_Beelzebub_214U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Beelzebub_214U_Hitbox_3.png"
   ]
 },
 	{
   "input": "22U",
   "move_img": "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Beelzebub_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Beelzebub_22U_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/7/70/GBVSR_Beelzebub_22U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/1d/GBVSR_Beelzebub_22U_Hitbox_2.png"
   ]
 },
 	{
   "input": "236U",
   "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Beelzebub_236U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/04/GBVSR_Beelzebub_236U_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/1/13/GBVSR_Beelzebub_236U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Beelzebub_236U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/4/46/GBVSR_Beelzebub_236U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/4/45/GBVSR_Beelzebub_236U_Hitbox_4.png"
   ]
 },
 	{
   "input": "623U",
   "move_img": "https://www.dustloop.com/wiki/images/5/59/GBVSR_Beelzebub_623U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/5/50/GBVSR_Beelzebub_623U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Beelzebub_623U_Hitbox.png",
     "https://www.dustloop.com/wiki/images/d/d4/"
   ]
 },
@@ -191,15 +197,16 @@
   "input": "ブレイブカウンター",
   "move_img": "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Beelzebub_BraveCounter.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/c2/GBVSR_Beelzebub_BC_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Beelzebub_BraveCounter_Hitbox.png"
   ]
 },
 	{
   "input": "j214U",
   "move_img": "https://www.dustloop.com/wiki/images/a/a6/GBVSR_Beelzebub_j214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/46/GBVSR_Beelzebub_j.214U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Beelzebub_j214U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/29/GBVSR_Beelzebub_j214U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/8/84/GBVSR_Beelzebub_j214U_Hitbox_3.png",
     "https://www.dustloop.com/wiki/images/d/d4/"
   ]
 },
@@ -214,22 +221,21 @@
   "input": "投げ(LU)",
   "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Beelzebub_Throw.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/94/GBVSR_Beelzebub_GroundThrow_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/8/88/GBVSR_Beelzebub_Throw_Hitbox.png"
   ]
 },
 	{
   "input": "レイジングストライク(MH)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Beelzebub_RagingStrike.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Beelzebub_5MH_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Beelzebub_5MH_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Beelzebub_RagingStrike_Hitbox.png"
   ]
 },
 	{
   "input": "レイジングチェイン(MHMH)",
   "move_img": "https://www.dustloop.com/wiki/images/0/04/GBVSR_Beelzebub_RagingChain.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/71/GBVSR_Beelzebub_MHMH_Hitbox_1.png"
+    "https://www.dustloop.com/wiki/images/c/c4/GBVSR_Beelzebub_RagingChain_Hitbox.png"
   ]
 },
 	{
@@ -243,7 +249,7 @@
   "input": "214L",
   "move_img": "https://www.dustloop.com/wiki/images/a/a0/GBVSR_Beelzebub_214L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Beelzebub_214L_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Beelzebub_214L_Hitbox.png",
     "https://www.dustloop.com/wiki/images/8/8e/GBVSR_Beelzebub_214L_Hitbox_2.png",
     "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Beelzebub_214L_Hitbox_3.png"
   ]
@@ -252,7 +258,7 @@
   "input": "214M",
   "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Beelzebub_214M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Beelzebub_214M_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Beelzebub_214M_Hitbox.png",
     "https://www.dustloop.com/wiki/images/c/c5/GBVSR_Beelzebub_214M_Hitbox_2.png",
     "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Beelzebub_214M_Hitbox_3.png"
   ]
@@ -268,7 +274,7 @@
   "input": "22L",
   "move_img": "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Beelzebub_22X.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Beelzebub_22X_Hitbox.png"
   ]
 },
 	{
@@ -303,7 +309,7 @@
   "input": "236L lvl 1",
   "move_img": "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Beelzebub_236L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Beelzebub_236L_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/d/df/GBVSR_Beelzebub_236L_Hitbox.png",
     "https://www.dustloop.com/wiki/images/0/09/GBVSR_Beelzebub_236L_Hitbox_2.png",
     "https://www.dustloop.com/wiki/images/d/d4/"
   ]
@@ -319,7 +325,7 @@
   "input": "236M lvl 1",
   "move_img": "https://www.dustloop.com/wiki/images/0/05/GBVSR_Beelzebub_236M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/08/GBVSR_Beelzebub_236M_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/6/6d/GBVSR_Beelzebub_236M_Hitbox.png",
     "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Beelzebub_236M_Hitbox_2.png"
   ]
 },
@@ -348,14 +354,14 @@
   "input": "623L",
   "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_623X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Beelzebub_623X_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/3/30/GBVSR_Beelzebub_623L_Hitbox.png"
   ]
 },
 	{
   "input": "623M",
   "move_img": "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_623X.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Beelzebub_623M_Hitbox.png"
   ]
 },
 	{
@@ -369,7 +375,9 @@
   "input": "j214L",
   "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Beelzebub_j214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/e3/GBVSR_Beelzebub_j214X_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/e/e3/GBVSR_Beelzebub_j214X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/9/96/GBVSR_Beelzebub_j214H_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/0/03/GBVSR_Beelzebub_j214H_Hitbox_3.png"
   ]
 },
 	{
@@ -388,22 +396,24 @@
 },
 	{
   "input": "236236H",
-  "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Beelzebub_236236H.png",
+  "move_img": "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Beelzebub_236236H_Start.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/ca/GBVSR_Beelzebub_236236H-Charged_Hitbox.png",
-    "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Beelzebub_236236H_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/9/9b/GBVSR_Beelzebub_236236H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/4/48/GBVSR_Beelzebub_236236H_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Beelzebub_236236H_Hitbox_3.png"
   ]
 },
 	{
   "input": "236236U",
-  "move_img": "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Beelzebub_236236U_1.png",
+  "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Beelzebub_236236U_Start.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_236236U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/1/17/GBVSR_Beelzebub_236236U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Beelzebub_236236U_Hitbox_2.png"
   ]
 },
 	{
   "input": "236236[H]",
-  "move_img": "https://www.dustloop.com/wiki/images/f/f8/GBVSR_Beelzebub_236236H_3.png",
+  "move_img": "https://www.dustloop.com/wiki/images/5/58/GBVSR_Beelzebub_236236H_2.png",
   "hitbox_img": [
     ""
   ]
@@ -412,7 +422,7 @@
   "input": "5U",
   "move_img": "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Beelzebub_5U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Beelzebub_5U_Hitbox.png"
   ]
 }
 ]

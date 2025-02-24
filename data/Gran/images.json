@@ -188,8 +188,7 @@
   "input": "レイジングチェイン(MHMH)",
   "move_img": "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Gran_RagingChain.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/88/GBVSR_Gran_6MH_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/8/88/GBVSR_Gran_6MH_Hitbox_1.png"
   ]
 },
 	{
@@ -208,7 +207,14 @@
   ]
 },
 	{
-  "input": "Lドライブバースト追加攻撃(214L214M)",
+  "input": "214L~214H",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Gran_214M.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Gran_214M_Hitbox.png"
+  ]
+},
+	{
+  "input": "214L~214M",
   "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Gran_214M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Gran_214M_Hitbox.png"
@@ -304,7 +310,7 @@
   ]
 },
 	{
-  "input": "比類無き十の力(236236H236U)",
+  "input": "236236H~236U",
   "move_img": "https://www.dustloop.com/wiki/images/0/00/GBVSR_Gran_236236H236U_Start.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Gran_23636H236U_Hitbox_1.png"
@@ -319,6 +325,50 @@
   ]
 },
 	{
+  "input": "5U Lvl 0",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_5U_2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_5U_Hitbox-1.png",
+    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Gran_5U_Hitbox-2.png",
+    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Gran_5U_Hitbox-3.png",
+    "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Gran_5U_Hitbox-4.png",
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Gran_5U_Hitbox-5.png"
+  ]
+},
+	{
+  "input": "5U Lvl 1",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_5U_2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_5U_Hitbox-1.png",
+    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Gran_5U_Hitbox-2.png",
+    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Gran_5U_Hitbox-3.png",
+    "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Gran_5U_Hitbox-4.png",
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Gran_5U_Hitbox-5.png"
+  ]
+},
+	{
+  "input": "5U Lvl 2",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_5U_2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_5U_Hitbox-1.png",
+    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Gran_5U_Hitbox-2.png",
+    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Gran_5U_Hitbox-3.png",
+    "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Gran_5U_Hitbox-4.png",
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Gran_5U_Hitbox-5.png"
+  ]
+},
+	{
+  "input": "5U Lvl 3",
+  "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_5U_2.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_5U_Hitbox-1.png",
+    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Gran_5U_Hitbox-2.png",
+    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Gran_5U_Hitbox-3.png",
+    "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Gran_5U_Hitbox-4.png",
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Gran_5U_Hitbox-5.png"
+  ]
+},
+	{
   "input": "パワーレイズ(5[U])",
   "move_img": "https://www.dustloop.com/wiki/images/1/16/GBVSR_Gran_5U.png",
   "hitbox_img": [
@@ -330,17 +380,6 @@
   "move_img": "",
   "hitbox_img": [
     ""
-  ]
-},
-	{
-  "input": "パワーレイズアタック(5[U]]U[)",
-  "move_img": "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Gran_5U_2.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Gran_5U_Hitbox-1.png",
-    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Gran_5U_Hitbox-2.png",
-    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Gran_5U_Hitbox-3.png",
-    "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Gran_5U_Hitbox-4.png",
-    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Gran_5U_Hitbox-5.png"
   ]
 }
 ]

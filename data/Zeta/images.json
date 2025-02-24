@@ -127,7 +127,8 @@
   "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/f/f4/GBVSR_Zeta_jH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/4c/GBVSR_Zeta_jH_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/b/b2/GBVSR_Zeta_jH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/4/4a/GBVSR_Zeta_jH_Hitbox_2.png"
   ]
 },
 	{
@@ -220,21 +221,21 @@
   ]
 },
 	{
-  "input": "膝蹴り(214XH)",
+  "input": "214X~H",
   "move_img": "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Zeta_214X-H.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/27/GBVSR_Zeta_214X-H_Hitbox.png"
   ]
 },
 	{
-  "input": "なぎ払い(214XL)",
+  "input": "214X~L",
   "move_img": "https://www.dustloop.com/wiki/images/4/42/GBVSR_Zeta_214X-L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Zeta_214X-L_Hitbox.png"
   ]
 },
 	{
-  "input": "切り上げ(214XM)",
+  "input": "214X~M",
   "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Zeta_214X-M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/80/GBVSR_Zeta_214X-M_Hitbox_1.png",
@@ -273,21 +274,21 @@
   ]
 },
 	{
-  "input": "アルベスの槍・上昇（追加攻撃・下）(22X1X/2X/3X)",
+  "input": "22X~2X",
   "move_img": "https://www.dustloop.com/wiki/images/0/07/GBVSR_Zeta_22X_3X_Followup.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Zeta_j22X_Hitbox.png"
   ]
 },
 	{
-  "input": "アルベスの槍・上昇（追加攻撃・横）(22X6X/4X)",
+  "input": "22X~5X",
   "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Zeta_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Zeta_623X_Hitbox.png"
   ]
 },
 	{
-  "input": "アルベスの槍・上昇（追加攻撃・上）(22X9X/8X/7X)",
+  "input": "22X~8X",
   "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Zeta_623X_9X_Followup.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/70/GBVSR_Zeta_22X_Hitbox_1.png"
@@ -353,29 +354,6 @@
   "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Zeta_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Zeta_623X_Hitbox.png"
-  ]
-},
-	{
-  "input": "アルベスの槍（追加攻撃・横）(623X4X/6X)",
-  "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Zeta_623X.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Zeta_623X_Hitbox.png"
-  ]
-},
-	{
-  "input": "アルベスの槍（追加攻撃・斜め上）(623X7X/9X)",
-  "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Zeta_623X_9X_Followup.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/70/GBVSR_Zeta_22X_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/5/52/GBVSR_Zeta_22X_Hitbox_2.png"
-  ]
-},
-	{
-  "input": "アルベスの槍（追加攻撃・真上）(623X8X)",
-  "move_img": "https://www.dustloop.com/wiki/images/8/81/GBVSR_Zeta_623X_9X_Followup.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/70/GBVSR_Zeta_22X_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/5/52/GBVSR_Zeta_22X_Hitbox_2.png"
   ]
 },
 	{

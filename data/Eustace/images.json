@@ -168,6 +168,13 @@
   ]
 },
 	{
+  "input": "4LU",
+  "move_img": "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Eustace_BThrow.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/6/66/GBVSR_Eustace_Throw_Hitbox.png"
+  ]
+},
+	{
   "input": "ブレイブカウンター",
   "move_img": "https://www.dustloop.com/wiki/images/6/64/GBVSR_Eustace_BraveCounter.png",
   "hitbox_img": [
@@ -182,7 +189,7 @@
   ]
 },
 	{
-  "input": "投げ(LU)",
+  "input": "LU",
   "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Eustace_LU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/66/GBVSR_Eustace_Throw_Hitbox.png"
@@ -440,7 +447,8 @@
   "input": "Uスロー・キル([2]8U)",
   "move_img": "https://www.dustloop.com/wiki/images/2/25/GBVSR_Eustace_28U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Eustace_28X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/29/GBVSR_Eustace_28X_Hitbox2.png"
   ]
 },
 	{

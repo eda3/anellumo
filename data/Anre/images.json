@@ -400,6 +400,13 @@
   ]
 },
 	{
+  "input": "6U",
+  "move_img": "https://www.dustloop.com/wiki/images/c/ca/GBVSR_Anre_5U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/4d/GBVSR_Anre_5U_Hitbox.png"
+  ]
+},
+	{
   "input": "豪槍(j2U)",
   "move_img": "https://www.dustloop.com/wiki/images/5/57/GBVSR_Anre_j2U.png",
   "hitbox_img": [

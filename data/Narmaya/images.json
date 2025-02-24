@@ -45,8 +45,7 @@
   "input": "2Hg",
   "move_img": "https://www.dustloop.com/wiki/images/8/82/GBVSR_Narmaya_2H.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/82/GBVSR_Narmaya_2H_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/0/07/GBVSR_Narmaya_2H_Hitbox2.png"
+    "https://www.dustloop.com/wiki/images/6/68/GBVSR_Narmaya_2H_Hitbox.png"
   ]
 },
 	{
@@ -119,8 +118,7 @@
   "input": "jHg",
   "move_img": "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Narmaya_jH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Narmaya_jH_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Narmaya_jH_Hitbox2.png"
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Narmaya_jH_Hitbox1.png"
   ]
 },
 	{
@@ -260,8 +258,7 @@
   "input": "ブレイブカウンター",
   "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Narmaya_BraveCounter.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Narmaya_BC_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Narmaya_BC_Hitbox_1.png"
   ]
 },
 	{
@@ -282,16 +279,14 @@
   "input": "レイジングストライク(MH)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Narmaya_RagingStrike.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Narmaya_5MH_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Narmaya_5MH_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Narmaya_5MH_Hitbox_1.png"
   ]
 },
 	{
   "input": "レイジングチェイン(MHMH)",
   "move_img": "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Narmaya_RagingChain.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Narmaya_RagingChain_Hitbox.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Narmaya_RagingChain_Hitbox.png"
   ]
 },
 	{
@@ -356,7 +351,8 @@
   "input": "U刹那(236Ug)",
   "move_img": "https://www.dustloop.com/wiki/images/2/27/GBVSR_Narmaya_236U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Narmaya_236U_Hitbox1.png"
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Narmaya_236U_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/6/62/GBVSR_Narmaya_236U2.png"
   ]
 },
 	{
@@ -387,7 +383,9 @@
   "input": "U万里一空(623Ug)",
   "move_img": "https://www.dustloop.com/wiki/images/4/4b/GBVSR_Narmaya_623U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Narmaya_623U_Hitbox1.png"
+    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Narmaya_623U_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/1/11/GBVSR_Narmaya_623U2.png",
+    "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Narmaya_623U3.png"
   ]
 },
 	{
@@ -419,7 +417,7 @@
   "input": "U繊月(214Uk)",
   "move_img": "https://www.dustloop.com/wiki/images/7/78/GBVSR_Narmaya_214U_Kagura.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Narmaya_214U_Kagura_Hitbox1.png"
+    "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Narmaya_214Uk_Hitbox.png"
   ]
 },
 	{
@@ -455,7 +453,10 @@
   "input": "U鏡花水月(236Uk)",
   "move_img": "https://www.dustloop.com/wiki/images/3/30/GBVSR_Narmaya_236U_Kagura.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Narmaya_236U_Kagura_Hitbox1.png"
+    "https://www.dustloop.com/wiki/images/9/9e/GBVSR_Narmaya_236U_Kagura_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/3/34/GBVSR_Narmaya_236U_Kagura_Hitbox2.png",
+    "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Narmaya_236U_Kagura_Hitbox3.png",
+    "https://www.dustloop.com/wiki/images/8/86/GBVSR_Narmaya_236U_Kagura_Hitbox4.png"
   ]
 },
 	{
@@ -489,7 +490,8 @@
   "input": "U夢幻神楽(623Uk)",
   "move_img": "https://www.dustloop.com/wiki/images/5/5f/GBVSR_Narmaya_623U_Kagura.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Narmaya_623U_Kagura_Hitbox1.png"
+    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Narmaya_623U_Kagura_Hitbox1.png",
+    "https://www.dustloop.com/wiki/images/6/65/GBVSR_Narmaya_623U_Kagura_Hitbox2.png"
   ]
 },
 	{
@@ -521,7 +523,7 @@
   "input": "空中U繊月(j214Uk)",
   "move_img": "https://www.dustloop.com/wiki/images/7/78/GBVSR_Narmaya_214U_Kagura.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/ce/GBVSR_Narmaya_j214U_Kagura_Hitbox1.png"
+    "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Narmaya_214Uk_Hitbox.png"
   ]
 },
 	{
@@ -537,10 +539,7 @@
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Narmaya_236236U_Hitbox1.png",
     "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Narmaya_236236U_Hitbox2.png",
-    "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Narmaya_236236U_Hitbox3.png",
-    "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Narmaya_236236U_Hitbox4.png",
-    "https://www.dustloop.com/wiki/images/9/96/GBVSR_Narmaya_236236U_Hitbox5.png",
-    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Narmaya_236236U_Hitbox6.png"
+    "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Narmaya_236236U_Hitbox3.png"
   ]
 },
 	{

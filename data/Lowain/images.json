@@ -3,28 +3,29 @@
   "input": "2H",
   "move_img": "https://www.dustloop.com/wiki/images/7/70/GBVSR_Lowain_2H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lowain_2H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/e/ea/GBVSR_Lowain_2H_Hitbox_2.png"
   ]
 },
 	{
   "input": "2L",
   "move_img": "https://www.dustloop.com/wiki/images/0/0f/GBVSR_Lowain_2L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/1/10/GBVSR_Lowain_2L_Hitbox.png"
   ]
 },
 	{
   "input": "2M",
   "move_img": "https://www.dustloop.com/wiki/images/3/37/GBVSR_Lowain_2M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/2/23/GBVSR_Lowain_2M_Hitbox.png"
   ]
 },
 	{
   "input": "2U",
   "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVSR_Lowain_2U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/5/57/GBVSR_Lowain_2U_Hitbox.png"
   ]
 },
 	{
@@ -52,185 +53,202 @@
   "input": "近H",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_cH.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/3/36/GBVSR_Lowain_cH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/16/GBVSR_Lowain_cH_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_cH_Hitbox_3.png"
   ]
 },
 	{
   "input": "近L",
   "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_cL.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/4/49/GBVSR_Lowain_cL_Hitbox.png"
   ]
 },
 	{
   "input": "近M",
   "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Lowain_cM.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/9/92/GBVSR_Lowain_cM_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/3/31/GBVSR_Lowain_cM_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Lowain_cM_Hitbox_3.png"
   ]
 },
 	{
   "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Lowain_cXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/7/7f/GBVSR_Lowain_cXX_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/a/a3/GBVSR_Lowain_cXX6H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Lowain_cXX6H_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Lowain_cXX6M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/4/46/GBVSR_Lowain_cXX6M_Hitbox.png"
   ]
 },
 	{
   "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/0/06/GBVSR_Lowain_cXXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/8/87/GBVSR_Lowain_cXXX_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/0/04/GBVSR_Lowain_cXXX_Hitbox_2.png"
   ]
 },
 	{
   "input": "遠H",
   "move_img": "https://www.dustloop.com/wiki/images/4/42/GBVSR_Lowain_fH.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/c/c8/GBVSR_Lowain_fH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/0/02/GBVSR_Lowain_fH_Hitbox_2.png"
   ]
 },
 	{
   "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Lowain_fL.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/b/b0/GBVSR_Lowain_fL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Lowain_fL_Hitbox_2.png"
   ]
 },
 	{
   "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/7/75/GBVSR_Lowain_fM.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Lowain_fM_Hitbox.png"
   ]
 },
 	{
   "input": "jH",
   "move_img": "https://www.dustloop.com/wiki/images/6/60/GBVSR_Lowain_jH.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/5/58/GBVSR_Lowain_jH_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Lowain_jH_Hitbox_2.png"
   ]
 },
 	{
   "input": "jL",
   "move_img": "https://www.dustloop.com/wiki/images/a/a8/GBVSR_Lowain_jL.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/e/e5/GBVSR_Lowain_jL_Hitbox.png"
   ]
 },
 	{
   "input": "jM",
   "move_img": "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Lowain_jM.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/1/14/GBVSR_Lowain_jM_Hitbox.png"
   ]
 },
 	{
   "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Lowain_jU.png",
   "hitbox_img": [
-    ""
-  ]
-},
-	{
-  "input": "6MH",
-  "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lowain_RagingChain.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_6MH_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Lowain_jU_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Lowain_jU_Hitbox_2.png"
   ]
 },
 	{
   "input": "ブレイブカウンター",
   "move_img": "https://www.dustloop.com/wiki/images/4/49/GBVSR_Lowain_BraveCounter.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_BC_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/d/d4/"
+    "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Lowain_BraveCounter_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/56/GBVSR_Lowain_BraveCounter_Hitbox_2.png"
   ]
 },
 	{
   "input": "空投げ(jLU)",
   "move_img": "https://www.dustloop.com/wiki/images/2/28/GBVSR_Lowain_AirThrow.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/0/09/GBVSR_Lowain_AirThrow_Hitbox.png"
   ]
 },
 	{
   "input": "投げ(LU)",
   "move_img": "https://www.dustloop.com/wiki/images/2/23/GBVSR_Lowain_Throw.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/3/3b/GBVSR_Lowain_Throw_Hitbox.png"
   ]
 },
 	{
   "input": "レイジングストライク(MH)",
   "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lowain_RagingStrike.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/96/GBVSR_Lowain_5MH_Hitbox_1.png",
-    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Lowain_5MH_Hitbox_2.png"
+    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Lowain_RagingStrike_Hitbox.png"
+  ]
+},
+	{
+  "input": "レイジングチェイン(MHMH)",
+  "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lowain_RagingChain.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_RagingChain_Hitbox.png"
   ]
 },
 	{
   "input": "Hポコパン(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/7/78/GBVSR_Lowain_214L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Lowain_214L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/3/30/GBVSR_Lowain_214M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/15/GBVSR_Lowain_214H_Hitbox.png"
   ]
 },
 	{
   "input": "Lポコパン(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/7/78/GBVSR_Lowain_214L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Lowain_214L_Hitbox_2.png"
   ]
 },
 	{
   "input": "Mポコパン(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Lowain_214L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/7/78/GBVSR_Lowain_214L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/21/GBVSR_Lowain_214L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/3/30/GBVSR_Lowain_214M_Hitbox.png"
   ]
 },
 	{
   "input": "Uポコパン(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lowain_214U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lowain_214U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Lowain_214U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Lowain_214U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/0/0a/GBVSR_Lowain_214U_Hitbox_4.png",
+    "https://www.dustloop.com/wiki/images/4/45/GBVSR_Lowain_214U_Hitbox_5.png"
   ]
 },
 	{
   "input": "H戦争兵器(22H)",
   "move_img": "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Lowain_22H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Lowain_22H_Hitbox.png"
   ]
 },
 	{
   "input": "L戦争兵器(22L)",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Lowain_22L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/e/e9/GBVSR_Lowain_22L_Hitbox.png"
   ]
 },
 	{
   "input": "M戦争兵器(22M)",
   "move_img": "https://www.dustloop.com/wiki/images/6/65/GBVSR_Lowain_22M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/9/9f/GBVSR_Lowain_22M_Hitbox.png"
   ]
 },
 	{
@@ -251,14 +269,19 @@
   "input": "Lエルっち&トモちゃん(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/1/1e/GBVSR_Lowain_236L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/e/e2/GBVSR_Lowain_236L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/9/90/GBVSR_Lowain_236L_Hitbox_3.png"
   ]
 },
 	{
   "input": "Mエルっち&トモちゃん(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236X.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Lowain_236M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/26/GBVSR_Lowain_236M_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Lowain_236M_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Lowain_236M_Hitbox_4.png"
   ]
 },
 	{
@@ -272,84 +295,83 @@
   "input": "Hエルっち&トモちゃん(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_623H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Lowain_623H_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Lowain_623X_Hitbox_2.png"
   ]
 },
 	{
   "input": "LAventure(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/f/f5/GBVSR_Lowain_623L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Lowain_623L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Lowain_623X_Hitbox_2.png"
   ]
 },
 	{
   "input": "MAventure(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Lowain_623M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/a/a2/GBVSR_Lowain_623M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Lowain_623X_Hitbox_2.png"
   ]
 },
 	{
   "input": "UAventure(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Lowain_623U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Lowain_623U_Hitbox.png"
-  ]
-},
-	{
-  "input": "Uポコパン（ラッキー）(l214U)",
-  "move_img": "https://www.dustloop.com/wiki/images/a/ad/GBVSR_Lowain_214U.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lowain_214U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Lowain_623U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/f/f9/GBVSR_Lowain_623U_Hitbox_2.png"
   ]
 },
 	{
   "input": "超一騎当千(236236H)",
   "move_img": "https://www.dustloop.com/wiki/images/7/71/GBVSR_Lowain_236236H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/4/42/GBVSR_Lowain_236236H_Hitbox.png"
   ]
 },
 	{
-  "input": "勝負所 ※KBSN解除されます（笑）(236236H236U)",
+  "input": "236236H~236U",
   "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Lowain_HPA_236U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Lowain_HPA_236U_Hitbox.png"
   ]
 },
 	{
-  "input": "半端ない回避(236236HG)",
+  "input": "236236H~G",
   "move_img": "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lowain_HPA_5G.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/d/da/GBVSR_Lowain_HPA_5G_Hitbox.png"
   ]
 },
 	{
-  "input": "236236H H",
+  "input": "236236H~H",
   "move_img": "https://www.dustloop.com/wiki/images/b/b4/GBVSR_Lowain_HPA_5H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/3/36/GBVSR_Lowain_HPA_5H_Hitbox.png"
   ]
 },
 	{
-  "input": "236236H L",
+  "input": "236236H~L",
   "move_img": "https://www.dustloop.com/wiki/images/5/5a/GBVSR_Lowain_HPA_5L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/1/1c/GBVSR_Lowain_HPA_5L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/a/a4/GBVSR_Lowain_HPA_5L_2_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c8/GBVSR_Lowain_HPA_5L_3_Hitbox.png"
   ]
 },
 	{
-  "input": "236236H M",
+  "input": "236236H~M",
   "move_img": "https://www.dustloop.com/wiki/images/d/d4/GBVSR_Lowain_HPA_5M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Lowain_HPA_5M_Hitbox.png"
   ]
 },
 	{
-  "input": "236236H U",
+  "input": "236236H~U",
   "move_img": "https://www.dustloop.com/wiki/images/d/dc/GBVSR_Lowain_HPA_5U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/b/bd/GBVSR_Lowain_HPA_5U_Hitbox.png"
   ]
 },
 	{
@@ -360,31 +382,32 @@
   ]
 },
 	{
-  "input": "ネザーマントル(236236UH)",
+  "input": "236236U~H",
   "move_img": "https://www.dustloop.com/wiki/images/e/e6/GBVSR_Lowain_Yggdrasil_5H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/7/77/GBVSR_Lowain_Yggdrasil_5H_Hitbox.png"
   ]
 },
 	{
-  "input": "ランドピラー(236236UL)",
+  "input": "236236U~L",
   "move_img": "https://www.dustloop.com/wiki/images/e/ed/GBVSR_Lowain_Yggdrasil_5L.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/5/5e/GBVSR_Lowain_Yggdrasil_5L_Hitbox.png"
   ]
 },
 	{
-  "input": "アクシスムンディ(236236UM)",
+  "input": "236236U~M",
   "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Lowain_Yggdrasil_5M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/4/41/GBVSR_Lowain_Yggdrasil_5M_Hitbox.png"
   ]
 },
 	{
-  "input": "創世のルミノックス(236236UU)",
+  "input": "236236U~U",
   "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Lowain_Yggdrasil_5U.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/0/0b/GBVSR_Lowain_Yggdrasil_5U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/9/96/GBVSR_Lowain_Yggdrasil_5U_Hitbox_2.png"
   ]
 },
 	{

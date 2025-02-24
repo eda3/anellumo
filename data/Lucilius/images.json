@@ -3,7 +3,8 @@
   "input": "2H",
   "move_img": "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Lucilius_2H.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Lucilius_2H_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Lucilius_2H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Lucilius_2H_Hitbox_2.png"
   ]
 },
 	{
@@ -73,28 +74,28 @@
   "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/7/73/GBVSR_Lucilius_cXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/1/17/GBVSR_Lucilius_cXX_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/4/45/GBVSR_Lucilius_cXX6H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Lucilius_cXX6H_Hitbox.png"
   ]
 },
 	{
   "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/1/19/GBVSR_Lucilius_cXX6M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/6/6a/GBVSR_Lucilius_cXX6M_Hitbox.png"
   ]
 },
 	{
   "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/2/29/GBVSR_Lucilius_cXXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/9/98/GBVSR_Lucilius_cXXX_Hitbox.png"
   ]
 },
 	{
@@ -108,14 +109,16 @@
   "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVSR_Lucilius_fL.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Lucilius_fL_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/a/a1/GBVSR_Lucilius_fL_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Lucilius_fL_Hitbox_2.png"
   ]
 },
 	{
   "input": "遠M",
   "move_img": "https://www.dustloop.com/wiki/images/d/df/GBVSR_Lucilius_fM.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/43/GBVSR_Lucilius_fM_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Lucilius_fM_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Lucilius_fM_Hitbox_2.png"
   ]
 },
 	{
@@ -187,7 +190,7 @@
   "input": "Hイスカリオテ(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/6/63/GBVSR_Lucilius_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/89/GBVSR_Lucilius_214H_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Lucilius_214M_Hitbox.png"
   ]
 },
 	{
@@ -208,7 +211,7 @@
   "input": "Uイスカリオテ(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/6/6f/GBVSR_Lucilius_214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/2/2a/GBVSR_Lucilius_214U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/f/f0/GBVSR_Lucilius_214M_Hitbox.png"
   ]
 },
 	{
@@ -222,7 +225,7 @@
   "input": "Lテセラ(22L)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b3/GBVSR_Lucilius_22L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Lucilius_22L_Hitbox.png"
+    ""
   ]
 },
 	{
@@ -236,14 +239,14 @@
   "input": "Uテセラ(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Lucilius_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d1/GBVSR_Lucilius_22U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/d/d3/GBVSR_Lucilius_22M_Hitbox.png"
   ]
 },
 	{
   "input": "Hイブリース(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/d/d5/GBVSR_Lucilius_236M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Lucilius_236H_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/4/43/GBVSR_Lucilius_236M_Hitbox.png"
   ]
 },
 	{
@@ -264,49 +267,62 @@
   "input": "Uイブリース(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c7/GBVSR_Lucilius_236U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/3/37/GBVSR_Lucilius_236U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/5/55/GBVSR_Lucilius_236L_Hitbox.png"
   ]
 },
 	{
   "input": "Hポースポロス(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Lucilius_623M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/9/93/GBVSR_Lucilius_623H_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/0/05/GBVSR_Lucilius_623_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lucilius_623_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/4/4d/GBVSR_Lucilius_623_Hitbox_3.png"
   ]
 },
 	{
   "input": "Lポースポロス(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/7/7a/GBVSR_Lucilius_623L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Lucilius_623M_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/4/4d/GBVSR_Lucilius_623_Hitbox_3.png"
   ]
 },
 	{
   "input": "Mポースポロス(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/3/3d/GBVSR_Lucilius_623M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/0/0e/GBVSR_Lucilius_623M_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/0/05/GBVSR_Lucilius_623_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Lucilius_623_Hitbox_2.png"
   ]
 },
 	{
   "input": "Uポースポロス(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Lucilius_623U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/2/24/GBVSR_Lucilius_623U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/7/79/GBVSR_Lucilius_623U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/b/b8/GBVSR_Lucilius_623U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Lucilius_623U_Hitbox_3.png"
   ]
 },
 	{
   "input": "アキシオン・コントロール(214214H)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Lucilius_214214H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/d/df/GBVSR_Lucilius_214214_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/2/27/GBVSR_Lucilius_214214_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/b/b5/GBVSR_Lucilius_214214_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/a/ab/GBVSR_Lucilius_214214_Hitbox_4.png",
+    "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Lucilius_236236H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/81/GBVSR_Lucilius_236236H_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Lucilius_236236H_Hitbox_3.png"
   ]
 },
 	{
   "input": "アキシオン(236236H)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8f/GBVSR_Lucilius_236236H.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/b/b6/GBVSR_Lucilius_236236H_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/c/cb/GBVSR_Lucilius_236236H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/81/GBVSR_Lucilius_236236H_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/6/67/GBVSR_Lucilius_236236H_Hitbox_3.png"
   ]
 },
 	{
@@ -320,14 +336,15 @@
   "input": "オービタル・レゾナンス(5U)",
   "move_img": "https://www.dustloop.com/wiki/images/8/8a/GBVSR_Lucilius_5U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Lucilius_5U_Hitbox.png"
+    ""
   ]
 },
 	{
   "input": "Hオービタル・レゾナンス追加攻撃(5U~H)",
   "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Lucilius_5UH.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Lucilius_5UH_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/d/d0/GBVSR_Lucilius_5UH_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/2/22/GBVSR_Lucilius_5UH_Hitbox_2.png"
   ]
 },
 	{
@@ -341,7 +358,8 @@
   "input": "Mオービタル・レゾナンス追加攻撃(5UM)",
   "move_img": "https://www.dustloop.com/wiki/images/a/ae/GBVSR_Lucilius_5UM.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/3/3f/GBVSR_Lucilius_5UM_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/8/83/GBVSR_Lucilius_5UM_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Lucilius_5UM_Hitbox_2.png"
   ]
 }
 ]
