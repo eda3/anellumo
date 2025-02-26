@@ -146,7 +146,7 @@
   "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/e/e8/GBVSR_Grimnir_jU.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/1f/GBVSR_Grimnir_jU_Hitbox.png\n_[[GBVSR/Mechanics#Priority|Clash_Level]]_0"
+    "https://www.dustloop.com/wiki/images/0/0c/GBVSR_Grimnir_jU_Hitbox.png"
   ]
 },
 	{
@@ -237,14 +237,14 @@
   "input": "Uウィンドエングライヴ(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Grimnir_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Grimnir_22U_Hitbox_1.png"
+    "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Grimnir_j22U_Hitbox_1.png"
   ]
 },
 	{
   "input": "Uウィンドエングライヴ(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/1/11/GBVSR_Grimnir_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/cd/GBVSR_Grimnir_j22U_Hitbox_1.png"
+    "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Grimnir_22U_Hitbox_1.png"
   ]
 },
 	{
@@ -287,6 +287,13 @@
   "move_img": "https://www.dustloop.com/wiki/images/0/02/GBVSR_Grimnir_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2d/GBVSR_Grimnir_236X_Hitbox_1.png"
+  ]
+},
+	{
+  "input": "ダンシングストーム(236U)",
+  "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Grimnir_236U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/1/19/GBVSR_Grimnir_236U_Hitbox_1.png"
   ]
 },
 	{
@@ -388,13 +395,6 @@
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/5/55/GBVSR_Grimnir_236236U_Hitbox_1.png",
     "https://www.dustloop.com/wiki/images/5/55/GBVSR_Grimnir_236236U_Hitbox_2.png"
-  ]
-},
-	{
-  "input": "ダンシングストーム(236U)",
-  "move_img": "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Grimnir_236U.png",
-  "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/19/GBVSR_Grimnir_236U_Hitbox_1.png"
   ]
 },
 	{

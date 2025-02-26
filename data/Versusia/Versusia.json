@@ -20,7 +20,7 @@
 	{"input":"jL","name":"jL","damage":"600","guard":"High/Air","startup":"5","active":"Until Landing","recovery":"L+1","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jM","name":"jM","damage":"800","guard":"High/Air","startup":"7","active":"6","recovery":"Until L+1","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jU","name":"jU","damage":"900","guard":"High/Air","startup":"10","active":"6","recovery":"Until L+1","hit":"-","block":"-","invincibility":"-"},
-	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"-","hit":"KD","block":"+6","invincibility":"-"},
+	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"-","hit":"KD","block":"-2","invincibility":"-"},
 	{"input":"空投げ(jLU)","name":"jLU","damage":"2500","guard":"Throw","startup":"5","active":"5","recovery":"Until L+5","hit":"-","block":"-","invincibility":"-"},
 	{"input":"投げ(LU)","name":"LU","damage":"1000, 1500","guard":"Throw","startup":"4","active":"3","recovery":"26","hit":"-","block":"-","invincibility":"-"},
 	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Unblockable","startup":"28","active":"1","recovery":"37","hit":"+15","block":"Guard Crush","invincibility":"-"},

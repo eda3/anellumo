@@ -21,7 +21,7 @@
 	{"input":"jM","name":"jM","damage":"700","guard":"High","startup":"6","active":"5","recovery":"Until L","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jU","name":"jU","damage":"1000","guard":"Mid","startup":"24","active":"Until L","recovery":"11","hit":"-","block":"-","invincibility":"-"},
 	{"input":"6MH","name":"Raging Chain","damage":"1000","guard":"Mid","startup":"13","active":"6","recovery":"17","hit":"+1","block":"-4","invincibility":"-"},
-	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"6","recovery":"17","hit":"+17","block":"+6","invincibility":"-"},
+	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"6","recovery":"17","hit":"Air Tech +21","block":"&#039;&#039;&#039;-2&#039;&#039;&#039;&lt;/span&gt;","invincibility":"-"},
 	{"input":"空投げ(jLU)","name":"jLU","damage":"2500","guard":"Throw","startup":"5","active":"5","recovery":"Until L+6","hit":"HKD","block":"-","invincibility":"-"},
 	{"input":"投げ(LU)","name":"LU","damage":"1000,1500 \\ 2500","guard":"Throw","startup":"4","active":"3","recovery":"32","hit":"HKD &#039;&#039;&#039;+37, +47&#039;&#039;&#039;&lt;/span&gt;","block":"-","invincibility":"-"},
 	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Guard Crush","startup":"28","active":"6","recovery":"17","hit":"+1","block":"-4","invincibility":"4-36 Throw,  23-36 Low ,  22-35 Airborne"},

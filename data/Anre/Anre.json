@@ -19,7 +19,7 @@
 	{"input":"jH","name":"jH","damage":"1000","guard":"High/Air","startup":"9","active":"6","recovery":"Until L","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jL","name":"jL","damage":"600","guard":"High/Air","startup":"5","active":"Until L","recovery":"0","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jM","name":"jM","damage":"700","guard":"High/Air","startup":"6","active":"6","recovery":"Until L","hit":"-","block":"-","invincibility":"-"},
-	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"-","hit":"&#039;&#039;&#039;+21 &#039;&#039;&#039;&lt;/span&gt;","block":"&#039;&#039;&#039;+6 &#039;&#039;&#039;&lt;/span&gt;","invincibility":"1-20 All [1-? All]"},
+	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"-","hit":"&#039;&#039;&#039;+21 &#039;&#039;&#039;&lt;/span&gt;","block":"&#039;&#039;&#039;-2&#039;&#039;&#039;&lt;/span&gt;","invincibility":"1-20 All [1-? All]"},
 	{"input":"空投げ(jLU)","name":"jLU","damage":"2500","guard":"Airthrow","startup":"5","active":"5","recovery":"Until L+6","hit":"-","block":"-","invincibility":"-"},
 	{"input":"投げ(LU)","name":"LU","damage":"2500","guard":"Throw","startup":"4","active":"3","recovery":"31","hit":"+45KD","block":"-","invincibility":"-"},
 	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Guard Crush 45 [52]","startup":"28","active":"1","recovery":"37","hit":"&#039;&#039;&#039;+15&#039;&#039;&#039;&lt;/span&gt;","block":"&#039;&#039;&#039;+8 [+15] &#039;&#039;&#039;&lt;/span&gt;","invincibility":"-"},
