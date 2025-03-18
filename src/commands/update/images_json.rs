@@ -2839,6 +2839,110 @@ pub async fn images_to_json(
         r#""四天王(5UU)","name":"5UU""#,
     );
 
+    // ビカラ
+    char_page_response_json = char_page_response_json.replace(
+        r#""214H","name":"H Ring the Dormouse""#,
+        r#""Hグリーティング・ドーマウス(214H)","name":"214H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214L","name":"L Ring the Dormouse""#,
+        r#""Lグリーティング・ドーマウス(214L)","name":"214L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214M","name":"M Ring the Dormouse""#,
+        r#""Mグリーティング・ドーマウス(214M)","name":"214M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""214U","name":"U Ring the Dormouse""#,
+        r#""Uグリーティング・ドーマウス(214U)","name":"214U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22H","name":"H Marching Teeth""#,
+        r#""Hマーチング・ディース(22H)","name":"22H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22L","name":"L Marching Teeth""#,
+        r#""Lマーチング・ディース(22L)","name":"22L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22M","name":"M Marching Teeth""#,
+        r#""Mマーチング・ディース(22M)","name":"22M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""22U","name":"U Marching Teeth""#,
+        r#""Uマーチング・ディース(22U)","name":"22U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236H","name":"H Dream Attraction""#,
+        r#""Hドリーム・アトラクション(236H)","name":"236H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236L","name":"L Dream Attraction""#,
+        r#""Lドリーム・アトラクション(236L)","name":"236L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236M","name":"M Dream Attraction""#,
+        r#""Mドリーム・アトラクション(236M)","name":"236M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236U","name":"U Dream Attraction""#,
+        r#""Uドリーム・アトラクション(236U)","name":"236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""236XU","name":"Fire!""#,
+        r#""シュート！(236XU)","name":"236XU""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623H","name":"H Rodent Rhythm""#,
+        r#""Hビート・ザ・マウス(623H)","name":"623H""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623L","name":"L Rodent Rhythm""#,
+        r#""Lビート・ザ・マウス(623L)","name":"623L""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623M","name":"M Rodent Rhythm""#,
+        r#""Mビート・ザ・マウス(623M)","name":"623M""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""623U","name":"U Rodent Rhythm""#,
+        r#""Uビート・ザ・マウス(623U)","name":"623U""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""Ball","name":"Ball""#, r#""ボール(Ball)","name":"Ball""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""Bomb","name":"Bomb""#, r#""爆弾","name":"Bomb""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""Cannonball","name":"Cannonball""#,
+        r#""鉄球","name":"Cannonball""#,
+    );
+    char_page_response_json = char_page_response_json
+        .replace(r#""Cheese","name":"Cheese""#, r#""チーズ","name":"Cheese""#);
+    char_page_response_json =
+        char_page_response_json.replace(r#""Heart","name":"Heart""#, r#""ハート","name":"Heart""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""Smoke Bomb","name":"Smoke Bomb""#,
+        r#""煙玉","name":"Smoke Bomb""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""Spike Ball","name":"Spike Ball""#,
+        r#""トゲ鉄球","name":"Spike Ball""#,
+    );
+    char_page_response_json =
+        char_page_response_json.replace(r#""Star","name":"Star""#, r#""スター","name":"Star""#);
+    char_page_response_json = char_page_response_json.replace(
+        r#""236236U","name":"Eccentrical Parade""#,
+        r#""エキセントリックパレード(236236U)","name":"236236U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5U","name":"Dream Come True""#,
+        r#""ドリーム・チョイス(5U)","name":"5U""#,
+    );
+    char_page_response_json = char_page_response_json.replace(
+        r#""5UX","name":"Sike!""#,
+        r#""ストップ！(5UX)","name":"5UX""#,
+    );
+
     // ヴィーラ
     char_page_response_json = char_page_response_json.replace(
         r#""214H","name":"H Scarlet Oath""#,

@@ -20,11 +20,11 @@
 	{"input":"jL","name":"jL","damage":"600","guard":"High/Air","startup":"5","active":"Until L","recovery":"0","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jM","name":"jM","damage":"800","guard":"High/Air","startup":"6","active":"6","recovery":"Until L","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jU","name":"jU","damage":"300×x","guard":"All","startup":"10","active":"Until L","recovery":"10 landing","hit":"-","block":"-","invincibility":"-"},
-	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"Total 31","hit":"Air Recovery &#039;&#039;&#039;+21&#039;&#039;&#039;&lt;/span&gt;","block":"&#039;&#039;&#039;-2&#039;&#039;&#039;&lt;/span&gt;","invincibility":"-"},
+	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"Total 31","hit":"Air Recovery +21&lt;/span&gt;","block":"-2&lt;/span&gt;","invincibility":"-"},
 	{"input":"空投げ(jLU)","name":"jLU","damage":"2500","guard":"Airthrow","startup":"5","active":"5","recovery":"Until L+6","hit":"HKD","block":"HKD","invincibility":"-"},
 	{"input":"投げ(LU)","name":"LU","damage":"2500","guard":"Throw","startup":"4","active":"3","recovery":"31","hit":"HKD","block":"HKD","invincibility":"-"},
-	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Guard Crush 45 [52]","startup":"28","active":"1","recovery":"37","hit":"&#039;&#039;&#039;+15&#039;&#039;&#039;&lt;/span&gt;","block":"&#039;&#039;&#039;+8&#039;&#039;&#039;&lt;/span&gt; &#039;&#039;&#039;[+15]&#039;&#039;&#039;&lt;/span&gt;","invincibility":"-"},
-	{"input":"レイジングチェイン(MHMH)","name":"MHMH","damage":"1000","guard":"-","startup":"-","active":"-","recovery":"-","hit":"&#039;&#039;&#039;+15&#039;&#039;&#039;&lt;/span&gt;","block":"-","invincibility":"-"},
+	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Guard Crush 45 [52]","startup":"28","active":"1","recovery":"37","hit":"+15&lt;/span&gt;","block":"+8&lt;/span&gt; [+15]&lt;/span&gt;","invincibility":"-"},
+	{"input":"レイジングチェイン(MHMH)","name":"MHMH","damage":"1000","guard":"-","startup":"-","active":"-","recovery":"-","hit":"+15&lt;/span&gt;","block":"-","invincibility":"-"},
 	{"input":"H葬嵐神滅穿(214H)","name":"214H","damage":"1500","guard":"Mid","startup":"16","active":"9","recovery":"21","hit":"KD +25","block":"-8","invincibility":"-"},
 	{"input":"L葬嵐神滅穿(214L)","name":"214L","damage":"1000","guard":"Mid","startup":"14","active":"9","recovery":"18","hit":"Air recovery +14~22","block":"-4","invincibility":"-"},
 	{"input":"M葬嵐神滅穿(214M)","name":"214M","damage":"1200","guard":"Mid","startup":"20","active":"12","recovery":"15","hit":"KD +25","block":"-7~+4","invincibility":"-"},
@@ -56,5 +56,5 @@
 	{"input":"神聖破邪晄(236236H)","name":"236236H","damage":"350×10, 1000 [350×10]","guard":"Mid→All","startup":"7+5","active":"44","recovery":"112","hit":"HKD +47 [+42]","block":"-28","invincibility":"1-13 All"},
 	{"input":"エンドテンペスト(236236U)","name":"236236U","damage":"3000×2 [600×5, 1000]","guard":"Mid→All","startup":"8+5","active":"7","recovery":"42","hit":"HKD +47 [+43]","block":"-18","invincibility":"1-14 All, 15-19 Strike"},
 	{"input":"天翔疾駆(5U)","name":"5U","damage":"-","guard":"-","startup":"-","active":"-","recovery":"Total 24","hit":"-","block":"-","invincibility":"-"},
-	{"input":"ゲイルダッシュ(XU)","name":"XU","damage":"700","guard":"Mid","startup":"10","active":"3","recovery":"16","hit":"+7","block":"&#039;&#039;&#039;-2&#039;&#039;&#039;&lt;/span&gt;","invincibility":"-"}
+	{"input":"ゲイルダッシュ(XU)","name":"XU","damage":"700","guard":"Mid","startup":"10","active":"3","recovery":"16","hit":"+7","block":"-2&lt;/span&gt;","invincibility":"-"}
 ]
