@@ -75,28 +75,28 @@
   "input": "近XX",
   "move_img": "https://www.dustloop.com/wiki/images/4/49/GBVSR_Seox_cXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/2/2f/GBVSR_Seox_cXX_hitbox.png"
   ]
 },
 	{
   "input": "近XX6H",
   "move_img": "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Seox_cXX6H.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/d/df/GBVSR_Seox_cXX6H_hitbox.png"
   ]
 },
 	{
   "input": "近XX6M",
   "move_img": "https://www.dustloop.com/wiki/images/f/f2/GBVSR_Seox_66M.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/b/bf/GBVSR_Seox_cXX6M_hitbox.png"
   ]
 },
 	{
   "input": "近XXX",
   "move_img": "https://www.dustloop.com/wiki/images/5/55/GBVSR_Seox_cXXX.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/a/ac/GBVSR_Seox_cXXX_hitbox.png"
   ]
 },
 	{
@@ -110,7 +110,8 @@
   "input": "遠L",
   "move_img": "https://www.dustloop.com/wiki/images/6/64/GBVS_Seox_fL.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/3/34/GBVSR_Seox_fL_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/57/GBVSR_Seox_fL_Hitbox2.png"
   ]
 },
 	{

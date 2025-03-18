@@ -287,14 +287,14 @@
   "input": "236X~4X",
   "move_img": "https://www.dustloop.com/wiki/images/7/7b/GBVSR_Ferry_236X-4X.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/5/54/GBVSR_Ferry_236X-4X_Hitbox.png"
   ]
 },
 	{
   "input": "236X~X",
   "move_img": "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Ferry_236X-X.png",
   "hitbox_img": [
-    ""
+    "https://www.dustloop.com/wiki/images/0/01/GBVSR_Ferry_236X-X_Hitbox.png"
   ]
 },
 	{

@@ -175,7 +175,7 @@
   ]
 },
 	{
-  "input": "214H",
+  "input": "Hグリーティング・ドーマウス(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Vikala_214H.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7d/GBVSR_Vikala_214H_Hitbox.png",
@@ -183,7 +183,7 @@
   ]
 },
 	{
-  "input": "214L",
+  "input": "Lグリーティング・ドーマウス(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/8/88/GBVSR_Vikala_214L.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/8/82/GBVSR_Vikala_214L_Hitbox.png",
@@ -191,7 +191,7 @@
   ]
 },
 	{
-  "input": "214M",
+  "input": "Mグリーティング・ドーマウス(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/4/4d/GBVSR_Vikala_214M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/9a/GBVSR_Vikala_214M_Hitbox.png",
@@ -199,7 +199,7 @@
   ]
 },
 	{
-  "input": "214U",
+  "input": "Uグリーティング・ドーマウス(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fc/GBVSR_Vikala_214U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/7c/GBVSR_Vikala_214U_Hitbox.png",
@@ -207,28 +207,28 @@
   ]
 },
 	{
-  "input": "22H",
+  "input": "Hマーチング・ディース(22H)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Vikala_22H.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/74/GBVSR_Vikala_22H_Hitbox.png"
   ]
 },
 	{
-  "input": "22L",
+  "input": "Lマーチング・ディース(22L)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Vikala_22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Vikala_22X_Hitbox.png"
   ]
 },
 	{
-  "input": "22M",
+  "input": "Mマーチング・ディース(22M)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fd/GBVSR_Vikala_22X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/9c/GBVSR_Vikala_22X_Hitbox.png"
   ]
 },
 	{
-  "input": "22U",
+  "input": "Uマーチング・ディース(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/e/e7/GBVSR_Vikala_22U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/1d/GBVSR_Vikala_22U_Hitbox.png",
@@ -236,28 +236,28 @@
   ]
 },
 	{
-  "input": "236H",
+  "input": "Hドリーム・アトラクション(236H)",
   "move_img": "https://www.dustloop.com/wiki/images/4/43/GBVSR_Vikala_236H.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/17/GBVSR_Vikala_236H_Hitbox.png"
   ]
 },
 	{
-  "input": "236L",
+  "input": "Lドリーム・アトラクション(236L)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Vikala_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/11/GBVSR_Vikala_236X_Hitbox.png"
   ]
 },
 	{
-  "input": "236M",
+  "input": "Mドリーム・アトラクション(236M)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Vikala_236X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/11/GBVSR_Vikala_236X_Hitbox.png"
   ]
 },
 	{
-  "input": "236U",
+  "input": "Uドリーム・アトラクション(236U)",
   "move_img": "https://www.dustloop.com/wiki/images/1/15/GBVSR_Vikala_236U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/b/ba/GBVSR_Vikala_236U_Hitbox.png",
@@ -272,28 +272,28 @@
   ]
 },
 	{
-  "input": "623H",
+  "input": "Hビート・ザ・マウス(623H)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Vikala_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/21/GBVSR_Vikala_623X_Hitbox.png"
   ]
 },
 	{
-  "input": "623L",
+  "input": "Lビート・ザ・マウス(623L)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Vikala_623X.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/21/GBVSR_Vikala_623X_Hitbox.png"
   ]
 },
 	{
-  "input": "623M",
+  "input": "Mビート・ザ・マウス(623M)",
   "move_img": "https://www.dustloop.com/wiki/images/1/1d/GBVSR_Vikala_623M.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/09/GBVSR_Vikala_623M_Hitbox.png"
   ]
 },
 	{
-  "input": "623U",
+  "input": "Uビート・ザ・マウス(623U)",
   "move_img": "https://www.dustloop.com/wiki/images/6/66/GBVSR_Vikala_623U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/1/1d/GBVSR_Vikala_623U_Hitbox.png",
@@ -302,14 +302,14 @@
   ]
 },
 	{
-  "input": "Ball",
+  "input": "ボール(Ball)",
   "move_img": "https://www.dustloop.com/wiki/images/1/1b/GBVSR_Vikala_Ball.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/0/02/GBVSR_Vikala_Ball_Hitbox.png"
   ]
 },
 	{
-  "input": "Bomb",
+  "input": "爆弾",
   "move_img": "https://www.dustloop.com/wiki/images/7/74/GBVSR_Vikala_Bomb.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/ff/GBVSR_Vikala_Bomb_Explosion_Hitbox.png",
@@ -318,42 +318,42 @@
   ]
 },
 	{
-  "input": "Cannonball",
+  "input": "鉄球",
   "move_img": "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Vikala_Cannonball.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/b/b9/GBVSR_Vikala_Cannonball_Hitbox.png"
   ]
 },
 	{
-  "input": "Cheese",
+  "input": "チーズ",
   "move_img": "https://www.dustloop.com/wiki/images/4/47/GBVSR_Vikala_Cheese.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "Heart",
+  "input": "ハート",
   "move_img": "https://www.dustloop.com/wiki/images/d/db/GBVSR_Vikala_Heart.png",
   "hitbox_img": [
     ""
   ]
 },
 	{
-  "input": "Smoke Bomb",
+  "input": "煙玉",
   "move_img": "https://www.dustloop.com/wiki/images/4/44/GBVSR_Vikala_Smoke_Bomb.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/25/GBVSR_Vikala_SmokeBomb_Hitbox.png"
   ]
 },
 	{
-  "input": "Spike Ball",
+  "input": "トゲ鉄球",
   "move_img": "https://www.dustloop.com/wiki/images/5/5d/GBVSR_Vikala_SpikeBall.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Vikala_SpikeBall_Hitbox.png"
   ]
 },
 	{
-  "input": "Star",
+  "input": "スター",
   "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Vikala_Star.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Vikala_Star_Hitbox.png"
@@ -367,7 +367,7 @@
   ]
 },
 	{
-  "input": "236236U",
+  "input": "エキセントリックパレード(236236U)",
   "move_img": "https://www.dustloop.com/wiki/images/f/fe/GBVSR_Vikala_236236U_Start.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Vikala_236236U_Hitbox.png",
@@ -375,7 +375,7 @@
   ]
 },
 	{
-  "input": "5U",
+  "input": "ドリーム・チョイス(5U)",
   "move_img": "https://www.dustloop.com/wiki/images/9/98/GBVSR_Vikala_5U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/f/fa/GBVSR_Vikala_5U_Hitbox.png",

@@ -178,7 +178,7 @@
   ]
 },
 	{
-  "input": "MH",
+  "input": "レイジングストライク(MH)",
   "move_img": "https://www.dustloop.com/wiki/images/4/44/GBVSR_Cagliostro_RagingStrike.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Cagliostro_RagingStrike_Hitbox.png"
@@ -230,14 +230,14 @@
   "input": "Lスペアボディ(22L)",
   "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVSR_Cagliostro_22L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Cagliostro_22H_Hitbox.png"
+    ""
   ]
 },
 	{
   "input": "Mスペアボディ(22M)",
   "move_img": "https://www.dustloop.com/wiki/images/6/68/GBVSR_Cagliostro_22M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Cagliostro_22H_Hitbox.png"
+    ""
   ]
 },
 	{
@@ -323,21 +323,21 @@
   "input": "空中Lスペアボディ(j22L)",
   "move_img": "https://www.dustloop.com/wiki/images/0/08/GBVSR_Cagliostro_22L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Cagliostro_22H_Hitbox.png"
+    ""
   ]
 },
 	{
   "input": "空中Mスペアボディ(j22M)",
   "move_img": "https://www.dustloop.com/wiki/images/6/68/GBVSR_Cagliostro_22M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/f/f7/GBVSR_Cagliostro_22H_Hitbox.png"
+    ""
   ]
 },
 	{
   "input": "空中Uスペアボディ(j22U)",
   "move_img": "https://www.dustloop.com/wiki/images/0/01/GBVSR_Cagliostro_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/e/ee/GBVSR_Cagliostro_22U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Cagliostro_j22U_Hitbox.png"
   ]
 },
 	{
@@ -404,77 +404,91 @@
   ]
 },
 	{
-  "input": "コラプス（発射）Lv1(6U Level 1)",
+  "input": "6U Lvl 0",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Cagliostro_6U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/93/GBVSR_Cagliostro_6U_Lv1-3_Hitbox.png"
   ]
 },
 	{
-  "input": "コラプス（発射）Lv2(6U Level 2)",
+  "input": "6U Lvl 1",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Cagliostro_6U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/93/GBVSR_Cagliostro_6U_Lv1-3_Hitbox.png"
   ]
 },
 	{
-  "input": "コラプス（発射）Lv3(6U Level 3)",
+  "input": "6U Lvl 2",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Cagliostro_6U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/9/93/GBVSR_Cagliostro_6U_Lv1-3_Hitbox.png"
   ]
 },
 	{
-  "input": "コラプス（発射）Lv4(6U Level 4)",
+  "input": "6U Lvl 3",
+  "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Cagliostro_6U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/9/93/GBVSR_Cagliostro_6U_Lv1-3_Hitbox.png"
+  ]
+},
+	{
+  "input": "6U Lvl 4",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Cagliostro_6U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/db/GBVSR_Cagliostro_6U_Lv4-5_Hitbox.png"
   ]
 },
 	{
-  "input": "コラプス（発射）Lv5(6U Level 5)",
+  "input": "6U Lvl 5",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Cagliostro_6U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/d/db/GBVSR_Cagliostro_6U_Lv4-5_Hitbox.png"
   ]
 },
 	{
-  "input": "空中コラプス（発射 Lv1）Lv1(j2/6U Level 1)",
+  "input": "j6U Lvl 0",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Cagliostro_j26U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Cagliostro_j26U_Lv1-3_Hitbox.png"
   ]
 },
 	{
-  "input": "空中コラプス（発射）Lv2(j2/6U Level 2)",
+  "input": "j6U Lvl 1",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Cagliostro_j26U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Cagliostro_j26U_Lv1-3_Hitbox.png"
   ]
 },
 	{
-  "input": "空中コラプス（発射）Lv3(j2/6U Level 3)",
+  "input": "j6U Lvl 2",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Cagliostro_j26U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/e/eb/GBVSR_Cagliostro_j26U_Lv1-3_Hitbox.png"
   ]
 },
 	{
-  "input": "空中コラプス（発射）Lv4(j2/6U Level 4)",
+  "input": "j6U Lvl 3",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Cagliostro_j26U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/42/GBVSR_Cagliostro_j26U_Lv4-5_Hitbox.png"
   ]
 },
 	{
-  "input": "空中コラプス（発射）Lv5(j2/6U Level 5)",
+  "input": "j6U Lvl 4",
   "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Cagliostro_j26U.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/4/42/GBVSR_Cagliostro_j26U_Lv4-5_Hitbox.png"
   ]
 },
 	{
-  "input": "空中コラプス（生成）(jU)",
+  "input": "j6U Lvl 5",
+  "move_img": "https://www.dustloop.com/wiki/images/d/d8/GBVSR_Cagliostro_j26U.png",
+  "hitbox_img": [
+    "https://www.dustloop.com/wiki/images/4/42/GBVSR_Cagliostro_j26U_Lv4-5_Hitbox.png"
+  ]
+},
+	{
+  "input": "jU",
   "move_img": "https://www.dustloop.com/wiki/images/1/10/GBVSR_Cagliostro_jU.png",
   "hitbox_img": [
     "https://www.dustloop.com/wiki/images/7/77/GBVSR_Cagliostro_jU_Hitbox.png"

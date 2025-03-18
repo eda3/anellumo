@@ -194,38 +194,39 @@
   "input": "Hソード・オブ・リュミエール(214H)",
   "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/84/GBVSR_Charlotta_214X_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Charlotta_214X_Hitbox2.png"
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Charlotta_214X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Charlotta_214X_Hitbox_2.png"
   ]
 },
 	{
   "input": "Lソード・オブ・リュミエール(214L)",
   "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/84/GBVSR_Charlotta_214X_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Charlotta_214X_Hitbox2.png"
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Charlotta_214X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Charlotta_214X_Hitbox_2.png"
   ]
 },
 	{
   "input": "Mソード・オブ・リュミエール(214M)",
   "move_img": "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_214X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/8/84/GBVSR_Charlotta_214X_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/6/6c/GBVSR_Charlotta_214X_Hitbox2.png"
+    "https://www.dustloop.com/wiki/images/d/d2/GBVSR_Charlotta_214X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/5/59/GBVSR_Charlotta_214X_Hitbox_2.png"
   ]
 },
 	{
   "input": "Uソード・オブ・リュミエール(214U)",
   "move_img": "https://www.dustloop.com/wiki/images/2/24/GBVSR_Charlotta_214U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Charlotta_214U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/c/cf/GBVSR_Charlotta_214U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/9/95/GBVSR_Charlotta_214U_Hitbox_2.png"
   ]
 },
 	{
   "input": "Uノーブルストラテジー(22U)",
   "move_img": "https://www.dustloop.com/wiki/images/6/6b/GBVSR_Charlotta_22U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/3/39/GBVSR_Charlotta_22U_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/8/86/GBVSR_Charlotta_22U_Hitbox.png",
     "https://www.dustloop.com/wiki/images/8/8b/GBVSR_Charlotta_22U_Hitbox_2.png",
     "https://www.dustloop.com/wiki/images/3/30/GBVSR_Charlotta_22U_Hitbox_3.png"
   ]
@@ -241,28 +242,29 @@
   "input": "素早く隙を突くであります(22X5)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c3/GBVSR_Charlotta_22X-5.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/7/74/GBVSR_Charlotta_22X_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/8/8c/GBVSR_Charlotta_22X-5_Hitbox_2.png"
   ]
 },
 	{
   "input": "これがキマったらカッコいいであります(22XH)",
   "move_img": "https://www.dustloop.com/wiki/images/2/20/GBVSR_Charlotta_22X-H_Whiff.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/41/GBVSR_Charlotta_22XH_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/3/31/GBVSR_Charlotta_22X-H_Hitbox.png"
   ]
 },
 	{
   "input": "遙か上空から急襲するであります(22XL)",
   "move_img": "https://www.dustloop.com/wiki/images/6/61/GBVSR_Charlotta_22X-L.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/16/GBVSR_Charlotta_22XL_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/c/ca/GBVSR_Charlotta_22X-L_Hitbox.png"
   ]
 },
 	{
   "input": "勇ましく斬るあります(22XM)",
   "move_img": "https://www.dustloop.com/wiki/images/5/50/GBVSR_Charlotta_22X-M.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/4/4e/GBVSR_Charlotta_22XM_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/f/f1/GBVSR_Charlotta_22X-M_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/1/13/GBVSR_Charlotta_22X-M_Hitbox_2.png"
   ]
 },
 	{
@@ -290,48 +292,52 @@
   "input": "[1]6U",
   "move_img": "https://www.dustloop.com/wiki/images/2/2b/GBVSR_Charlotta_46U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/10/GBVSR_Charlotta_46U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/1/10/GBVSR_Charlotta_46U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/2/23/GBVSR_Charlotta_46U_Hitbox_2.png"
   ]
 },
 	{
   "input": "Hホーリーラダー([2]8H)",
   "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Charlotta_28X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Charlotta_28X_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/0/03/GBVSR_Charlotta_28X_Hitbox2.png",
-    "https://www.dustloop.com/wiki/images/5/54/GBVSR_Charlotta_28X_Hitbox3.png"
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Charlotta_28X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Charlotta_28X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Charlotta_28X_Hitbox_3.png"
   ]
 },
 	{
   "input": "Lホーリーラダー([2]8L)",
   "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Charlotta_28X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Charlotta_28X_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/0/03/GBVSR_Charlotta_28X_Hitbox2.png",
-    "https://www.dustloop.com/wiki/images/5/54/GBVSR_Charlotta_28X_Hitbox3.png"
+    "https://www.dustloop.com/wiki/images/8/83/GBVSR_Charlotta_28L_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/e/e4/GBVSR_Charlotta_28L_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Charlotta_28X_Hitbox_3.png"
   ]
 },
 	{
   "input": "Mホーリーラダー([2]8M)",
   "move_img": "https://www.dustloop.com/wiki/images/9/94/GBVSR_Charlotta_28X.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/1/1a/GBVSR_Charlotta_28X_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/0/03/GBVSR_Charlotta_28X_Hitbox2.png",
-    "https://www.dustloop.com/wiki/images/5/54/GBVSR_Charlotta_28X_Hitbox3.png"
+    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Charlotta_28X_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/c6/GBVSR_Charlotta_28X_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Charlotta_28X_Hitbox_3.png"
   ]
 },
 	{
   "input": "Uホーリーラダー([2]8U)",
   "move_img": "https://www.dustloop.com/wiki/images/c/c1/GBVSR_Charlotta_28U.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Charlotta_28U_Hitbox.png"
+    "https://www.dustloop.com/wiki/images/a/a9/GBVSR_Charlotta_28U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/c/cc/GBVSR_Charlotta_28U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/2/26/GBVSR_Charlotta_28U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/d/d7/GBVSR_Charlotta_28U_Hitbox_4.png"
   ]
 },
 	{
   "input": "ブリリアントムーン(236236H)",
   "move_img": "https://www.dustloop.com/wiki/images/9/90/GBVSR_Charlotta_236236H.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/3/33/GBVSR_Charlotta_236236H_Hitbox_1.png",
+    "https://www.dustloop.com/wiki/images/a/a7/GBVSR_Charlotta_236236H_Hitbox.png",
     "https://www.dustloop.com/wiki/images/3/39/GBVSR_Charlotta_236236H_Hitbox_2.png"
   ]
 },
@@ -339,11 +345,11 @@
   "input": "ノーブル・エクスキューション(236236U)",
   "move_img": "https://www.dustloop.com/wiki/images/b/b7/GBVSR_Charlotta_236236U_Start.png",
   "hitbox_img": [
-    "https://www.dustloop.com/wiki/images/5/5c/GBVSR_Charlotta_236236U_Hitbox1.png",
-    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Charlotta_236236U_Hitbox2.png",
-    "https://www.dustloop.com/wiki/images/a/af/GBVSR_Charlotta_236236U_Hitbox3.png",
-    "https://www.dustloop.com/wiki/images/9/97/GBVSR_Charlotta_236236U_Hitbox4.png",
-    "https://www.dustloop.com/wiki/images/f/f3/GBVSR_Charlotta_236236U_Hitbox5.png"
+    "https://www.dustloop.com/wiki/images/5/53/GBVSR_Charlotta_236236U_Hitbox.png",
+    "https://www.dustloop.com/wiki/images/0/00/GBVSR_Charlotta_236236U_Hitbox_2.png",
+    "https://www.dustloop.com/wiki/images/5/5b/GBVSR_Charlotta_236236U_Hitbox_3.png",
+    "https://www.dustloop.com/wiki/images/3/3a/GBVSR_Charlotta_236236U_Hitbox_4.png",
+    "https://www.dustloop.com/wiki/images/3/3e/GBVSR_Charlotta_236236U_Hitbox_5.png"
   ]
 },
 	{
