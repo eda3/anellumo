@@ -20,7 +20,7 @@
 	{"input":"jL","name":"jL","damage":"600","guard":"High/Air","startup":"5","active":"Until L","recovery":"0","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jM","name":"jM","damage":"800","guard":"High/Air","startup":"6","active":"6","recovery":"Until L","hit":"-","block":"-","invincibility":"-"},
 	{"input":"jU","name":"jU","damage":"300×x","guard":"All","startup":"10","active":"Until L","recovery":"10 landing","hit":"-","block":"-","invincibility":"-"},
-	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"Total 31","hit":"Air Recovery +21","block":"&lt;span style=&quot;color: Tomato&quot; -2","invincibility":"-"},
+	{"input":"ブレイブカウンター","name":"ブレイブカウンター","damage":"500","guard":"Mid","startup":"10","active":"-","recovery":"Total 31","hit":"Air Recovery +21","block":"-2","invincibility":"-"},
 	{"input":"空投げ(jLU)","name":"jLU","damage":"2500","guard":"Airthrow","startup":"5","active":"5","recovery":"Until L+6","hit":"HKD","block":"HKD","invincibility":"-"},
 	{"input":"投げ(LU)","name":"LU","damage":"2500","guard":"Throw","startup":"4","active":"3","recovery":"31","hit":"HKD","block":"HKD","invincibility":"-"},
 	{"input":"レイジングストライク(MH)","name":"MH","damage":"1500","guard":"Guard Crush 45 [52]","startup":"28","active":"1","recovery":"37","hit":"+15","block":"+8 [+15]","invincibility":"-"},
@@ -56,5 +56,5 @@
 	{"input":"神聖破邪晄(236236H)","name":"236236H","damage":"350×10, 1000 [350×10]","guard":"Mid→All","startup":"7+5","active":"44","recovery":"112","hit":"HKD +47 [+42]","block":"-28","invincibility":"1-13 All"},
 	{"input":"エンドテンペスト(236236U)","name":"236236U","damage":"3000×2 [600×5, 1000]","guard":"Mid→All","startup":"8+5","active":"7","recovery":"42","hit":"HKD +47 [+43]","block":"-18","invincibility":"1-14 All, 15-19 Strike"},
 	{"input":"天翔疾駆(5U)","name":"5U","damage":"-","guard":"-","startup":"-","active":"-","recovery":"Total 24","hit":"-","block":"-","invincibility":"-"},
-	{"input":"ゲイルダッシュ(XU)","name":"XU","damage":"700","guard":"Mid","startup":"10","active":"3","recovery":"16","hit":"+7","block":"&lt;span style=&quot;color: Tomato&quot; -2","invincibility":"-"}
+	{"input":"ゲイルダッシュ(XU)","name":"XU","damage":"700","guard":"Mid","startup":"10","active":"3","recovery":"16","hit":"+7","block":"-2","invincibility":"-"}
 ]

@@ -43,7 +43,7 @@
 	{"input":"H身光(623H)","name":"623H","damage":"1300","guard":"All","startup":"13","active":"7","recovery":"25","hit":"KD +42","block":"-11","invincibility":"-"},
 	{"input":"L身光(623L)","name":"623L","damage":"1000","guard":"All","startup":"9","active":"7","recovery":"21","hit":"KD +32","block":"-7","invincibility":"-"},
 	{"input":"M身光(623M)","name":"623M","damage":"1000","guard":"All","startup":"9","active":"7","recovery":"25","hit":"KD +29","block":"-11","invincibility":"-"},
-	{"input":"U身光(623U)","name":"623U","damage":"500×2, 100, 900","guard":"Mid","startup":"8","active":"6","recovery":"47","hit":"HKD +44","block":"&lt;span style=&quot;color: \n#b70c0b&quot; -44","invincibility":"1-16 Full"},
+	{"input":"U身光(623U)","name":"623U","damage":"500×2, 100, 900","guard":"Mid","startup":"8","active":"6","recovery":"47","hit":"HKD +44","block":"-44","invincibility":"1-16 Full"},
 	{"input":"兜率天(623XU)","name":"623XU","damage":"-","guard":"-","startup":"-","active":"-","recovery":"Total 10","hit":"-","block":"+11","invincibility":"-"},
 	{"input":"黄泉(236236H)","name":"236236H","damage":"4000","guard":"Mid","startup":"8+6","active":"12","recovery":"40","hit":"HKD +48","block":"-21","invincibility":"1-17 Full"},
 	{"input":"神撃(236236U)","name":"236236U","damage":"6240 [4800]","guard":"Mid","startup":"8+6","active":"12","recovery":"36","hit":"HKD +44 [HKD +47]","block":"-21","invincibility":"1-25 Full"},

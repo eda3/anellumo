@@ -60,6 +60,15 @@ pub async fn frames_to_json(
         char_page_response_json.replace(r#"&lt;span class=&quot;tooltiptext&quot;"#, "");
     char_page_response_json = char_page_response_json.replace(r#"&lt;/span"#, "");
 
+    char_page_response_json = char_page_response_json.replace(r#"&quot;"#, "");
+    char_page_response_json = char_page_response_json.replace(r#"&lt;span style="#, "");
+    char_page_response_json = char_page_response_json.replace(r#"color: \n#b70c0b "#, "");
+    char_page_response_json = char_page_response_json.replace(r#"color: \n#3455ff "#, "");
+    char_page_response_json = char_page_response_json.replace(r#"color: \n#bcbd0c "#, "");
+    char_page_response_json = char_page_response_json.replace(r#"color: \n#00d7c0 "#, "");
+    char_page_response_json = char_page_response_json.replace(r#"color: \n#b70c0b "#, "");
+    char_page_response_json = char_page_response_json.replace(r#"color: Tomato "#, "");
+
     char_page_response_json =
         char_page_response_json.replace(r#""input":"5L""#, r#""input":"近L""#);
     char_page_response_json = char_page_response_json.replace(r#"c."#, "近");
